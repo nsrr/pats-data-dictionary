@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_form_date",
+  "display_name": "FHMH: Form date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

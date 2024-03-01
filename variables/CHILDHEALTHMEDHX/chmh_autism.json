@@ -1,0 +1,7 @@
+{
+  "id": "chmh_autism",
+  "display_name": "CHMH: Child has had autism or Asperger's syndrome",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_month3",
+  "display_name": "Participant completed 3-month phone contact",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

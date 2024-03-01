@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "1+ 0-25%",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2+ 26-50%",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "3+ 41-75%",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "4+ 76-100%",
+    "description": ""
+  },
+  {
+    "value": "99",
+    "display_name": "Not Done",
+    "description": ""
+  }
+]

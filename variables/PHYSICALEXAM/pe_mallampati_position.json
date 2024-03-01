@@ -1,0 +1,7 @@
+{
+  "id": "pe_mallampati_position",
+  "display_name": "Physical Exam: Mallampati position",
+  "description": "",
+  "type": "choices",
+  "domain": "mallampati_position"
+}

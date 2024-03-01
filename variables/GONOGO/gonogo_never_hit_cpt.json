@@ -1,0 +1,7 @@
+{
+  "id": "gonogo_never_hit_cpt",
+  "display_name": "Go/No-Go: Never hitting the buttons flag (not catching sharks or fish) (Sustained Attention/CPT Block)",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

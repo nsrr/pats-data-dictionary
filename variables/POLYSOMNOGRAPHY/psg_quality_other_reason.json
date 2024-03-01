@@ -1,0 +1,6 @@
+{
+  "id": "psg_quality_other_reason",
+  "display_name": "PSG QC: Discription of pass/fail reasoning by Sleep Reading Center for passing study with sleep time < 4 hours",
+  "description": "",
+  "type": "text"
+}

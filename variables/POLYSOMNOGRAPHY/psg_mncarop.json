@@ -1,0 +1,6 @@
+{
+  "id": "psg_mncarop",
+  "display_name": "PSG Results: Minimum Central Apnea length (REM, Other, all desats) (seconds)",
+  "description": "",
+  "type": "integer"
+}

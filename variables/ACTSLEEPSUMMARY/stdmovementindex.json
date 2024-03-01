@@ -1,0 +1,7 @@
+{
+  "id": "stdmovementindex",
+  "display_name": "[Main Sleep] Standard deviation of movement index per main sleep (all days) (%)",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "numeric",
+  "units": "percent (%)"
+}

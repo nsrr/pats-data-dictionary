@@ -1,0 +1,6 @@
+{
+  "id": "brief_shift_tscore_parent",
+  "display_name": "BRIEF: Shift scale T score (parent-completed)",
+  "description": "",
+  "type": "integer"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psg_hremba",
+  "display_name": "PSG Results: Number of Hypopnea with arousals (REM, Back, all desats)",
+  "description": "",
+  "type": "integer"
+}

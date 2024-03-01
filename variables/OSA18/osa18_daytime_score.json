@@ -1,0 +1,7 @@
+{
+  "id": "osa18_daytime_score",
+  "display_name": "OSA-18: Calculated - Daytime Function Score (Range: 3-21)",
+  "description": "",
+  "type": "integer",
+  "calculation": "Sum of 4a-4c + 3"
+}

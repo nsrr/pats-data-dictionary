@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_enlarged_tonsils_bio_mom",
+  "display_name": "FHMH: Biological mother has/had enlarged tonsils or adenoids",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_had_surgery",
+  "display_name": "Participant had Early Adenotonsillectomy surgery",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

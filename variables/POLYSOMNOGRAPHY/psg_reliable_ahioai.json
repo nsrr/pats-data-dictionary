@@ -1,0 +1,7 @@
+{
+  "id": "psg_reliable_ahioai",
+  "display_name": "PSG QC: Scoring respiratory events (AHI/OAI) was reliable",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

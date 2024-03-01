@@ -1,0 +1,6 @@
+{
+  "id": "psg_mndrop",
+  "display_name": "PSG Results: Minimum SaO2 (REM, Other, all desats) (%)",
+  "description": "",
+  "type": "integer"
+}

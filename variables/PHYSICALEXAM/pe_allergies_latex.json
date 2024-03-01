@@ -1,0 +1,7 @@
+{
+  "id": "pe_allergies_latex",
+  "display_name": "Physical Exam: Allergic to latex",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psg_total_apnea_hyp_3p",
+  "display_name": "Total number of respiratory events ([all apneas] and [hypopneas with >= 3% oxygen desaturation])",
+  "description": "",
+  "type": "integer",
+  "units": "number of events"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "shq_difficulties_interacting",
+  "display_name": "SHQ: Difficulties interacting with others or in a group setting because of behavior problems?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

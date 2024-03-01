@@ -1,0 +1,7 @@
+{
+  "id": "post_concern_med_professional",
+  "display_name": "The eating or drinking concern has required evaluation or care by a medical professional",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

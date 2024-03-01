@@ -1,0 +1,7 @@
+{
+  "id": "shq_time_function_best",
+  "display_name": "SHQ: At what time of day does your child function best",
+  "description": "",
+  "type": "choices",
+  "domain": "morning_evening"
+}

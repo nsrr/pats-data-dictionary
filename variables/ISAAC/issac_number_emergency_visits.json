@@ -1,0 +1,6 @@
+{
+  "id": "issac_number_emergency_visits",
+  "display_name": "ISAAC: In the last 12 months, number of times the child has been to an emergency room or urgent care for asthma/wheezing",
+  "description": "",
+  "type": "integer"
+}

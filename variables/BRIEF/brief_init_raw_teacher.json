@@ -1,0 +1,6 @@
+{
+  "id": "brief_init_raw_teacher",
+  "display_name": "BRIEF: Initiatie scale raw score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

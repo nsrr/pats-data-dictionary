@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Very hard",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Hard",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Somewhat hard",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Not very hard",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Don't know",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Preferred not to answer",
+    "description": ""
+  }
+]

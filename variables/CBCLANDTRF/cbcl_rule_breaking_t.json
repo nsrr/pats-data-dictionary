@@ -1,0 +1,6 @@
+{
+  "id": "cbcl_rule_breaking_t",
+  "display_name": "CBCL 6-18: Rule-Breaking behavior T score",
+  "description": "",
+  "type": "integer"
+}

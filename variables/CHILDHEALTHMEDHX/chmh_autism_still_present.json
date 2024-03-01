@@ -1,0 +1,7 @@
+{
+  "id": "chmh_autism_still_present",
+  "display_name": "CHMH: Autism or Asperger's syndrome is still present",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

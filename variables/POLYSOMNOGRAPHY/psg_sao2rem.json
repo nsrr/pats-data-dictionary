@@ -1,0 +1,6 @@
+{
+  "id": "psg_sao2rem",
+  "display_name": "PSG Results: Calculated - Average SaO2 in REM sleep (%)",
+  "description": "same as avsao2rh; missing if study was scored as sleep/wake",
+  "type": "integer"
+}

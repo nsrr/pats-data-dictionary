@@ -1,0 +1,7 @@
+{
+  "id": "psg_slp_eff",
+  "display_name": "PSG Results: Calculated - Sleep efficiency (%)",
+  "description": "missing if timebedp = 0",
+  "type": "numeric",
+  "calculation": "slp_eff = 100*(slpprdp)/timebedp"
+}

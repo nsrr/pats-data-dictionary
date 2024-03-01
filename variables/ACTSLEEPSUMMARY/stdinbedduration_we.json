@@ -1,0 +1,7 @@
+{
+  "id": "stdinbedduration_we",
+  "display_name": "[Main Sleep] Standard deviation of in-bed duration per main sleep (on weekend days) (minutes)",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

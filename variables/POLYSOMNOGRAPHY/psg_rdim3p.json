@@ -1,0 +1,7 @@
+{
+  "id": "psg_rdim3p",
+  "display_name": "PSG Results: Calculated - RDI (>= 3% desaturation)",
+  "description": "missing if total sleep time is 1",
+  "type": "numeric",
+  "calculation": "rdim3p = 60*(hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp3 + carop3 + canbp3 + canop3 + oarbp3 + oarop3 + oanbp3 + oanop3 + marbp3 + marop3 + manrbp3 + manrop3)/slpprdp"
+}

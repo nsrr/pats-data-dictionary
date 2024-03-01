@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_anxious_depressed_p",
+  "display_name": "CBCL: Anxious/Depressed percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

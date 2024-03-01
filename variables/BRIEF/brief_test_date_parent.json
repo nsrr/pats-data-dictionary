@@ -1,0 +1,7 @@
+{
+  "id": "brief_test_date_parent",
+  "display_name": "BRIEF: Test date (parent-completed)",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

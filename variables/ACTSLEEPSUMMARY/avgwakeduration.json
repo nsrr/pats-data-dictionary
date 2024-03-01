@@ -1,0 +1,7 @@
+{
+  "id": "avgwakeduration",
+  "display_name": "[Main Sleep] Average wake duration after sleep onset [WASO] per main sleep (all days) (minutes)",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

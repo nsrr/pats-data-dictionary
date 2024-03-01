@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_sleep_apnea_bio_dad",
+  "display_name": "FHMH: Biological father has/had sleep apnea",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

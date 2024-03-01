@@ -1,0 +1,7 @@
+{
+  "id": "psi_r32",
+  "display_name": "PSI: 32. I have found that getting my child to do something or stop doing something is (chose a response form the choices below",
+  "description": "",
+  "type": "choices",
+  "domain": "psi_expect"
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "A very good parent",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "A better-than-average parent",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "An average parent",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "A person who has some trouble being a parent",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Not very good at being a parent",
+    "description": ""
+  }
+]

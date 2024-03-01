@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_aggressive_behaviors_p",
+  "display_name": "CBCL: Aggressive Behaviors percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

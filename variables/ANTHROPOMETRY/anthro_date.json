@@ -1,0 +1,7 @@
+{
+  "id": "anthro_date",
+  "display_name": "Date of measurement",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "trf_stress_problems_p",
+  "display_name": "TRF: Stress Problems percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

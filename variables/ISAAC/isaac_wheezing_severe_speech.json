@@ -1,0 +1,7 @@
+{
+  "id": "isaac_wheezing_severe_speech",
+  "display_name": "ISAAC: In the last 12 months, wheezing has ever been severe enough to limit the child's speech",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

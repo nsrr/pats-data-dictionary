@@ -1,0 +1,7 @@
+{
+  "id": "trf_attention_deficit_p",
+  "display_name": "TRF: Attention Deficit Hyperactivity percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

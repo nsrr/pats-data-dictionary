@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_sleep_problems_p",
+  "display_name": "CBCL 1.5-5: Sleep Problems percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

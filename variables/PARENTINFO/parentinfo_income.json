@@ -1,0 +1,7 @@
+{
+  "id": "parentinfo_income",
+  "display_name": "Annual household income before taxes",
+  "description": "",
+  "type": "choices",
+  "domain": "income"
+}

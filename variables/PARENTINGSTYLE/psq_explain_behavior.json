@@ -1,0 +1,7 @@
+{
+  "id": "psq_explain_behavior",
+  "display_name": "PSQ: 3. I explain to my child how I feel about his/her good/bad behavior",
+  "description": "",
+  "type": "choices",
+  "domain": "never_always"
+}

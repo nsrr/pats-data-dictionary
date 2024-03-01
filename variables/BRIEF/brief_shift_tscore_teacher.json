@@ -1,0 +1,6 @@
+{
+  "id": "brief_shift_tscore_teacher",
+  "display_name": "BRIEF: Shift scale T score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

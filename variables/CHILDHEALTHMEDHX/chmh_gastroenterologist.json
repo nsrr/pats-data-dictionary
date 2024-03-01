@@ -1,0 +1,7 @@
+{
+  "id": "chmh_gastroenterologist",
+  "display_name": "CHMH: Child has been referred to gastroenterologist (stomach doctor)",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

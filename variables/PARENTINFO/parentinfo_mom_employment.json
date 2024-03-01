@@ -1,0 +1,7 @@
+{
+  "id": "parentinfo_mom_employment",
+  "display_name": "Mother's current employment status",
+  "description": "",
+  "type": "choices",
+  "domain": "employment"
+}

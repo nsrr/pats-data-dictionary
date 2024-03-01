@@ -1,0 +1,7 @@
+{
+  "id": "chmh_cancer",
+  "display_name": "CHMH: Child has had cancer",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

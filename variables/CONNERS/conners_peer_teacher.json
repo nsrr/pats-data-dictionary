@@ -1,0 +1,6 @@
+{
+  "id": "conners_peer_teacher",
+  "display_name": "Conners: Peer Relations T score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

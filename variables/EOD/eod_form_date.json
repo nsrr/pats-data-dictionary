@@ -1,0 +1,7 @@
+{
+  "id": "eod_form_date",
+  "display_name": "EOD: Form date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

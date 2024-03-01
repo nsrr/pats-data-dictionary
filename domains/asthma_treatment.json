@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Albuterol as needed",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Low dose ICS or monteleukast",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Low dose ICS + LABA or medium dose ICS",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Medium dose ICS + LABA",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "High dose ICS",
+    "description": ""
+  }
+]

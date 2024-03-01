@@ -1,0 +1,6 @@
+{
+  "id": "brief_inhibit_raw_teacher",
+  "display_name": "BRIEF: Inhibit scale raw score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

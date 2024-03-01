@@ -1,0 +1,7 @@
+{
+  "id": "isaac_rash_cleared",
+  "display_name": "ISAAC: This rash has cleared completely at any time during the last 12 months",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

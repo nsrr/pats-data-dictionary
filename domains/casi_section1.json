@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "0-3 days",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "4-9 days",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "10-13 days",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "14 days",
+    "description": ""
+  }
+]

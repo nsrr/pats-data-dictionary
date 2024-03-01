@@ -1,0 +1,7 @@
+{
+  "id": "trf_rule_breaking_p",
+  "display_name": "TRF 6-18: Rule-Breaking behavior percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

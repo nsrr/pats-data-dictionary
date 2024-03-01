@@ -1,0 +1,7 @@
+{
+  "id": "eod_police",
+  "display_name": "EOD: 11. Have you ever experienced discrimination from the police or in the courts",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

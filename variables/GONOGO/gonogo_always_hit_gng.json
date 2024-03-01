@@ -1,0 +1,7 @@
+{
+  "id": "gonogo_always_hit_gng",
+  "display_name": "Go/No-Go: Always hitting the buttons flag (catching all the sharks and fish) (Inhibitory Control/GNG Block)",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

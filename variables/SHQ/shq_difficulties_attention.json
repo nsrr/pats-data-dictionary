@@ -1,0 +1,7 @@
+{
+  "id": "shq_difficulties_attention",
+  "display_name": "SHQ: Difficulties with school related to attention problems or sleepiness?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_not_in_school"
+}

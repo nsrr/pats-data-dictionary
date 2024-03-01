@@ -1,0 +1,7 @@
+{
+  "id": "covsleepduration",
+  "display_name": "[Main Sleep] Coefficient of variation of time spent asleep per main sleep (all days) (%)",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "numeric",
+  "units": "percent (%)"
+}

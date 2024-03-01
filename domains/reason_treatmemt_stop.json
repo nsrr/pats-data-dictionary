@@ -1,0 +1,57 @@
+[
+  {
+    "value": "1",
+    "display_name": "Child's physician has identified a change in signs or symptoms that warrants treatment for OSA",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Child has developed new academic or behavioral problems resulting in a recommendation for grade retention",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Child has begun special education",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Child has begun counseling or placement on medications for behavior or emotional problems",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Recurrent tonsillitis that merits prompt AT per the American Academy of Otolaryngology-Head and Neck Surgery Clinical Practice Guidelines; i.e. >7 episodes/yr over the past year, >5 episodes/yr over the past 2 years or >3 episodes/yr over the past 3 years",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Development of âfailure to thriveâ defined by any of the following noted during follow-up: Height or weight falling below the 3rd percentile for age and gender, OR Weight falling by two or more major isobars on the weight for age CDC percentile charts, AND The weight loss is not better explained by either an intentional weight loss or a transient loss related to an intercurrent acute illness such as viral gastroenteritis. Note that this definition excludes children whose baseline BMI is â¥ 85% for age and gender",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Development of Stage 2 Hypertension, which is not better explained by another medical condition",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Development of hypersomnolence, defined as reports of falling asleep on average more than three times per week at school (excluding planned naps), despite spending adequate time in bed overnight (at least 10 hours/night) that is not better explained by other factors unrelated to OSA",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Parent / Guardian decision to have Adenotonsillectomy Surgery (WWSC group)",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Parent / Guardian decision to not have Adenotonsillectomy Surgery (EAT group)",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "Other medical or neuropsychological necessitated reason, specify",
+    "description": ""
+  }
+]

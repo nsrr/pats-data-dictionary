@@ -1,0 +1,7 @@
+{
+  "id": "psq_authoritative",
+  "display_name": "PSQ: Calculated - Authoritative parent behavior (range: 1-5)",
+  "description": "",
+  "type": "numeric",
+  "calculation": "(Sum score from Q1 to Q13)/13"
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "0",
+    "display_name": "Not attending school",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Pre-K",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Kindergarten",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "1st Grade",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "2nd Grade",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "3rd Grade",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "4th Grade",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "5th Grade",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "6th Grade",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "7th Grade",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "8th Grade",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "9th Grade",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "Child is homeschooled",
+    "description": ""
+  }
+]

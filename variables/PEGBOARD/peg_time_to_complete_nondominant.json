@@ -1,0 +1,7 @@
+{
+  "id": "peg_time_to_complete_nondominant",
+  "display_name": "Pegboard: Time to complete 9-Hole test using the non-dominant hand in seconds",
+  "description": "",
+  "type": "integer",
+  "units": "seconds (s)"
+}

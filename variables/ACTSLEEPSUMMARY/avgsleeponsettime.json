@@ -1,0 +1,6 @@
+{
+  "id": "avgsleeponsettime",
+  "display_name": "[Main Sleep] Average sleep onset time per main sleep (all days) ",
+  "description": "",
+  "type": "time"
+}

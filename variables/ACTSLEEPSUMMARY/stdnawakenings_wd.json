@@ -1,0 +1,6 @@
+{
+  "id": "stdnawakenings_wd",
+  "display_name": "[Main Sleep] Standard deviation of number of awakenings per main sleep (on weekday days)",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "integer"
+}

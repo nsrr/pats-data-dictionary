@@ -1,0 +1,6 @@
+{
+  "id": "psg_avgdsevent",
+  "display_name": "PSG Results: Average Desaturation (assoc. with manually scored resp. events)",
+  "description": "",
+  "type": "integer"
+}

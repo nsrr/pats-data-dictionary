@@ -1,0 +1,7 @@
+{
+  "id": "avgsleeponsetlatency_we",
+  "display_name": "[Main Sleep] Average sleep onset latency per main sleep (on weekend days) (minutes)",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

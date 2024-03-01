@@ -1,0 +1,7 @@
+{
+  "id": "shq_walk_during_sleep",
+  "display_name": "SHQ: Over the past month, has your child walked during sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "never_always_notsure"
+}

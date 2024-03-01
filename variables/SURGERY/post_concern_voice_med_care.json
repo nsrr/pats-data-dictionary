@@ -1,0 +1,7 @@
+{
+  "id": "post_concern_voice_med_care",
+  "display_name": "This concern about the child's voice has required evaluation or care by a medical professional",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

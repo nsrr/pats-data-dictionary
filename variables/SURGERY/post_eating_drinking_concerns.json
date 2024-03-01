@@ -1,0 +1,7 @@
+{
+  "id": "post_eating_drinking_concerns",
+  "display_name": "There are current eating or drinking concerns",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

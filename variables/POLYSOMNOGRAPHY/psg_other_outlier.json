@@ -1,0 +1,7 @@
+{
+  "id": "psg_other_outlier",
+  "display_name": "PSG QC: Other outlier (not covered by any other option)",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

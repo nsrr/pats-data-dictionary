@@ -1,0 +1,6 @@
+{
+  "id": "psg_hrtdur",
+  "display_name": "PSG Results: Total Apnea and Hypopnea Length (REM) (minutes)",
+  "description": "",
+  "type": "numeric"
+}

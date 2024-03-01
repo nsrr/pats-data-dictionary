@@ -1,0 +1,7 @@
+{
+  "id": "isaac_hospital_for_wheezing",
+  "display_name": "ISAAC: In the last 12 months, child has been in the hospital overnight for asthma/wheezing",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

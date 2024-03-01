@@ -1,0 +1,6 @@
+{
+  "id": "psg_arnremop",
+  "display_name": "PSG Results: Number of Arousals (NREM, Other, all desats)",
+  "description": "",
+  "type": "integer"
+}

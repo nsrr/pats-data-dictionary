@@ -1,0 +1,7 @@
+{
+  "id": "psg_rdim0pa",
+  "display_name": "PSG Results: Calculated - RDI with arousals (>= 0% desaturation)",
+  "description": "missing if total sleep time is 0 or if studies scored as sleep/wake or where arousals were ignored",
+  "type": "numeric",
+  "calculation": "rdim0pa = 60*(hremba +hroa + hnrba + hnroa +carba + caroa + canba + canoa + oarba +oaroa + oanba + oanoa +  marbpa + maropa + manrbpa + manropa)/slpprdp"
+}

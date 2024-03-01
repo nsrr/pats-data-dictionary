@@ -1,0 +1,6 @@
+{
+  "id": "psg_canbp",
+  "display_name": "PSG Results: Number of Central Apnea (NREM, Back, all desats)",
+  "description": "",
+  "type": "integer"
+}

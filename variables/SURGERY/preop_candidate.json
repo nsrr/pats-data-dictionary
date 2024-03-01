@@ -1,0 +1,7 @@
+{
+  "id": "preop_candidate",
+  "display_name": "Child is a candidate for Adenotonsillectomy",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

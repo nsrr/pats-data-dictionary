@@ -1,0 +1,7 @@
+{
+  "id": "stdefficiency",
+  "display_name": "[Main Sleep] Standard deviation of sleep efficiency per main sleep (all days) (%)",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "numeric",
+  "units": "percent (%)"
+}

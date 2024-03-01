@@ -1,0 +1,6 @@
+{
+  "id": "psg_plmcarrem",
+  "display_name": "PSG Results: Number PLM clusters with arousal and resp. event (REM)",
+  "description": "",
+  "type": "integer"
+}

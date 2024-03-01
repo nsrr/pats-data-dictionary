@@ -1,0 +1,7 @@
+{
+  "id": "gonogo_warning",
+  "display_name": "Go/No-Go: Warning for bad data (< 7 complete trials)",
+  "description": "",
+  "type": "choices",
+  "domain": "gng_warning"
+}

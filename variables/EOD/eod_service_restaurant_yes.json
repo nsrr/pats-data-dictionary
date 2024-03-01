@@ -1,0 +1,7 @@
+{
+  "id": "eod_service_restaurant_yes",
+  "display_name": "EOD: 8. How often have you experienced discrimination when getting service in a store or restaurant",
+  "description": "",
+  "type": "choices",
+  "domain": "items"
+}

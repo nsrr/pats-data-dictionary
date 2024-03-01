@@ -1,0 +1,7 @@
+{
+  "id": "chmh_chest_tightness_freq",
+  "display_name": "CHMH: In the past year, how often the child had been troubled by chest tightness",
+  "description": "",
+  "type": "choices",
+  "domain": "rarely_daily"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psg_recording_bed_unit_ids",
+  "display_name": "PSG QC: Recording Bed/Unit ID",
+  "description": "",
+  "type": "text"
+}

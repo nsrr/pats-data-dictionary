@@ -1,0 +1,6 @@
+{
+  "id": "psg_stdurm",
+  "display_name": "PSG Results: Study length (epoch 1 to last epoch- minutes)",
+  "description": "",
+  "type": "numeric"
+}

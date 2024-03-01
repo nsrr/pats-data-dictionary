@@ -1,0 +1,7 @@
+{
+  "id": "trf_withdrawn_depressed_p",
+  "display_name": "TRF 6-18: Withdrawn/Depressed percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

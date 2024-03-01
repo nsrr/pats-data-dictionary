@@ -1,0 +1,6 @@
+{
+  "id": "anthro_bmi_zscore",
+  "display_name": "Current BMI-for-age z-score",
+  "description": "https://www.cdc.gov/growthcharts/percentile_data_files.htm",
+  "type": "numeric"
+}

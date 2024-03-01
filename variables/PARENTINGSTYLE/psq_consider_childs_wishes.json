@@ -1,0 +1,7 @@
+{
+  "id": "psq_consider_childs_wishes",
+  "display_name": "PSQ: 2. I take my child's wishes into consideration before I ask him/her to do something",
+  "description": "",
+  "type": "choices",
+  "domain": "never_always"
+}

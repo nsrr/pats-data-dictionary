@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_randomized_arm",
+  "display_name": "Assigned treatment arm",
+  "description": "",
+  "type": "choices",
+  "domain": "arm"
+}

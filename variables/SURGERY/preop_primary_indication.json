@@ -1,0 +1,7 @@
+{
+  "id": "preop_primary_indication",
+  "display_name": "The primary indication for Adenotonsillectomy is nocturnal obstructive symptoms (i.e., not recurrent infections or other indications)",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

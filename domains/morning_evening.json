@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Morning",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Afternoon",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Evening",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "No best time",
+    "description": ""
+  }
+]

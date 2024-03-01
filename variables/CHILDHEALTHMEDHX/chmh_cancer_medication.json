@@ -1,0 +1,7 @@
+{
+  "id": "chmh_cancer_medication",
+  "display_name": "CHMH: Currently taking medication for this cancer",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

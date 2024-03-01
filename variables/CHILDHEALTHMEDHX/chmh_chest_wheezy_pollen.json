@@ -1,0 +1,7 @@
+{
+  "id": "chmh_chest_wheezy_pollen",
+  "display_name": "CHMH: Child's chest has chest sounded wheezy or whistling when exposed to pollen",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

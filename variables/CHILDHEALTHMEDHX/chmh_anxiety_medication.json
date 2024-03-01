@@ -1,0 +1,7 @@
+{
+  "id": "chmh_anxiety_medication",
+  "display_name": "CHMH: Currently taking medication for this anxiety disorder",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_hypertension_parent",
+  "display_name": "FHMH: Child's any biological parents currently have or ever had high blood pressure (hypertension)",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

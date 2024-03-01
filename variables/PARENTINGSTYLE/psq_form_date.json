@@ -1,0 +1,7 @@
+{
+  "id": "psq_form_date",
+  "display_name": "PSQ: Form date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

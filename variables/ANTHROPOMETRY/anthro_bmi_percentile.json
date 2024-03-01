@@ -1,0 +1,7 @@
+{
+  "id": "anthro_bmi_percentile",
+  "display_name": "Current BMI-for-age percentile (%)",
+  "description": "https://www.cdc.gov/growthcharts/percentile_data_files.htm",
+  "type": "numeric",
+  "units": "percentile (th)"
+}

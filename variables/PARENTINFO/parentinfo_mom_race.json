@@ -1,0 +1,7 @@
+{
+  "id": "parentinfo_mom_race",
+  "display_name": "Mother's race ",
+  "description": "",
+  "type": "choices",
+  "domain": "race"
+}

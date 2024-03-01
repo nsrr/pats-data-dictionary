@@ -1,0 +1,7 @@
+{
+  "id": "psg_scored_date",
+  "display_name": "PSG QC: Scoring date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "shq_ear_infections",
+  "display_name": "SHQ: In the past 6 months, has your child had frequent ear infections",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

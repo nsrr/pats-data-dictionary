@@ -1,0 +1,7 @@
+{
+  "id": "chmh_form_date",
+  "display_name": "CHMH: Form date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

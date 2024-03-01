@@ -1,0 +1,7 @@
+{
+  "id": "anthro_height_2",
+  "display_name": "Standing height (cm) - measurement 2",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters (cm)"
+}

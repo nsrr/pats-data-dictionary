@@ -1,0 +1,7 @@
+{
+  "id": "shq_child_loud_snore",
+  "display_name": "SHQ: In the last month, how often has your child experienced loud snoring during sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "never_always_notsure"
+}

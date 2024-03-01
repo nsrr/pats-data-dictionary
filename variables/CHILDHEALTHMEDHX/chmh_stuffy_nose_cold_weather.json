@@ -1,0 +1,7 @@
+{
+  "id": "chmh_stuffy_nose_cold_weather",
+  "display_name": "CHMH: In the past year, cold weather caused the child to have stuffy or runny nose",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

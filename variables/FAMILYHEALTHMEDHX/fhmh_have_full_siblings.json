@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_have_full_siblings",
+  "display_name": "FHMH: Child has any full brothers and/or sisters (same mother and father)",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psg_oai4p",
+  "display_name": "PSG Results: Calculated - Obstructive apnea index (4% desats)",
+  "description": "missing if total sleep time is 0",
+  "type": "numeric",
+  "calculation": "oai4p  = 60*(oarbp4 + oarop4 + oanbp4 + oanop4)/slpprdp"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "parentinfo_hardship",
+  "display_name": "How hard is it for you (and your family) to pay for basics like food, rent or mortgage, heating, etc",
+  "description": "",
+  "type": "choices",
+  "domain": "hardship"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "anthro_bp_sys_1",
+  "display_name": "Resting systolic blood pressure (mmHg) - measurement 1",
+  "description": "",
+  "type": "integer",
+  "units": "millimeters of mercury (mmHg)"
+}

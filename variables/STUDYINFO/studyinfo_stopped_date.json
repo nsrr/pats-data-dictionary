@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_stopped_date",
+  "display_name": "Date that participation stopped",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

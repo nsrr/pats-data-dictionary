@@ -1,0 +1,82 @@
+[
+  {
+    "value": "1",
+    "display_name": "Baseline and randomization",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Surgery visit",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Month 1 phone call",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Month 2 phone call",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Month 3 phone call",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Month 4 phone call",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Month 5 phone call",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Month 6 interim visit",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Month 7 phone call",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Month 8 phone call",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "Month 9 phone call",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "Month 10 phone call",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "Month 11 phone call",
+    "description": ""
+  },
+  {
+    "value": "14",
+    "display_name": "Month 12 endpoint visit",
+    "description": ""
+  },
+  {
+    "value": "15",
+    "display_name": "Month 12 endpoint PSG",
+    "description": ""
+  },
+  {
+    "value": "16",
+    "display_name": "Month 12 ENT re-evaluation (when needed)",
+    "description": ""
+  }
+]

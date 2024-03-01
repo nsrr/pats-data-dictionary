@@ -1,0 +1,7 @@
+{
+  "id": "asthma_days_use_meds",
+  "display_name": "ASTHMA: During the last 14 days, number of days the child had to use albuterol (brand names Pro-Air, Proventil, Ventolin, Xopenex) by puffer or breathing machine/nebulizer during the day for relief of asthma symptoms (excluding albuterol/salbu)",
+  "description": "",
+  "type": "choices",
+  "domain": "casi_section1"
+}

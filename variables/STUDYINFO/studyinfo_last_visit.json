@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_last_visit",
+  "display_name": "Last study visit that the participant completed",
+  "description": "",
+  "type": "choices",
+  "domain": "last_visit"
+}

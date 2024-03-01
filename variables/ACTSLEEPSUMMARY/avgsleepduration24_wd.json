@@ -1,0 +1,7 @@
+{
+  "id": "avgsleepduration24_wd",
+  "display_name": "[24-Hour Sleep] Average time spent asleep per day (on weekday days) (minutes)",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

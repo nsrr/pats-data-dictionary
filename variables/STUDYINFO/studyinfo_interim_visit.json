@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_interim_visit",
+  "display_name": "Participant completed 6-month interim visit",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

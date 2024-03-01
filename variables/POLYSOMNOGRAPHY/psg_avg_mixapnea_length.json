@@ -1,0 +1,7 @@
+{
+  "id": "psg_avg_mixapnea_length",
+  "display_name": "Average length of each mixed apnea (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)"
+}

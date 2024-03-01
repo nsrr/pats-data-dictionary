@@ -1,0 +1,7 @@
+{
+  "id": "stdawakeninglength_we",
+  "display_name": "[Main Sleep] Standard deviation of mean length of awakenings per main sleep (on weekend days) (minutes)",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

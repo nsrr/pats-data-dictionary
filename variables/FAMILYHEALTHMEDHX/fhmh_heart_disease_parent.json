@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_heart_disease_parent",
+  "display_name": "FHMH: Child's any biological parents currently have or ever had heart disease",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

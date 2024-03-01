@@ -1,0 +1,7 @@
+{
+  "id": "shq_irritability_mood",
+  "display_name": "SHQ: In the past 6 months, has your child had extreme irritability or mood problems",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

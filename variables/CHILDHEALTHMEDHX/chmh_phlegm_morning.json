@@ -1,0 +1,7 @@
+{
+  "id": "chmh_phlegm_morning",
+  "display_name": "CHMH: In the past year, child usually brought up phlegm on getting up or first thing in the morning",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

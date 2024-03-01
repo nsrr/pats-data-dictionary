@@ -1,0 +1,7 @@
+{
+  "id": "childinfo_grade",
+  "display_name": "Child's grade at screening",
+  "description": "",
+  "type": "choices",
+  "domain": "grade"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "chmh_depression_medication",
+  "display_name": "CHMH: Currently taking medication for this depression",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

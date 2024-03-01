@@ -1,0 +1,7 @@
+{
+  "id": "covsleepduration24_wd",
+  "display_name": "[24-Hour Sleep] Coefficient of variation of time spent asleep per day (on weekday days) (%)",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "numeric",
+  "units": "percent (%)"
+}

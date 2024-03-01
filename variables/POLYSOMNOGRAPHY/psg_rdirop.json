@@ -1,0 +1,6 @@
+{
+  "id": "psg_rdirop",
+  "display_name": "PSG Results: Hypopnea per hour (REM, Other, all desats)",
+  "description": "",
+  "type": "numeric"
+}

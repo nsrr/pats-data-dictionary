@@ -1,0 +1,7 @@
+{
+  "id": "pe_lymphatics",
+  "display_name": "Physical Exam: Lymphatics",
+  "description": "",
+  "type": "choices",
+  "domain": "bpe_normal_abnormal"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "conners_hyperactivity_teacher",
+  "display_name": "Conners: Hyperactivity/Impulsivity T score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psg_aptdur",
+  "display_name": "PSG Results: Total Mixed Apnea Length (minutes)",
+  "description": "",
+  "type": "numeric"
+}

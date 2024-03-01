@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_have_air_conditioning",
+  "display_name": "FHMH: Air conditioning (central AC in the home) in child's room ",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

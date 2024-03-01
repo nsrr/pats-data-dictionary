@@ -1,0 +1,6 @@
+{
+  "id": "psg_plmcrdelta",
+  "display_name": "PSG Results: Number PLM clusters with resp. events (Delta Sleep)",
+  "description": "",
+  "type": "integer"
+}

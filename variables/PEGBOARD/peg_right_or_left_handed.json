@@ -1,0 +1,7 @@
+{
+  "id": "peg_right_or_left_handed",
+  "display_name": "Pegboard: Handedness ",
+  "description": "",
+  "type": "choices",
+  "domain": "hand_dominance_plue_unsure"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psg_mxdrop",
+  "display_name": "PSG Results: Maximum Desat (REM, Other, all desats)",
+  "description": "",
+  "type": "integer"
+}

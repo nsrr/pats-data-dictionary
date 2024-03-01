@@ -1,0 +1,7 @@
+{
+  "id": "post_pain_need_meds_3_wks_after",
+  "display_name": "Child had post operative pain requiring pain medication for greater than 3 weeks after surgery",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psg_ststartp",
+  "display_name": "PSG Results: Study start time (hh:mm:ss)",
+  "description": "",
+  "type": "time"
+}

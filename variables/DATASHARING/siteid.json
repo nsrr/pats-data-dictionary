@@ -1,0 +1,7 @@
+{
+  "id": "siteid",
+  "display_name": "PATS Internal Site Identifier",
+  "description": "",
+  "type": "choices",
+  "domain": "site"
+}

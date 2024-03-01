@@ -1,0 +1,7 @@
+{
+  "id": "eod_public_setting_yes",
+  "display_name": "EOD: 10. How often have you experienced discrimination on the street or in a public setting",
+  "description": "",
+  "type": "choices",
+  "domain": "items"
+}

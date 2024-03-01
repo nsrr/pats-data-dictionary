@@ -1,0 +1,7 @@
+{
+  "id": "anthro_bp_dia_pct",
+  "display_name": "Calculated - Age, height and sex based percentile for average resting diastolic blood pressure (mmHg) over the three measurements ",
+  "description": "Based on Rosner code - https://sites.google.com/a/channing.harvard.edu/bernardrosner/pediatric-blood-press/childhood-blood-pressure",
+  "type": "integer",
+  "units": "percentile (th)"
+}

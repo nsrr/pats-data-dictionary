@@ -1,0 +1,7 @@
+{
+  "id": "chmh_birth_type",
+  "display_name": "CHMH: Birth type (vaginal or C-section)",
+  "description": "",
+  "type": "choices",
+  "domain": "birth_type"
+}

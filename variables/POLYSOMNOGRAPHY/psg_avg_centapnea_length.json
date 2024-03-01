@@ -1,0 +1,7 @@
+{
+  "id": "psg_avg_centapnea_length",
+  "display_name": "Average length of each central apnea (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)"
+}

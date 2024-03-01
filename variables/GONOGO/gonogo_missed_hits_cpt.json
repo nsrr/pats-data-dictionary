@@ -1,0 +1,6 @@
+{
+  "id": "gonogo_missed_hits_cpt",
+  "display_name": "Go/No-Go: Total number of missed hits (Sustained Attention/CPT Block)",
+  "description": "",
+  "type": "integer"
+}

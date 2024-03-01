@@ -1,0 +1,7 @@
+{
+  "id": "srbds_score",
+  "display_name": "SRBDS: Total SRBD Scale Score (Range: 0-1)",
+  "description": "",
+  "type": "numeric",
+  "calculation": "The number of symptom-items endorsed positively (\"yes\") divided by the number of items answered without missing"
+}

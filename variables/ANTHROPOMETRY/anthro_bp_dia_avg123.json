@@ -1,0 +1,7 @@
+{
+  "id": "anthro_bp_dia_avg123",
+  "display_name": "Calculated - Average resting diastolic blood pressure (mmHg) over three measurements",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury (mmHg)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_narcolepsy_bio_mom",
+  "display_name": "FHMH: Biological mother has/had narcolepsy",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

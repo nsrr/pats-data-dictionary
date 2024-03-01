@@ -1,0 +1,7 @@
+{
+  "id": "avgawakeninglength_wd",
+  "display_name": "[Main Sleep] Average mean length of awakenings per main sleep (on weekday days) (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

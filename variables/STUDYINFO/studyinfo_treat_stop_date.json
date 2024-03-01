@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_treat_stop_date",
+  "display_name": "Date of treatment stop",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

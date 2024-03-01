@@ -1,0 +1,6 @@
+{
+  "id": "psg_avcarba3",
+  "display_name": "PSG Results: Average Central Apnea length with arousals (REM, Back, 3% desat) (seconds)",
+  "description": "",
+  "type": "integer"
+}

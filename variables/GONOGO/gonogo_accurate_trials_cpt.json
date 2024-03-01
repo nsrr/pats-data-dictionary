@@ -1,0 +1,6 @@
+{
+  "id": "gonogo_accurate_trials_cpt",
+  "display_name": "Go/No-Go: Total number of accurate trials (Sustained Attention/CPT Block)",
+  "description": "",
+  "type": "integer"
+}

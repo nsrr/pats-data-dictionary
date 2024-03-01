@@ -1,0 +1,7 @@
+{
+  "id": "psg_c4_usable_signal_hours",
+  "display_name": "PSG QC: C4 - Approximate hours of usable signal (in sleep)",
+  "description": "",
+  "type": "integer",
+  "units": "hours (hr)"
+}

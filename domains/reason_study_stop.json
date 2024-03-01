@@ -1,0 +1,72 @@
+[
+  {
+    "value": "0",
+    "display_name": "Participant completed study participation",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Participant no longer interested in participation",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Participant lost to follow-up",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Participant withdrew consent",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Experienced AE and did not want to participate further",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Participant relocated",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Protocol defined stopping rules",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Decrease in ABAS-III performance",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Screening failure as defined in MOP",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "New medical problem determined to make continued participation unsafe",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "New behavioral or learning problem determined to make continued participation unsafe",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "Participant declined their assigned randomization arm",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "Death",
+    "description": ""
+  },
+  {
+    "value": "98",
+    "display_name": "Other",
+    "description": ""
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "id": "brief_child_age_parent",
+  "display_name": "BRIEF: Child age (parent-completed)",
+  "description": "",
+  "type": "integer",
+  "units": "years"
+}

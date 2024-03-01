@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_thought_problems_p",
+  "display_name": "CBCL 6-18: Thought Problems percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

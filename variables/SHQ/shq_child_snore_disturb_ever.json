@@ -1,0 +1,7 @@
+{
+  "id": "shq_child_snore_disturb_ever",
+  "display_name": "SHQ: Has your child's snoring ever been so loud is disturbed others",
+  "description": "Not asked again at 6-month or 12-month visit",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psg_minremp",
+  "display_name": "PSG Results: Time in REM sleep (minutes)",
+  "description": "",
+  "type": "integer"
+}

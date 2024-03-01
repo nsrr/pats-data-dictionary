@@ -1,0 +1,7 @@
+{
+  "id": "psg_total_time_in_bed",
+  "display_name": "PSG QC: Total time spent in bed (minutes) ",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

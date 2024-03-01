@@ -1,0 +1,6 @@
+{
+  "id": "asthma_treatment_score",
+  "display_name": "ASTHMA: Treatment score (range: 0-5)",
+  "description": "",
+  "type": "integer"
+}

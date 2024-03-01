@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_treatment_failure",
+  "display_name": "Participant had treatment failure",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

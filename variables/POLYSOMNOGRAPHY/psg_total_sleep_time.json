@@ -1,0 +1,7 @@
+{
+  "id": "psg_total_sleep_time",
+  "display_name": "PSG QC: Total time spent in sleep (minutes)  ",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

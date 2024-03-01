@@ -1,0 +1,6 @@
+{
+  "id": "brief_shift_raw_teacher",
+  "display_name": "BRIEF: Shift scale raw score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

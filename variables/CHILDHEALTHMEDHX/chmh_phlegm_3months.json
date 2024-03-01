@@ -1,0 +1,7 @@
+{
+  "id": "chmh_phlegm_3months",
+  "display_name": "CHMH: In the past year, child brought up phlegm as much as twice a day, four or more times a week, for three consecutive months or more",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

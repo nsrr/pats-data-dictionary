@@ -1,0 +1,7 @@
+{
+  "id": "shq_child_snore_usually",
+  "display_name": "SHQ: During the entire time your child has snored, has his/her snoring usually been",
+  "description": "Not asked again at 6-month or 12-month visit",
+  "type": "choices",
+  "domain": "loudness"
+}

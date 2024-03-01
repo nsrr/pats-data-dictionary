@@ -1,0 +1,7 @@
+{
+  "id": "avgefficiency",
+  "display_name": "[Main Sleep] Average sleep efficiency per main sleep (all days) (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)"
+}

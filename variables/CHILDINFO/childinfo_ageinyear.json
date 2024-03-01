@@ -1,0 +1,6 @@
+{
+  "id": "childinfo_ageinyear",
+  "display_name": "Child's age in years at randomization",
+  "description": "",
+  "type": "integer"
+}

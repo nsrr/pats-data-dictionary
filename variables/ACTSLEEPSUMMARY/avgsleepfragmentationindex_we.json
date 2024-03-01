@@ -1,0 +1,7 @@
+{
+  "id": "avgsleepfragmentationindex_we",
+  "display_name": "[Main Sleep] Average sleep fragmentation index per main sleep (on weekend days) (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)"
+}

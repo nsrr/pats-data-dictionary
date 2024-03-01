@@ -1,0 +1,7 @@
+{
+  "id": "psg_snore_signal_quality_grade",
+  "display_name": "PSG QC: Snore - Signal Quality Grade",
+  "description": "",
+  "type": "choices",
+  "domain": "signal_quality_grade"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "shq_child_snore_disturb",
+  "display_name": "SHQ: In the last month, was your child's snoring so loud it disturbed others",
+  "description": "Required to answer only if \"shq_child_snored_last_month\" =  1: Yes",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

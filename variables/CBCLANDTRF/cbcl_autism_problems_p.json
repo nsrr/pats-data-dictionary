@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_autism_problems_p",
+  "display_name": "CBCL 1.5-5: Autism Spectrum Problems percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

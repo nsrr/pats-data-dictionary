@@ -1,0 +1,7 @@
+{
+  "id": "srbds_3",
+  "display_name": "SRBDS: 3. Snore loudly",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_dontknow"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Mono-polar Cautery",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Cold dissection",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Other",
+    "description": ""
+  }
+]

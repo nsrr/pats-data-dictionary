@@ -1,0 +1,7 @@
+{
+  "id": "conners_form_date_parent",
+  "display_name": "Conners: Form created date (parent-completed)",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

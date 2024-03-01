@@ -1,0 +1,7 @@
+{
+  "id": "oper_adenoid_removal_technique",
+  "display_name": "Surgical technique used for Adenoid removal",
+  "description": "",
+  "type": "choices",
+  "domain": "adenoid_removal"
+}

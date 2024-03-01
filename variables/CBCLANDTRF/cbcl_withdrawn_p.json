@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_withdrawn_p",
+  "display_name": "CBCL 1.5-5: Withdrawn percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

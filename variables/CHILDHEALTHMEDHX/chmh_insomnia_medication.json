@@ -1,0 +1,7 @@
+{
+  "id": "chmh_insomnia_medication",
+  "display_name": "CHMH: Currently taking medication for this insomnia (inability to sleep)",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

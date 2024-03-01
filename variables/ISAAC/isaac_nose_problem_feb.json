@@ -1,0 +1,7 @@
+{
+  "id": "isaac_nose_problem_feb",
+  "display_name": "ISAAC: In the past Feburary, this nose problem occurred",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

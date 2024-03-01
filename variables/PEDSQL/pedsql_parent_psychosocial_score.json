@@ -1,0 +1,6 @@
+{
+  "id": "pedsql_parent_psychosocial_score",
+  "display_name": "PedsQL Parent: Calculated - Psychosocial Health Summary Score",
+  "description": "",
+  "type": "numeric"
+}

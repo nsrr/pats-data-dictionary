@@ -1,0 +1,7 @@
+{
+  "id": "avgsleepperiodduration",
+  "display_name": "[Main Sleep] Average sleep period duration per main sleep (all days) (minutes)",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psg_stg2t1p",
+  "display_name": "PSG Results: Number of stage 2 to stage 1 shifts during sleep",
+  "description": "",
+  "type": "integer"
+}

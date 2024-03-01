@@ -1,0 +1,6 @@
+{
+  "id": "brief_tm_raw_teacher",
+  "display_name": "BRIEF: Second Edition Task-Monitor scale raw score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

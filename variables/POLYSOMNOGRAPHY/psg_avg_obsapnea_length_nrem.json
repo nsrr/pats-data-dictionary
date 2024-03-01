@@ -1,0 +1,7 @@
+{
+  "id": "psg_avg_obsapnea_length_nrem",
+  "display_name": "Average length of each obstructive apnea in NREM sleep (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)"
+}

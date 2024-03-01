@@ -1,0 +1,7 @@
+{
+  "id": "anthro_waist_1",
+  "display_name": "Waist circumference (cm) - measurement 1",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters (cm)"
+}

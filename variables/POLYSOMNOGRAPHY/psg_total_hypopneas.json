@@ -1,0 +1,7 @@
+{
+  "id": "psg_total_hypopneas",
+  "display_name": "Total number of hypopneas",
+  "description": "",
+  "type": "integer",
+  "units": "number of events"
+}

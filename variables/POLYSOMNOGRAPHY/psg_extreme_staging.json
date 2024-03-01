@@ -1,0 +1,7 @@
+{
+  "id": "psg_extreme_staging",
+  "display_name": "PSG QC: Extreme staging distribution",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

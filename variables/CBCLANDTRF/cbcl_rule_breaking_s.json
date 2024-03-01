@@ -1,0 +1,6 @@
+{
+  "id": "cbcl_rule_breaking_s",
+  "display_name": "CBCL 6-18: Rule-Breaking behavior total score",
+  "description": "",
+  "type": "integer"
+}

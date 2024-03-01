@@ -1,0 +1,7 @@
+{
+  "id": "psg_datalost_start",
+  "display_name": "PSG QC: Data Lost - Recording began in sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

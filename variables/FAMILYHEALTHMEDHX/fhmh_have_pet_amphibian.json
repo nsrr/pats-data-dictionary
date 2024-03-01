@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_have_pet_amphibian",
+  "display_name": "FHMH: Pet amphibian (frogs, turtles, lizards) in the home ",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

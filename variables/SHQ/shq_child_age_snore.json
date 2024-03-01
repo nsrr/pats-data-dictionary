@@ -1,0 +1,6 @@
+{
+  "id": "shq_child_age_snore",
+  "display_name": "SHQ: How old was your child when he/she first started snoring",
+  "description": "Not asked again at 6-month or 12-month visit",
+  "type": "integer"
+}

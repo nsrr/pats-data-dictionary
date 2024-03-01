@@ -1,0 +1,7 @@
+{
+  "id": "anthro_neck_avg",
+  "display_name": "Calculated - Average neck circumference (cm) over three measurements",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters (cm)"
+}

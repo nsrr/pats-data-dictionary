@@ -1,0 +1,7 @@
+{
+  "id": "srbds_behavioral_sub_score",
+  "display_name": "SRBDS: Behavioral Subscale Score (Range: 0-1)",
+  "description": "",
+  "type": "numeric",
+  "calculation": "The number of items (Q17, Q18, Q19, Q20, Q21, Q22) endorsed positively (\"yes\") divided by the number of items answered without missing"
+}

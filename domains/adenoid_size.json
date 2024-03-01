@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "0 - 32% of nasopharynx occluded",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "33 - 66% of nasopharynx occluded",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "67 - 100% of nasopharynx occluded",
+    "description": ""
+  }
+]

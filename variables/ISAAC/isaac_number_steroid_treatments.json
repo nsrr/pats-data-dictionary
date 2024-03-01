@@ -1,0 +1,6 @@
+{
+  "id": "isaac_number_steroid_treatments",
+  "display_name": "ISAAC: In the last 12 months, number of time the child has been treated with steroids by mouth for asthma/wheezing",
+  "description": "",
+  "type": "integer"
+}

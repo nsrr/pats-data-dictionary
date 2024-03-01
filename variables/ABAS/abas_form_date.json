@@ -1,0 +1,7 @@
+{
+  "id": "abas_form_date",
+  "display_name": "ABAS: Form created date ",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

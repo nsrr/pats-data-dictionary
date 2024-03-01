@@ -1,0 +1,7 @@
+{
+  "id": "anthro_bp_dia_3",
+  "display_name": "Resting diastolic blood pressure (mmHg) - measurement 3",
+  "description": "",
+  "type": "integer",
+  "units": "millimeters of mercury (mmHg)"
+}

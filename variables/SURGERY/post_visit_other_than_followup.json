@@ -1,0 +1,7 @@
+{
+  "id": "post_visit_other_than_followup",
+  "display_name": "After their adenotonsillectomy, the child required evaluation in the ER, other surgery or admission to the hospital for any reason or they required evaluation in the ENT clinic for any reason other than a routine post-operative follow-up visit",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

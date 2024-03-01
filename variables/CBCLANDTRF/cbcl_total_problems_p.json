@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_total_problems_p",
+  "display_name": "CBCL: Total Problems percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

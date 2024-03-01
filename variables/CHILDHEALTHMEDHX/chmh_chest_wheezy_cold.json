@@ -1,0 +1,7 @@
+{
+  "id": "chmh_chest_wheezy_cold",
+  "display_name": "CHMH: Child's chest has sounded wheezy or whistling when the child has a cold",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

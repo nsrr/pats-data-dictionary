@@ -1,0 +1,7 @@
+{
+  "id": "asthma_form_date",
+  "display_name": "ASTHMA: Form date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

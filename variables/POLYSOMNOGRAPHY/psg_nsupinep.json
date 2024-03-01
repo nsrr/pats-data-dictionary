@@ -1,0 +1,7 @@
+{
+  "id": "psg_nsupinep",
+  "display_name": "PSG Results: Calculated - Percent sleep time in non-supine body position (%)",
+  "description": "missing if position sensor in not working",
+  "type": "numeric",
+  "calculation": "nsupinep = 100*(remepop+nremepop)/(remepbp+nremepbp+remepop+nremepop)"
+}

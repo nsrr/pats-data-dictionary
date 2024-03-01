@@ -1,0 +1,7 @@
+{
+  "id": "psg_reliable_arousals",
+  "display_name": "PSG QC: Scoring arousals was reliable",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

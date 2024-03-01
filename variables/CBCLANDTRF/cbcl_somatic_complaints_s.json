@@ -1,0 +1,6 @@
+{
+  "id": "cbcl_somatic_complaints_s",
+  "display_name": "CBCL: Somatic Complaints total score",
+  "description": "",
+  "type": "integer"
+}

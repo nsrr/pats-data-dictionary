@@ -1,0 +1,7 @@
+{
+  "id": "shq_co_sleep",
+  "display_name": "SHQ: Does your child currently co-sleep (share the bed) with a parent/caregiver and/or another child 3 or more nights a week",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

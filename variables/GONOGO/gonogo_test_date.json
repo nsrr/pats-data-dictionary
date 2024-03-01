@@ -1,0 +1,7 @@
+{
+  "id": "gonogo_test_date",
+  "display_name": "Go/No-Go: Test date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

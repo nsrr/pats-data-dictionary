@@ -1,0 +1,7 @@
+{
+  "id": "psi_test_date",
+  "display_name": "PSI: Test date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

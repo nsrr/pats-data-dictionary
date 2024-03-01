@@ -1,0 +1,7 @@
+{
+  "id": "chmh_adhd_diagnosed",
+  "display_name": "CHMH: ADD/ADHD was diagnosed or treated by a physician or nurse",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psg_oximetry_signal_quality_grad",
+  "display_name": "PSG QC: Oximetry - Signal Quality Grade",
+  "description": "",
+  "type": "choices",
+  "domain": "signal_quality_grade"
+}

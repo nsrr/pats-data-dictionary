@@ -1,0 +1,7 @@
+{
+  "id": "psg_alpha_intrusion",
+  "display_name": "PSG QC: Physiologic alpha intrusion",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

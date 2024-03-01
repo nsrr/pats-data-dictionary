@@ -1,0 +1,6 @@
+{
+  "id": "oper_surgeon_id",
+  "display_name": "Surgeon's PATS staff ID",
+  "description": "",
+  "type": "text"
+}

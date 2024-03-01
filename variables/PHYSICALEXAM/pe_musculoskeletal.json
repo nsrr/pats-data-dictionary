@@ -1,0 +1,7 @@
+{
+  "id": "pe_musculoskeletal",
+  "display_name": "Physical Exam: Musculoskeletal",
+  "description": "",
+  "type": "choices",
+  "domain": "bpe_normal_abnormal"
+}

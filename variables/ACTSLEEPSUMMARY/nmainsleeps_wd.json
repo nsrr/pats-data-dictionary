@@ -1,0 +1,6 @@
+{
+  "id": "nmainsleeps_wd",
+  "display_name": "[Main Sleep] Number of weekday days main sleep intervals",
+  "description": "",
+  "type": "integer"
+}

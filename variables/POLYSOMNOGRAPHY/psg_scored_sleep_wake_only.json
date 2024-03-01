@@ -1,0 +1,7 @@
+{
+  "id": "psg_scored_sleep_wake_only",
+  "display_name": "PSG QC: Study scored sleep/wake only due to signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

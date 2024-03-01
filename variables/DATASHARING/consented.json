@@ -1,0 +1,7 @@
+{
+  "id": "consented",
+  "display_name": "Subject was consented",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

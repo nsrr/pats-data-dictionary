@@ -1,0 +1,7 @@
+{
+  "id": "chmh_hay_fever",
+  "display_name": "CHMH: Child has had hay fever (sneezing and watery eyes)",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

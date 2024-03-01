@@ -1,0 +1,6 @@
+{
+  "id": "psg_mncanba",
+  "display_name": "PSG Results: Minimum Central Apnea length with arousals (NREM, Back, all desats) (seconds)",
+  "description": "",
+  "type": "integer"
+}

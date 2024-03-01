@@ -1,0 +1,7 @@
+{
+  "id": "oper_tonsils_removed_completely",
+  "display_name": "Tonsils were removed completely",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

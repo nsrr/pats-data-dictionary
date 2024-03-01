@@ -1,0 +1,6 @@
+{
+  "id": "stdoutbedtime_we",
+  "display_name": "[Main Sleep] Standard deviation of out-bed time per main sleep (on weekend days) ",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "time"
+}

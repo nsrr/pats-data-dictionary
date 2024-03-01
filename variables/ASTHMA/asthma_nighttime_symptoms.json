@@ -1,0 +1,6 @@
+{
+  "id": "asthma_nighttime_symptoms",
+  "display_name": "ASTHMA: Nighttime symptoms score (range: 0-3)",
+  "description": "",
+  "type": "integer"
+}

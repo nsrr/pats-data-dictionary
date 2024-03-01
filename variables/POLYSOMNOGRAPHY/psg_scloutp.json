@@ -1,0 +1,6 @@
+{
+  "id": "psg_scloutp",
+  "display_name": "PSG Results: Lights out set by scorer (hh:mm:ss)",
+  "description": "",
+  "type": "time"
+}

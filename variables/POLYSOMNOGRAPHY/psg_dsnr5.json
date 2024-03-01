@@ -1,0 +1,6 @@
+{
+  "id": "psg_dsnr5",
+  "display_name": "PSG Results: Number of desats per hour (NREM, >= 5%)",
+  "description": "",
+  "type": "numeric"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psg_emg_usable_hours",
+  "display_name": "PSG QC: Chin EMG - Approximate hours of usable signal (in sleep)",
+  "description": "",
+  "type": "integer",
+  "units": "hours (hr)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "isaac_wheezing_ever",
+  "display_name": "ISAAC: Child has ever had wheezing or whistling in the chest at any time in the past",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

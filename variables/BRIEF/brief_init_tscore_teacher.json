@@ -1,0 +1,6 @@
+{
+  "id": "brief_init_tscore_teacher",
+  "display_name": "BRIEF: Initiatie scale T score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

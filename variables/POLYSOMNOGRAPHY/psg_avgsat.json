@@ -1,0 +1,7 @@
+{
+  "id": "psg_avgsat",
+  "display_name": "PSG Results: Calculated - Average SaO2 during sleep (%)",
+  "description": "avsao2rh = 0 if missing",
+  "type": "integer",
+  "calculation": "avgsat = ((avsao2nh) * (tmstg1p+tmstg2p+tmstg34p) + (avsao2rh)*(tmremp))/100"
+}

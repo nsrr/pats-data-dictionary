@@ -1,0 +1,6 @@
+{
+  "id": "cbcl_somatic_problems_t",
+  "display_name": "CBCL 6-18: Somatic Problems T score",
+  "description": "",
+  "type": "integer"
+}

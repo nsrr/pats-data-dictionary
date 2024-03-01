@@ -1,0 +1,7 @@
+{
+  "id": "chmh_ear_tubes_surgery",
+  "display_name": "CHMH: Child has had ear tubes surgery",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

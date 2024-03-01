@@ -1,0 +1,7 @@
+{
+  "id": "oper_right_tonsil_size_pre_op",
+  "display_name": "Pre-operation RIGHT tonsil size",
+  "description": "",
+  "type": "choices",
+  "domain": "tonsil_size"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psg_pleth_signal_quality_grade",
+  "display_name": "PSG QC: Pleth - Signal Quality Grade",
+  "description": "",
+  "type": "integer"
+}

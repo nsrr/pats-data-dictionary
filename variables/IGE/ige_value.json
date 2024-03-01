@@ -1,0 +1,7 @@
+{
+  "id": "ige_value",
+  "display_name": "Immunoglobulin E (IgE) Antibody Value (IU/mL)",
+  "description": "Reportable assay range: 0.100 - 2500 IU/mL",
+  "type": "numeric",
+  "units": "international units per milliliter (IU/mL)"
+}

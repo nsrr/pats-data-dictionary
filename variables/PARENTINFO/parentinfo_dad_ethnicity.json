@@ -1,0 +1,7 @@
+{
+  "id": "parentinfo_dad_ethnicity",
+  "display_name": "Father's ethnicity ",
+  "description": "",
+  "type": "choices",
+  "domain": "ethnicity"
+}

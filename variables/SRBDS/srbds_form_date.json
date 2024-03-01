@@ -1,0 +1,7 @@
+{
+  "id": "srbds_form_date",
+  "display_name": "SRBDS: Form date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "chmh_diabetes_diagnosed",
+  "display_name": "CHMH: Diabetes (high blood sugar) was diagnosed or treated by a physician or nurse",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psg_overall_study_quality",
+  "display_name": "PSG QC: Overall study quality",
+  "description": "",
+  "type": "choices",
+  "domain": "study_quality"
+}

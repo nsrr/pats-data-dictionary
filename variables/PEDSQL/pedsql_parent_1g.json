@@ -1,0 +1,7 @@
+{
+  "id": "pedsql_parent_1g",
+  "display_name": "PedsQL Parent: 1g. Having hurts or aches",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_always"
+}

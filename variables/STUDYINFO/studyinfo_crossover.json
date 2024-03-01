@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_crossover",
+  "display_name": "Participant crossed over to the other treatment arm",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

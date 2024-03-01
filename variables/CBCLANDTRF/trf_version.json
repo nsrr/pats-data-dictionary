@@ -1,0 +1,7 @@
+{
+  "id": "trf_version",
+  "display_name": "TRF: Form version",
+  "description": "",
+  "type": "choices",
+  "domain": "trf_version"
+}

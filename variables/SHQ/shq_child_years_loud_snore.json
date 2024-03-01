@@ -1,0 +1,6 @@
+{
+  "id": "shq_child_years_loud_snore",
+  "display_name": "SHQ: Approximately how many years has the snoring been this loud",
+  "description": "Required to answer only if \"shq_child_snore_disturb_ever\" =  1: Yes; Not asked again at 6-month or 12-month visit",
+  "type": "integer"
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "1",
+    "display_name": "Crossover due to confirmed treatment failure",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Crossover due to patient / parent / physician decision",
+    "description": ""
+  }
+]

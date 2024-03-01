@@ -1,0 +1,7 @@
+{
+  "id": "oper_ebl",
+  "display_name": "Ebl",
+  "description": "",
+  "type": "choices",
+  "domain": "eblf"
+}

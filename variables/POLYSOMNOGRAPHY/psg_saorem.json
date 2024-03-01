@@ -1,0 +1,6 @@
+{
+  "id": "psg_saorem",
+  "display_name": "PSG Results: Average SaO2% (REM)",
+  "description": "",
+  "type": "integer"
+}

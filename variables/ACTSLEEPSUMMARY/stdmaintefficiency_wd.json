@@ -1,0 +1,7 @@
+{
+  "id": "stdmaintefficiency_wd",
+  "display_name": "[Main Sleep] Standard deviation of sleep maintainance efficiency per main sleep (on weekday days) (%)",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "numeric",
+  "units": "percent (%)"
+}

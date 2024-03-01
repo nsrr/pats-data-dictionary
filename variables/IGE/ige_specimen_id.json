@@ -1,0 +1,6 @@
+{
+  "id": "ige_specimen_id",
+  "display_name": "Specimen ID Value from Venipuncture Form",
+  "description": "",
+  "type": "text"
+}

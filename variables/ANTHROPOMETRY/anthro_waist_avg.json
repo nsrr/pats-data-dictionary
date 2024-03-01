@@ -1,0 +1,7 @@
+{
+  "id": "anthro_waist_avg",
+  "display_name": "Calculated - Average waist circumference (cm) over three measurements",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters (cm)"
+}

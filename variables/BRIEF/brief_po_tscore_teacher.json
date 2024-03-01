@@ -1,0 +1,6 @@
+{
+  "id": "brief_po_tscore_teacher",
+  "display_name": "BRIEF: Plan/Organize scale T score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

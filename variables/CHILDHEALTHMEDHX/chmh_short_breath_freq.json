@@ -1,0 +1,7 @@
+{
+  "id": "chmh_short_breath_freq",
+  "display_name": "CHMH: In the past year, how often the child had been troubled by shortness of breath when hurrying on level ground or walking up a slight hill",
+  "description": "",
+  "type": "choices",
+  "domain": "rarely_daily"
+}

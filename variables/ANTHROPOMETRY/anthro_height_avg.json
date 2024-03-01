@@ -1,0 +1,7 @@
+{
+  "id": "anthro_height_avg",
+  "display_name": "Calculated - Average standing height (cm) over three measurements",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters (cm)"
+}

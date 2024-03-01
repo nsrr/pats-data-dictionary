@@ -1,0 +1,6 @@
+{
+  "id": "psi_dc_t_score",
+  "display_name": "PSI: Difficult child (DC) scale T score",
+  "description": "",
+  "type": "integer"
+}

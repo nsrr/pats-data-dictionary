@@ -1,0 +1,7 @@
+{
+  "id": "psg_omahi3b",
+  "display_name": "PSG Results: Calculated - Apnea hypopnea index (3% desats) in back",
+  "description": "missing if total sleep time is 0",
+  "type": "numeric",
+  "calculation": "omahi3b = 60*(oarbp + oanbp + marbp +  manrbp + hremba3 + hnrba3)/(remepbp + nremepbp)"
+}

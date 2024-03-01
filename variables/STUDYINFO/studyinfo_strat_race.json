@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_strat_race",
+  "display_name": "Randomization stratification by race",
+  "description": "",
+  "type": "choices",
+  "domain": "start_race"
+}

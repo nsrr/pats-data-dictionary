@@ -1,0 +1,7 @@
+{
+  "id": "psg_avg_obsapnea_length",
+  "display_name": "Average length of each obstructive apnea (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "anthro_hip_avg",
+  "display_name": "Calculated - Average hip circumference (cm) over three measurements",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters (cm)"
+}

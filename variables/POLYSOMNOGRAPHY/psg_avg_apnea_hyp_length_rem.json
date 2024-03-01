@@ -1,0 +1,7 @@
+{
+  "id": "psg_avg_apnea_hyp_length_rem",
+  "display_name": "Average length of each respiratory event ([all apneas] and [all hypopneas]) in REM sleep (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)"
+}

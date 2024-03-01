@@ -1,0 +1,7 @@
+{
+  "id": "psg_f4_signal_quality_grade",
+  "display_name": "PSG QC: F4 - Signal Quality Grade",
+  "description": "",
+  "type": "choices",
+  "domain": "signal_quality_grade"
+}

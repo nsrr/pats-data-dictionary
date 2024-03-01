@@ -1,0 +1,7 @@
+{
+  "id": "psq_remind_i_am_parent",
+  "display_name": "PSQ: 25. I remind my child that I am his/her parent",
+  "description": "",
+  "type": "choices",
+  "domain": "never_always"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "chmh_need_ventilator",
+  "display_name": "CHMH: Child needed a ventilator after birth",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

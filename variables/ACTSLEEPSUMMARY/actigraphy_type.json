@@ -1,0 +1,7 @@
+{
+  "id": "actigraphy_type",
+  "display_name": "Actigraph type",
+  "description": "",
+  "type": "choices",
+  "domain": "actigraphy_type"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "isaac_rash",
+  "display_name": "ISAAC: Child has had an itchy rash which was coming and going for at least 6 months",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

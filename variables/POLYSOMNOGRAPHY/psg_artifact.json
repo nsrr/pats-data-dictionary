@@ -1,0 +1,6 @@
+{
+  "id": "psg_artifact",
+  "display_name": "PSG Results: Total Artifact Time (Unscorable) (minutes)",
+  "description": "",
+  "type": "integer"
+}

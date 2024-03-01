@@ -1,0 +1,7 @@
+{
+  "id": "eod_feel_treated_unfair_response",
+  "display_name": "EOD: 1. If you feel like you have been treated unfairly, what do you usually do",
+  "description": "",
+  "type": "choices",
+  "domain": "treated_unfair_response"
+}

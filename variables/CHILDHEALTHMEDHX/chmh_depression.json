@@ -1,0 +1,7 @@
+{
+  "id": "chmh_depression",
+  "display_name": "CHMH: Child has had depression",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_strat_age",
+  "display_name": "Randomization stratification by age",
+  "description": "",
+  "type": "choices",
+  "domain": "start_age"
+}

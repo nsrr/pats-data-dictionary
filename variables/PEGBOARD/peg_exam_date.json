@@ -1,0 +1,7 @@
+{
+  "id": "peg_exam_date",
+  "display_name": "Pegboard: Exam date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "pe_allergies_dogs",
+  "display_name": "Physical Exam: Allergic to dogs",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

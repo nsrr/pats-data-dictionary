@@ -1,0 +1,7 @@
+{
+  "id": "psg_rdim5ps",
+  "display_name": "PSG Results: Calculated - RDI in supine body position (>= 5% desaturation)",
+  "description": "missing if sleep time in supine position is 0 or if position sensore was not working or if studies scored as sleep/wake ",
+  "type": "numeric",
+  "calculation": "rdim5ps  = 60*(hrembp5 + hnrbp5 + carbp5 + canbp5 + oarbp5 + oanbp5 + marbp5 + manrbp5)/(remepbp+nremepbp)"
+}

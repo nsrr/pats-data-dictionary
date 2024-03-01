@@ -1,0 +1,6 @@
+{
+  "id": "psg_mnoanop",
+  "display_name": "PSG Results: Minimum Obstructive Apnea length (NREM, Other, all desats) (seconds)",
+  "description": "",
+  "type": "integer"
+}

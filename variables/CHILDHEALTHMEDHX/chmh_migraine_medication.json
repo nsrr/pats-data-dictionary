@@ -1,0 +1,7 @@
+{
+  "id": "chmh_migraine_medication",
+  "display_name": "CHMH: Currently taking medication for this migraine headache or chronic severe headache",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

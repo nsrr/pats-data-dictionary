@@ -1,0 +1,7 @@
+{
+  "id": "pe_allergies_molds",
+  "display_name": "Physical Exam: Allergic to molds",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "asthma_days_wheezing_cough",
+  "display_name": "ASTHMA: During the last 14 days, number of days the child had wheezing or tightness in the chest or cough  ",
+  "description": "",
+  "type": "choices",
+  "domain": "casi_section1"
+}

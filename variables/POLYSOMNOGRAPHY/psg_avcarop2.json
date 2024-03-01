@@ -1,0 +1,6 @@
+{
+  "id": "psg_avcarop2",
+  "display_name": "PSG Results: Average Central Apnea length (REM, Other, 2% desat) (seconds)",
+  "description": "",
+  "type": "integer"
+}

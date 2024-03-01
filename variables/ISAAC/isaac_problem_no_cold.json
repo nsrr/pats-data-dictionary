@@ -1,0 +1,7 @@
+{
+  "id": "isaac_problem_no_cold",
+  "display_name": "ISAAC: Child has had a problem with sneezing, or a runny, or a blocked nose when he/she did not have a cold or the flu",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

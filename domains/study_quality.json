@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Fair",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Good",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Very Good",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Excellent",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Outstanding",
+    "description": ""
+  },
+  {
+    "value": "98",
+    "display_name": "Other",
+    "description": ""
+  }
+]

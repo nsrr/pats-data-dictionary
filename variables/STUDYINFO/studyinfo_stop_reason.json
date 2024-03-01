@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_stop_reason",
+  "display_name": "Primary reason that the participation stopped",
+  "description": "",
+  "type": "choices",
+  "domain": "reason_study_stop"
+}

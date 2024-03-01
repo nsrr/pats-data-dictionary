@@ -1,0 +1,7 @@
+{
+  "id": "anthro_bp_sys_avg123",
+  "display_name": "Calculated - Average resting systolic blood pressure (mmHg) over three measurements",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury (mmHg)"
+}

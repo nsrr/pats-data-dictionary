@@ -1,0 +1,7 @@
+{
+  "id": "shq_frequent_awakenings",
+  "display_name": "SHQ: Over the past month, has your child had frequent Awakenings during sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "never_always_notsure"
+}

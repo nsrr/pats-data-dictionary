@@ -1,0 +1,6 @@
+{
+  "id": "psg_avmaropa",
+  "display_name": "PSG Results: Average Mixed Apnea with arousal length (REM, Other, all desats) (seconds)",
+  "description": "",
+  "type": "integer"
+}

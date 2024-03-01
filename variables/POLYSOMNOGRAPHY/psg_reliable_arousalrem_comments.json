@@ -1,0 +1,6 @@
+{
+  "id": "psg_reliable_arousalrem_comments",
+  "display_name": "PSG QC: Comments on unreliable scoring of arousals in REM only",
+  "description": "",
+  "type": "text"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psg_waso",
+  "display_name": "PSG Results: Calculated - Wake time after sleep onset (WASO) (minutes)",
+  "description": "",
+  "type": "integer",
+  "calculation": "waso = timebedp - slpprdp - slplatp"
+}

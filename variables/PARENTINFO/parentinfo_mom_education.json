@@ -1,0 +1,7 @@
+{
+  "id": "parentinfo_mom_education",
+  "display_name": "Mother's highest level of education ",
+  "description": "",
+  "type": "choices",
+  "domain": "education"
+}

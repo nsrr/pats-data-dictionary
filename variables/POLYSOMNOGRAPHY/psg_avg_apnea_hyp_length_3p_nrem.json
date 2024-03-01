@@ -1,0 +1,7 @@
+{
+  "id": "psg_avg_apnea_hyp_length_3p_nrem",
+  "display_name": "Average length of each respiratory event ([all apneas] and [hypopneas with >= 3% oxygen desaturation]) in NREM sleep (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)"
+}

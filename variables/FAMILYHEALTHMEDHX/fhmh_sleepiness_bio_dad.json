@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_sleepiness_bio_dad",
+  "display_name": "FHMH: Biological father has/had excessive Sleepiness (3 or more times per week)",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

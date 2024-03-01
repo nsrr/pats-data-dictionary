@@ -1,0 +1,6 @@
+{
+  "id": "psg_plmcrstg1",
+  "display_name": "PSG Results: Number PLM clusters with resp. events (Stage 1 Sleep)",
+  "description": "",
+  "type": "integer"
+}

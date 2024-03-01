@@ -1,0 +1,6 @@
+{
+  "id": "psg_bpmavg",
+  "display_name": "PSG Results: Average Heart rate (bpm)",
+  "description": "",
+  "type": "integer"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "chmh_stuffy_nose_exercise",
+  "display_name": "CHMH: In the past year, did exercise cause the child to have stuffy or runny nose",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

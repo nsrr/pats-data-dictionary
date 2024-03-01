@@ -1,0 +1,7 @@
+{
+  "id": "chmh_alte_medication",
+  "display_name": "CHMH: Currently taking medication for this ALTE ",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_treat_stop_reason",
+  "display_name": "Primary reason that the participant's treatment was stopped",
+  "description": "",
+  "type": "choices",
+  "domain": "reason_treatmemt_stop"
+}

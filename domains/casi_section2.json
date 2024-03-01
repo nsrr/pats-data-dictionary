@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "0-1 night",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "2 nights",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "3-4 nights",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "5-14 nights",
+    "description": ""
+  }
+]

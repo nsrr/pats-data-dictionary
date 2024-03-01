@@ -1,0 +1,7 @@
+{
+  "id": "oper_complications__6",
+  "display_name": "Complications with the surgical procedure: Return to OR (control hemorrhage)",
+  "description": "",
+  "type": "choices",
+  "domain": "checked"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "No change",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Increased",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Decreased",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Not Sure",
+    "description": ""
+  }
+]

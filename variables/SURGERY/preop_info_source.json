@@ -1,0 +1,7 @@
+{
+  "id": "preop_info_source",
+  "display_name": "Information source of this ENT evaluation ",
+  "description": "",
+  "type": "choices",
+  "domain": "info_source"
+}

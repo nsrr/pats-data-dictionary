@@ -1,0 +1,7 @@
+{
+  "id": "actigraphy_scorer",
+  "display_name": "Actigraphy scorer",
+  "description": "",
+  "type": "choices",
+  "domain": "actigraphy_scorer"
+}

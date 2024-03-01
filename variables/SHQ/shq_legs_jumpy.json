@@ -1,0 +1,7 @@
+{
+  "id": "shq_legs_jumpy",
+  "display_name": "SHQ: Over the past month, has your child's Legs been jumpy or jerky during sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "never_always_notsure"
+}

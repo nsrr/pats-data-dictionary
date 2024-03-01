@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Position I",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Position II",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Position III",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Position IV",
+    "description": ""
+  },
+  {
+    "value": "99",
+    "display_name": "Not Done",
+    "description": ""
+  }
+]

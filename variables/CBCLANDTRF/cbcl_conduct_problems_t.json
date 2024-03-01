@@ -1,0 +1,6 @@
+{
+  "id": "cbcl_conduct_problems_t",
+  "display_name": "CBCL 6-18: Conduct Problems T score",
+  "description": "",
+  "type": "integer"
+}

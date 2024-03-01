@@ -1,0 +1,7 @@
+{
+  "id": "psi_r26",
+  "display_name": "PSI: 26. My child generally wakes up in a bad mood",
+  "description": "",
+  "type": "choices",
+  "domain": "psi_agree"
+}

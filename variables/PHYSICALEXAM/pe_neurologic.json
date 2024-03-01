@@ -1,0 +1,7 @@
+{
+  "id": "pe_neurologic",
+  "display_name": "Physical Exam: Neurologic",
+  "description": "",
+  "type": "choices",
+  "domain": "bpe_normal_abnormal"
+}

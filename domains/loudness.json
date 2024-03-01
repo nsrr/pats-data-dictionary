@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Only slightly louder than heavy breathing",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "About as loud as mumbling or talking",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Louder than talking",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Extremely loud = can be heard through closed doors",
+    "description": ""
+  },
+  {
+    "value": "88",
+    "display_name": "Not Sure",
+    "description": ""
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_sluggish_tempo_p",
+  "display_name": "CBCL 6-18: Sluggish Cognitive Tempo percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

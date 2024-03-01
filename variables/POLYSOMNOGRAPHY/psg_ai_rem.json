@@ -1,0 +1,7 @@
+{
+  "id": "psg_ai_rem",
+  "display_name": "PSG Results: Calculated - Arousal index for sleep in REM stage",
+  "description": "missing if study scored as sleep/wake or where arousals were ignored or where time in REM is zero",
+  "type": "numeric",
+  "calculation": "ai_rem = 60*(arrembp + arremop)/minremp"
+}

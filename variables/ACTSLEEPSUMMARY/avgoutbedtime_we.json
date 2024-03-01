@@ -1,0 +1,6 @@
+{
+  "id": "avgoutbedtime_we",
+  "display_name": "[Main Sleep] Average out-bed time per main sleep (on weekend days) ",
+  "description": "",
+  "type": "time"
+}

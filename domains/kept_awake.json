@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Never in the last 12 months",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Less than one night per week",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "One or more nights per week",
+    "description": ""
+  }
+]

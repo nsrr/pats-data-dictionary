@@ -1,0 +1,7 @@
+{
+  "id": "randomized",
+  "display_name": "Subject was randomized",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

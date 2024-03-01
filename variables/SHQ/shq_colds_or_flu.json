@@ -1,0 +1,7 @@
+{
+  "id": "shq_colds_or_flu",
+  "display_name": "SHQ: In the past 6 months, has your child had frequent colds or flu",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

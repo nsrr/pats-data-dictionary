@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_study_completion",
+  "display_name": "Participant completed 12-month endpoint visit",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

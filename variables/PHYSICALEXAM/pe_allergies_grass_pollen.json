@@ -1,0 +1,7 @@
+{
+  "id": "pe_allergies_grass_pollen",
+  "display_name": "Physical Exam: Allergic to grass or pollen",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

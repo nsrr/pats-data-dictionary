@@ -1,0 +1,7 @@
+{
+  "id": "psg_obstructive_apnea_index",
+  "display_name": "PSG QC: Obstructive-Apnea Index (OAI) (events per hour)",
+  "description": "",
+  "type": "numeric",
+  "units": "number of events per hour"
+}

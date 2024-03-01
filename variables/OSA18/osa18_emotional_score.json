@@ -1,0 +1,7 @@
+{
+  "id": "osa18_emotional_score",
+  "display_name": "OSA-18: Calculated - Emotional Symptoms Score (Range: 3-21)",
+  "description": "",
+  "type": "integer",
+  "calculation": "Sum of 3a-3c + 3"
+}

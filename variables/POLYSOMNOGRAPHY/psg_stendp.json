@@ -1,0 +1,6 @@
+{
+  "id": "psg_stendp",
+  "display_name": "PSG Results: Study end time (hh:mm:ss)",
+  "description": "",
+  "type": "time"
+}

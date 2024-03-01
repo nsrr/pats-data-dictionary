@@ -1,0 +1,6 @@
+{
+  "id": "psg_cardnba",
+  "display_name": "PSG Results: Central Apnea per hour with arousals (NREM, Back, all desats)",
+  "description": "",
+  "type": "numeric"
+}

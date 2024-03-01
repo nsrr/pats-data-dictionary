@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_externalizing_problems_p",
+  "display_name": "CBCL: Externalizing Problems percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

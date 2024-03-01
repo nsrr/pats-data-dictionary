@@ -1,0 +1,7 @@
+{
+  "id": "chmh_phlegm",
+  "display_name": "CHMH: In the past year, child usually brought up phlegm from the chest ",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

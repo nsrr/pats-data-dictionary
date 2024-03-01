@@ -1,0 +1,6 @@
+{
+  "id": "brief_tm_tscore_parent",
+  "display_name": "BRIEF: Second Edition Task-Monitor scale T score (parent-completed)",
+  "description": "",
+  "type": "integer"
+}

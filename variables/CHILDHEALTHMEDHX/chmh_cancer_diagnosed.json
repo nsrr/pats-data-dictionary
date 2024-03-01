@@ -1,0 +1,7 @@
+{
+  "id": "chmh_cancer_diagnosed",
+  "display_name": "CHMH: Cancer was diagnosed or treated by a physician or nurse",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

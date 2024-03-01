@@ -1,0 +1,6 @@
+{
+  "id": "trf_somatic_complaints_t",
+  "display_name": "TRF: Somatic Complaints T score",
+  "description": "",
+  "type": "integer"
+}

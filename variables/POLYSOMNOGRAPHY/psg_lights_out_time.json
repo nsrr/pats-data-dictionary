@@ -1,0 +1,6 @@
+{
+  "id": "psg_lights_out_time",
+  "display_name": "PSG QC: Lights out time (scorer-reported) ",
+  "description": "",
+  "type": "time"
+}

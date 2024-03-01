@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Screening Visit",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Baseline Visit",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Month-6 Interim Visit",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Month-12 Endpoint Visit",
+    "description": ""
+  }
+]

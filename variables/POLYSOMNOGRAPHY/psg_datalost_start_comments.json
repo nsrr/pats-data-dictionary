@@ -1,0 +1,6 @@
+{
+  "id": "psg_datalost_start_comments",
+  "display_name": "PSG QC: Comments on data lost due to recording began in sleep",
+  "description": "",
+  "type": "text"
+}

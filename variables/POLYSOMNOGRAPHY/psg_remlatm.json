@@ -1,0 +1,6 @@
+{
+  "id": "psg_remlatm",
+  "display_name": "PSG Results: REM Latency I (minutes .5)",
+  "description": "",
+  "type": "numeric"
+}

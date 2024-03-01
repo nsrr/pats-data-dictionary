@@ -1,0 +1,6 @@
+{
+  "id": "srbds_sno_nonmiss_items",
+  "display_name": "SRBDS: Snoring Subscale: Number of items answered without missing (Range: 0-4)",
+  "description": "",
+  "type": "integer"
+}

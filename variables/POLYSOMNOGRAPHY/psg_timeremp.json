@@ -1,0 +1,6 @@
+{
+  "id": "psg_timeremp",
+  "display_name": "PSG Results: Calculated - Percent sleep time in REM sleep (%)",
+  "description": "same as tmremp; missing if study with problems scoring REM/NREM",
+  "type": "numeric"
+}

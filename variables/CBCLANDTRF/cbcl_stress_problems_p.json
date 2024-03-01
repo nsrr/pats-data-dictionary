@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_stress_problems_p",
+  "display_name": "CBCL: Stress Problems percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

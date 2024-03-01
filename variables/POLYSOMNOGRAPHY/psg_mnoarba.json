@@ -1,0 +1,6 @@
+{
+  "id": "psg_mnoarba",
+  "display_name": "PSG Results: Minimum Obstructive Apnea length with arousals (REM, Back, all desats) (seconds)",
+  "description": "",
+  "type": "integer"
+}

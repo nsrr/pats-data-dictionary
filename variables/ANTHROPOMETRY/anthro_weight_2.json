@@ -1,0 +1,7 @@
+{
+  "id": "anthro_weight_2",
+  "display_name": "Current weight (kg) - measurement 2",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms (kg)"
+}

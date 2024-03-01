@@ -1,0 +1,6 @@
+{
+  "id": "asthma_composite_severity_index",
+  "display_name": "ASTHMA: Composite asthma severity index score (range: 0-15)",
+  "description": "",
+  "type": "integer"
+}

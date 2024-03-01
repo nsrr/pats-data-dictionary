@@ -1,0 +1,7 @@
+{
+  "id": "oper_tonsil_removal_technique",
+  "display_name": "Surgical technique used for Tonsil removal",
+  "description": "",
+  "type": "choices",
+  "domain": "tonsil_removal"
+}

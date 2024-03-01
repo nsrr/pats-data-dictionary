@@ -1,0 +1,6 @@
+{
+  "id": "psg_remepop",
+  "display_name": "PSG Results: Sleep Time (REM, Other) (minutes)",
+  "description": "",
+  "type": "integer"
+}

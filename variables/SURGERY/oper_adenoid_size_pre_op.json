@@ -1,0 +1,7 @@
+{
+  "id": "oper_adenoid_size_pre_op",
+  "display_name": "Pre-operation Adenoid size",
+  "description": "",
+  "type": "choices",
+  "domain": "adenoid_size"
+}

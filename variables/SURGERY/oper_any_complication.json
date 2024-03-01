@@ -1,0 +1,7 @@
+{
+  "id": "oper_any_complication",
+  "display_name": "There were any complications with the surgical procedure",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

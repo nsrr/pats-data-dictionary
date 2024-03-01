@@ -1,0 +1,7 @@
+{
+  "id": "anthro_weight_avg",
+  "display_name": "Calculated - Average current weight (kg) over three measurements",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms (kg)"
+}

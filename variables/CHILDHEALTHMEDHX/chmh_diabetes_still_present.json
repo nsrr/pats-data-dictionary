@@ -1,0 +1,7 @@
+{
+  "id": "chmh_diabetes_still_present",
+  "display_name": "CHMH: Diabetes (high blood sugar) is still present",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

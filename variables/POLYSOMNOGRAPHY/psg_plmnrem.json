@@ -1,0 +1,6 @@
+{
+  "id": "psg_plmnrem",
+  "display_name": "PSG Results: Number PLMs (NREM)",
+  "description": "",
+  "type": "integer"
+}

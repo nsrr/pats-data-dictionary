@@ -1,0 +1,7 @@
+{
+  "id": "trf_obsessive_compulsive_p",
+  "display_name": "TRF 6-18: Obsessive-Compulsive Problems percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

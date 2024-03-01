@@ -1,0 +1,6 @@
+{
+  "id": "psg_remlaip",
+  "display_name": "PSG Results: REM Latency I - including wake time (minutes)",
+  "description": "",
+  "type": "integer"
+}

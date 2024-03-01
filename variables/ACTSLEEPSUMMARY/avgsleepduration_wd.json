@@ -1,0 +1,7 @@
+{
+  "id": "avgsleepduration_wd",
+  "display_name": "[Main Sleep] Average time spent asleep per main sleep (on weekday days) (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "chmh_eczema_diagnosed",
+  "display_name": "CHMH: Eczema/atopic dematities (long-term, red, itchy skin) was diagnosed or treated by a physician or nurse",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

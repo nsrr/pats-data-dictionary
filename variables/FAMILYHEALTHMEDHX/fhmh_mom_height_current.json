@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_mom_height_current",
+  "display_name": "FHMH: Mother's current height (feet) ",
+  "description": "",
+  "type": "numeric",
+  "units": "feet (ft)"
+}

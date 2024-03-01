@@ -1,0 +1,6 @@
+{
+  "id": "isaac_num_of_overnight_hospital",
+  "display_name": "ISAAC: In the last 12 months, number of times the child has been in the hospital overnight for asthma/wheezing",
+  "description": "",
+  "type": "integer"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "preop_left_tonsil_size",
+  "display_name": "Child's current LEFT tonsil size?",
+  "description": "",
+  "type": "choices",
+  "domain": "tonsil_size"
+}

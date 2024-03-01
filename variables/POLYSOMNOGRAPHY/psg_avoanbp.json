@@ -1,0 +1,6 @@
+{
+  "id": "psg_avoanbp",
+  "display_name": "PSG Results: Average Obstructive Apnea length (NREM, Back, all desats) (seconds)",
+  "description": "",
+  "type": "integer"
+}

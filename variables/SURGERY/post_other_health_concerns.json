@@ -1,0 +1,7 @@
+{
+  "id": "post_other_health_concerns",
+  "display_name": "There are other major health concerns",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

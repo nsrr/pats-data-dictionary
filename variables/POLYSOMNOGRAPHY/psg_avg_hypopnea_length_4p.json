@@ -1,0 +1,7 @@
+{
+  "id": "psg_avg_hypopnea_length_4p",
+  "display_name": "Average length of each hypopnea with >= 4% oxygen desaturation (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)"
+}

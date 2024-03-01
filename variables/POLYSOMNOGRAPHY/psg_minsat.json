@@ -1,0 +1,7 @@
+{
+  "id": "psg_minsat",
+  "display_name": "PSG Results: Calculated - Minimum SaO2 during sleep (%)",
+  "description": "",
+  "type": "integer",
+  "calculation": "minsat = min(losao2r,losao2nr)"
+}

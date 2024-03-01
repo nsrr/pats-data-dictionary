@@ -1,0 +1,7 @@
+{
+  "id": "chmh_allergies_positive_cats",
+  "display_name": "CHMH: Allergy tested positive for cats",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

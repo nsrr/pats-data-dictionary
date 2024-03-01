@@ -1,0 +1,6 @@
+{
+  "id": "cotinine_2022_percv",
+  "display_name": "Urinary cotinine %CV (based on mean of replicates for individual samples) (2022 analysis)",
+  "description": "Each patient urine aliquot was run in duplicate on the Cotinine ELISA kit.Ê The %CV indicates the variation between the replicates.Ê We usually like to see a % CV that is less than 20%. The Cotinine result is the mean value of the replicates.",
+  "type": "numeric"
+}

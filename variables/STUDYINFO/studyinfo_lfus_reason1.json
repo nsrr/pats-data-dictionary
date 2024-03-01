@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_lfus_reason1",
+  "display_name": "Secondary reason to end participation: No longer interested in participation",
+  "description": "",
+  "type": "choices",
+  "domain": "checked"
+}

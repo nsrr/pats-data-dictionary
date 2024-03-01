@@ -1,0 +1,7 @@
+{
+  "id": "pedsql_child_2a",
+  "display_name": "PedsQL Child: 2a. Feel scared or afraid",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_always"
+}

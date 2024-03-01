@@ -1,0 +1,7 @@
+{
+  "id": "psq_consider_plans_family",
+  "display_name": "PSQ: 9. I consider my child's preferences when I make plans for the family (e.g., weekends away and holidays)",
+  "description": "",
+  "type": "choices",
+  "domain": "never_always"
+}

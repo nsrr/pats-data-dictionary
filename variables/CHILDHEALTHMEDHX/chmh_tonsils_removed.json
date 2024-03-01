@@ -1,0 +1,7 @@
+{
+  "id": "chmh_tonsils_removed",
+  "display_name": "CHMH: Child has had tonsils removal surgery",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

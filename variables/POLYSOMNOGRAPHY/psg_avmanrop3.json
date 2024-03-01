@@ -1,0 +1,6 @@
+{
+  "id": "psg_avmanrop3",
+  "display_name": "PSG Results: Average Mixed Apnea length (NREM, Other, 3% desat) (seconds)",
+  "description": "",
+  "type": "integer"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psg_plmcrem",
+  "display_name": "PSG Results: Number PLM clusters (REM)",
+  "description": "",
+  "type": "integer"
+}

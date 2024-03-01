@@ -1,0 +1,6 @@
+{
+  "id": "psg_pcstahda",
+  "display_name": "PSG Results: Percent sleep time in Apnea+Hypopnea with > 3% desat or arousal",
+  "description": "",
+  "type": "numeric"
+}

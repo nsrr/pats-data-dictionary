@@ -1,0 +1,6 @@
+{
+  "id": "psg_bpmmax",
+  "display_name": "PSG Results: Highest Heart rate (bpm)",
+  "description": "",
+  "type": "integer"
+}

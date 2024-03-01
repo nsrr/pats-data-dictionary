@@ -1,0 +1,7 @@
+{
+  "id": "realm_fatigue",
+  "display_name": "REALM: 4. Fatigue",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

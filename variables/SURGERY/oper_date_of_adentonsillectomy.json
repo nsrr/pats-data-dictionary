@@ -1,0 +1,7 @@
+{
+  "id": "oper_date_of_adentonsillectomy",
+  "display_name": "Date adentonsillectomy performed",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

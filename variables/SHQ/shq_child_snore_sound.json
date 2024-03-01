@@ -1,0 +1,7 @@
+{
+  "id": "shq_child_snore_sound",
+  "display_name": "SHQ: In the last month, has the snoring sounded",
+  "description": "Required to answer only if \"shq_child_snored_last_month\" =  1: Yes",
+  "type": "choices",
+  "domain": "child_snore"
+}

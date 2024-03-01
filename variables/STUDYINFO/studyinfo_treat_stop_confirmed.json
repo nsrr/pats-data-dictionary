@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_treat_stop_confirmed",
+  "display_name": "The medical monitor confirmed this to be a treatment failure",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

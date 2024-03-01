@@ -1,0 +1,6 @@
+{
+  "id": "shq_sleepduration_weekdays",
+  "display_name": "SHQ: Calculated - Sleep duration on weekdays (hours)",
+  "description": "Time lapse between \"shq_bed_weekdays\" and \"shq_woken_weekdays\"",
+  "type": "numeric"
+}

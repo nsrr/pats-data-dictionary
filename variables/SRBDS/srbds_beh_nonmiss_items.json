@@ -1,0 +1,6 @@
+{
+  "id": "srbds_beh_nonmiss_items",
+  "display_name": "SRBDS: Behavioral Subscale: Number of items answered without missing (Range: 0-6)",
+  "description": "",
+  "type": "integer"
+}

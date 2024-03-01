@@ -1,0 +1,7 @@
+{
+  "id": "oper_complications__2",
+  "display_name": "Complications with the surgical procedure: Burns to soft tissue",
+  "description": "",
+  "type": "choices",
+  "domain": "checked"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "shq_sleep_vary_hours",
+  "display_name": "SHQ: How many hours more or less was your child's sleep period last night compared to their normal routine",
+  "description": "Required to answer only if \"shq_sleep_vary\" =  1: Yes",
+  "type": "integer"
+}

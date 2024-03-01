@@ -1,0 +1,7 @@
+{
+  "id": "psq_ignore_behavior",
+  "display_name": "PSQ: 30. I ignore my child's bad behavior",
+  "description": "",
+  "type": "choices",
+  "domain": "never_always"
+}

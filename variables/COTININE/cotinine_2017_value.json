@@ -1,0 +1,6 @@
+{
+  "id": "cotinine_2017_value",
+  "display_name": "Urinary cotinine value (ng/mL) (2017 analysis of 82 samples)",
+  "description": "Retained as character formatted variable; 60/82 entries are \"<50\". Decision was made 3/7/2022 by SR to use 2022 values as the primary analytic variable.",
+  "type": "text"
+}

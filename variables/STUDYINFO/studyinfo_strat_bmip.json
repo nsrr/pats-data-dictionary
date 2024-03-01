@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_strat_bmip",
+  "display_name": "Randomization stratification by BMI percentile",
+  "description": "",
+  "type": "choices",
+  "domain": "start_bmi"
+}

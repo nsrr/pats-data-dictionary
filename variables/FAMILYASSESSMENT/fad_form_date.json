@@ -1,0 +1,7 @@
+{
+  "id": "fad_form_date",
+  "display_name": "FAD: Form date",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

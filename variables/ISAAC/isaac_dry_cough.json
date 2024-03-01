@@ -1,0 +1,7 @@
+{
+  "id": "isaac_dry_cough",
+  "display_name": "ISAAC: In the last 12 months,child has had a dry cough at night not associated with a cold or a chest infection",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

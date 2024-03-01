@@ -1,0 +1,7 @@
+{
+  "id": "psq_authoritarian",
+  "display_name": "PSQ: Calculated - Authoritarian parent behavior (Range: 1-5)",
+  "description": "",
+  "type": "numeric",
+  "calculation": "(Sum score from Q14 to Q26)/13"
+}

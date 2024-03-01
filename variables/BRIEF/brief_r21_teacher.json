@@ -1,0 +1,7 @@
+{
+  "id": "brief_r21_teacher",
+  "display_name": "BRIEF: Item 21 response (teacher-completed)",
+  "description": "",
+  "type": "choices",
+  "domain": "brief_item_response"
+}

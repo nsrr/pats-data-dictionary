@@ -1,0 +1,7 @@
+{
+  "id": "fhmh_mom_weight_birth",
+  "display_name": "FHMH: Mother's weight at child's birth (pounds) ",
+  "description": "",
+  "type": "numeric",
+  "units": "pounds (lb)"
+}

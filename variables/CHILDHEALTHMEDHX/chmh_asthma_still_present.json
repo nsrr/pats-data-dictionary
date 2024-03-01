@@ -1,0 +1,7 @@
+{
+  "id": "chmh_asthma_still_present",
+  "display_name": "CHMH: Ashma is still present",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "avgnapsleepduration",
+  "display_name": "[Nap] Average time spent asleep in naps per day (all days) (minutes)",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psg_plmi_gt25",
+  "display_name": "PSG QC. Periodic leg movement index > 25 events per hour in sleep verified ",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

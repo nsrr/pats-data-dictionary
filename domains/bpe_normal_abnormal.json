@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Normal",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Abnormal",
+    "description": ""
+  },
+  {
+    "value": "99",
+    "display_name": "Not Done",
+    "description": ""
+  }
+]

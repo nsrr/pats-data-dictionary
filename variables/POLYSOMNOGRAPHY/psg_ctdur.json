@@ -1,0 +1,6 @@
+{
+  "id": "psg_ctdur",
+  "display_name": "PSG Results: Total Central Apnea Length (minutes)",
+  "description": "",
+  "type": "numeric"
+}

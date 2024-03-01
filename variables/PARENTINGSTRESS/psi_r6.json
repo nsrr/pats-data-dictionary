@@ -1,0 +1,7 @@
+{
+  "id": "psi_r6",
+  "display_name": "PSI: 6. I am unhappy with the last purchase of clothing I made for myself",
+  "description": "",
+  "type": "choices",
+  "domain": "psi_agree"
+}

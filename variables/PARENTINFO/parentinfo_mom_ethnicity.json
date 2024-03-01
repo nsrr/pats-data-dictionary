@@ -1,0 +1,7 @@
+{
+  "id": "parentinfo_mom_ethnicity",
+  "display_name": "Mother's ethnicity ",
+  "description": "",
+  "type": "choices",
+  "domain": "ethnicity"
+}

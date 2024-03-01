@@ -1,0 +1,7 @@
+{
+  "id": "chmh_born_prematurely",
+  "display_name": "CHMH: Child was born early (prematurely, or 4 or more weeks early) ",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

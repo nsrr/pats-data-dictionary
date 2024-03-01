@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_lfus_reason4",
+  "display_name": "Secondary reason to end participation: Dissatisfied with treatment",
+  "description": "",
+  "type": "choices",
+  "domain": "checked"
+}

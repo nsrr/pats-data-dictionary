@@ -1,0 +1,7 @@
+{
+  "id": "chmh_high_chol_diagnosed",
+  "display_name": "CHMH: High cholesterol was diagnosed or treated by a physician or nurse",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

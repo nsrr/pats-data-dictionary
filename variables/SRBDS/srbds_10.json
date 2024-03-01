@@ -1,0 +1,7 @@
+{
+  "id": "srbds_10",
+  "display_name": "SRBDS: 10. Wake up feeling unrefreshed in the morning",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_dontknow"
+}

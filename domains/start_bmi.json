@@ -1,0 +1,12 @@
+[
+  {
+    "value": "1",
+    "display_name": "BMI =< 85th percentile",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "BMI > 85th percentile",
+    "description": ""
+  }
+]

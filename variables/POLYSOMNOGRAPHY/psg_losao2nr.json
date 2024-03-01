@@ -1,0 +1,6 @@
+{
+  "id": "psg_losao2nr",
+  "display_name": "PSG Results: Calculated - Minimum SaO2 in NREM sleep (%)",
+  "description": "same as mnsao2nh; missing if mnsao2nh = 0;",
+  "type": "integer"
+}

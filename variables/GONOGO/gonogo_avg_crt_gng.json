@@ -1,0 +1,7 @@
+{
+  "id": "gonogo_avg_crt_gng",
+  "display_name": "Go/No-Go: Average reaction time of correct trials in seconds (Inhibitory Control/GNG Block) ",
+  "description": "",
+  "type": "integer",
+  "units": "seconds (s)"
+}

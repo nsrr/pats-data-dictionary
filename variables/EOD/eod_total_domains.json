@@ -1,0 +1,6 @@
+{
+  "id": "eod_total_domains",
+  "display_name": "EOD: Calculated - Total experiences of discrimination score (range: 0-9)",
+  "description": "",
+  "type": "integer"
+}

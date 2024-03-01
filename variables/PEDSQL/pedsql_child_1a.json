@@ -1,0 +1,7 @@
+{
+  "id": "pedsql_child_1a",
+  "display_name": "PedsQL Child: 1a. Hard to walk/Hard to walk more than one block",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_always"
+}

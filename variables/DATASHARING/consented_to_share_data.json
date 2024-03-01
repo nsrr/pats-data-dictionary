@@ -1,0 +1,7 @@
+{
+  "id": "consented_to_share_data",
+  "display_name": "Subject consented to share data publicly",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

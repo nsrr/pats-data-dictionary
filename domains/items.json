@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Once",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2 or 3 times",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "4 or more times",
+    "description": ""
+  }
+]

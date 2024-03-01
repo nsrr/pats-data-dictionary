@@ -1,0 +1,6 @@
+{
+  "id": "psg_notcc",
+  "display_name": "PSG Results: Number of Tachycardia  related to Central Apnea (Sleep time)",
+  "description": "",
+  "type": "integer"
+}

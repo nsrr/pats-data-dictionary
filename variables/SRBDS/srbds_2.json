@@ -1,0 +1,7 @@
+{
+  "id": "srbds_2",
+  "display_name": "SRBDS: 2. Always snore",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_dontknow"
+}

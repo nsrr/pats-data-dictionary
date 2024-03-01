@@ -1,0 +1,7 @@
+{
+  "id": "cbcl_social_problems_p",
+  "display_name": "CBCL 6-18: Social Problems percentile (%)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

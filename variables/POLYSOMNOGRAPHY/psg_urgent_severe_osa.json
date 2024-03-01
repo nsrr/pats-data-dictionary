@@ -1,0 +1,7 @@
+{
+  "id": "psg_urgent_severe_osa",
+  "display_name": "PSG QC: Urgent Referral - OAI > 20 or AHI > 30 (severe OSA)",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "avgmaintefficiency_we",
+  "display_name": "[Main Sleep] Average sleep maintainance efficiency per main sleep (on weekdend days) (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)"
+}

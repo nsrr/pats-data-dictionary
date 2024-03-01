@@ -1,0 +1,6 @@
+{
+  "id": "psg_cardrop",
+  "display_name": "PSG Results: Central Apnea per hour (REM, Other, all desats)",
+  "description": "",
+  "type": "numeric"
+}

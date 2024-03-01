@@ -1,0 +1,7 @@
+{
+  "id": "psg_airflow_usable_hours",
+  "display_name": "PSG QC: Airflow - Approximate hours of usable signal (in sleep)",
+  "description": "",
+  "type": "integer",
+  "units": "hours (hr)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "gonogo_never_hit_gng",
+  "display_name": "Go/No-Go: Never hitting the buttons flag (not catching sharks or fish) (Inhibitory Control/GNG Block)",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

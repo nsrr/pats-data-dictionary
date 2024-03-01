@@ -1,0 +1,7 @@
+{
+  "id": "pe_constitutional",
+  "display_name": "Physical Exam: Constitutional",
+  "description": "",
+  "type": "choices",
+  "domain": "bpe_normal_abnormal"
+}

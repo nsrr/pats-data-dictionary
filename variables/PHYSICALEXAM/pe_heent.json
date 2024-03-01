@@ -1,0 +1,7 @@
+{
+  "id": "pe_heent",
+  "display_name": "Physical Exam: Head, Eye, Ear, Nose and Throat (HEENT)",
+  "description": "",
+  "type": "choices",
+  "domain": "bpe_normal_abnormal"
+}

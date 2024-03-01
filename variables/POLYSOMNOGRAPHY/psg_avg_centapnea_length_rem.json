@@ -1,0 +1,7 @@
+{
+  "id": "psg_avg_centapnea_length_rem",
+  "display_name": "Average length of each central apnea in REM sleep (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "avgmovementindex",
+  "display_name": "[Main Sleep] Average movement index per main sleep (all days) (%)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)"
+}

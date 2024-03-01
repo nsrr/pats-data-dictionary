@@ -1,0 +1,6 @@
+{
+  "id": "brief_emi_tscore_teacher",
+  "display_name": "BRIEF: Preschool Version Emergent metacognition (EMI) index T score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

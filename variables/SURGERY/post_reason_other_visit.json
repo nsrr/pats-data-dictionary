@@ -1,0 +1,7 @@
+{
+  "id": "post_reason_other_visit",
+  "display_name": "Reason for required evaluation",
+  "description": "",
+  "type": "choices",
+  "domain": "post_surgery"
+}

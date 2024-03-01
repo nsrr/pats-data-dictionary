@@ -1,0 +1,6 @@
+{
+  "id": "brief_eri_tscore_teacher",
+  "display_name": "BRIEF: Second Edition Emotion Regulation (ERI) index T score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

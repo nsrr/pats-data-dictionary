@@ -1,0 +1,47 @@
+[
+  {
+    "value": "1",
+    "display_name": "No longer interested in participation",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Time constraints",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Transportation issues",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Dissatisfied with treatment",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Health concerns",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Decided my child should have surgery",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Decided my child should not have surgery",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Moved out of area",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Other concern",
+    "description": ""
+  }
+]

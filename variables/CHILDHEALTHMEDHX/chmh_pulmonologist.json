@@ -1,0 +1,7 @@
+{
+  "id": "chmh_pulmonologist",
+  "display_name": "CHMH: Child has been referred to pulmonologist (lung doctor)",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

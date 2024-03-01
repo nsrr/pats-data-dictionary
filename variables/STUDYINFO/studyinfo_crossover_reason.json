@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_crossover_reason",
+  "display_name": "Primary reason to cross over to the other treatment arm",
+  "description": "",
+  "type": "choices",
+  "domain": "crossover_reason"
+}

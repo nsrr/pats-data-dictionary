@@ -1,0 +1,7 @@
+{
+  "id": "pe_left_tonsil_size",
+  "display_name": "Physical Exam: Current left tonsil size",
+  "description": "",
+  "type": "choices",
+  "domain": "tonsil_size"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "psg_canoa",
+  "display_name": "PSG Results: Number of Central Apnea with arousals (NREM, Other, all desats)",
+  "description": "",
+  "type": "integer"
+}

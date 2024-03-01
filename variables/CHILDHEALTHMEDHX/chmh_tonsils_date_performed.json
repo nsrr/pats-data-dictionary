@@ -1,0 +1,7 @@
+{
+  "id": "chmh_tonsils_date_performed",
+  "display_name": "CHMH: Date Performed (or best estimate) tonsils removal surgery",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

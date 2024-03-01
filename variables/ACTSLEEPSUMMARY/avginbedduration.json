@@ -1,0 +1,7 @@
+{
+  "id": "avginbedduration",
+  "display_name": "[Main Sleep] Average in-bed duration per main sleep (all days) (minutes)",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

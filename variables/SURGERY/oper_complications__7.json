@@ -1,0 +1,7 @@
+{
+  "id": "oper_complications__7",
+  "display_name": "Complications with the surgical procedure: Re-intubation requiring unanticipated ICU admission",
+  "description": "",
+  "type": "choices",
+  "domain": "checked"
+}

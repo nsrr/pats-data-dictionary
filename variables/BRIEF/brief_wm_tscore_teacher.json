@@ -1,0 +1,6 @@
+{
+  "id": "brief_wm_tscore_teacher",
+  "display_name": "BRIEF: Working Memory scale T score (teacher-completed)",
+  "description": "",
+  "type": "integer"
+}

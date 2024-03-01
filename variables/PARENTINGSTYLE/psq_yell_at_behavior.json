@@ -1,0 +1,7 @@
+{
+  "id": "psq_yell_at_behavior",
+  "display_name": "PSQ: 16. I yell when I disapprove of my child's behavior",
+  "description": "",
+  "type": "choices",
+  "domain": "never_always"
+}

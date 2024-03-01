@@ -1,0 +1,7 @@
+{
+  "id": "srbds_1",
+  "display_name": "SRBDS: 1. Snore more than half the time",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_dontknow"
+}

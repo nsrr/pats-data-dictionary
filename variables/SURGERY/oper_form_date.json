@@ -1,0 +1,7 @@
+{
+  "id": "oper_form_date",
+  "display_name": "Intra-Operative Data Sheet date of entry",
+  "description": "",
+  "type": "date",
+  "units": "yyyy-mm-dd"
+}

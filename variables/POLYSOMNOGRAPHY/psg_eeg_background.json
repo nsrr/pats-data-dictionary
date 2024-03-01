@@ -1,0 +1,7 @@
+{
+  "id": "psg_eeg_background",
+  "display_name": "PSG QC: Abnormal EEG background/waveforms",
+  "description": "",
+  "type": "choices",
+  "domain": "no0_yes1"
+}

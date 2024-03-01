@@ -1,0 +1,7 @@
+{
+  "id": "pedsql_child_1h",
+  "display_name": "PedsQL Child: 1h. Feel too tired to play/Have low energy",
+  "description": "",
+  "type": "choices",
+  "domain": "never_almost_always"
+}

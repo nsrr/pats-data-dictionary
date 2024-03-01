@@ -1,0 +1,7 @@
+{
+  "id": "shq_counseled_behavior_prob",
+  "display_name": "SHQ: Has your child been professionally counseled for a behavior problem",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_no_notsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psg_oahi4",
+  "display_name": "PSG Results: Calculated - Obstructive apnea (all desats) Hypopnea (4% desat) Index",
+  "description": "missing if total sleep time is 0",
+  "type": "numeric",
+  "calculation": "oahi4 = 60*(hrembp4 + hrop4 + hnrbp4 + hnrop4 + oarbp +oarop + oanbp + oanop)/slpprdp"
+}
