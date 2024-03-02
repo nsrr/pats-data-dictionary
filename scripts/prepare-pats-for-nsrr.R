@@ -4,6 +4,7 @@ library(haven)
 library(readr)
 library(dplyr)
 
+
 #setwd("//rfawin.partners.org/bwh-sleepepi-pats/Data/SAS/_datasets/_upload")
 
 setwd("/Volumes/bwh-sleepepi-pats/Data/SAS/_datasets/_upload")
@@ -37,63 +38,59 @@ file_names <- c("childinfo_base.csv", "studyinfo.csv", "anthropometry_base.csv",
                 "polysomnography_fup.csv", "realm_base.csv", "shq_base.csv", 
                 "shq_fup.csv", "srbds_base.csv", "srbds_fup.csv", "surgery.csv")
 
-has_timepoint <- function(df) {
-  "timepoint" %in% colnames(df)
-}
+data_list <- list()
 
-updated_data_frames <- list()
-
-for (file_name in file_names) {
-  data <- read.csv(file_name)
-  if (!has_timepoint(data)) {
-    data$timepoint <- 1 
-    
-    cat("Added 'timepoint' variable to", file_name, "\n")
-  } 
-  updated_data_frames[[file_name]] <- data
-}
-
-updated_data_frames[["asthma"]] <- asthma
-
-file_list <- list()
-
-for (file_name in c(file_names, "asthma")) {  
-  base_name <- gsub("_base.csv|_fup.csv|_base_csv.csv|_fup_csv.csv", "", file_name)
-  data <- updated_data_frames[[file_name]] 
-  if (base_name %in% names(file_list)) {
-    file_list[[base_name]] <- rbind(file_list[[base_name]], data)
+for (file in file_names) {
+  base_name <- gsub("_base.csv|_fup.csv|_base_csv.csv|_fup_csv.csv", "", file)
+  data <- read.csv(file)
+  if (base_name %in% names(data_list)) {
+    data_list[[base_name]] <- rbind(data_list[[base_name]], data)
   } else {
-    file_list[[base_name]] <- data
+    data_list[[base_name]] <- data
+  }
+}
+data_list[["asthma"]] <- asthma
+
+merge_data <- function(x, y) {
+  if ("timepoint" %in% names(x) && "timepoint" %in% names(y)) {
+    merge(x, y, by = c("subject", "timepoint"), all = TRUE)
+  } else {
+    merge(x, y, by = "subject", all = TRUE)
   }
 }
 
-merge_cols <- "subject"
-
-merged_data <- Reduce(function(x, y) {
-  if (all(c(merge_cols) %in% colnames(x)) && all(c(merge_cols) %in% colnames(y))) {
-    if ("timepoint" %in% colnames(x) && "timepoint" %in% colnames(y)) {
-      merge(x, y, by = c("subject", "timepoint"), all = TRUE)
-    } else {
-      y$timepoint <- 1  
-      merge(x, y, by = merge_cols, all = TRUE)
-    }
-  } else {
-    merge(x, y, by = merge_cols, all = TRUE)
-  }
-}, file_list)
-
+merged_data <- Reduce(merge_data, data_list)
 
 id_timepoint <- merged_data[c("subject", "timepoint")]
 other_columns <- merged_data[, !(colnames(merged_data) %in% c("subject", "timepoint"))]
 merged_data <- cbind(id_timepoint, other_columns)
 
+merged_data_subset <- subset(merged_data, consented == 1)
+merged_data_subset <- merged_data_subset %>%
+  mutate(across(c(brief_test_date_parent, brief_test_date_teacher,
+                  gonogo_test_date, cbcl_form_date, trf_form_date,
+                  conners_form_date_parent, conners_form_date_teacher,
+                  abas_form_date, ess_form_date, peg_exam_date,
+                  psg_study_date, psg_scored_date, pedsql_child_form_date,
+                  pedsql_parent_form_date, osa18_form_date, srbds_form_date,
+                  shq_form_date, anthro_date, pe_exam_date, chmh_form_date,
+                  chmh_ears_date_performed, chmh_adenoids_date_performed,
+                  chmh_tonsils_date_performed, fhmh_form_date,
+                  isaac_form_date, asthma_form_date, fad_form_date,
+                  psq_form_date, eod_form_date, realm_form_date,
+                  psi_test_date, studyinfo_randomized_date,
+                  studyinfo_surgery_date, studyinfo_stopped_date,
+                  studyinfo_treat_stop_date, preop_form_date,
+                  oper_form_date, oper_date_of_adentonsillectomy,
+                  post_date_of_phone_call), ~ as.character(ymd(.) + days(random_date_offset))))
+merged_data_subset <- merged_data_subset %>% 
+  select(-random_date_offset)
+
 id <- unique(merged_data$subject)
-subjects_consented <- unique(merged_data$subject[merged_data$consented == 1])
-filtered_merged_data <- merged_data[merged_data$subject %in% subjects_consented, ]
 
 write.csv(id, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_ids/ids.csv", row.names = FALSE, na='')
 
-write.csv(filtered_merged_data, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
+write.csv(merged_data_subset, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
 
 harmonized_data<-merged_data[,c("subject", "childinfo_ageinyear","childinfo_sex","childinfo_race","anthro_bmi")]%>%
   dplyr::mutate(nsrrid=subject,

@@ -3,5 +3,6 @@
   "display_name": "PATS Public Site Identifier",
   "description": "",
   "type": "choices",
-  "domain": "public_site_id"
+  "domain": "public_site_id",
+  "commonly_used": true
 }

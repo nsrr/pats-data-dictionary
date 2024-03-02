@@ -1,6 +1,0 @@
-{
-  "id": "random_date_offset",
-  "display_name": "Day offset to apply to date variables for a given subject",
-  "description": "Ranges between -365 and +365.",
-  "type": "integer"
-}
