@@ -51,14 +51,17 @@ for (file in file_names) {
 }
 data_list[["asthma"]] <- asthma
 
+
 merge_data <- function(x, y) {
   if ("timepoint" %in% names(x) && "timepoint" %in% names(y)) {
     merge(x, y, by = c("subject", "timepoint"), all = TRUE)
+  } else if ("timepoint" %in% names(x)) {
+    merge(x, y, by = c("subject"), all = TRUE)
   } else {
-    merge(x, y, by = "subject", all = TRUE)
+    y$timepoint <- 1  
+    merge(x, y, by = c("subject"), all = TRUE)
   }
 }
-
 merged_data <- Reduce(merge_data, data_list)
 
 id_timepoint <- merged_data[c("subject", "timepoint")]
