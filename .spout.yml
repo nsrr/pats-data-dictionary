@@ -1,3 +1,9 @@
-slug: pats-data-dictionary
-visit: visit
-charts: []
+slug: pats
+visit: timepoint
+charts:
+
+webservers:
+  - name: production
+    url: https://sleepdata.org
+  - name: staging
+    url: https://staging.partners.org/sleepdata.org

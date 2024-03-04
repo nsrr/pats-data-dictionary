@@ -66,7 +66,7 @@ other_columns <- merged_data[, !(colnames(merged_data) %in% c("subject", "timepo
 merged_data <- cbind(id_timepoint, other_columns)
 
 merged_data_subset <- subset(merged_data, consented == 1)
-merged_data_subset <- merged_data_subset %>%
+merged_data_subset <- merged_data_subset %>% filter(!is.na(timepoint))%>%
   mutate(across(c(brief_test_date_parent, brief_test_date_teacher,
                   gonogo_test_date, cbcl_form_date, trf_form_date,
                   conners_form_date_parent, conners_form_date_teacher,
@@ -84,7 +84,7 @@ merged_data_subset <- merged_data_subset %>%
                   oper_form_date, oper_date_of_adentonsillectomy,
                   post_date_of_phone_call), ~ as.character(ymd(.) + days(random_date_offset))))
 merged_data_subset <- merged_data_subset %>% 
-  select(-random_date_offset)
+  select(-c(random_date_offset,siteid))
 
 id <- unique(merged_data$subject)
 
