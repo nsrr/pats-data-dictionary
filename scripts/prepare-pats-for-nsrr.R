@@ -3,7 +3,7 @@ ver="0.1.0"
 library(haven)
 library(readr)
 library(dplyr)
-
+library(lubridate)
 
 #setwd("//rfawin.partners.org/bwh-sleepepi-pats/Data/SAS/_datasets/_upload")
 
@@ -51,25 +51,22 @@ for (file in file_names) {
 }
 data_list[["asthma"]] <- asthma
 
-
 merge_data <- function(x, y) {
   if ("timepoint" %in% names(x) && "timepoint" %in% names(y)) {
     merge(x, y, by = c("subject", "timepoint"), all = TRUE)
-  } else if ("timepoint" %in% names(x)) {
-    merge(x, y, by = c("subject"), all = TRUE)
   } else {
-    y$timepoint <- 1  
-    merge(x, y, by = c("subject"), all = TRUE)
+    merge(x, y, by = "subject", all = TRUE)
   }
 }
+
 merged_data <- Reduce(merge_data, data_list)
 
-id_timepoint <- merged_data[c("subject", "timepoint")]
-other_columns <- merged_data[, !(colnames(merged_data) %in% c("subject", "timepoint"))]
-merged_data <- cbind(id_timepoint, other_columns)
+subject_ids <- merged_data %>%
+  filter(consented == 1) %>%
+  pull(subject)
 
-merged_data_subset <- subset(merged_data, consented == 1)
-merged_data_subset <- merged_data_subset %>% filter(!is.na(timepoint))%>%
+merged_data_subset <- merged_data %>% arrange(subject,timepoint)%>%filter(!is.na(timepoint))%>%
+  filter(subject %in% subject_ids)%>%
   mutate(across(c(brief_test_date_parent, brief_test_date_teacher,
                   gonogo_test_date, cbcl_form_date, trf_form_date,
                   conners_form_date_parent, conners_form_date_teacher,
@@ -86,8 +83,38 @@ merged_data_subset <- merged_data_subset %>% filter(!is.na(timepoint))%>%
                   studyinfo_treat_stop_date, preop_form_date,
                   oper_form_date, oper_date_of_adentonsillectomy,
                   post_date_of_phone_call), ~ as.character(ymd(.) + days(random_date_offset))))
-merged_data_subset <- merged_data_subset %>% 
-  select(-c(random_date_offset,siteid))
+merged_data_subset <- merged_data_subset %>% select(-c(random_date_offset,siteid))
+
+
+files_missing_timepoint <- character(0)
+
+for (name in names(data_list)) {
+  if (!("timepoint" %in% colnames(data_list[[name]]))) {
+    files_missing_timepoint <- c(files_missing_timepoint, name)
+  }
+}
+
+column_names <- character(0)
+
+for (name in files_missing_timepoint) {
+  if (name %in% names(data_list)) {
+    column_names <- c(column_names, colnames(data_list[[name]]))
+  }
+}
+
+columns_to_replace <- unique(column_names)
+columns_to_replace <- columns_to_replace[!(columns_to_replace %in% c("subject", "public_subject_id", "public_site_id", "screened", "consented", "randomized", "consented_to_share_data"))]
+
+
+for (column in columns_to_replace) {
+  merged_data_subset[merged_data_subset$timepoint != 1, column] <- NA
+}
+
+merged_data_subset <- merged_data_subset %>%
+  select(public_subject_id, public_site_id, timepoint, subject, everything()) %>%
+  arrange(public_subject_id, timepoint)
+
+
 
 id <- unique(merged_data$subject)
 
