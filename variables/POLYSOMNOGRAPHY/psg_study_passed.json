@@ -1,7 +1,0 @@
-{
-  "id": "psg_study_passed",
-  "display_name": "PSG QC: Study passed",
-  "description": "",
-  "type": "choices",
-  "domain": "no0_yes1"
-}

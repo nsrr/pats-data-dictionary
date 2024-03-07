@@ -1,7 +1,0 @@
-{
-  "id": "oper_complications__5",
-  "display_name": "Complications with the surgical procedure: Need for blood transfucion",
-  "description": "",
-  "type": "choices",
-  "domain": "checked"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "chmh_cerebral_palsy_meds",
-  "display_name": "CHMH: Currently taking medication for this cerebral palsy ",
-  "description": "",
-  "type": "choices",
-  "domain": "yes_no_notsure"
-}

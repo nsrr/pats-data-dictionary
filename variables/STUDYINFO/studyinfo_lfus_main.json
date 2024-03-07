@@ -1,7 +1,0 @@
-{
-  "id": "studyinfo_lfus_main",
-  "display_name": "The main reason that the caregiver decided to end the participation ",
-  "description": "",
-  "type": "choices",
-  "domain": "reason_end_participation"
-}

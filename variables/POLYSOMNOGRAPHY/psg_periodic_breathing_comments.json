@@ -1,6 +1,0 @@
-{
-  "id": "psg_periodic_breathing_comments",
-  "display_name": "PSG QC: Comments on Periodic breahing >= 10 minutes ",
-  "description": "",
-  "type": "text"
-}

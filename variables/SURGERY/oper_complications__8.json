@@ -1,7 +1,0 @@
-{
-  "id": "oper_complications__8",
-  "display_name": "Complications with the surgical procedure: Death",
-  "description": "",
-  "type": "choices",
-  "domain": "checked"
-}

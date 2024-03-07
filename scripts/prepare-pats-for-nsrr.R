@@ -83,8 +83,6 @@ merged_data_subset <- merged_data %>% arrange(subject,timepoint)%>%filter(!is.na
                   studyinfo_treat_stop_date, preop_form_date,
                   oper_form_date, oper_date_of_adentonsillectomy,
                   post_date_of_phone_call), ~ as.character(ymd(.) + days(random_date_offset))))
-merged_data_subset <- merged_data_subset %>% select(-c(random_date_offset,siteid))
-
 
 files_missing_timepoint <- character(0)
 
@@ -113,7 +111,7 @@ for (column in columns_to_replace) {
 merged_data_subset <- merged_data_subset %>%
   select(public_subject_id, public_site_id, timepoint, subject, everything()) %>%
   arrange(public_subject_id, timepoint)
-
+merged_data_subset <- merged_data_subset %>% select(-c(random_date_offset,siteid))
 
 
 id <- unique(merged_data$subject)

@@ -1,7 +1,0 @@
-{
-  "id": "chmh_cerebral_palsy_diagnosed",
-  "display_name": "CHMH: Cerebral palsy was diagnosed or treated by a physician or nurse",
-  "description": "",
-  "type": "choices",
-  "domain": "yes_no_notsure"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "psg_study_failed_reason",
-  "display_name": "PSG QC: Study failed reason ",
-  "description": "",
-  "type": "choices",
-  "domain": "psg_study_failed_reason"
-}

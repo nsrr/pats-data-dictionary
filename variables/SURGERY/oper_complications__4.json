@@ -1,7 +1,0 @@
-{
-  "id": "oper_complications__4",
-  "display_name": "Complications with the surgical procedure: EBL>7 ml/kg",
-  "description": "",
-  "type": "choices",
-  "domain": "checked"
-}

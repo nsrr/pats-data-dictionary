@@ -1,7 +1,0 @@
-{
-  "id": "chmh_autism_diagnosed",
-  "display_name": "CHMH: Autism or Asperger's syndrome was diagnosed or treated by a physician or nurse",
-  "description": "",
-  "type": "choices",
-  "domain": "yes_no_notsure"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "chmh_diabetes_medication",
-  "display_name": "CHMH: Currently taking medication for this diabetes (high blood sugar)",
-  "description": "",
-  "type": "choices",
-  "domain": "yes_no_notsure"
-}

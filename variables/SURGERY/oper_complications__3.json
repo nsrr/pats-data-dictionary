@@ -1,7 +1,0 @@
-{
-  "id": "oper_complications__3",
-  "display_name": "Complications with the surgical procedure: Airway fire",
-  "description": "",
-  "type": "choices",
-  "domain": "checked"
-}

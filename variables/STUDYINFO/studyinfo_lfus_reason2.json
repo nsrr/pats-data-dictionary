@@ -1,7 +1,0 @@
-{
-  "id": "studyinfo_lfus_reason2",
-  "display_name": "Secondary reason to end participation: Time constraints",
-  "description": "",
-  "type": "choices",
-  "domain": "checked"
-}

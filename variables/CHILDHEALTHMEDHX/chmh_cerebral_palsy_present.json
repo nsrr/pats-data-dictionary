@@ -1,7 +1,0 @@
-{
-  "id": "chmh_cerebral_palsy_present",
-  "display_name": "CHMH: Cerebral palsy is still present",
-  "description": "",
-  "type": "choices",
-  "domain": "yes_no_notsure"
-}
