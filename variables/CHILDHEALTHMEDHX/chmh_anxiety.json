@@ -1,6 +1,6 @@
 {
   "id": "chmh_anxiety",
-  "display_name": "CHMH: Child has had anxiety disorder",
+  "display_name": "Child has had anxiety disorder",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

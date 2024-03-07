@@ -1,6 +1,6 @@
 {
   "id": "fhmh_heart_disease_bio_mom",
-  "display_name": "FHMH: Biological mother has/had heart disease",
+  "display_name": "Biological mother has/had heart disease",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

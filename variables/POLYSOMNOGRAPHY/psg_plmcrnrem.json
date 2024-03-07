@@ -1,6 +1,6 @@
 {
   "id": "psg_plmcrnrem",
-  "display_name": "PSG Results: Number PLM clusters with resp. events (NREM)",
+  "display_name": "Number PLM clusters with resp. events (NREM)",
   "description": "",
   "type": "integer"
 }

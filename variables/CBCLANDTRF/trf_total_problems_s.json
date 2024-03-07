@@ -1,6 +1,6 @@
 {
   "id": "trf_total_problems_s",
-  "display_name": "TRF: Total Problems total score",
+  "display_name": "Total Problems total score",
   "description": "",
   "type": "integer"
 }

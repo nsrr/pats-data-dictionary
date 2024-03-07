@@ -1,6 +1,6 @@
 {
   "id": "psg_lmnrem",
-  "display_name": "PSG Results: Number Limb Movements (NREM)",
+  "display_name": "Number Limb Movements (NREM)",
   "description": "",
   "type": "integer"
 }

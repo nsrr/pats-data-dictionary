@@ -1,6 +1,6 @@
 {
   "id": "fhmh_autism_sibling",
-  "display_name": "FHMH: Child's any siblings have autism or Asperger's syndrome",
+  "display_name": "Child's any siblings have autism or Asperger's syndrome",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

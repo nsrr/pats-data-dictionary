@@ -1,6 +1,6 @@
 {
   "id": "psi_missing_items",
-  "display_name": "PSI: Calculated - Number of missing responses out of 36 items",
+  "display_name": "Calculated - Number of missing responses out of 36 items",
   "description": "",
   "type": "integer"
 }

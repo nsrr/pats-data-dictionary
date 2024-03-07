@@ -1,6 +1,6 @@
 {
   "id": "asthma_treatment_assessment",
-  "display_name": "ASTHMA: Treatment assessment score",
+  "display_name": "Treatment assessment score",
   "description": "",
   "type": "choices",
   "domain": "asthma_treatment"

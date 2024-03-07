@@ -1,6 +1,6 @@
 {
   "id": "psg_rdim2pns",
-  "display_name": "PSG Results: Calculated - RDI in non-supine body position (>= 2% desaturation)",
+  "display_name": "Calculated - RDI in non-supine body position (>= 2% desaturation)",
   "description": "missing if studies with problems scoring REM/NREM or if studies scored as sleep/wake or REM sleep time is 0",
   "type": "numeric",
   "calculation": "rdim2pns = 60*(hrop2 + hnrop2 + carop2 + canop2 + oarop2 + oanop2 + marop2 + manrop2)/(remepop+nremepop)"

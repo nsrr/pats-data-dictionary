@@ -1,6 +1,6 @@
 {
   "id": "fhmh_depression_parent",
-  "display_name": "FHMH: Child's any biological parents currently have or ever had depression",
+  "display_name": "Child's any biological parents currently have or ever had depression",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

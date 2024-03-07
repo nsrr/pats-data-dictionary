@@ -1,6 +1,6 @@
 {
   "id": "shq_bed_weekends",
-  "display_name": "SHQ: Over the past one month, at what time on average has your child gone to bed on weekends (first closed the eyes in attempt to fall asleep)",
+  "display_name": "Over the past one month, at what time on average has your child gone to bed on weekends (first closed the eyes in attempt to fall asleep)",
   "description": "",
   "type": "time"
 }

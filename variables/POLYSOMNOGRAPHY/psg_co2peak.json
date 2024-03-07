@@ -1,6 +1,6 @@
 {
   "id": "psg_co2peak",
-  "display_name": "PSG Results: Peak EtCO2 Asleep",
+  "display_name": "Peak EtCO2 Asleep",
   "description": "",
   "type": "numeric"
 }

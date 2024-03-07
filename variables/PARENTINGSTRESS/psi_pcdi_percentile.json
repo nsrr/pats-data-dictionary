@@ -1,6 +1,6 @@
 {
   "id": "psi_pcdi_percentile",
-  "display_name": "PSI: Parent-child dyfunctional interaction (P-CDI) scale percentile",
+  "display_name": "Parent-child dyfunctional interaction (P-CDI) scale percentile",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

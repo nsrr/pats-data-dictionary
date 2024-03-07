@@ -1,6 +1,6 @@
 {
   "id": "trf_child_age",
-  "display_name": "TRF: Child's age",
+  "display_name": "Child's age",
   "description": "",
   "type": "integer",
   "units": "years"

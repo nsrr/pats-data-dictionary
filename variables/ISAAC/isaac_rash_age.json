@@ -1,6 +1,6 @@
 {
   "id": "isaac_rash_age",
-  "display_name": "ISAAC: Age at which this itchy rash first occurred  ",
+  "display_name": "Age at which this itchy rash first occurred  ",
   "description": "",
   "type": "choices",
   "domain": "age"

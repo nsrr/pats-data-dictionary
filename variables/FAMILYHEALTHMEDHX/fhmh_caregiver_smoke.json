@@ -1,6 +1,6 @@
 {
   "id": "fhmh_caregiver_smoke",
-  "display_name": "FHMH: Child's main caregiver smoke at least one cigarette a day",
+  "display_name": "Child's main caregiver smoke at least one cigarette a day",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

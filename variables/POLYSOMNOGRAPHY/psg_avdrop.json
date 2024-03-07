@@ -1,6 +1,6 @@
 {
   "id": "psg_avdrop",
-  "display_name": "PSG Results: Average Desat (REM, Other, all desats)",
+  "display_name": "Average Desat (REM, Other, all desats)",
   "description": "",
   "type": "integer"
 }

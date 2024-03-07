@@ -1,6 +1,6 @@
 {
   "id": "psg_hmarop5",
-  "display_name": "PSG Results: Number Mixed Apnea per hour (REM, Other, 5% desat)",
+  "display_name": "Number Mixed Apnea per hour (REM, Other, 5% desat)",
   "description": "",
   "type": "integer"
 }

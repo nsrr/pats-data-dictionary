@@ -1,6 +1,6 @@
 {
   "id": "gonogo_std_rt_gng",
-  "display_name": "Go/No-Go: Standard deviation of reaction time of all complete trials in seconds (Inhibitory Control/GNG Block)",
+  "display_name": "Standard deviation of reaction time of all complete trials in seconds (Inhibitory Control/GNG Block)",
   "description": "",
   "type": "integer",
   "units": "seconds (s)"

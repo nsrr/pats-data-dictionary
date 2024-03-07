@@ -1,6 +1,6 @@
 {
   "id": "psg_plmcar",
-  "display_name": "PSG Results: Number PLM clusters with arousal and resp. event",
+  "display_name": "Number PLM clusters with arousal and resp. event",
   "description": "",
   "type": "integer"
 }

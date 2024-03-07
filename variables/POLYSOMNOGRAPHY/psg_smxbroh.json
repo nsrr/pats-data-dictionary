@@ -1,6 +1,6 @@
 {
   "id": "psg_smxbroh",
-  "display_name": "PSG Results: Maximum Heart Rate (REM, Other, all desats) (bpm)",
+  "display_name": "Maximum Heart Rate (REM, Other, all desats) (bpm)",
   "description": "",
   "type": "integer"
 }

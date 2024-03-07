@@ -1,6 +1,6 @@
 {
   "id": "isaac_problem_interfere_activity",
-  "display_name": "ISAAC: In the past 12 months, how much this nose problem interfered with the child's daily activities",
+  "display_name": "In the past 12 months, how much this nose problem interfered with the child's daily activities",
   "description": "",
   "type": "choices",
   "domain": "notatall_alot"

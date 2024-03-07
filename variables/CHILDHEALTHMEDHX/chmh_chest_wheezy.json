@@ -1,6 +1,6 @@
 {
   "id": "chmh_chest_wheezy",
-  "display_name": "CHMH: In the past year, child's chest has sounded wheezy or whistling",
+  "display_name": "In the past year, child's chest has sounded wheezy or whistling",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

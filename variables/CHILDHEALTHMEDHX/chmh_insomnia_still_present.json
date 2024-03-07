@@ -1,6 +1,6 @@
 {
   "id": "chmh_insomnia_still_present",
-  "display_name": "CHMH: Insomnia (inability to sleep) is still present",
+  "display_name": "Insomnia (inability to sleep) is still present",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

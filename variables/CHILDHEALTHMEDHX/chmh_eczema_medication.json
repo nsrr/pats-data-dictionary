@@ -1,6 +1,6 @@
 {
   "id": "chmh_eczema_medication",
-  "display_name": "CHMH: Currently taking medication for this eczema/atopic dematities (long-term, red, itchy skin)",
+  "display_name": "Currently taking medication for this eczema/atopic dematities (long-term, red, itchy skin)",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

@@ -1,6 +1,6 @@
 {
   "id": "chmh_need_oxy_after_birth",
-  "display_name": "CHMH: Child needed oxygen for more than one day after birth  ",
+  "display_name": "Child needed oxygen for more than one day after birth  ",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

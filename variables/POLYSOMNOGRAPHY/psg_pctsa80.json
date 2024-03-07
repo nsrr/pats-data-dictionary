@@ -1,6 +1,6 @@
 {
   "id": "psg_pctsa80",
-  "display_name": "PSG Results: Percent sleep time SaO2 is below <= 80%",
+  "display_name": "Percent sleep time SaO2 is below <= 80%",
   "description": "",
   "type": "integer"
 }

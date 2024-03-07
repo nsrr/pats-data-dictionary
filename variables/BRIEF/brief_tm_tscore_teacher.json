@@ -1,6 +1,6 @@
 {
   "id": "brief_tm_tscore_teacher",
-  "display_name": "BRIEF: Second Edition Task-Monitor scale T score (teacher-completed)",
+  "display_name": "Second Edition Task-Monitor scale T score (teacher-completed)",
   "description": "",
   "type": "integer"
 }

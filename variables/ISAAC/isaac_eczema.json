@@ -1,6 +1,6 @@
 {
   "id": "isaac_eczema",
-  "display_name": "ISAAC: Child has had eczema",
+  "display_name": "Child has had eczema",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

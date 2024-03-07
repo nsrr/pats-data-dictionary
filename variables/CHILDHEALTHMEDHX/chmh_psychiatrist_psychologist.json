@@ -1,6 +1,6 @@
 {
   "id": "chmh_psychiatrist_psychologist",
-  "display_name": "CHMH: Child has been referred to psychiatrist/psychologist",
+  "display_name": "Child has been referred to psychiatrist/psychologist",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

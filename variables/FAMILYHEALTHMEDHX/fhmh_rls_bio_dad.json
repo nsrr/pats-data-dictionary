@@ -1,6 +1,6 @@
 {
   "id": "fhmh_rls_bio_dad",
-  "display_name": "FHMH: Biological father has/had resless leg syndrome",
+  "display_name": "Biological father has/had resless leg syndrome",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

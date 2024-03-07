@@ -1,6 +1,6 @@
 {
   "id": "psg_respiratory_gt30s_comments",
-  "display_name": "PSG QC: Comments on max length of repiratory event > 30 seconds",
+  "display_name": "Comments on max length of repiratory event > 30 seconds",
   "description": "",
   "type": "text"
 }

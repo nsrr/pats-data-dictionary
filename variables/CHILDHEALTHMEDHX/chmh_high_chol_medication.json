@@ -1,6 +1,6 @@
 {
   "id": "chmh_high_chol_medication",
-  "display_name": "CHMH: Currently taking medication for this high cholesterol",
+  "display_name": "Currently taking medication for this high cholesterol",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

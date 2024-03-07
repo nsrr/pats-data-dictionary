@@ -1,6 +1,6 @@
 {
   "id": "psg_mxoanba",
-  "display_name": "PSG Results: Maximum Obstructive Apnea length with arousals (NREM, Back, all desats) (seconds)",
+  "display_name": "Maximum Obstructive Apnea length with arousals (NREM, Back, all desats) (seconds)",
   "description": "",
   "type": "integer"
 }

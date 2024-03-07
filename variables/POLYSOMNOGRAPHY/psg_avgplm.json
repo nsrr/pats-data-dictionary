@@ -1,6 +1,6 @@
 {
   "id": "psg_avgplm",
-  "display_name": "PSG Results: Number of PLM per hour of sleep",
+  "display_name": "Number of PLM per hour of sleep",
   "description": "",
   "type": "numeric"
 }

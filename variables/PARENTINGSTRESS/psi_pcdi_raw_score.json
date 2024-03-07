@@ -1,6 +1,6 @@
 {
   "id": "psi_pcdi_raw_score",
-  "display_name": "PSI: Parent-child dyfunctional interaction (P-CDI) scale raw score",
+  "display_name": "Parent-child dyfunctional interaction (P-CDI) scale raw score",
   "description": "",
   "type": "integer"
 }

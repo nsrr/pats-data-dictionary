@@ -1,6 +1,6 @@
 {
   "id": "chmh_cancer_still_present",
-  "display_name": "CHMH: Cancer is still present",
+  "display_name": "Cancer is still present",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

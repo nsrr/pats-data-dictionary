@@ -1,6 +1,6 @@
 {
   "id": "psg_hrembp",
-  "display_name": "PSG Results: Number of Hypopnea (REM, Back, all desats)",
+  "display_name": "Number of Hypopnea (REM, Back, all desats)",
   "description": "",
   "type": "integer"
 }

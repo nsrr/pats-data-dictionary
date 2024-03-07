@@ -1,6 +1,6 @@
 {
   "id": "pedsql_parent_school_score",
-  "display_name": "PedsQL Parent: Calculated - School Functioning Summary Score",
+  "display_name": "Calculated - School Functioning Summary Score",
   "description": "",
   "type": "numeric"
 }

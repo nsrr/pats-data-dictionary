@@ -1,6 +1,6 @@
 {
   "id": "chmh_anxiety_still_present",
-  "display_name": "CHMH: Anxiety disorder is still present",
+  "display_name": "Anxiety disorder is still present",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

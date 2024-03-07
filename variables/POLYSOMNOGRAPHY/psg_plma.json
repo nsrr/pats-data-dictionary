@@ -1,6 +1,6 @@
 {
   "id": "psg_plma",
-  "display_name": "PSG Results: Number PLMs with arousal",
+  "display_name": "Number PLMs with arousal",
   "description": "",
   "type": "integer"
 }

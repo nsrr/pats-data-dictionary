@@ -1,6 +1,6 @@
 {
   "id": "psg_arousal_index_lt3_comments",
-  "display_name": "PSG QC: Comments on arousal index < 3 events per hour ",
+  "display_name": "Comments on arousal index < 3 events per hour ",
   "description": "",
   "type": "text"
 }

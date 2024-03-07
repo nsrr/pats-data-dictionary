@@ -1,6 +1,6 @@
 {
   "id": "psi_total_stress_percentile",
-  "display_name": "PSI: Total stress scale percentile",
+  "display_name": "Total stress scale percentile",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

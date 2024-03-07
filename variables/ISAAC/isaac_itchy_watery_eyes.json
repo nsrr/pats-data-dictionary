@@ -1,6 +1,6 @@
 {
   "id": "isaac_itchy_watery_eyes",
-  "display_name": "ISAAC: In the past 12 months, this nose problem has been accompanied by itchy-watery eyes",
+  "display_name": "In the past 12 months, this nose problem has been accompanied by itchy-watery eyes",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

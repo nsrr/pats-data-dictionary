@@ -1,6 +1,6 @@
 {
   "id": "psg_cavgdur",
-  "display_name": "PSG Results: Average Central Apnea Length (seconds)",
+  "display_name": "Average Central Apnea Length (seconds)",
   "description": "",
   "type": "numeric"
 }

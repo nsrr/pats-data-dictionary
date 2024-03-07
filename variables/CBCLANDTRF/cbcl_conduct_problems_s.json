@@ -1,6 +1,6 @@
 {
   "id": "cbcl_conduct_problems_s",
-  "display_name": "CBCL 6-18: Conduct Problems total score",
+  "display_name": "6-18: Conduct Problems total score",
   "description": "",
   "type": "integer"
 }

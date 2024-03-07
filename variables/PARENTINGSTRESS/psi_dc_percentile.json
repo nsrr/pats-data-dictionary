@@ -1,6 +1,6 @@
 {
   "id": "psi_dc_percentile",
-  "display_name": "PSI: Difficult child (DC) scale percentile",
+  "display_name": "Difficult child (DC) scale percentile",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

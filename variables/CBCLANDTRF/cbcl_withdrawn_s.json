@@ -1,6 +1,6 @@
 {
   "id": "cbcl_withdrawn_s",
-  "display_name": "CBCL 1.5-5: Withdrawn total score",
+  "display_name": "1.5-5: Withdrawn total score",
   "description": "",
   "type": "integer"
 }

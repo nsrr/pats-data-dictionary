@@ -1,6 +1,6 @@
 {
   "id": "cbcl_anxious_depressed_s",
-  "display_name": "CBCL: Anxious/Depressed total score",
+  "display_name": "Anxious/Depressed total score",
   "description": "",
   "type": "integer"
 }

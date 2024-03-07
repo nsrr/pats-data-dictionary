@@ -1,6 +1,6 @@
 {
   "id": "chmh_ears_date_performed",
-  "display_name": "CHMH: Date Performed (or best estimate) ear tubes surgery",
+  "display_name": "Date Performed (or best estimate) ear tubes surgery",
   "description": "",
   "type": "date",
   "units": "yyyy-mm-dd"

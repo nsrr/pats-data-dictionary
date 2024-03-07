@@ -1,6 +1,6 @@
 {
   "id": "psg_mxcarbp4",
-  "display_name": "PSG Results: Maximum Central Apnea length (REM, Back, 4% desat) (seconds)",
+  "display_name": "Maximum Central Apnea length (REM, Back, 4% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

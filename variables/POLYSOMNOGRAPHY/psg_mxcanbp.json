@@ -1,6 +1,6 @@
 {
   "id": "psg_mxcanbp",
-  "display_name": "PSG Results: Maximum Central Apnea length (NREM, Back, all desats) (seconds)",
+  "display_name": "Maximum Central Apnea length (NREM, Back, all desats) (seconds)",
   "description": "",
   "type": "integer"
 }

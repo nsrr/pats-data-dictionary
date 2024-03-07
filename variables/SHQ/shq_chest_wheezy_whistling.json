@@ -1,6 +1,6 @@
 {
   "id": "shq_chest_wheezy_whistling",
-  "display_name": "SHQ: Over the past month, has your child's chest been wheezy or whistling during sleep",
+  "display_name": "Over the past month, has your child's chest been wheezy or whistling during sleep",
   "description": "",
   "type": "choices",
   "domain": "never_always_notsure"

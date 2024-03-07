@@ -1,6 +1,6 @@
 {
   "id": "pe_extremities",
-  "display_name": "Physical Exam: Extremities",
+  "display_name": "Extremities",
   "description": "",
   "type": "choices",
   "domain": "bpe_normal_abnormal"

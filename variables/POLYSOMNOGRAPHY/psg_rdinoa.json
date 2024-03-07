@@ -1,6 +1,6 @@
 {
   "id": "psg_rdinoa",
-  "display_name": "PSG Results: Hypopnea per hour with arousals (NREM, Other, all desats)",
+  "display_name": "Hypopnea per hour with arousals (NREM, Other, all desats)",
   "description": "",
   "type": "numeric"
 }

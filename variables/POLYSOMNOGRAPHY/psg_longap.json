@@ -1,6 +1,6 @@
 {
   "id": "psg_longap",
-  "display_name": "PSG Results: Longest Apnea (seconds)",
+  "display_name": "Longest Apnea (seconds)",
   "description": "",
   "type": "numeric"
 }

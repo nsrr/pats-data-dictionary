@@ -1,6 +1,6 @@
 {
   "id": "chmh_allergies_positive_latex",
-  "display_name": "CHMH: Allergy tested positive for latex",
+  "display_name": "Allergy tested positive for latex",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

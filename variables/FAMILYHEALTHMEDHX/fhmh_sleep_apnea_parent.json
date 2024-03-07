@@ -1,6 +1,6 @@
 {
   "id": "fhmh_sleep_apnea_parent",
-  "display_name": "FHMH: Child's any biological parents currently have or ever had sleep apnea",
+  "display_name": "Child's any biological parents currently have or ever had sleep apnea",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

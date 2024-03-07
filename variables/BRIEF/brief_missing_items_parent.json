@@ -1,6 +1,6 @@
 {
   "id": "brief_missing_items_parent",
-  "display_name": "BRIEF: Number of missing items (parent-completed)",
+  "display_name": "Number of missing items (parent-completed)",
   "description": "",
   "type": "integer"
 }

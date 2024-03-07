@@ -1,6 +1,6 @@
 {
   "id": "trf_stress_problems_s",
-  "display_name": "TRF: Stress Problems total score",
+  "display_name": "Stress Problems total score",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "psg_omahi3nr",
-  "display_name": "PSG Results: Calculated - Apnea hypopnea index (3% desats) in NREM sleep",
+  "display_name": "Calculated - Apnea hypopnea index (3% desats) in NREM sleep",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
   "calculation": "omahi3nr = 60*(oanbp + oanop + manrbp + manrop + hnrba3 + hnroa3)/(slptimem - minremp)"

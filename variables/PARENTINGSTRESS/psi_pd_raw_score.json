@@ -1,6 +1,6 @@
 {
   "id": "psi_pd_raw_score",
-  "display_name": "PSI: Parental distress (PD) scale raw score",
+  "display_name": "Parental distress (PD) scale raw score",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "brief_eri_raw_teacher",
-  "display_name": "BRIEF: Second Edition Emotion Regulation (ERI) index raw score (teacher-completed)",
+  "display_name": "Second Edition Emotion Regulation (ERI) index raw score (teacher-completed)",
   "description": "",
   "type": "integer"
 }

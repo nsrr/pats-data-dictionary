@@ -1,6 +1,6 @@
 {
   "id": "psg_pctco2g50",
-  "display_name": "PSG Results: Percent total sleep time EtCO2 > 50 mmHg",
+  "display_name": "Percent total sleep time EtCO2 > 50 mmHg",
   "description": "",
   "type": "numeric"
 }

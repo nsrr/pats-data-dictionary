@@ -1,6 +1,6 @@
 {
   "id": "psg_avdrbp",
-  "display_name": "PSG Results: Average Desat (REM, Back, all desats)",
+  "display_name": "Average Desat (REM, Back, all desats)",
   "description": "",
   "type": "integer"
 }

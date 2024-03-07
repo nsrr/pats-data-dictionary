@@ -1,6 +1,6 @@
 {
   "id": "chmh_eczema",
-  "display_name": "CHMH: Child has had eczema/atopic dematities (long-term, red, itchy skin)",
+  "display_name": "Child has had eczema/atopic dematities (long-term, red, itchy skin)",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

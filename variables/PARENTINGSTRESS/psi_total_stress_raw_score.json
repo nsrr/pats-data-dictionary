@@ -1,6 +1,6 @@
 {
   "id": "psi_total_stress_raw_score",
-  "display_name": "PSI: Total stress scale raw score",
+  "display_name": "Total stress scale raw score",
   "description": "",
   "type": "integer"
 }

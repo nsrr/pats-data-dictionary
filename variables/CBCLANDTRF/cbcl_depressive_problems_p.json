@@ -1,6 +1,6 @@
 {
   "id": "cbcl_depressive_problems_p",
-  "display_name": "CBCL: Depressive Problems percentile (%)",
+  "display_name": "Depressive Problems percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

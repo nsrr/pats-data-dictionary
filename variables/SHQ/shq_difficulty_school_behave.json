@@ -1,6 +1,6 @@
 {
   "id": "shq_difficulty_school_behave",
-  "display_name": "SHQ: Difficulties with school related to behavior problems",
+  "display_name": "Difficulties with school related to behavior problems",
   "description": "",
   "type": "choices",
   "domain": "yes_no_not_in_school"

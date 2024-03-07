@@ -1,6 +1,6 @@
 {
   "id": "chmh_adhd",
-  "display_name": "CHMH: Child has had attention deficit hyperactivity disorder (ADD/ADHD)",
+  "display_name": "Child has had attention deficit hyperactivity disorder (ADD/ADHD)",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

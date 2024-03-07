@@ -1,6 +1,6 @@
 {
   "id": "psg_canba5",
-  "display_name": "PSG Results: Number of Central Apnea with arousals (NREM, Back, 5% desat)",
+  "display_name": "Number of Central Apnea with arousals (NREM, Back, 5% desat)",
   "description": "",
   "type": "integer"
 }

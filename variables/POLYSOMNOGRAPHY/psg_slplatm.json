@@ -1,6 +1,6 @@
 {
   "id": "psg_slplatm",
-  "display_name": "PSG Results: Sleep Latency (minutes .5)",
+  "display_name": "Sleep Latency (minutes .5)",
   "description": "",
   "type": "numeric"
 }

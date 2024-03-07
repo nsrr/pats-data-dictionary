@@ -1,6 +1,6 @@
 {
   "id": "chmh_high_chol_still_present",
-  "display_name": "CHMH: High cholesterol is still present",
+  "display_name": "High cholesterol is still present",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

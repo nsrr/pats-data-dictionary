@@ -1,6 +1,6 @@
 {
   "id": "eod_getting_hired",
-  "display_name": "EOD: 4. Have you ever experienced discrimination when getting hired or getting a job",
+  "display_name": "4. Have you ever experienced discrimination when getting hired or getting a job",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

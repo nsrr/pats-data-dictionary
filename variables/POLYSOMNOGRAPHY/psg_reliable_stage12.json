@@ -1,6 +1,6 @@
 {
   "id": "psg_reliable_stage12",
-  "display_name": "PSG QC: Scoring stage 1/stage 2 was reliable",
+  "display_name": "Scoring stage 1/stage 2 was reliable",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

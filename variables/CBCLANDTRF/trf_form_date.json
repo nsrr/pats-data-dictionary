@@ -1,6 +1,6 @@
 {
   "id": "trf_form_date",
-  "display_name": "TRF: Form created date ",
+  "display_name": "Form created date ",
   "description": "",
   "type": "date",
   "units": "yyyy-mm-dd"

@@ -1,6 +1,6 @@
 {
   "id": "psg_mncanop",
-  "display_name": "PSG Results: Minimum Central Apnea length (NREM, Other, all desats) (seconds)",
+  "display_name": "Minimum Central Apnea length (NREM, Other, all desats) (seconds)",
   "description": "",
   "type": "integer"
 }

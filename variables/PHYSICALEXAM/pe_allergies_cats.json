@@ -1,6 +1,6 @@
 {
   "id": "pe_allergies_cats",
-  "display_name": "Physical Exam: Allergic to cats",
+  "display_name": "Allergic to cats",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

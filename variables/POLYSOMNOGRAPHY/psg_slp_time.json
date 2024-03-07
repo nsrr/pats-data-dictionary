@@ -1,6 +1,6 @@
 {
   "id": "psg_slp_time",
-  "display_name": "PSG Results: Calculated - Total sleep time (minutes)",
+  "display_name": "Calculated - Total sleep time (minutes)",
   "description": "same as slpprdp",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "fhmh_narcolepsy_sibling",
-  "display_name": "FHMH: Child's any siblings have narcolepsy",
+  "display_name": "Child's any siblings have narcolepsy",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

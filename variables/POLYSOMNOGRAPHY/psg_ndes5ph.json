@@ -1,6 +1,6 @@
 {
   "id": "psg_ndes5ph",
-  "display_name": "PSG Results: Number of desat with >= 5% desat",
+  "display_name": "Number of desat with >= 5% desat",
   "description": "",
   "type": "integer"
 }

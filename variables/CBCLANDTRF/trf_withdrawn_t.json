@@ -1,6 +1,6 @@
 {
   "id": "trf_withdrawn_t",
-  "display_name": "TRF 1.5-5: Withdrawn T score",
+  "display_name": "1.5-5: Withdrawn T score",
   "description": "",
   "type": "integer"
 }

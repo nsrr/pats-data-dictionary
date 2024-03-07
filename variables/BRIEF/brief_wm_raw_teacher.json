@@ -1,6 +1,6 @@
 {
   "id": "brief_wm_raw_teacher",
-  "display_name": "BRIEF: Working Memory scale raw score (teacher-completed)",
+  "display_name": "Working Memory scale raw score (teacher-completed)",
   "description": "",
   "type": "integer"
 }

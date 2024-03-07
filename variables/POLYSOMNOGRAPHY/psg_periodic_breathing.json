@@ -1,6 +1,6 @@
 {
   "id": "psg_periodic_breathing",
-  "display_name": "PSG QC: Periodic breahing >= 10 minutes ",
+  "display_name": "Periodic breahing >= 10 minutes ",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

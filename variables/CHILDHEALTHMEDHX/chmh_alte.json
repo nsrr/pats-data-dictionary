@@ -1,6 +1,6 @@
 {
   "id": "chmh_alte",
-  "display_name": "CHMH: Child has had acute life threatening episode (ALTE)",
+  "display_name": "Child has had acute life threatening episode (ALTE)",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

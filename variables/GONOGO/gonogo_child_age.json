@@ -1,6 +1,6 @@
 {
   "id": "gonogo_child_age",
-  "display_name": "Go/No-Go: Child's age",
+  "display_name": "Child's age",
   "description": "",
   "type": "integer",
   "units": "years"

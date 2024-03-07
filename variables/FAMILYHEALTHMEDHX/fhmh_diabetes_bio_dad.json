@@ -1,6 +1,6 @@
 {
   "id": "fhmh_diabetes_bio_dad",
-  "display_name": "FHMH: Biological father has/had diabetes",
+  "display_name": "Biological father has/had diabetes",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

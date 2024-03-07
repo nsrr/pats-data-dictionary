@@ -1,6 +1,6 @@
 {
   "id": "psg_mxsao2nh",
-  "display_name": "PSG Results: Maximum SaO2 % during NREM sleep",
+  "display_name": "Maximum SaO2 % during NREM sleep",
   "description": "",
   "type": "integer"
 }

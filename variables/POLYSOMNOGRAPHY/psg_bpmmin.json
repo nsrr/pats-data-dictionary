@@ -1,6 +1,6 @@
 {
   "id": "psg_bpmmin",
-  "display_name": "PSG Results: Lowest Heart rate (bpm)",
+  "display_name": "Lowest Heart rate (bpm)",
   "description": "",
   "type": "integer"
 }

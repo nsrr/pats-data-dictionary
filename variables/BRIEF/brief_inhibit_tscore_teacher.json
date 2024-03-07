@@ -1,6 +1,6 @@
 {
   "id": "brief_inhibit_tscore_teacher",
-  "display_name": "BRIEF: Inhibit scale T score (teacher-completed)",
+  "display_name": "Inhibit scale T score (teacher-completed)",
   "description": "",
   "type": "integer"
 }

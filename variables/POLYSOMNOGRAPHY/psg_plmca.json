@@ -1,6 +1,6 @@
 {
   "id": "psg_plmca",
-  "display_name": "PSG Results: Number PLM clusters with arousal",
+  "display_name": "Number PLM clusters with arousal",
   "description": "",
   "type": "integer"
 }

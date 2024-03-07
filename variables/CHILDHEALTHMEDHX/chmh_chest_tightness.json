@@ -1,6 +1,6 @@
 {
   "id": "chmh_chest_tightness",
-  "display_name": "CHMH: In the past year, child had been troubled by chest tightness",
+  "display_name": "In the past year, child had been troubled by chest tightness",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

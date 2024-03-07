@@ -1,6 +1,6 @@
 {
   "id": "psg_etco2_signal_quality_grade",
-  "display_name": "PSG QC: EtCO2 - Signal Quality Grade",
+  "display_name": "EtCO2 - Signal Quality Grade",
   "description": "",
   "type": "choices",
   "domain": "signal_quality_grade"

@@ -1,6 +1,6 @@
 {
   "id": "fhmh_number_full_bro",
-  "display_name": "FHMH: Number of child's full brothers",
+  "display_name": "Number of child's full brothers",
   "description": "",
   "type": "integer"
 }

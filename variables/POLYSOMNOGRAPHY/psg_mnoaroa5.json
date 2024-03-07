@@ -1,6 +1,6 @@
 {
   "id": "psg_mnoaroa5",
-  "display_name": "PSG Results: Minimum Obstructive Apnea length with arousals (REM, Other, 5% desat) (seconds)",
+  "display_name": "Minimum Obstructive Apnea length with arousals (REM, Other, 5% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

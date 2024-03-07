@@ -1,6 +1,6 @@
 {
   "id": "psg_ahtdurop",
-  "display_name": "PSG Results: Total Apnea and Hypopnea Length (REM, Other) (minutes)",
+  "display_name": "Total Apnea and Hypopnea Length (REM, Other) (minutes)",
   "description": "",
   "type": "numeric"
 }

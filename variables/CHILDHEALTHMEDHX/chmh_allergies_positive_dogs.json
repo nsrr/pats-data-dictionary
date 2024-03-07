@@ -1,6 +1,6 @@
 {
   "id": "chmh_allergies_positive_dogs",
-  "display_name": "CHMH: Allergy tested positive for dogs",
+  "display_name": "Allergy tested positive for dogs",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

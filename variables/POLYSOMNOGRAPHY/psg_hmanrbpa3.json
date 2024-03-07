@@ -1,6 +1,6 @@
 {
   "id": "psg_hmanrbpa3",
-  "display_name": "PSG Results: Number Mixed Apnea with arousal per hour (NREM, Back, 3% desat)",
+  "display_name": "Number Mixed Apnea with arousal per hour (NREM, Back, 3% desat)",
   "description": "",
   "type": "numeric"
 }

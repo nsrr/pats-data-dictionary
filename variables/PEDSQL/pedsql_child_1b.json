@@ -1,6 +1,6 @@
 {
   "id": "pedsql_child_1b",
-  "display_name": "PedsQL Child: 1b. Hard to run",
+  "display_name": "1b. Hard to run",
   "description": "",
   "type": "choices",
   "domain": "never_almost_always"

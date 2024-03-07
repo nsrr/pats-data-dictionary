@@ -1,6 +1,6 @@
 {
   "id": "cbcl_total_problems_t",
-  "display_name": "CBCL: Total Problems T score",
+  "display_name": "Total Problems T score",
   "description": "",
   "type": "integer"
 }

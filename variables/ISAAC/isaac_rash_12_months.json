@@ -1,6 +1,6 @@
 {
   "id": "isaac_rash_12_months",
-  "display_name": "ISAAC: Child has had this itchy rash at any time in the last 12 months",
+  "display_name": "Child has had this itchy rash at any time in the last 12 months",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

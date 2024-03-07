@@ -1,6 +1,6 @@
 {
   "id": "psg_plmcslp",
-  "display_name": "PSG Results: Number PLM clusters (Sleep)",
+  "display_name": "Number PLM clusters (Sleep)",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "cbcl_anxiety_problems_p",
-  "display_name": "CBCL: Anxiety Problems percentile (%)",
+  "display_name": "Anxiety Problems percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

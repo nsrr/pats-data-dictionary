@@ -1,6 +1,6 @@
 {
   "id": "brief_test_date_teacher",
-  "display_name": "BRIEF: Test date (teacher-completed)",
+  "display_name": "Test date (teacher-completed)",
   "description": "",
   "type": "date",
   "units": "yyyy-mm-dd"

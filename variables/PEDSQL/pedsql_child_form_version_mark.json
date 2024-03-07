@@ -1,6 +1,6 @@
 {
   "id": "pedsql_child_form_version_mark",
-  "display_name": "PedsQL Child: Incorrect form version was used for PedsQL Child Report",
+  "display_name": "Incorrect form version was used for PedsQL Child Report",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

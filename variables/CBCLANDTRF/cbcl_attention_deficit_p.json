@@ -1,6 +1,6 @@
 {
   "id": "cbcl_attention_deficit_p",
-  "display_name": "CBCL: Attention Deficit Hyperactivity percentile (%)",
+  "display_name": "Attention Deficit Hyperactivity percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

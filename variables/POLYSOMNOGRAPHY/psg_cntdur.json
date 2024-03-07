@@ -1,6 +1,6 @@
 {
   "id": "psg_cntdur",
-  "display_name": "PSG Results: Total Central Apnea Length (NREM) (minutes)",
+  "display_name": "Total Central Apnea Length (NREM) (minutes)",
   "description": "",
   "type": "numeric"
 }

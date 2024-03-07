@@ -1,6 +1,6 @@
 {
   "id": "pe_heent_explain",
-  "display_name": "Physical Exam: Explain abnormal HEENT",
+  "display_name": "Explain abnormal HEENT",
   "description": "",
   "type": "text"
 }

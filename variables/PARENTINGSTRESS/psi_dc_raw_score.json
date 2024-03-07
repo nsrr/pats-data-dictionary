@@ -1,6 +1,6 @@
 {
   "id": "psi_dc_raw_score",
-  "display_name": "PSI: Difficult child (DC) scale raw score",
+  "display_name": "Difficult child (DC) scale raw score",
   "description": "",
   "type": "integer"
 }

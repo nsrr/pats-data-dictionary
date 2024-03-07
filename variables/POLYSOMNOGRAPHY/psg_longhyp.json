@@ -1,6 +1,6 @@
 {
   "id": "psg_longhyp",
-  "display_name": "PSG Results: Longest Hypopnea (seconds)",
+  "display_name": "Longest Hypopnea (seconds)",
   "description": "",
   "type": "numeric"
 }

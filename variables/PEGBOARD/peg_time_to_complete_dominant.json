@@ -1,6 +1,6 @@
 {
   "id": "peg_time_to_complete_dominant",
-  "display_name": "Pegboard: Time to complete 9-Hole test using the dominant hand in seconds",
+  "display_name": "Time to complete 9-Hole test using the dominant hand in seconds",
   "description": "",
   "type": "integer",
   "units": "seconds (s)"

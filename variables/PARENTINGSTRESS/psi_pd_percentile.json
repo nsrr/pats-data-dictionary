@@ -1,6 +1,6 @@
 {
   "id": "psi_pd_percentile",
-  "display_name": "PSI: Parental distress (PD) scale percentile",
+  "display_name": "Parental distress (PD) scale percentile",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

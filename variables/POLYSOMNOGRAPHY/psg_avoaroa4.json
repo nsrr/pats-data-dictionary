@@ -1,6 +1,6 @@
 {
   "id": "psg_avoaroa4",
-  "display_name": "PSG Results: Average Obstructive Apnea length with arousals (REM, Other, 4% desat) (seconds)",
+  "display_name": "Average Obstructive Apnea length with arousals (REM, Other, 4% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

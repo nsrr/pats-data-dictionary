@@ -1,6 +1,6 @@
 {
   "id": "cbcl_withdrawn_depressed_s",
-  "display_name": "CBCL 6-18: Withdrawn/Depressed total score",
+  "display_name": "6-18: Withdrawn/Depressed total score",
   "description": "",
   "type": "integer"
 }

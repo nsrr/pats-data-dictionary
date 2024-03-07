@@ -1,6 +1,6 @@
 {
   "id": "chmh_migraine_still_present",
-  "display_name": "CHMH: Migraine headache or chronic severe headache is still present",
+  "display_name": "Migraine headache or chronic severe headache is still present",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

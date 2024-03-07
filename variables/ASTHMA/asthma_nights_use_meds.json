@@ -1,6 +1,6 @@
 {
   "id": "asthma_nights_use_meds",
-  "display_name": "ASTHMA: During the last 14 nights, number of nights the child used albuterol (brand names Pro-Air, Proventil, Ventolin, Xopenex) by puffer or breathing machine/nebulizer after going to sleep",
+  "display_name": "During the last 14 nights, number of nights the child used albuterol (brand names Pro-Air, Proventil, Ventolin, Xopenex) by puffer or breathing machine/nebulizer after going to sleep",
   "description": "",
   "type": "choices",
   "domain": "casi_section2"

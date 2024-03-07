@@ -1,6 +1,6 @@
 {
   "id": "psg_rdinba",
-  "display_name": "PSG Results: Hypopnea per hour with arousals (NREM, Back, all desats)",
+  "display_name": "Hypopnea per hour with arousals (NREM, Back, all desats)",
   "description": "",
   "type": "numeric"
 }

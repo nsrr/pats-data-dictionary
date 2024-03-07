@@ -1,6 +1,6 @@
 {
   "id": "psi_pchi_t_score",
-  "display_name": "PSI: Parent-child dysfunctional interaction (P-CDI) scale T score",
+  "display_name": "Parent-child dysfunctional interaction (P-CDI) scale T score",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "psg_mxhnop2",
-  "display_name": "PSG Results: Maximum Hypopnea length (NREM, Other 2% desat) (seconds)",
+  "display_name": "Maximum Hypopnea length (NREM, Other 2% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

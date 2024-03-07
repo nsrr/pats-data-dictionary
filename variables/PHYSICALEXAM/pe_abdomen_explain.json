@@ -1,6 +1,6 @@
 {
   "id": "pe_abdomen_explain",
-  "display_name": "Physical Exam: Explain abnormal abdomen",
+  "display_name": "Explain abnormal abdomen",
   "description": "",
   "type": "text"
 }

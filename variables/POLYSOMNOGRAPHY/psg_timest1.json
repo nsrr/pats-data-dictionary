@@ -1,6 +1,6 @@
 {
   "id": "psg_timest1",
-  "display_name": "PSG Results: Calculated - Total sleep time in stage 1 sleep (minutes)",
+  "display_name": "Calculated - Total sleep time in stage 1 sleep (minutes)",
   "description": "same as minstg1p; missing if study with problems scoring sleep/wake or stg1/stg2",
   "type": "integer"
 }

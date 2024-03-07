@@ -1,6 +1,6 @@
 {
   "id": "psg_canop5",
-  "display_name": "PSG Results: Number of Central Apnea (NREM, Other, 5% desat)",
+  "display_name": "Number of Central Apnea (NREM, Other, 5% desat)",
   "description": "",
   "type": "integer"
 }

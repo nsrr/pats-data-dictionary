@@ -1,6 +1,6 @@
 {
   "id": "psg_plmcardelta",
-  "display_name": "PSG Results: Number PLM clusters with arousal and resp. event (Delta Sleep)",
+  "display_name": "Number PLM clusters with arousal and resp. event (Delta Sleep)",
   "description": "",
   "type": "integer"
 }

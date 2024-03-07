@@ -1,6 +1,6 @@
 {
   "id": "brief_version_teacher",
-  "display_name": "BRIEF: Form version (teacher-completed)",
+  "display_name": "Form version (teacher-completed)",
   "description": "",
   "type": "choices",
   "domain": "brief_version"

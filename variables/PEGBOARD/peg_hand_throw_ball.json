@@ -1,6 +1,6 @@
 {
   "id": "peg_hand_throw_ball",
-  "display_name": "Pegboard: Which hand used to pick up and throw a ball (only asked when handedness was unsure)",
+  "display_name": "Which hand used to pick up and throw a ball (only asked when handedness was unsure)",
   "description": "",
   "type": "choices",
   "domain": "hand_dominance"

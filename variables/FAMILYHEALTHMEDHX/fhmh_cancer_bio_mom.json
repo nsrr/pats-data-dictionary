@@ -1,6 +1,6 @@
 {
   "id": "fhmh_cancer_bio_mom",
-  "display_name": "FHMH: Biological mother has/had cancer",
+  "display_name": "Biological mother has/had cancer",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

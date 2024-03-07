@@ -1,6 +1,6 @@
 {
   "id": "psg_mxcarop5",
-  "display_name": "PSG Results: Maximum Central Apnea length (REM, Other, 5% desat) (seconds)",
+  "display_name": "Maximum Central Apnea length (REM, Other, 5% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

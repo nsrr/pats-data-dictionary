@@ -1,6 +1,6 @@
 {
   "id": "psg_plmrem",
-  "display_name": "PSG Results: Number PLMs (REM)",
+  "display_name": "Number PLMs (REM)",
   "description": "",
   "type": "integer"
 }

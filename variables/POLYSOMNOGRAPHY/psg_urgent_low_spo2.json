@@ -1,6 +1,6 @@
 {
   "id": "psg_urgent_low_spo2",
-  "display_name": "PSG QC: Urgent Referral - SaO2 < 90% for > 2% sleep time (low SpO2)",
+  "display_name": "Urgent Referral - SaO2 < 90% for > 2% sleep time (low SpO2)",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

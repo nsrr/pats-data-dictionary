@@ -1,6 +1,6 @@
 {
   "id": "brief_wm_tscore_parent",
-  "display_name": "BRIEF: Working Memory scale T score (parent-completed)",
+  "display_name": "Working Memory scale T score (parent-completed)",
   "description": "",
   "type": "integer"
 }

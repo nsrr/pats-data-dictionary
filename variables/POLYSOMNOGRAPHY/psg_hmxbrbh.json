@@ -1,6 +1,6 @@
 {
   "id": "psg_hmxbrbh",
-  "display_name": "PSG Results: Maximum Heart Rate (REM, Back, 3% desat) (bpm)",
+  "display_name": "Maximum Heart Rate (REM, Back, 3% desat) (bpm)",
   "description": "",
   "type": "integer"
 }

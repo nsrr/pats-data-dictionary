@@ -1,6 +1,6 @@
 {
   "id": "fhmh_eczema_bio_dad",
-  "display_name": "FHMH: Biological father has/had eczema",
+  "display_name": "Biological father has/had eczema",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

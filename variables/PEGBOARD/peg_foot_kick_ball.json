@@ -1,6 +1,6 @@
 {
   "id": "peg_foot_kick_ball",
-  "display_name": "Pegboard: Which foot used to kick a ball (only asked when handedness was unsure)",
+  "display_name": "Which foot used to kick a ball (only asked when handedness was unsure)",
   "description": "",
   "type": "choices",
   "domain": "hand_dominance"

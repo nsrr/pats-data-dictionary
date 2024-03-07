@@ -1,6 +1,6 @@
 {
   "id": "pe_friedman_palate_position",
-  "display_name": "Physical Exam: Friedman palate position",
+  "display_name": "Friedman palate position",
   "description": "",
   "type": "choices",
   "domain": "friedman_palate_position"

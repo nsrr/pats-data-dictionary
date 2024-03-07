@@ -1,6 +1,6 @@
 {
   "id": "fhmh_have_pet_hamster",
-  "display_name": "FHMH: Pet hamster or other rodent in the home",
+  "display_name": "Pet hamster or other rodent in the home",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

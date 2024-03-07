@@ -1,6 +1,6 @@
 {
   "id": "psg_oavgdur",
-  "display_name": "PSG Results: Average Obstructive Apnea Length (seconds)",
+  "display_name": "Average Obstructive Apnea Length (seconds)",
   "description": "",
   "type": "numeric"
 }

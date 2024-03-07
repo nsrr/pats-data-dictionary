@@ -1,6 +1,6 @@
 {
   "id": "chmh_chest_wheezy_no_cold",
-  "display_name": "CHMH: Child's chest has sounded wheezy or whistling occasionally, apart from colds",
+  "display_name": "Child's chest has sounded wheezy or whistling occasionally, apart from colds",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

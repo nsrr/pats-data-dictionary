@@ -1,6 +1,6 @@
 {
   "id": "isaac_wheezing_er",
-  "display_name": "ISAAC: In the last 12 months, child has been to an emergency room or urgent care for asthma/wheezing",
+  "display_name": "In the last 12 months, child has been to an emergency room or urgent care for asthma/wheezing",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

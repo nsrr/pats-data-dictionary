@@ -1,6 +1,6 @@
 {
   "id": "psg_slplatp",
-  "display_name": "PSG Results: Sleep Latency (minutes)",
+  "display_name": "Sleep Latency (minutes)",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "cbcl_internalizing_problems_p",
-  "display_name": "CBCL: Internalizing Problems percentile (%)",
+  "display_name": "Internalizing Problems percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

@@ -1,6 +1,6 @@
 {
   "id": "trf_child_sex",
-  "display_name": "TRF: Child's sex",
+  "display_name": "Child's sex",
   "description": "",
   "type": "choices",
   "domain": "sex_1m_2f"

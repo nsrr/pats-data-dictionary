@@ -1,6 +1,6 @@
 {
   "id": "psg_ahntdur",
-  "display_name": "PSG Results: Total Apnea and Hypopnea Length (NREM) (minutes)",
+  "display_name": "Total Apnea and Hypopnea Length (NREM) (minutes)",
   "description": "",
   "type": "numeric"
 }

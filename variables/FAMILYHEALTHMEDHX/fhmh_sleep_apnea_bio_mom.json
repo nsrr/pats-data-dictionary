@@ -1,6 +1,6 @@
 {
   "id": "fhmh_sleep_apnea_bio_mom",
-  "display_name": "FHMH: Biological mother has/had sleep apnea",
+  "display_name": "Biological mother has/had sleep apnea",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

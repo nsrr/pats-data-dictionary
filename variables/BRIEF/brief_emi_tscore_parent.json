@@ -1,6 +1,6 @@
 {
   "id": "brief_emi_tscore_parent",
-  "display_name": "BRIEF: Preschool Version Emergent metacognition (EMI) index T score (parent-completed)",
+  "display_name": "Preschool Version Emergent metacognition (EMI) index T score (parent-completed)",
   "description": "",
   "type": "integer"
 }

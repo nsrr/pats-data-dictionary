@@ -1,6 +1,6 @@
 {
   "id": "psg_reliable_remnrem",
-  "display_name": "PSG QC: Scoring REM/NREM was reliable",
+  "display_name": "Scoring REM/NREM was reliable",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

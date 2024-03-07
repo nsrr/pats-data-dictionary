@@ -1,6 +1,6 @@
 {
   "id": "cbcl_child_sex",
-  "display_name": "CBCL: Child's sex",
+  "display_name": "Child's sex",
   "description": "",
   "type": "choices",
   "domain": "sex_1m_2f"

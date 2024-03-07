@@ -1,6 +1,6 @@
 {
   "id": "psg_sao92awk",
-  "display_name": "PSG Results: Total time SaO2 > 92% in awake (minutes)",
+  "display_name": "Total time SaO2 > 92% in awake (minutes)",
   "description": "",
   "type": "numeric"
 }

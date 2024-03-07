@@ -1,6 +1,6 @@
 {
   "id": "psg_smanrbp5",
-  "display_name": "PSG Results: Minimum Mixed Apnea length (NREM, Back, 5% desat) (seconds)",
+  "display_name": "Minimum Mixed Apnea length (NREM, Back, 5% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

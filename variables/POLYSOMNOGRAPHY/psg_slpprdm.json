@@ -1,6 +1,6 @@
 {
   "id": "psg_slpprdm",
-  "display_name": "PSG Results: Sleep Period (minutes)",
+  "display_name": "Sleep Period (minutes)",
   "description": "",
   "type": "numeric"
 }

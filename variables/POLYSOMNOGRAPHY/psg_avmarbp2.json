@@ -1,6 +1,6 @@
 {
   "id": "psg_avmarbp2",
-  "display_name": "PSG Results: Average Mixed Apnea length (REM, Back, 2% desat) (seconds)",
+  "display_name": "Average Mixed Apnea length (REM, Back, 2% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

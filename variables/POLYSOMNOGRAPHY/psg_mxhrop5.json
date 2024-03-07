@@ -1,6 +1,6 @@
 {
   "id": "psg_mxhrop5",
-  "display_name": "PSG Results: Maximum Hypopnea length (REM, Other, 5% desat) (seconds)",
+  "display_name": "Maximum Hypopnea length (REM, Other, 5% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

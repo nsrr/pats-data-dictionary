@@ -1,6 +1,6 @@
 {
   "id": "psg_mndrba",
-  "display_name": "PSG Results: Minimum SaO2 with arousals (REM, Back, all desats) (%)",
+  "display_name": "Minimum SaO2 with arousals (REM, Back, all desats) (%)",
   "description": "",
   "type": "integer"
 }

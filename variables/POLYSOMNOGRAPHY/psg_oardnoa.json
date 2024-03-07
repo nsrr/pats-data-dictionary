@@ -1,6 +1,6 @@
 {
   "id": "psg_oardnoa",
-  "display_name": "PSG Results: Obstructive Apnea per hour with arousals (NREM, Other, all desats)",
+  "display_name": "Obstructive Apnea per hour with arousals (NREM, Other, all desats)",
   "description": "",
   "type": "numeric"
 }

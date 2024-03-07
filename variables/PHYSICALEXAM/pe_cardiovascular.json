@@ -1,6 +1,6 @@
 {
   "id": "pe_cardiovascular",
-  "display_name": "Physical Exam: Cardiovascular",
+  "display_name": "Cardiovascular",
   "description": "",
   "type": "choices",
   "domain": "bpe_normal_abnormal"

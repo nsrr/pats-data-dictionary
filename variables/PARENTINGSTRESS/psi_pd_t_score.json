@@ -1,6 +1,6 @@
 {
   "id": "psi_pd_t_score",
-  "display_name": "PSI: Parental distress (PD) scale T score",
+  "display_name": "Parental distress (PD) scale T score",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "brief_inhibit_tscore_parent",
-  "display_name": "BRIEF: Inhibit scale T score (parent-completed)",
+  "display_name": "Inhibit scale T score (parent-completed)",
   "description": "",
   "type": "integer"
 }

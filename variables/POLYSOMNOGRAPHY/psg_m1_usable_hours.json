@@ -1,6 +1,6 @@
 {
   "id": "psg_m1_usable_hours",
-  "display_name": "PSG QC: M1 - Approximate hours of usable signal (in sleep)",
+  "display_name": "M1 - Approximate hours of usable signal (in sleep)",
   "description": "",
   "type": "integer",
   "units": "hours (hr)"

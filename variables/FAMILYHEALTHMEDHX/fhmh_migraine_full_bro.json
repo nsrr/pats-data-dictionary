@@ -1,6 +1,6 @@
 {
   "id": "fhmh_migraine_full_bro",
-  "display_name": "FHMH: Number of child's full brothers have migraine headache or chronic severe headache",
+  "display_name": "Number of child's full brothers have migraine headache or chronic severe headache",
   "description": "",
   "type": "integer"
 }

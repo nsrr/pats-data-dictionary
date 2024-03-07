@@ -1,6 +1,6 @@
 {
   "id": "psg_mxdnop",
-  "display_name": "PSG Results: Maximum Desat (NREM, Other, all desats)",
+  "display_name": "Maximum Desat (NREM, Other, all desats)",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "cbcl_aggressive_behaviors_t",
-  "display_name": "CBCL: Aggressive Behaviors T score",
+  "display_name": "Aggressive Behaviors T score",
   "description": "",
   "type": "integer"
 }

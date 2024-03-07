@@ -1,6 +1,6 @@
 {
   "id": "chmh_high_bp_medication",
-  "display_name": "CHMH: Currently taking medication for this high blood pressure (hypertension)",
+  "display_name": "Currently taking medication for this high blood pressure (hypertension)",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

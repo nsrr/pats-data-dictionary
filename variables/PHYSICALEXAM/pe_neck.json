@@ -1,6 +1,6 @@
 {
   "id": "pe_neck",
-  "display_name": "Physical Exam: Neck",
+  "display_name": "Neck",
   "description": "",
   "type": "choices",
   "domain": "bpe_normal_abnormal"

@@ -1,6 +1,6 @@
 {
   "id": "chmh_allergies_positive_insects",
-  "display_name": "CHMH: Allergy tested positive for insects",
+  "display_name": "Allergy tested positive for insects",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

@@ -1,6 +1,6 @@
 {
   "id": "psg_otdur",
-  "display_name": "PSG Results: Total Obstructive Apnea Length (minutes)",
+  "display_name": "Total Obstructive Apnea Length (minutes)",
   "description": "",
   "type": "numeric"
 }

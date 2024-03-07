@@ -1,6 +1,6 @@
 {
   "id": "psg_avmanrbpa",
-  "display_name": "PSG Results: Average Mixed Apnea with arousal length (NREM, Back, all desats) (seconds)",
+  "display_name": "Average Mixed Apnea with arousal length (NREM, Back, all desats) (seconds)",
   "description": "",
   "type": "integer"
 }

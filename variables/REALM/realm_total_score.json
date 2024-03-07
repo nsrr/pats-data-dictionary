@@ -1,6 +1,6 @@
 {
   "id": "realm_total_score",
-  "display_name": "REALM: Calculated - REALM total score (range: 0-8)",
+  "display_name": "Calculated - REALM total score (range: 0-8)",
   "description": "Number of positively endorsed responses to 8 medical words",
   "type": "integer"
 }

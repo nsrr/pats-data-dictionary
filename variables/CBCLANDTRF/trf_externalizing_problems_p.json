@@ -1,6 +1,6 @@
 {
   "id": "trf_externalizing_problems_p",
-  "display_name": "TRF: Externalizing Problems percentile (%)",
+  "display_name": "Externalizing Problems percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

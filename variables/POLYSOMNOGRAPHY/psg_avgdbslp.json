@@ -1,6 +1,6 @@
 {
   "id": "psg_avgdbslp",
-  "display_name": "PSG Results: Minimum Snore level during sleep (dB)",
+  "display_name": "Minimum Snore level during sleep (dB)",
   "description": "",
   "type": "integer"
 }

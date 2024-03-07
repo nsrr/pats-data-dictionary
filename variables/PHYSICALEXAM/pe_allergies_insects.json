@@ -1,6 +1,6 @@
 {
   "id": "pe_allergies_insects",
-  "display_name": "Physical Exam: Allergic to insects",
+  "display_name": "Allergic to insects",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

@@ -1,6 +1,6 @@
 {
   "id": "psg_cannula_signal_quality_grade",
-  "display_name": "PSG QC: Cannula Flow - Signal Quality Grade",
+  "display_name": "Cannula Flow - Signal Quality Grade",
   "description": "",
   "type": "choices",
   "domain": "signal_quality_grade"

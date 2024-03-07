@@ -1,6 +1,6 @@
 {
   "id": "cbcl_obsessive_compulsive_t",
-  "display_name": "CBCL 6-18: Obsessive-Compulsive Problems T score",
+  "display_name": "6-18: Obsessive-Compulsive Problems T score",
   "description": "",
   "type": "integer"
 }

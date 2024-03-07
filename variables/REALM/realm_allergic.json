@@ -1,6 +1,6 @@
 {
   "id": "realm_allergic",
-  "display_name": "REALM: 1. Allergic",
+  "display_name": "1. Allergic",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

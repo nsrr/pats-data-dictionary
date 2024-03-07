@@ -1,6 +1,6 @@
 {
   "id": "psg_ontdurbp",
-  "display_name": "PSG Results: Total Obstructive Apnea Length (NREM, Back) (minutes)",
+  "display_name": "Total Obstructive Apnea Length (NREM, Back) (minutes)",
   "description": "",
   "type": "numeric"
 }

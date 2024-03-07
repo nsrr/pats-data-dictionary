@@ -1,6 +1,6 @@
 {
   "id": "psg_reliable_oai",
-  "display_name": "PSG QC: Scoring apnea/hypopnea was reliable",
+  "display_name": "Scoring apnea/hypopnea was reliable",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

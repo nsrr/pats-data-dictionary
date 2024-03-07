@@ -1,6 +1,6 @@
 {
   "id": "ess_lying_down_to_rest",
-  "display_name": "Epworth: Lying down to rest or nap in the afternoon",
+  "display_name": "Lying down to rest or nap in the afternoon",
   "description": "",
   "type": "choices",
   "domain": "ess"

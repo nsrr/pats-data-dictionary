@@ -1,6 +1,6 @@
 {
   "id": "psg_m2_signal_quality_grade",
-  "display_name": "PSG QC: M2 - Signal Quality Grade",
+  "display_name": "M2 - Signal Quality Grade",
   "description": "",
   "type": "choices",
   "domain": "signal_quality_grade"

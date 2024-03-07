@@ -1,6 +1,6 @@
 {
   "id": "chmh_cough",
-  "display_name": "CHMH: In the past year, child usually had a cough ",
+  "display_name": "In the past year, child usually had a cough ",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

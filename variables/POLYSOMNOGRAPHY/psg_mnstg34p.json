@@ -1,6 +1,6 @@
 {
   "id": "psg_mnstg34p",
-  "display_name": "PSG Results: Time in stage 3-4 sleep (minutes)",
+  "display_name": "Time in stage 3-4 sleep (minutes)",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "psg_flow_limitation_comments",
-  "display_name": "PSG QC: Comments on noted flow limitation on canuula flow",
+  "display_name": "Comments on noted flow limitation on canuula flow",
   "description": "",
   "type": "text"
 }

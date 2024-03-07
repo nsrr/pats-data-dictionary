@@ -1,6 +1,6 @@
 {
   "id": "cbcl_somatic_complaints_p",
-  "display_name": "CBCL: Somatic Complaints percentile (%)",
+  "display_name": "Somatic Complaints percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

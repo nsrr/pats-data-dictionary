@@ -1,6 +1,6 @@
 {
   "id": "conners_peer_parent",
-  "display_name": "Conners: Peer Relations T score (parent-completed)",
+  "display_name": "Peer Relations T score (parent-completed)",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "eod_getting_housing_yes",
-  "display_name": "EOD: 6. How often have you experienced discrimination when getting housing",
+  "display_name": "6. How often have you experienced discrimination when getting housing",
   "description": "",
   "type": "choices",
   "domain": "items"

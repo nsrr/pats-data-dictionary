@@ -1,6 +1,6 @@
 {
   "id": "psg_plmi_gt25_comments",
-  "display_name": "PSG QC: Comments on periodic leg movement index > 25 events per hour in sleep",
+  "display_name": "Comments on periodic leg movement index > 25 events per hour in sleep",
   "description": "",
   "type": "text"
 }

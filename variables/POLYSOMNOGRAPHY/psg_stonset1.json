@@ -1,6 +1,6 @@
 {
   "id": "psg_stonset1",
-  "display_name": "PSG Results: Sleep onset (start of sleep- hh:mm:ss) - scorer",
+  "display_name": "Sleep onset (start of sleep- hh:mm:ss) - scorer",
   "description": "",
   "type": "time"
 }

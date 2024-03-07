@@ -1,6 +1,6 @@
 {
   "id": "gonogo_missed_hits_gng",
-  "display_name": "Go/No-Go: Total number of missed hits (Inhibitory Control/GNG Block)",
+  "display_name": "Total number of missed hits (Inhibitory Control/GNG Block)",
   "description": "",
   "type": "integer"
 }

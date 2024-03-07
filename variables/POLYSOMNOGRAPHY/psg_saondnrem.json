@@ -1,6 +1,6 @@
 {
   "id": "psg_saondnrem",
-  "display_name": "PSG Results: Average SaO2% Nadir (NREM)",
+  "display_name": "Average SaO2% Nadir (NREM)",
   "description": "",
   "type": "integer"
 }

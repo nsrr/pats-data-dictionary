@@ -1,6 +1,6 @@
 {
   "id": "chmh_chest_wheezy_dust_fumes",
-  "display_name": "CHMH: Child's chest has chest sounded wheezy or whistling with exposure to dust or fumes",
+  "display_name": "Child's chest has chest sounded wheezy or whistling with exposure to dust or fumes",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

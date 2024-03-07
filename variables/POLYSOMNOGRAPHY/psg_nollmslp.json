@@ -1,6 +1,6 @@
 {
   "id": "psg_nollmslp",
-  "display_name": "PSG Results: Number of left limb movements per hour of sleep",
+  "display_name": "Number of left limb movements per hour of sleep",
   "description": "",
   "type": "numeric"
 }

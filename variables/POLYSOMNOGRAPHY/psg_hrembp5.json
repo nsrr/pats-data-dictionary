@@ -1,6 +1,6 @@
 {
   "id": "psg_hrembp5",
-  "display_name": "PSG Results: Number of Hypopnea (REM, Back, 5% desat)",
+  "display_name": "Number of Hypopnea (REM, Back, 5% desat)",
   "description": "",
   "type": "integer"
 }

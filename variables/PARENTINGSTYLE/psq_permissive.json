@@ -1,6 +1,6 @@
 {
   "id": "psq_permissive",
-  "display_name": "PSQ: Calculated - Permissive parent behavior (range: 1-5)",
+  "display_name": "Calculated - Permissive parent behavior (range: 1-5)",
   "description": "",
   "type": "numeric",
   "calculation": "(Sum score from Q27 to Q30)/4"

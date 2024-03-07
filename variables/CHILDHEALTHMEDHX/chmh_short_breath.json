@@ -1,6 +1,6 @@
 {
   "id": "chmh_short_breath",
-  "display_name": "CHMH: In the past year, child had been troubled by shortness of breath when hurrying on level ground or walking up a slight hill",
+  "display_name": "In the past year, child had been troubled by shortness of breath when hurrying on level ground or walking up a slight hill",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

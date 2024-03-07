@@ -1,6 +1,6 @@
 {
   "id": "psg_minsaondoaslp",
-  "display_name": "PSG Results: Minimum SaO2% Nadir assoc. with Obstructive Apnea (Sleep)",
+  "display_name": "Minimum SaO2% Nadir assoc. with Obstructive Apnea (Sleep)",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "chmh_stuffy_nose_dusty_room",
-  "display_name": "CHMH: In the past year, a dusty room caused the child to have stuffy or runny nose",
+  "display_name": "In the past year, a dusty room caused the child to have stuffy or runny nose",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

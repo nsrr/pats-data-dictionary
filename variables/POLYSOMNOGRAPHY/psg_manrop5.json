@@ -1,6 +1,6 @@
 {
   "id": "psg_manrop5",
-  "display_name": "PSG Results: Number Mixed Apnea (NREM, Other, 5% desat)",
+  "display_name": "Number Mixed Apnea (NREM, Other, 5% desat)",
   "description": "",
   "type": "integer"
 }

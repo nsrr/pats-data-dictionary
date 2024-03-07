@@ -1,6 +1,6 @@
 {
   "id": "psg_lowsaoslp",
-  "display_name": "PSG Results: Minimum SaO2 % (Sleep time) (%)",
+  "display_name": "Minimum SaO2 % (Sleep time) (%)",
   "description": "",
   "type": "integer"
 }

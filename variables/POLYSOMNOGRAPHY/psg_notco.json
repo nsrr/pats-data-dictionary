@@ -1,6 +1,6 @@
 {
   "id": "psg_notco",
-  "display_name": "PSG Results: Number of Tachycardia  related to Obstructive Apnea (Sleep time)",
+  "display_name": "Number of Tachycardia  related to Obstructive Apnea (Sleep time)",
   "description": "",
   "type": "integer"
 }

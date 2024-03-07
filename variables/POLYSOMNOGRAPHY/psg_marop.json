@@ -1,6 +1,6 @@
 {
   "id": "psg_marop",
-  "display_name": "PSG Results: Number Mixed Apnea (REM, Other, all desats)",
+  "display_name": "Number Mixed Apnea (REM, Other, all desats)",
   "description": "",
   "type": "integer"
 }

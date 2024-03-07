@@ -1,6 +1,6 @@
 {
   "id": "shq_child_snore_usual",
-  "display_name": "SHQ: In the last month, has your child's snoring usually been",
+  "display_name": "In the last month, has your child's snoring usually been",
   "description": "Required to answer only if \"shq_child_snored_last_month\" =  1: Yes",
   "type": "choices",
   "domain": "loudness"

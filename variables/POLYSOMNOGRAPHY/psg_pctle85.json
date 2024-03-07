@@ -1,6 +1,6 @@
 {
   "id": "psg_pctle85",
-  "display_name": "PSG Results: Calculated - Percent sleep time SaO2 is below <= 85%",
+  "display_name": "Calculated - Percent sleep time SaO2 is below <= 85%",
   "description": "same as pctsa85",
   "type": "integer"
 }

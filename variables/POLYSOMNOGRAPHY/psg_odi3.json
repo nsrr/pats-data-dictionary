@@ -1,6 +1,6 @@
 {
   "id": "psg_odi3",
-  "display_name": "PSG Results: Calculated - Oxygen desaturation index (ODI) 3% ",
+  "display_name": "Calculated - Oxygen desaturation index (ODI) 3% ",
   "description": "",
   "type": "numeric",
   "calculation": "odi3 = ((dsrem3 * minremp) + (dsnr3 * (slp_time - minremp))) / slpprdp"

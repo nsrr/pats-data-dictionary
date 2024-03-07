@@ -1,6 +1,6 @@
 {
   "id": "psg_study_date",
-  "display_name": "PSG QC: Study date",
+  "display_name": "Study date",
   "description": "",
   "type": "date",
   "units": "yyyy-mm-dd"

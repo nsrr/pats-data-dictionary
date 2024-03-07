@@ -1,6 +1,6 @@
 {
   "id": "psg_plmcstg1",
-  "display_name": "PSG Results: Number PLM clusters (Stage 1 Sleep)",
+  "display_name": "Number PLM clusters (Stage 1 Sleep)",
   "description": "",
   "type": "integer"
 }

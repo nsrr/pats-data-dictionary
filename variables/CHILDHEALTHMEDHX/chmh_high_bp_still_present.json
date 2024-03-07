@@ -1,6 +1,6 @@
 {
   "id": "chmh_high_bp_still_present",
-  "display_name": "CHMH: High blood pressure (hypertension) is still present",
+  "display_name": "High blood pressure (hypertension) is still present",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

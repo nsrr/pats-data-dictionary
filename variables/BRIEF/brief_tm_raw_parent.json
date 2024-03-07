@@ -1,6 +1,6 @@
 {
   "id": "brief_tm_raw_parent",
-  "display_name": "BRIEF: Second Edition Task-Monitor scale raw score (parent-completed)",
+  "display_name": "Second Edition Task-Monitor scale raw score (parent-completed)",
   "description": "",
   "type": "integer"
 }

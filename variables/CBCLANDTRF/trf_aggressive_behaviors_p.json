@@ -1,6 +1,6 @@
 {
   "id": "trf_aggressive_behaviors_p",
-  "display_name": "TRF: Aggressive Behaviors percentile (%)",
+  "display_name": "Aggressive Behaviors percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

@@ -1,6 +1,6 @@
 {
   "id": "fhmh_asthma_half_bro",
-  "display_name": "FHMH: Number of child's half brothers have asthma",
+  "display_name": "Number of child's half brothers have asthma",
   "description": "",
   "type": "integer"
 }

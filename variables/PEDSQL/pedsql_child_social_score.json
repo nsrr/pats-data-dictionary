@@ -1,6 +1,6 @@
 {
   "id": "pedsql_child_social_score",
-  "display_name": "PedsQL Child: Calculated - Social Functioning Summary Score",
+  "display_name": "Calculated - Social Functioning Summary Score",
   "description": "",
   "type": "integer"
 }

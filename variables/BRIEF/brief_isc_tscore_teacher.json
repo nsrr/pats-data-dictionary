@@ -1,6 +1,6 @@
 {
   "id": "brief_isc_tscore_teacher",
-  "display_name": "BRIEF: Preschool Version Inhibitory self-control (ISC) index T score (teacher-completed)",
+  "display_name": "Preschool Version Inhibitory self-control (ISC) index T score (teacher-completed)",
   "description": "",
   "type": "integer"
 }

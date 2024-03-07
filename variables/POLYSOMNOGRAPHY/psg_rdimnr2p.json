@@ -1,6 +1,6 @@
 {
   "id": "psg_rdimnr2p",
-  "display_name": "PSG Results: Calculated - RDI in NREM sleep (>= 2% desaturation)",
+  "display_name": "Calculated - RDI in NREM sleep (>= 2% desaturation)",
   "description": "missing if studies with problems scoring REM/NREM or if studies scored as sleep/wake or NREM sleep time is 0",
   "type": "numeric",
   "calculation": "rdimnr2p  = 60*(hnrbp2 + hnrop2 + canbp2 + canop2 + oanbp2 + oanop2 + manrbp2 + manrop2)/(slpprdp - minremp)"

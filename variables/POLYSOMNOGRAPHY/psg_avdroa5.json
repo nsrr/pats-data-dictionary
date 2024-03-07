@@ -1,6 +1,6 @@
 {
   "id": "psg_avdroa5",
-  "display_name": "PSG Results: Average Desat with arousals (REM, Other, 5% desat)",
+  "display_name": "Average Desat with arousals (REM, Other, 5% desat)",
   "description": "",
   "type": "integer"
 }

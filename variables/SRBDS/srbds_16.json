@@ -1,6 +1,6 @@
 {
   "id": "srbds_16",
-  "display_name": "SRBDS: 16. Is your child overweight",
+  "display_name": "16. Is your child overweight",
   "description": "",
   "type": "choices",
   "domain": "yes_no_dontknow"

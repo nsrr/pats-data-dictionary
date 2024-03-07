@@ -1,6 +1,6 @@
 {
   "id": "isaac_global_wheezing_score",
-  "display_name": "ISAAC: Calculated - Global wheezing score (range: 0-10)",
+  "display_name": "Calculated - Global wheezing score (range: 0-10)",
   "description": "",
   "type": "integer"
 }

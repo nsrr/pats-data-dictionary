@@ -1,6 +1,6 @@
 {
   "id": "psg_rdirbp",
-  "display_name": "PSG Results: Hypopnea per hour (REM, Back, all desats)",
+  "display_name": "Hypopnea per hour (REM, Back, all desats)",
   "description": "",
   "type": "numeric"
 }

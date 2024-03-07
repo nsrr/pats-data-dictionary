@@ -1,6 +1,6 @@
 {
   "id": "ess_riding_in_a_car",
-  "display_name": "Epworth: Sitting and riding in a car or bus for about half an hour",
+  "display_name": "Sitting and riding in a car or bus for about half an hour",
   "description": "",
   "type": "choices",
   "domain": "ess"

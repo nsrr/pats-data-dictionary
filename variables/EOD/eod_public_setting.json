@@ -1,6 +1,6 @@
 {
   "id": "eod_public_setting",
-  "display_name": "EOD: 10. Have you ever experienced discrimination on the street or in a public setting",
+  "display_name": "10. Have you ever experienced discrimination on the street or in a public setting",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

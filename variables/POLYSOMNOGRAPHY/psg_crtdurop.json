@@ -1,6 +1,6 @@
 {
   "id": "psg_crtdurop",
-  "display_name": "PSG Results: Total Central Apnea Length (REM, Other) (minutes)",
+  "display_name": "Total Central Apnea Length (REM, Other) (minutes)",
   "description": "",
   "type": "numeric"
 }

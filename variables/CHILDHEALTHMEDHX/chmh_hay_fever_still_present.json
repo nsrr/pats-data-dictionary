@@ -1,6 +1,6 @@
 {
   "id": "chmh_hay_fever_still_present",
-  "display_name": "CHMH: Hay fever  (sneezing and watery eyes) is still present",
+  "display_name": "Hay fever  (sneezing and watery eyes) is still present",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

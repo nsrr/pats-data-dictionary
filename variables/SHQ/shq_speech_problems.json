@@ -1,6 +1,6 @@
 {
   "id": "shq_speech_problems",
-  "display_name": "SHQ: In the past 6 months, has your child had speech problems",
+  "display_name": "In the past 6 months, has your child had speech problems",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

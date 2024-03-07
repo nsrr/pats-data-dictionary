@@ -1,6 +1,6 @@
 {
   "id": "shq_referred_special_help",
-  "display_name": "SHQ: Has your child been referred for special help in school",
+  "display_name": "Has your child been referred for special help in school",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

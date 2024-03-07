@@ -1,6 +1,6 @@
 {
   "id": "chmh_cerebral_palsy",
-  "display_name": "CHMH: Child has had cerebral palsy",
+  "display_name": "Child has had cerebral palsy",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

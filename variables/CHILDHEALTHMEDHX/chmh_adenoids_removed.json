@@ -1,6 +1,6 @@
 {
   "id": "chmh_adenoids_removed",
-  "display_name": "CHMH: Child has had adenoids removal surgery",
+  "display_name": "Child has had adenoids removal surgery",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

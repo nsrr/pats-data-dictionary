@@ -1,6 +1,6 @@
 {
   "id": "psi_total_stress_t_score",
-  "display_name": "PSI: Total stress scale T score",
+  "display_name": "Total stress scale T score",
   "description": "",
   "type": "integer"
 }

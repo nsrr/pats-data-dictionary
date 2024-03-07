@@ -1,6 +1,6 @@
 {
   "id": "psg_lmarem",
-  "display_name": "PSG Results: Number Limb Movements with arousal (REM)",
+  "display_name": "Number Limb Movements with arousal (REM)",
   "description": "",
   "type": "integer"
 }

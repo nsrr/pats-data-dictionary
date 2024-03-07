@@ -1,6 +1,6 @@
 {
   "id": "chmh_high_chol",
-  "display_name": "CHMH: Child has had high cholesterol",
+  "display_name": "Child has had high cholesterol",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

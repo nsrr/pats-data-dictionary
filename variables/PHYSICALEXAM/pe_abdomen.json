@@ -1,6 +1,6 @@
 {
   "id": "pe_abdomen",
-  "display_name": "Physical Exam: Abdomen",
+  "display_name": "Abdomen",
   "description": "",
   "type": "choices",
   "domain": "bpe_normal_abnormal"

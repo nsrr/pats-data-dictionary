@@ -1,6 +1,6 @@
 {
   "id": "psg_urgent_problem_hr",
-  "display_name": "PSG QC: Urgent Referral - HR < 40 bpm or > 140 bpm for > 2 mins (problem heart rate)",
+  "display_name": "Urgent Referral - HR < 40 bpm or > 140 bpm for > 2 mins (problem heart rate)",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

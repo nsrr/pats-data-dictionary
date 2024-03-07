@@ -1,6 +1,6 @@
 {
   "id": "psg_ahrtdurbp",
-  "display_name": "PSG Results: Total Apnea and Hypopnea Length (REM, Back) (minutes)",
+  "display_name": "Total Apnea and Hypopnea Length (REM, Back) (minutes)",
   "description": "",
   "type": "numeric"
 }

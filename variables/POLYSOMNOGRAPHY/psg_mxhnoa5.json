@@ -1,6 +1,6 @@
 {
   "id": "psg_mxhnoa5",
-  "display_name": "PSG Results: Maximum Hypopnea length with arousals (NREM, Other 5% desat) (seconds)",
+  "display_name": "Maximum Hypopnea length with arousals (NREM, Other 5% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

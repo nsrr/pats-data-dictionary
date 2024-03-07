@@ -1,6 +1,6 @@
 {
   "id": "psg_supinep",
-  "display_name": "PSG Results: Calculated - Percent sleep in supine body position (%)",
+  "display_name": "Calculated - Percent sleep in supine body position (%)",
   "description": "missing if position sensor in not working",
   "type": "numeric",
   "calculation": "supinep = 100*(remepbp+nremepbp)/(remepbp+nremepbp+remepop+nremepop)"

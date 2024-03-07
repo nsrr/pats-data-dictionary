@@ -1,6 +1,6 @@
 {
   "id": "osa18_sleep_score",
-  "display_name": "OSA-18: Calculated - Sleep Disturbance Score (Range: 4-28)",
+  "display_name": "Calculated - Sleep Disturbance Score (Range: 4-28)",
   "description": "",
   "type": "integer",
   "calculation": "Sum of 1a-1d + 4"

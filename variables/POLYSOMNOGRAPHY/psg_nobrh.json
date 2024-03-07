@@ -1,6 +1,6 @@
 {
   "id": "psg_nobrh",
-  "display_name": "PSG Results: Number of Bradycardia related to Hypopnea (Sleep time onset)",
+  "display_name": "Number of Bradycardia related to Hypopnea (Sleep time onset)",
   "description": "",
   "type": "integer"
 }

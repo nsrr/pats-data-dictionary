@@ -1,6 +1,6 @@
 {
   "id": "psg_avdnba",
-  "display_name": "PSG Results: Average Desat with arousals (NREM, Back, all desats)",
+  "display_name": "Average Desat with arousals (NREM, Back, all desats)",
   "description": "",
   "type": "integer"
 }

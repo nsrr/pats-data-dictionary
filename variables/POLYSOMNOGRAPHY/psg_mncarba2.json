@@ -1,6 +1,6 @@
 {
   "id": "psg_mncarba2",
-  "display_name": "PSG Results: Minimum Central Apnea length with arousals (REM, Back, 2% desat) (seconds)",
+  "display_name": "Minimum Central Apnea length with arousals (REM, Back, 2% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

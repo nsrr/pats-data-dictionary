@@ -1,6 +1,6 @@
 {
   "id": "psg_remepbp",
-  "display_name": "PSG Results: Sleep Time (REM, Back) (minutes)",
+  "display_name": "Sleep Time (REM, Back) (minutes)",
   "description": "",
   "type": "integer"
 }

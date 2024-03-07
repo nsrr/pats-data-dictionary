@@ -1,6 +1,6 @@
 {
   "id": "psg_hnrbp4",
-  "display_name": "PSG Results: Number of Hypopnea (NREM, Back, 4% desat)",
+  "display_name": "Number of Hypopnea (NREM, Back, 4% desat)",
   "description": "",
   "type": "integer"
 }

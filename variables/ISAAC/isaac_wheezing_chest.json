@@ -1,6 +1,6 @@
 {
   "id": "isaac_wheezing_chest",
-  "display_name": "ISAAC: In the last 12 months, child has had wheezing or whistling in the chest",
+  "display_name": "In the last 12 months, child has had wheezing or whistling in the chest",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

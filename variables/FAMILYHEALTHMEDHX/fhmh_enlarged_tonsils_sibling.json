@@ -1,6 +1,6 @@
 {
   "id": "fhmh_enlarged_tonsils_sibling",
-  "display_name": "FHMH: Child's any siblings have enlarged tonsils or adenoids",
+  "display_name": "Child's any siblings have enlarged tonsils or adenoids",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

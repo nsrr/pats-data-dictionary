@@ -1,6 +1,6 @@
 {
   "id": "pe_respiratory_not_osas",
-  "display_name": "Physical Exam: Respiratory (not obstructive sleep apnea syndrome)",
+  "display_name": "Respiratory (not obstructive sleep apnea syndrome)",
   "description": "",
   "type": "choices",
   "domain": "bpe_normal_abnormal"

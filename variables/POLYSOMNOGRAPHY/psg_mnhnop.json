@@ -1,6 +1,6 @@
 {
   "id": "psg_mnhnop",
-  "display_name": "PSG Results: Minimum Hypopnea length (NREM, Other, all desats) (seconds)",
+  "display_name": "Minimum Hypopnea length (NREM, Other, all desats) (seconds)",
   "description": "",
   "type": "integer"
 }

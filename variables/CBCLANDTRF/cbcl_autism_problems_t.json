@@ -1,6 +1,6 @@
 {
   "id": "cbcl_autism_problems_t",
-  "display_name": "CBCL 1.5-5: Autism Spectrum Problems T score",
+  "display_name": "1.5-5: Autism Spectrum Problems T score",
   "description": "",
   "type": "integer"
 }

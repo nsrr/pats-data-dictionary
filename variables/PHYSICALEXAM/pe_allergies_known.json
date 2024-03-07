@@ -1,6 +1,6 @@
 {
   "id": "pe_allergies_known",
-  "display_name": "Physical Exam: Have known allergies",
+  "display_name": "Have known allergies",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

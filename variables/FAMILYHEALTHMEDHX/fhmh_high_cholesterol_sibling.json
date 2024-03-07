@@ -1,6 +1,6 @@
 {
   "id": "fhmh_high_cholesterol_sibling",
-  "display_name": "FHMH: Child's any siblings have high cholesterol",
+  "display_name": "Child's any siblings have high cholesterol",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

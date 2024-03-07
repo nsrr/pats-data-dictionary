@@ -1,6 +1,6 @@
 {
   "id": "fhmh_diabetes_sibling",
-  "display_name": "FHMH: Child's any siblings have diabetes",
+  "display_name": "Child's any siblings have diabetes",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

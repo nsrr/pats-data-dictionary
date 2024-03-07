@@ -1,6 +1,6 @@
 {
   "id": "isaac_hay_fever",
-  "display_name": "ISAAC: Child has had hay fever",
+  "display_name": "Child has had hay fever",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

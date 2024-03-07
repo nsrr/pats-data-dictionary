@@ -1,6 +1,6 @@
 {
   "id": "psg_mndrbp2",
-  "display_name": "PSG Results: Minimum SaO2 (REM, Back, 2% desat) (%)",
+  "display_name": "Minimum SaO2 (REM, Back, 2% desat) (%)",
   "description": "",
   "type": "integer"
 }

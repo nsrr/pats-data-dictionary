@@ -1,6 +1,6 @@
 {
   "id": "fhmh_sids_half_bro",
-  "display_name": "FHMH: Number of child's half brothers have crib death or sudden infant death syndrome (SIDS)",
+  "display_name": "Number of child's half brothers have crib death or sudden infant death syndrome (SIDS)",
   "description": "",
   "type": "integer"
 }

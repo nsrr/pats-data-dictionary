@@ -1,6 +1,6 @@
 {
   "id": "pe_allergies_trees",
-  "display_name": "Physical Exam: Allergic to trees",
+  "display_name": "Allergic to trees",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

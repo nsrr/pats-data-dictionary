@@ -1,6 +1,6 @@
 {
   "id": "pe_exam_date",
-  "display_name": "Physical Exam: Exam date",
+  "display_name": "Exam date",
   "description": "",
   "type": "date",
   "units": "yyyy-mm-dd"

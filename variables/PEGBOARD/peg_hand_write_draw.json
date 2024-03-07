@@ -1,6 +1,6 @@
 {
   "id": "peg_hand_write_draw",
-  "display_name": "Pegboard: Which hand used to write or draw (only asked when handedness was unsure)",
+  "display_name": "Which hand used to write or draw (only asked when handedness was unsure)",
   "description": "",
   "type": "choices",
   "domain": "hand_dominance"

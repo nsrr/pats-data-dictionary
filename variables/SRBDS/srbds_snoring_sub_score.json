@@ -1,6 +1,6 @@
 {
   "id": "srbds_snoring_sub_score",
-  "display_name": "SRBDS: Snoring Subscale Score (Range: 0-1)",
+  "display_name": "Snoring Subscale Score (Range: 0-1)",
   "description": "",
   "type": "numeric",
   "calculation": "The number of items (Q1, Q2, Q3, Q4) endorsed positively (\"yes\") divided by the number of items answered without missing"

@@ -1,6 +1,6 @@
 {
   "id": "psg_caroa",
-  "display_name": "PSG Results: Number of Central Apnea with arousals (REM, Other, all desats)",
+  "display_name": "Number of Central Apnea with arousals (REM, Other, all desats)",
   "description": "",
   "type": "integer"
 }

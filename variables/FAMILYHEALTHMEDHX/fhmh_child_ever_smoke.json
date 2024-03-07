@@ -1,6 +1,6 @@
 {
   "id": "fhmh_child_ever_smoke",
-  "display_name": "FHMH: Child ever smokes",
+  "display_name": "Child ever smokes",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

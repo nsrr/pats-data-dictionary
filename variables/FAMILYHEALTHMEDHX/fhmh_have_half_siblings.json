@@ -1,6 +1,6 @@
 {
   "id": "fhmh_have_half_siblings",
-  "display_name": "FHMH: Child has any half brothers and/or sisters (one parent in common) ",
+  "display_name": "Child has any half brothers and/or sisters (one parent in common) ",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

@@ -1,6 +1,6 @@
 {
   "id": "brief_child_sex_teacher",
-  "display_name": "BRIEF: Child sex (teacher-completed)",
+  "display_name": "Child sex (teacher-completed)",
   "description": "",
   "type": "choices",
   "domain": "sex_1m_2f"

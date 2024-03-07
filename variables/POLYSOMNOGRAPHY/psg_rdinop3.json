@@ -1,6 +1,6 @@
 {
   "id": "psg_rdinop3",
-  "display_name": "PSG Results: Hypopnea per hour (NREM, Other, 3% desat)",
+  "display_name": "Hypopnea per hour (NREM, Other, 3% desat)",
   "description": "",
   "type": "numeric"
 }

@@ -1,6 +1,6 @@
 {
   "id": "chmh_migraine_diagnosed",
-  "display_name": "CHMH: Migraine headache or chronic severe headache was diagnosed or treated by a physician or nurse",
+  "display_name": "Migraine headache or chronic severe headache was diagnosed or treated by a physician or nurse",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

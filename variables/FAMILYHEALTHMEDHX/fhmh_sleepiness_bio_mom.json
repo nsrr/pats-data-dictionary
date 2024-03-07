@@ -1,6 +1,6 @@
 {
   "id": "fhmh_sleepiness_bio_mom",
-  "display_name": "FHMH: Biological mother has/had excessive Sleepiness (3 or more times per week)",
+  "display_name": "Biological mother has/had excessive Sleepiness (3 or more times per week)",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

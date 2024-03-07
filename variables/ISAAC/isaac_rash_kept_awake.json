@@ -1,6 +1,6 @@
 {
   "id": "isaac_rash_kept_awake",
-  "display_name": "ISAAC: In the last 12 months, how often, on average, child has been kept awake at night by this itchy rash",
+  "display_name": "In the last 12 months, how often, on average, child has been kept awake at night by this itchy rash",
   "description": "",
   "type": "choices",
   "domain": "kept_awake"

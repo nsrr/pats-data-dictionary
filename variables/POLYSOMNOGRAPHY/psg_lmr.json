@@ -1,6 +1,6 @@
 {
   "id": "psg_lmr",
-  "display_name": "PSG Results: Number Limb Movements with resp. events",
+  "display_name": "Number Limb Movements with resp. events",
   "description": "",
   "type": "integer"
 }

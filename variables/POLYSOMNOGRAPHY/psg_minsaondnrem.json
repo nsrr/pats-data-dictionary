@@ -1,6 +1,6 @@
 {
   "id": "psg_minsaondnrem",
-  "display_name": "PSG Results: Minimum SaO2% Nadir (NREM)",
+  "display_name": "Minimum SaO2% Nadir (NREM)",
   "description": "",
   "type": "integer"
 }

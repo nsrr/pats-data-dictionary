@@ -1,6 +1,6 @@
 {
   "id": "isaac_nose_problem_aug",
-  "display_name": "ISAAC: In the past August, this nose problem occurred",
+  "display_name": "In the past August, this nose problem occurred",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

@@ -1,6 +1,6 @@
 {
   "id": "osa18_caregiver_score",
-  "display_name": "OSA-18: Calculated - Caregiver Concerns Score (Range: 4-28)",
+  "display_name": "Calculated - Caregiver Concerns Score (Range: 4-28)",
   "description": "",
   "type": "integer",
   "calculation": "Sum of 5a-5d + 4"

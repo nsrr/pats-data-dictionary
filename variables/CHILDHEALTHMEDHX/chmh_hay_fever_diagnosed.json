@@ -1,6 +1,6 @@
 {
   "id": "chmh_hay_fever_diagnosed",
-  "display_name": "CHMH: Hay fever (sneezing and watery eyes) was diagnosed or treated by a physician or nurse",
+  "display_name": "Hay fever (sneezing and watery eyes) was diagnosed or treated by a physician or nurse",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

@@ -1,6 +1,6 @@
 {
   "id": "shq_breathing_difficulty",
-  "display_name": "SHQ: Over the past month, has your child had breathing difficulty during sleep",
+  "display_name": "Over the past month, has your child had breathing difficulty during sleep",
   "description": "",
   "type": "choices",
   "domain": "never_always_notsure"

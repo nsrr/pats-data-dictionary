@@ -1,6 +1,6 @@
 {
   "id": "psg_plmcastg2",
-  "display_name": "PSG Results: Number PLM clusters with arousal (Stage 2 Sleep)",
+  "display_name": "Number PLM clusters with arousal (Stage 2 Sleep)",
   "description": "",
   "type": "integer"
 }

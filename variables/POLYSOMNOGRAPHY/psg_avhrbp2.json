@@ -1,6 +1,6 @@
 {
   "id": "psg_avhrbp2",
-  "display_name": "PSG Results: Average Hypopnea length (REM, Back, 2% desat) (seconds)",
+  "display_name": "Average Hypopnea length (REM, Back, 2% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

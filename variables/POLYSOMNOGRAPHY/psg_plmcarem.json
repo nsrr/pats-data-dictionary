@@ -1,6 +1,6 @@
 {
   "id": "psg_plmcarem",
-  "display_name": "PSG Results: Number PLM clusters with arousal (REM)",
+  "display_name": "Number PLM clusters with arousal (REM)",
   "description": "",
   "type": "integer"
 }

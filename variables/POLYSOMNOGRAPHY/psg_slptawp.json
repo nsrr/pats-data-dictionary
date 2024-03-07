@@ -1,6 +1,6 @@
 {
   "id": "psg_slptawp",
-  "display_name": "PSG Results: Number of sleep to awake shifts",
+  "display_name": "Number of sleep to awake shifts",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "psg_mnsao2nh",
-  "display_name": "PSG Results: Minimum SaO2 % during NREM sleep",
+  "display_name": "Minimum SaO2 % during NREM sleep",
   "description": "",
   "type": "integer"
 }

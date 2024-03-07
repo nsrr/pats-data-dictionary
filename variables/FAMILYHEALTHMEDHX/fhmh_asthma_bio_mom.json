@@ -1,6 +1,6 @@
 {
   "id": "fhmh_asthma_bio_mom",
-  "display_name": "FHMH: Biological mother has/had asthma",
+  "display_name": "Biological mother has/had asthma",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

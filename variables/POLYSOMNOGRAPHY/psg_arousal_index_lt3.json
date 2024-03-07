@@ -1,6 +1,6 @@
 {
   "id": "psg_arousal_index_lt3",
-  "display_name": "PSG QC: Arousal index < 3 events per hour verified",
+  "display_name": "Arousal index < 3 events per hour verified",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

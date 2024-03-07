@@ -1,6 +1,6 @@
 {
   "id": "psg_f3_signal_quality_grade",
-  "display_name": "PSG QC: F3 - Signal Quality Grade",
+  "display_name": "F3 - Signal Quality Grade",
   "description": "",
   "type": "choices",
   "domain": "signal_quality_grade"

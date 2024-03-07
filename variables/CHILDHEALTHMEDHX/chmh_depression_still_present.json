@@ -1,6 +1,6 @@
 {
   "id": "chmh_depression_still_present",
-  "display_name": "CHMH: Depression is still present",
+  "display_name": "Depression is still present",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

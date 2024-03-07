@@ -1,6 +1,6 @@
 {
   "id": "psg_reliable_arousals_comments",
-  "display_name": "PSG QC: Comments on unreliable scoring of arousals",
+  "display_name": "Comments on unreliable scoring of arousals",
   "description": "",
   "type": "text"
 }

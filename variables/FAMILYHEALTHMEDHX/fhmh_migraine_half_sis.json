@@ -1,6 +1,6 @@
 {
   "id": "fhmh_migraine_half_sis",
-  "display_name": "FHMH: Number of child's half sisters have migraine headache or chronic severe headache",
+  "display_name": "Number of child's half sisters have migraine headache or chronic severe headache",
   "description": "",
   "type": "integer"
 }

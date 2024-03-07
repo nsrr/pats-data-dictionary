@@ -1,6 +1,6 @@
 {
   "id": "psg_dmnbrbh",
-  "display_name": "PSG Results: Minimum Heart Rate with arousal (REM, Back, 3% desat) (bpm)",
+  "display_name": "Minimum Heart Rate with arousal (REM, Back, 3% desat) (bpm)",
   "description": "",
   "type": "integer"
 }

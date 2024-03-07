@@ -1,6 +1,6 @@
 {
   "id": "chmh_depression_diagnosed",
-  "display_name": "CHMH: Depression was diagnosed or treated by a physician or nurse",
+  "display_name": "Depression was diagnosed or treated by a physician or nurse",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

@@ -1,6 +1,6 @@
 {
   "id": "psg_timest1p",
-  "display_name": "PSG Results: Calculated - Percent sleep time in stage 1 sleep (%)",
+  "display_name": "Calculated - Percent sleep time in stage 1 sleep (%)",
   "description": "same as tmstg1p; missing if study with problems scoring sleep/wake or stg1/stg2",
   "type": "numeric"
 }

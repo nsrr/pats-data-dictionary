@@ -1,6 +1,6 @@
 {
   "id": "psg_plmtot",
-  "display_name": "PSG Results: Number PLMs",
+  "display_name": "Number PLMs",
   "description": "",
   "type": "integer"
 }

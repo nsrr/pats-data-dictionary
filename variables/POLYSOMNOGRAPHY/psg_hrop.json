@@ -1,6 +1,6 @@
 {
   "id": "psg_hrop",
-  "display_name": "PSG Results: Number of Hypopnea (REM, Other, all desats)",
+  "display_name": "Number of Hypopnea (REM, Other, all desats)",
   "description": "",
   "type": "integer"
 }

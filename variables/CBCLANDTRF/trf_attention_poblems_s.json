@@ -1,6 +1,6 @@
 {
   "id": "trf_attention_poblems_s",
-  "display_name": "TRF: Attention Problems total score",
+  "display_name": "Attention Problems total score",
   "description": "",
   "type": "integer"
 }

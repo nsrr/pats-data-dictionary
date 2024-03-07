@@ -1,6 +1,6 @@
 {
   "id": "psg_mxhrbp3",
-  "display_name": "PSG Results: Maximum Hypopnea length (REM, Back, 3% desat) (seconds)",
+  "display_name": "Maximum Hypopnea length (REM, Back, 3% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

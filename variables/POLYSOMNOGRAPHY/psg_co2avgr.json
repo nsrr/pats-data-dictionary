@@ -1,6 +1,6 @@
 {
   "id": "psg_co2avgr",
-  "display_name": "PSG Results: Average EtCO2 in REM",
+  "display_name": "Average EtCO2 in REM",
   "description": "",
   "type": "numeric"
 }

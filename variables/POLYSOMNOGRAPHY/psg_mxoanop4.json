@@ -1,6 +1,6 @@
 {
   "id": "psg_mxoanop4",
-  "display_name": "PSG Results: Maximum Obstructive Apnea length (NREM, Other 4% desat) (seconds)",
+  "display_name": "Maximum Obstructive Apnea length (NREM, Other 4% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

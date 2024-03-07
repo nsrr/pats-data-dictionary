@@ -1,6 +1,6 @@
 {
   "id": "pe_allergies_food_drink",
-  "display_name": "Physical Exam: Allergic to food or drink",
+  "display_name": "Allergic to food or drink",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

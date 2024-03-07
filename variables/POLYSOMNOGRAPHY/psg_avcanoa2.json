@@ -1,6 +1,6 @@
 {
   "id": "psg_avcanoa2",
-  "display_name": "PSG Results: Average Central Apnea length with arousals (NREM, Other, 2% desat) (seconds)",
+  "display_name": "Average Central Apnea length with arousals (NREM, Other, 2% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

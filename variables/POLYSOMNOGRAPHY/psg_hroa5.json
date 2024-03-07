@@ -1,6 +1,6 @@
 {
   "id": "psg_hroa5",
-  "display_name": "PSG Results: Number of Hypopnea with arousals (REM, Other, 5% desat)",
+  "display_name": "Number of Hypopnea with arousals (REM, Other, 5% desat)",
   "description": "",
   "type": "integer"
 }

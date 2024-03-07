@@ -1,6 +1,6 @@
 {
   "id": "osa18_score",
-  "display_name": "OSA-18: Calculated - Total score (Range: 18-126)",
+  "display_name": "Calculated - Total score (Range: 18-126)",
   "description": "",
   "type": "integer",
   "calculation": "Sum of 1a-5d + 18"

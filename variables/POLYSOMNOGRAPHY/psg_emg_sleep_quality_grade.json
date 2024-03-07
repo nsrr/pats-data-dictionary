@@ -1,6 +1,6 @@
 {
   "id": "psg_emg_sleep_quality_grade",
-  "display_name": "PSG QC: Chin EMG - Signal Quality Grade",
+  "display_name": "Chin EMG - Signal Quality Grade",
   "description": "",
   "type": "choices",
   "domain": "signal_quality_grade"

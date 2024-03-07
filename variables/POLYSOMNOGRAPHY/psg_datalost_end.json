@@ -1,6 +1,6 @@
 {
   "id": "psg_datalost_end",
-  "display_name": "PSG QC: Data Lost - Recording ended in sleep before waking",
+  "display_name": "Data Lost - Recording ended in sleep before waking",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

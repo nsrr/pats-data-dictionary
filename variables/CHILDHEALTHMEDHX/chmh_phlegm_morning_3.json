@@ -1,6 +1,6 @@
 {
   "id": "chmh_phlegm_morning_3",
-  "display_name": "CHMH: In the past year, child had periods or episodes of increased cough and phlegm lasting three weeks or more",
+  "display_name": "In the past year, child had periods or episodes of increased cough and phlegm lasting three weeks or more",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

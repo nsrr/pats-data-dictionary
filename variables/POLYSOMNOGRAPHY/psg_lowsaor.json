@@ -1,6 +1,6 @@
 {
   "id": "psg_lowsaor",
-  "display_name": "PSG Results: Minimum SaO2 % (REM) (%)",
+  "display_name": "Minimum SaO2 % (REM) (%)",
   "description": "",
   "type": "integer"
 }

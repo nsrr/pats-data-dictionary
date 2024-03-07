@@ -1,6 +1,6 @@
 {
   "id": "chmh_allergies_positive_grass",
-  "display_name": "CHMH: Allergy tested positive for grass or pollen",
+  "display_name": "Allergy tested positive for grass or pollen",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

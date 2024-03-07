@@ -1,6 +1,6 @@
 {
   "id": "psg_plmarrem",
-  "display_name": "PSG Results: Number PLMs with arousal and resp. event (REM)",
+  "display_name": "Number PLMs with arousal and resp. event (REM)",
   "description": "",
   "type": "integer"
 }

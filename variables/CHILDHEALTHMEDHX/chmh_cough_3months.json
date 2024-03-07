@@ -1,6 +1,6 @@
 {
   "id": "chmh_cough_3months",
-  "display_name": "CHMH: In the past year, child usually coughed on most days for three consecutive months or more ",
+  "display_name": "In the past year, child usually coughed on most days for three consecutive months or more ",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

@@ -1,6 +1,6 @@
 {
   "id": "psg_smanrop4",
-  "display_name": "PSG Results: Minimum Mixed Apnea length (NREM, Other, 4% desat) (seconds)",
+  "display_name": "Minimum Mixed Apnea length (NREM, Other, 4% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

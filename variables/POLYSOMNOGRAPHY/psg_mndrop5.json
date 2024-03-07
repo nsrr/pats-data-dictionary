@@ -1,6 +1,6 @@
 {
   "id": "psg_mndrop5",
-  "display_name": "PSG Results: Minimum SaO2 (REM, Other, 5% desat) (%)",
+  "display_name": "Minimum SaO2 (REM, Other, 5% desat) (%)",
   "description": "",
   "type": "integer"
 }

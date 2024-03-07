@@ -1,6 +1,6 @@
 {
   "id": "pe_allergies_dust",
-  "display_name": "Physical Exam: Allergic to dust",
+  "display_name": "Allergic to dust",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

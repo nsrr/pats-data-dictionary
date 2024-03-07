@@ -1,6 +1,6 @@
 {
   "id": "chmh_heartburn_or_acid_reflux",
-  "display_name": "CHMH: Child has had heartburn or acid reflux",
+  "display_name": "Child has had heartburn or acid reflux",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

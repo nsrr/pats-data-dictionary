@@ -1,6 +1,6 @@
 {
   "id": "psg_avsao2rh",
-  "display_name": "PSG Results: Average SaO2 % during REM sleep",
+  "display_name": "Average SaO2 % during REM sleep",
   "description": "",
   "type": "integer"
 }

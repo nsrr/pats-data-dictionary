@@ -1,6 +1,6 @@
 {
   "id": "trf_somatic_problems_p",
-  "display_name": "TRF 6-18: Somatic Problems percentile (%)",
+  "display_name": "6-18: Somatic Problems percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

@@ -1,6 +1,6 @@
 {
   "id": "psg_aavbnoh",
-  "display_name": "PSG Results: Average Heart Rate with arousal (NREM, Other, all desats) (bpm)",
+  "display_name": "Average Heart Rate with arousal (NREM, Other, all desats) (bpm)",
   "description": "",
   "type": "integer"
 }

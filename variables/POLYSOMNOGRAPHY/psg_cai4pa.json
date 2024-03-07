@@ -1,6 +1,6 @@
 {
   "id": "psg_cai4pa",
-  "display_name": "PSG Results: Calculated - Central apnea index (4% desats) with arousals",
+  "display_name": "Calculated - Central apnea index (4% desats) with arousals",
   "description": "missing if total sleep time is 0 or if studies scored as sleep/wake",
   "type": "numeric",
   "calculation": "cai4pa = 60*(carba4 + caroa4 + canba4 + canoa4)/slpprdp"

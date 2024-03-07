@@ -1,6 +1,6 @@
 {
   "id": "isaac_wheezing_steroid_use",
-  "display_name": "ISAAC: In the last 12 months, child has been treated with steroids by mouth for asthma/wheezing",
+  "display_name": "In the last 12 months, child has been treated with steroids by mouth for asthma/wheezing",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

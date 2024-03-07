@@ -1,6 +1,6 @@
 {
   "id": "psg_respiratory_gt30s",
-  "display_name": "PSG QC: Max length of resipratory event > 30 seconds verified",
+  "display_name": "Max length of resipratory event > 30 seconds verified",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

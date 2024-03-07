@@ -1,6 +1,6 @@
 {
   "id": "cbcl_emotionally_reactive_p",
-  "display_name": "CBCL 1.5-5: Emotionally Reactive percentile (%)",
+  "display_name": "1.5-5: Emotionally Reactive percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

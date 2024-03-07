@@ -1,6 +1,6 @@
 {
   "id": "psg_urgent_other_hr",
-  "display_name": "PSG QC: Urgent Referral - Other HR arrhythmia, heart block, V-Tach, etc. (other HR problem)",
+  "display_name": "Urgent Referral - Other HR arrhythmia, heart block, V-Tach, etc. (other HR problem)",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

@@ -1,6 +1,6 @@
 {
   "id": "brief_version_parent",
-  "display_name": "BRIEF: Form version (parent-completed)",
+  "display_name": "Form version (parent-completed)",
   "description": "",
   "type": "choices",
   "domain": "brief_version"

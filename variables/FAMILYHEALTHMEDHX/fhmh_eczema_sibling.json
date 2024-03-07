@@ -1,6 +1,6 @@
 {
   "id": "fhmh_eczema_sibling",
-  "display_name": "FHMH: Child's any siblings have eczema (atopic dermatitis)",
+  "display_name": "Child's any siblings have eczema (atopic dermatitis)",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

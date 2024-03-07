@@ -1,6 +1,6 @@
 {
   "id": "brief_ec_tscore_teacher",
-  "display_name": "BRIEF: Emotional Control scale T score (teacher-completed)",
+  "display_name": "Emotional Control scale T score (teacher-completed)",
   "description": "",
   "type": "integer"
 }

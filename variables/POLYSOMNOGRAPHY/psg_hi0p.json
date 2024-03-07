@@ -1,6 +1,6 @@
 {
   "id": "psg_hi0p",
-  "display_name": "PSG Results: Calculated - Hypopnea index (all desats)",
+  "display_name": "Calculated - Hypopnea index (all desats)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
   "calculation": "hi0p = 60*(hrembp + hrop + hnrbp + hnrop)/slpprdp"

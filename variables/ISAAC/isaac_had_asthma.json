@@ -1,6 +1,6 @@
 {
   "id": "isaac_had_asthma",
-  "display_name": "ISAAC: Child has had asthma ",
+  "display_name": "Child has had asthma ",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

@@ -1,6 +1,6 @@
 {
   "id": "psg_canbp4",
-  "display_name": "PSG Results: Number of Central Apnea (NREM, Back, 4% desat)",
+  "display_name": "Number of Central Apnea (NREM, Back, 4% desat)",
   "description": "",
   "type": "integer"
 }

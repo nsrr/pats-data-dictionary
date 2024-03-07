@@ -1,6 +1,6 @@
 {
   "id": "fhmh_diabetes_parent",
-  "display_name": "FHMH: Child's any biological parents currently have or ever had diabetes",
+  "display_name": "Child's any biological parents currently have or ever had diabetes",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

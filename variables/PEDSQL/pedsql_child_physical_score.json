@@ -1,6 +1,6 @@
 {
   "id": "pedsql_child_physical_score",
-  "display_name": "PedsQL Child: Calculated - Physical Health Summary Score",
+  "display_name": "Calculated - Physical Health Summary Score",
   "description": "",
   "type": "numeric"
 }

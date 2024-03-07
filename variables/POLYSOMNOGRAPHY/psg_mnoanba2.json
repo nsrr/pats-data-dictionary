@@ -1,6 +1,6 @@
 {
   "id": "psg_mnoanba2",
-  "display_name": "PSG Results: Minimum Obstructive Apnea length with arousals (NREM, Back, 2% desat) (seconds)",
+  "display_name": "Minimum Obstructive Apnea length with arousals (NREM, Back, 2% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

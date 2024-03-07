@@ -1,6 +1,6 @@
 {
   "id": "chmh_allergies_tested",
-  "display_name": "CHMH: Child has been tested (skin or blood) for allergies",
+  "display_name": "Child has been tested (skin or blood) for allergies",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

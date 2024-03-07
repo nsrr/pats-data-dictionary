@@ -1,6 +1,6 @@
 {
   "id": "psg_rdim3ps",
-  "display_name": "PSG Results: Calculated - RDI in supine body position (>= 3% desaturation)",
+  "display_name": "Calculated - RDI in supine body position (>= 3% desaturation)",
   "description": "missing if sleep time in supine position is 0 or if position sensore was not working or if studies scored as sleep/wake ",
   "type": "numeric",
   "calculation": "rdim3ps  = 60*(hrembp3 + hnrbp3 + carbp3 + canbp3 + oarbp3 + oanbp3 + marbp3 + manrbp3)/(remepbp+nremepbp)"

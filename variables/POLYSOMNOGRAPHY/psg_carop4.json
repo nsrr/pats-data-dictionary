@@ -1,6 +1,6 @@
 {
   "id": "psg_carop4",
-  "display_name": "PSG Results: Number of Central Apnea (REM, Other, 4% desat)",
+  "display_name": "Number of Central Apnea (REM, Other, 4% desat)",
   "description": "",
   "type": "integer"
 }

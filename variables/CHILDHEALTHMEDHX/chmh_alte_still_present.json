@@ -1,6 +1,6 @@
 {
   "id": "chmh_alte_still_present",
-  "display_name": "CHMH: ALTE is still present ",
+  "display_name": "ALTE is still present ",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

@@ -1,6 +1,6 @@
 {
   "id": "psg_pleth_usable_hours",
-  "display_name": "PSG QC: Pleth - Approximate hours of usable signal (in sleep)",
+  "display_name": "Pleth - Approximate hours of usable signal (in sleep)",
   "description": "",
   "type": "integer",
   "units": "hours (hr)"

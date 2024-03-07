@@ -1,6 +1,6 @@
 {
   "id": "fhmh_mom_weight_current",
-  "display_name": "FHMH: Mother's current weight (pounds) ",
+  "display_name": "Mother's current weight (pounds) ",
   "description": "",
   "type": "numeric",
   "units": "pounds (lb)"

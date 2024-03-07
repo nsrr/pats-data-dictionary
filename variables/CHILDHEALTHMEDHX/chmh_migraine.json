@@ -1,6 +1,6 @@
 {
   "id": "chmh_migraine",
-  "display_name": "CHMH: Child has had migraine headache or chronic severe headache",
+  "display_name": "Child has had migraine headache or chronic severe headache",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

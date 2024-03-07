@@ -1,6 +1,6 @@
 {
   "id": "psg_cai0p",
-  "display_name": "PSG Results: Calculated - Central apnea index (all desats)",
+  "display_name": "Calculated - Central apnea index (all desats)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
   "calculation": "cai0p  = 60*(carbp +  carop  + canbp  + canop)/slpprdp"

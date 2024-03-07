@@ -1,6 +1,6 @@
 {
   "id": "fhmh_have_pet_birds",
-  "display_name": "FHMH: Pet birds in the home",
+  "display_name": "Pet birds in the home",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

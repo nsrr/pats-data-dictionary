@@ -1,6 +1,6 @@
 {
   "id": "brief_shift_raw_parent",
-  "display_name": "BRIEF: Shift scale raw score (parent-completed)",
+  "display_name": "Shift scale raw score (parent-completed)",
   "description": "",
   "type": "integer"
 }

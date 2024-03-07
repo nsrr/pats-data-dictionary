@@ -1,6 +1,6 @@
 {
   "id": "psg_pctsa95h",
-  "display_name": "PSG Results: Percent sleep time SaO2 is below < 95%",
+  "display_name": "Percent sleep time SaO2 is below < 95%",
   "description": "",
   "type": "numeric"
 }

@@ -1,6 +1,6 @@
 {
   "id": "psg_oarbp4",
-  "display_name": "PSG Results: Number of Obstructive Apnea (REM, Back, 4% desat)",
+  "display_name": "Number of Obstructive Apnea (REM, Back, 4% desat)",
   "description": "",
   "type": "integer"
 }

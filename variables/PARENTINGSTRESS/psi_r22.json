@@ -1,6 +1,6 @@
 {
   "id": "psi_r22",
-  "display_name": "PSI: 22. I feel that I am (Choose a response from the choices below)",
+  "display_name": "22. I feel that I am (Choose a response from the choices below)",
   "description": "",
   "type": "choices",
   "domain": "psi_parent"

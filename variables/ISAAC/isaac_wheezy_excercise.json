@@ -1,6 +1,6 @@
 {
   "id": "isaac_wheezy_excercise",
-  "display_name": "ISAAC: In the last 12 months, child's chest has sounded wheezy during or after exercise",
+  "display_name": "In the last 12 months, child's chest has sounded wheezy during or after exercise",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

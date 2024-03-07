@@ -1,6 +1,6 @@
 {
   "id": "shq_freq_tossing_turning",
-  "display_name": "SHQ: Over the past month, has your child had frequent tossing, turning, or thrashing during sleep",
+  "display_name": "Over the past month, has your child had frequent tossing, turning, or thrashing during sleep",
   "description": "",
   "type": "choices",
   "domain": "never_always_notsure"

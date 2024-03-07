@@ -1,6 +1,6 @@
 {
   "id": "psg_hnrop5",
-  "display_name": "PSG Results: Number of Hypopnea (NREM, Other, 5% desat)",
+  "display_name": "Number of Hypopnea (NREM, Other, 5% desat)",
   "description": "",
   "type": "integer"
 }

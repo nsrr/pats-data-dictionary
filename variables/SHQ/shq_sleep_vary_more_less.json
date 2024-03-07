@@ -1,6 +1,6 @@
 {
   "id": "shq_sleep_vary_more_less",
-  "display_name": "SHQ: Was it more or less hours",
+  "display_name": "Was it more or less hours",
   "description": "Required to answer only if \"shq_sleep_vary\" =  1: Yes",
   "type": "choices",
   "domain": "more_less"

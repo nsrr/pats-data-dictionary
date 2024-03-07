@@ -1,6 +1,6 @@
 {
   "id": "isaac_num_wheezing_attacks",
-  "display_name": "ISAAC: In the last 12 months, number of wheezing attacks the child has had",
+  "display_name": "In the last 12 months, number of wheezing attacks the child has had",
   "description": "",
   "type": "choices",
   "domain": "wheezing_attacks"

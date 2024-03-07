@@ -1,6 +1,6 @@
 {
   "id": "trf_rule_breaking_t",
-  "display_name": "TRF 6-18: Rule-Breaking behavior T score",
+  "display_name": "6-18: Rule-Breaking behavior T score",
   "description": "",
   "type": "integer"
 }

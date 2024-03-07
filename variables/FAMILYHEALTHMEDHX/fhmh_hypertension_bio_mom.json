@@ -1,6 +1,6 @@
 {
   "id": "fhmh_hypertension_bio_mom",
-  "display_name": "FHMH: Biological mother has/had high blood pressure (Hypertension)",
+  "display_name": "Biological mother has/had high blood pressure (Hypertension)",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

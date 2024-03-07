@@ -1,6 +1,6 @@
 {
   "id": "psg_lmanrbp2",
-  "display_name": "PSG Results: Maximum Mixed Apnea length (NREM, Back, 2% desat) (seconds)",
+  "display_name": "Maximum Mixed Apnea length (NREM, Back, 2% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

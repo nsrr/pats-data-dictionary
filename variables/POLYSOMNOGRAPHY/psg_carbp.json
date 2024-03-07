@@ -1,6 +1,6 @@
 {
   "id": "psg_carbp",
-  "display_name": "PSG Results: Number of Central Apnea (REM, Back, all desats)",
+  "display_name": "Number of Central Apnea (REM, Back, all desats)",
   "description": "",
   "type": "integer"
 }

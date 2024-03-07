@@ -1,6 +1,6 @@
 {
   "id": "chmh_insomnia",
-  "display_name": "CHMH: Child has had insomnia (inability to sleep)",
+  "display_name": "Child has had insomnia (inability to sleep)",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

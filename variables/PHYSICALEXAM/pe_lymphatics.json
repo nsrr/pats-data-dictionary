@@ -1,6 +1,6 @@
 {
   "id": "pe_lymphatics",
-  "display_name": "Physical Exam: Lymphatics",
+  "display_name": "Lymphatics",
   "description": "",
   "type": "choices",
   "domain": "bpe_normal_abnormal"

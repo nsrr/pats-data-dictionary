@@ -1,6 +1,6 @@
 {
   "id": "brief_cri_tscore_parent",
-  "display_name": "BRIEF: Second Edition Cognitive Regulation (CRI) index T score (parent-completed)",
+  "display_name": "Second Edition Cognitive Regulation (CRI) index T score (parent-completed)",
   "description": "",
   "type": "integer"
 }

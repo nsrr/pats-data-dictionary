@@ -1,6 +1,6 @@
 {
   "id": "osa18_physical_score",
-  "display_name": "OSA-18: Calculated - Physical Symptoms Score (Range: 4-28)",
+  "display_name": "Calculated - Physical Symptoms Score (Range: 4-28)",
   "description": "",
   "type": "integer",
   "calculation": "Sum of 2a-2d + 4"

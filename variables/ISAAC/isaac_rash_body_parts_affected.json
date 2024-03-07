@@ -1,6 +1,6 @@
 {
   "id": "isaac_rash_body_parts_affected",
-  "display_name": "ISAAC: Itchy rash has affected any of the following places: the folds of the elbows, behind the knees, in front of the ankles, under the buttocks, or around the neck, ears or eyes",
+  "display_name": "Itchy rash has affected any of the following places: the folds of the elbows, behind the knees, in front of the ankles, under the buttocks, or around the neck, ears or eyes",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

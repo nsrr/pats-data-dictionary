@@ -1,6 +1,6 @@
 {
   "id": "psg_ahnremop",
-  "display_name": "PSG Results: Arousals per hour (NREM, Other, all desats)",
+  "display_name": "Arousals per hour (NREM, Other, all desats)",
   "description": "",
   "type": "numeric"
 }

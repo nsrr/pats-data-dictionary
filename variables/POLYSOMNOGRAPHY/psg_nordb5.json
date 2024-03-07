@@ -1,6 +1,6 @@
 {
   "id": "psg_nordb5",
-  "display_name": "PSG Results: Number of Snore in REM (dB level 5)",
+  "display_name": "Number of Snore in REM (dB level 5)",
   "description": "",
   "type": "integer"
 }

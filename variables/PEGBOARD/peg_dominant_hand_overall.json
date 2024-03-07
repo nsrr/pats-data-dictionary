@@ -1,6 +1,6 @@
 {
   "id": "peg_dominant_hand_overall",
-  "display_name": "Pegboard: Child's dominant hand",
+  "display_name": "Child's dominant hand",
   "description": "",
   "type": "choices",
   "domain": "hand_dominance"

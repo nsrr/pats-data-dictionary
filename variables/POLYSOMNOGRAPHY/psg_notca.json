@@ -1,6 +1,6 @@
 {
   "id": "psg_notca",
-  "display_name": "PSG Results: Number of Tachycardia (Sleep time)",
+  "display_name": "Number of Tachycardia (Sleep time)",
   "description": "",
   "type": "integer"
 }

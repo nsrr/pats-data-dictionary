@@ -1,6 +1,6 @@
 {
   "id": "brief_child_sex_parent",
-  "display_name": "BRIEF: Child sex (parent-completed)",
+  "display_name": "Child sex (parent-completed)",
   "description": "",
   "type": "choices",
   "domain": "sex_1m_2f"

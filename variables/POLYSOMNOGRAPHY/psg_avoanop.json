@@ -1,6 +1,6 @@
 {
   "id": "psg_avoanop",
-  "display_name": "PSG Results: Average Obstructive Apnea length (NREM, Other, all desats) (seconds)",
+  "display_name": "Average Obstructive Apnea length (NREM, Other, all desats) (seconds)",
   "description": "",
   "type": "integer"
 }

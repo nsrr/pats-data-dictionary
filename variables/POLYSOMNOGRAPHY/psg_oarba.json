@@ -1,6 +1,6 @@
 {
   "id": "psg_oarba",
-  "display_name": "PSG Results: Number of Obstructive Apnea with arousals (REM, Back, all desats)",
+  "display_name": "Number of Obstructive Apnea with arousals (REM, Back, all desats)",
   "description": "",
   "type": "integer"
 }

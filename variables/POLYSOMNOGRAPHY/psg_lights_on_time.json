@@ -1,6 +1,6 @@
 {
   "id": "psg_lights_on_time",
-  "display_name": "PSG QC: Lights on time (scorer-reported) ",
+  "display_name": "Lights on time (scorer-reported) ",
   "description": "",
   "type": "time"
 }

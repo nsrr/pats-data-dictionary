@@ -1,6 +1,6 @@
 {
   "id": "fhmh_enlarged_tonsils_parent",
-  "display_name": "FHMH: Child's any biological parents currently have or ever had enlarged tonsils or adenoids",
+  "display_name": "Child's any biological parents currently have or ever had enlarged tonsils or adenoids",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

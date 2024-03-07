@@ -1,6 +1,6 @@
 {
   "id": "shq_caffeine_beverages",
-  "display_name": "SHQ: On average how many beverages containing caffeine does your child drink per day ",
+  "display_name": "On average how many beverages containing caffeine does your child drink per day ",
   "description": "",
   "type": "choices",
   "domain": "beverage"

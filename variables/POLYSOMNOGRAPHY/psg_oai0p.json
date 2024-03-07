@@ -1,6 +1,6 @@
 {
   "id": "psg_oai0p",
-  "display_name": "PSG Results: Calculated - PATS OAI (Obstructive apnea index) (all desats)",
+  "display_name": "Calculated - PATS OAI (Obstructive apnea index) (all desats)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
   "calculation": "oai0p  = 60*(oarbp +  oarop  + oanbp  + oanop)/slpprdp"

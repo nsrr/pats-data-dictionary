@@ -1,6 +1,6 @@
 {
   "id": "psg_saondrem",
-  "display_name": "PSG Results: Average SaO2% Nadir  (REM)",
+  "display_name": "Average SaO2% Nadir  (REM)",
   "description": "",
   "type": "integer"
 }

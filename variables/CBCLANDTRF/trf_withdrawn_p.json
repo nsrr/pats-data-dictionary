@@ -1,6 +1,6 @@
 {
   "id": "trf_withdrawn_p",
-  "display_name": "TRF 1.5-5: Withdrawn percentile (%)",
+  "display_name": "1.5-5: Withdrawn percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

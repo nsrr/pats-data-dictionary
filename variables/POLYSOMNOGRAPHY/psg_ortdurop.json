@@ -1,6 +1,6 @@
 {
   "id": "psg_ortdurop",
-  "display_name": "PSG Results: Total Obstructive Apnea Length (REM, Other) (minutes)",
+  "display_name": "Total Obstructive Apnea Length (REM, Other) (minutes)",
   "description": "",
   "type": "numeric"
 }

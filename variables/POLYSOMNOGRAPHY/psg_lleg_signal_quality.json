@@ -1,6 +1,6 @@
 {
   "id": "psg_lleg_signal_quality",
-  "display_name": "PSG QC: Lleg - Signal Quality Grade",
+  "display_name": "Lleg - Signal Quality Grade",
   "description": "",
   "type": "choices",
   "domain": "signal_quality_grade"

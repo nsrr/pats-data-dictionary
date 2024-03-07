@@ -1,6 +1,6 @@
 {
   "id": "fhmh_emphysema_bio_mom",
-  "display_name": "FHMH: Biological mother has/had emphysema or chronic obstructive lung disease",
+  "display_name": "Biological mother has/had emphysema or chronic obstructive lung disease",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

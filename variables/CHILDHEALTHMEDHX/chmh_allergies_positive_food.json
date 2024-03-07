@@ -1,6 +1,6 @@
 {
   "id": "chmh_allergies_positive_food",
-  "display_name": "CHMH: Allergy tested positive for food or drink",
+  "display_name": "Allergy tested positive for food or drink",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

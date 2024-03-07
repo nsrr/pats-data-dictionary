@@ -1,6 +1,6 @@
 {
   "id": "psg_apnea_hypopnea_index",
-  "display_name": "PSG QC: Apnea-Hypopnea Index (AHI) (events per hour)",
+  "display_name": "Apnea-Hypopnea Index (AHI) (events per hour)",
   "description": "",
   "type": "numeric",
   "units": "number of events per hour"

@@ -1,6 +1,6 @@
 {
   "id": "brief_inhibit_raw_parent",
-  "display_name": "BRIEF: Inhibit scale raw score (parent-completed)",
+  "display_name": "Inhibit scale raw score (parent-completed)",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "gonogo_percent_miss_cpt",
-  "display_name": "Go/No-Go: Probability of missing fish when fish was presented (Sustained Attention/CPT Block)",
+  "display_name": "Probability of missing fish when fish was presented (Sustained Attention/CPT Block)",
   "description": "",
   "type": "numeric"
 }

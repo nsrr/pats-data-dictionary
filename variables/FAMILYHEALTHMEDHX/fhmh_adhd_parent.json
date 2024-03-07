@@ -1,6 +1,6 @@
 {
   "id": "fhmh_adhd_parent",
-  "display_name": "FHMH: Child's any biological parents currently have or ever had attention deficit hyperactivity disorder (ADD/ADHD)",
+  "display_name": "Child's any biological parents currently have or ever had attention deficit hyperactivity disorder (ADD/ADHD)",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

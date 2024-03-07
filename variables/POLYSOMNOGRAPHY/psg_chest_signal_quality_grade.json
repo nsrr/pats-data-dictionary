@@ -1,6 +1,6 @@
 {
   "id": "psg_chest_signal_quality_grade",
-  "display_name": "PSG QC: Chest - Signal Quality Grade",
+  "display_name": "Chest - Signal Quality Grade",
   "description": "",
   "type": "choices",
   "domain": "signal_quality_grade"

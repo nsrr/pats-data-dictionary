@@ -1,6 +1,6 @@
 {
   "id": "conners_inattention_parent",
-  "display_name": "Conners: Inattenion T score (parent-completed)",
+  "display_name": "Inattenion T score (parent-completed)",
   "description": "",
   "type": "integer"
 }

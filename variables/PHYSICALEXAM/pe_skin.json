@@ -1,6 +1,6 @@
 {
   "id": "pe_skin",
-  "display_name": "Physical Exam: Skin",
+  "display_name": "Skin",
   "description": "",
   "type": "choices",
   "domain": "bpe_normal_abnormal"

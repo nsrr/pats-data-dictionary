@@ -1,6 +1,6 @@
 {
   "id": "psg_mnhnba",
-  "display_name": "PSG Results: Minimum Hypopnea length with arousals (NREM, Back, all desats) (seconds)",
+  "display_name": "Minimum Hypopnea length with arousals (NREM, Back, all desats) (seconds)",
   "description": "",
   "type": "integer"
 }

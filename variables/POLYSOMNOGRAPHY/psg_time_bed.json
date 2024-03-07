@@ -1,6 +1,6 @@
 {
   "id": "psg_time_bed",
-  "display_name": "PSG Results: Calculated - Total time in bed (minutes)",
+  "display_name": "Calculated - Total time in bed (minutes)",
   "description": "same as timebedp",
   "type": "integer"
 }

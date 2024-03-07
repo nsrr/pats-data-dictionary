@@ -1,6 +1,6 @@
 {
   "id": "psg_avgdsresp",
-  "display_name": "PSG Results: Average desat assoc. with resp. events in sleep",
+  "display_name": "Average desat assoc. with resp. events in sleep",
   "description": "",
   "type": "integer"
 }

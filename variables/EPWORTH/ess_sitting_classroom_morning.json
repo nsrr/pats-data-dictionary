@@ -1,6 +1,6 @@
 {
   "id": "ess_sitting_classroom_morning",
-  "display_name": "Epworth: Sitting in a classroom at school during the morning",
+  "display_name": "Sitting in a classroom at school during the morning",
   "description": "",
   "type": "choices",
   "domain": "ess"

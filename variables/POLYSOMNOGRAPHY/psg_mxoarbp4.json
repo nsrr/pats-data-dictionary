@@ -1,6 +1,6 @@
 {
   "id": "psg_mxoarbp4",
-  "display_name": "PSG Results: Maximum Obstructive Apnea length (REM, Back, 4% desat) (seconds)",
+  "display_name": "Maximum Obstructive Apnea length (REM, Back, 4% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

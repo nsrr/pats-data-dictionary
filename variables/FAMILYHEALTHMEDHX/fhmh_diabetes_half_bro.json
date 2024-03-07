@@ -1,6 +1,6 @@
 {
   "id": "fhmh_diabetes_half_bro",
-  "display_name": "FHMH: Number of child's half brothers have diabetes",
+  "display_name": "Number of child's half brothers have diabetes",
   "description": "",
   "type": "integer"
 }

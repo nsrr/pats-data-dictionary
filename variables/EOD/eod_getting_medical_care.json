@@ -1,6 +1,6 @@
 {
   "id": "eod_getting_medical_care",
-  "display_name": "EOD: 7. Have you ever experienced discrimination when getting medical care",
+  "display_name": "7. Have you ever experienced discrimination when getting medical care",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

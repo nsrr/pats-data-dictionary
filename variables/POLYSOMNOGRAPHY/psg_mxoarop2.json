@@ -1,6 +1,6 @@
 {
   "id": "psg_mxoarop2",
-  "display_name": "PSG Results: Maximum Obstructive Apnea length (REM, Other, 2% desat) (seconds)",
+  "display_name": "Maximum Obstructive Apnea length (REM, Other, 2% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

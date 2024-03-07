@@ -1,6 +1,6 @@
 {
   "id": "psg_omai0p",
-  "display_name": "PSG Results: Calculated - Obstructive/Mixed Apnea Index (all desats)",
+  "display_name": "Calculated - Obstructive/Mixed Apnea Index (all desats)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
   "calculation": "omai0p  = 60*(oarbp +  oarop  + oanbp  + oanop + marbp + marop + manrbp + manrop)/slpprdp"

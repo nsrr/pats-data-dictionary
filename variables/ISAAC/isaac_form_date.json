@@ -1,6 +1,6 @@
 {
   "id": "isaac_form_date",
-  "display_name": "ISAAC: Form date",
+  "display_name": "Form date",
   "description": "",
   "type": "date",
   "units": "yyyy-mm-dd"

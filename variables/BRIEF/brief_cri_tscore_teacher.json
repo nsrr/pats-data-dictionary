@@ -1,6 +1,6 @@
 {
   "id": "brief_cri_tscore_teacher",
-  "display_name": "BRIEF: Second Edition Cognitive Regulation (CRI) index T score (teacher-completed)",
+  "display_name": "Second Edition Cognitive Regulation (CRI) index T score (teacher-completed)",
   "description": "",
   "type": "integer"
 }

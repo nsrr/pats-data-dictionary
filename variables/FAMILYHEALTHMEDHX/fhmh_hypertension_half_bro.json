@@ -1,6 +1,6 @@
 {
   "id": "fhmh_hypertension_half_bro",
-  "display_name": "FHMH: Number of child's half brothers have high blood pressure (hypertension)",
+  "display_name": "Number of child's half brothers have high blood pressure (hypertension)",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "brief_gec_tscore_teacher",
-  "display_name": "BRIEF: Global executive composite (GEC) T score (teacher-completed)",
+  "display_name": "Global executive composite (GEC) T score (teacher-completed)",
   "description": "",
   "type": "integer"
 }

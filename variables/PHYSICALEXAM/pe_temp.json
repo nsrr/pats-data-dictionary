@@ -1,6 +1,6 @@
 {
   "id": "pe_temp",
-  "display_name": "Physical Exam: Temperature (celsius)",
+  "display_name": "Temperature (celsius)",
   "description": "",
   "type": "numeric"
 }

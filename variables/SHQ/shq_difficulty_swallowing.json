@@ -1,6 +1,6 @@
 {
   "id": "shq_difficulty_swallowing",
-  "display_name": "SHQ: In the past 6 months, has your child had difficulty swallowing",
+  "display_name": "In the past 6 months, has your child had difficulty swallowing",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

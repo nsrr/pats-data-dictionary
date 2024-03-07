@@ -1,6 +1,6 @@
 {
   "id": "chmh_heartburn_still_present",
-  "display_name": "CHMH: Heartburn or acid reflux is still present",
+  "display_name": "Heartburn or acid reflux is still present",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

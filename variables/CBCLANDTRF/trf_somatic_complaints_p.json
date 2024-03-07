@@ -1,6 +1,6 @@
 {
   "id": "trf_somatic_complaints_p",
-  "display_name": "TRF: Somatic Complaints percentile (%)",
+  "display_name": "Somatic Complaints percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

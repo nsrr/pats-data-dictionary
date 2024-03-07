@@ -1,6 +1,6 @@
 {
   "id": "psg_avoanba",
-  "display_name": "PSG Results: Average Obstructive Apnea length with arousals (NREM, Back, all desats) (seconds)",
+  "display_name": "Average Obstructive Apnea length with arousals (NREM, Back, all desats) (seconds)",
   "description": "",
   "type": "integer"
 }

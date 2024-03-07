@@ -1,6 +1,6 @@
 {
   "id": "fhmh_loud_snoring_sibling",
-  "display_name": "FHMH: Child's any siblings have loud snoring (3 or more times per week)",
+  "display_name": "Child's any siblings have loud snoring (3 or more times per week)",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

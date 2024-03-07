@@ -1,6 +1,6 @@
 {
   "id": "psg_lmrdelta",
-  "display_name": "PSG Results: Number Limb Movements with resp. events (Delta Sleep)",
+  "display_name": "Number Limb Movements with resp. events (Delta Sleep)",
   "description": "",
   "type": "integer"
 }

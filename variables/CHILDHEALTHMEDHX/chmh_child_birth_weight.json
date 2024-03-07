@@ -1,6 +1,6 @@
 {
   "id": "chmh_child_birth_weight",
-  "display_name": "CHMH: Child's weight at birth (pounds) ",
+  "display_name": "Child's weight at birth (pounds) ",
   "description": "",
   "type": "numeric",
   "units": "pounds (lb)"

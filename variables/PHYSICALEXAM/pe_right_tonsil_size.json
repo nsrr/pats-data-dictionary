@@ -1,6 +1,6 @@
 {
   "id": "pe_right_tonsil_size",
-  "display_name": "Physical Exam: Current right tonsil size",
+  "display_name": "Current right tonsil size",
   "description": "",
   "type": "choices",
   "domain": "tonsil_size"

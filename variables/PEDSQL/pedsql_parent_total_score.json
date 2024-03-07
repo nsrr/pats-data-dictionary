@@ -1,6 +1,6 @@
 {
   "id": "pedsql_parent_total_score",
-  "display_name": "PedsQL Parent: Calculated - Total Score",
+  "display_name": "Calculated - Total Score",
   "description": "",
   "type": "numeric"
 }

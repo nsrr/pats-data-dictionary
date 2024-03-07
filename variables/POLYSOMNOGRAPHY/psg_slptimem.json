@@ -1,6 +1,6 @@
 {
   "id": "psg_slptimem",
-  "display_name": "PSG Results: Sleep Time (minutes .5)",
+  "display_name": "Sleep Time (minutes .5)",
   "description": "",
   "type": "numeric"
 }

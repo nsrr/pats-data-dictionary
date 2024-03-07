@@ -1,6 +1,6 @@
 {
   "id": "fhmh_sleepiness_half_bro",
-  "display_name": "FHMH: Number of child's half brothers have excessive sleepiness (3 or more times per week)",
+  "display_name": "Number of child's half brothers have excessive sleepiness (3 or more times per week)",
   "description": "",
   "type": "integer"
 }

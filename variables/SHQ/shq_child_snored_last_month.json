@@ -1,6 +1,6 @@
 {
   "id": "shq_child_snored_last_month",
-  "display_name": "SHQ: In the last month, has your child snored ",
+  "display_name": "In the last month, has your child snored ",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

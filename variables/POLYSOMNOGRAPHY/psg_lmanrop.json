@@ -1,6 +1,6 @@
 {
   "id": "psg_lmanrop",
-  "display_name": "PSG Results: Maximum Mixed Apnea length (NREM, Other, all desats) (seconds)",
+  "display_name": "Maximum Mixed Apnea length (NREM, Other, all desats) (seconds)",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "chmh_alte_diagnosed",
-  "display_name": "CHMH: ALTE was diagnosed or treated by a physician or nurse",
+  "display_name": "ALTE was diagnosed or treated by a physician or nurse",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

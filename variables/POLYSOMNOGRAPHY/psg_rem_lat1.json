@@ -1,6 +1,6 @@
 {
   "id": "psg_rem_lat1",
-  "display_name": "PSG Results: Calculated - REM Latency I - including wake time (minutes)",
+  "display_name": "Calculated - REM Latency I - including wake time (minutes)",
   "description": "same as remlaip; missing if study scored as sleep/wake (minutes)",
   "type": "integer"
 }

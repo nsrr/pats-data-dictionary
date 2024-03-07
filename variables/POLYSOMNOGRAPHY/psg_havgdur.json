@@ -1,6 +1,6 @@
 {
   "id": "psg_havgdur",
-  "display_name": "PSG Results: Average Hypopnea Length (seconds)",
+  "display_name": "Average Hypopnea Length (seconds)",
   "description": "",
   "type": "numeric"
 }

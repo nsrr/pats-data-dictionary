@@ -1,6 +1,6 @@
 {
   "id": "psg_wasom",
-  "display_name": "PSG Results: Wake time during sleep period (minutes .5)",
+  "display_name": "Wake time during sleep period (minutes .5)",
   "description": "",
   "type": "numeric"
 }

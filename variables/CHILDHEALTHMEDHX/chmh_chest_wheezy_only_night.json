@@ -1,6 +1,6 @@
 {
   "id": "chmh_chest_wheezy_only_night",
-  "display_name": "CHMH: Child's chest has chest sounded wheezy or whistling only during the night",
+  "display_name": "Child's chest has chest sounded wheezy or whistling only during the night",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

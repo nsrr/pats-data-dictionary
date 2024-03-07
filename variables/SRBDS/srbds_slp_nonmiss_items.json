@@ -1,6 +1,6 @@
 {
   "id": "srbds_slp_nonmiss_items",
-  "display_name": "SRBDS: Sleepiness Subscale: Number of items answered without missing (Range: 0-4)",
+  "display_name": "Sleepiness Subscale: Number of items answered without missing (Range: 0-4)",
   "description": "",
   "type": "integer"
 }

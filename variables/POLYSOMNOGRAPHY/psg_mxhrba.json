@@ -1,6 +1,6 @@
 {
   "id": "psg_mxhrba",
-  "display_name": "PSG Results: Maximum Hypopnea length with arousals (REM, Back, all desats) (seconds)",
+  "display_name": "Maximum Hypopnea length with arousals (REM, Back, all desats) (seconds)",
   "description": "",
   "type": "integer"
 }

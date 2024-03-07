@@ -1,6 +1,6 @@
 {
   "id": "psg_datalost_other",
-  "display_name": "PSG QC: Data lost - Other reason",
+  "display_name": "Data lost - Other reason",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

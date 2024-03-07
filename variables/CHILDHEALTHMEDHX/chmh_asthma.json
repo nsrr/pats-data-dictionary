@@ -1,6 +1,6 @@
 {
   "id": "chmh_asthma",
-  "display_name": "CHMH: Child has had asthma",
+  "display_name": "Child has had asthma",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

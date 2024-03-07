@@ -1,6 +1,6 @@
 {
   "id": "chmh_allergies",
-  "display_name": "CHMH: Child has allergies",
+  "display_name": "Child has allergies",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

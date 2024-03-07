@@ -1,6 +1,6 @@
 {
   "id": "fhmh_have_pets_home",
-  "display_name": "FHMH: Pets in the home",
+  "display_name": "Pets in the home",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

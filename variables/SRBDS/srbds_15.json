@@ -1,6 +1,6 @@
 {
   "id": "srbds_15",
-  "display_name": "SRBDS: 15. Did your child stop growing at a normal rate at any time since birth",
+  "display_name": "15. Did your child stop growing at a normal rate at any time since birth",
   "description": "",
   "type": "choices",
   "domain": "yes_no_dontknow"

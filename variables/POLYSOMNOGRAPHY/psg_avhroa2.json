@@ -1,6 +1,6 @@
 {
   "id": "psg_avhroa2",
-  "display_name": "PSG Results: Average Hypopnea length with arousals (REM, Other, 2% desat) (seconds)",
+  "display_name": "Average Hypopnea length with arousals (REM, Other, 2% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

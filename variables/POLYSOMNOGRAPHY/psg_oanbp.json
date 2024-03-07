@@ -1,6 +1,6 @@
 {
   "id": "psg_oanbp",
-  "display_name": "PSG Results: Number of Obstructive Apnea (NREM, Back, all desats)",
+  "display_name": "Number of Obstructive Apnea (NREM, Back, all desats)",
   "description": "",
   "type": "integer"
 }

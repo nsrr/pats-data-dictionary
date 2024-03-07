@@ -1,6 +1,6 @@
 {
   "id": "pedsql_parent_age",
-  "display_name": "PedsQL Parent: Child age",
+  "display_name": "Child age",
   "description": "",
   "type": "choices",
   "domain": "age_category"

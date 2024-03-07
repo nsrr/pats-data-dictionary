@@ -1,6 +1,6 @@
 {
   "id": "psi_r33",
-  "display_name": "PSI: 33. Think carefully and count the number of things which your child does that others you. For example, dawdles, refuses to listen, overactive, cries, interrupts, fights, whines, etc. (chose a repsonse from the choices below)",
+  "display_name": "33. Think carefully and count the number of things which your child does that others you. For example, dawdles, refuses to listen, overactive, cries, interrupts, fights, whines, etc. (chose a repsonse from the choices below)",
   "description": "",
   "type": "choices",
   "domain": "psi_number"

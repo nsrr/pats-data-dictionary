@@ -1,6 +1,6 @@
 {
   "id": "isaac_problem_no_cold_12_months",
-  "display_name": "ISAAC: In the past 12 months, child has had a problem with sneezing, or a runny, or blocked nose when he/she did not have a cold or the flu",
+  "display_name": "In the past 12 months, child has had a problem with sneezing, or a runny, or blocked nose when he/she did not have a cold or the flu",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

@@ -1,6 +1,6 @@
 {
   "id": "psg_dsrem3",
-  "display_name": "PSG Results: Number of desats per hour (REM, >= 3%)",
+  "display_name": "Number of desats per hour (REM, >= 3%)",
   "description": "",
   "type": "numeric"
 }

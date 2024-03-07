@@ -1,6 +1,6 @@
 {
   "id": "chmh_otolaryngologist",
-  "display_name": "CHMH: Child has been referred to otolaryngologist (ear, nose, & throat doctor)",
+  "display_name": "Child has been referred to otolaryngologist (ear, nose, & throat doctor)",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

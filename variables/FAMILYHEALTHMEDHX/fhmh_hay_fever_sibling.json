@@ -1,6 +1,6 @@
 {
   "id": "fhmh_hay_fever_sibling",
-  "display_name": "FHMH: Child's any siblings have hay fever (nasal allergies)",
+  "display_name": "Child's any siblings have hay fever (nasal allergies)",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"

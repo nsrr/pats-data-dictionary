@@ -1,6 +1,6 @@
 {
   "id": "psg_havbnoh",
-  "display_name": "PSG Results: Average Heart Rate (NREM, Other, 3% desat) (bpm)",
+  "display_name": "Average Heart Rate (NREM, Other, 3% desat) (bpm)",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "psg_savbroh",
-  "display_name": "PSG Results: Average Heart Rate (REM, Other, all desats) (bpm)",
+  "display_name": "Average Heart Rate (REM, Other, all desats) (bpm)",
   "description": "",
   "type": "integer"
 }

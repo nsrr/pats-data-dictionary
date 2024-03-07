@@ -1,6 +1,6 @@
 {
   "id": "psg_avhnbp3",
-  "display_name": "PSG Results: Average Hypopnea length (NREM, Back, 3% desat) (seconds)",
+  "display_name": "Average Hypopnea length (NREM, Back, 3% desat) (seconds)",
   "description": "",
   "type": "integer"
 }

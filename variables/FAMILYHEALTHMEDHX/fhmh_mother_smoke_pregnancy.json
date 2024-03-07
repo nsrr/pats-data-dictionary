@@ -1,6 +1,6 @@
 {
   "id": "fhmh_mother_smoke_pregnancy",
-  "display_name": "FHMH: Child's biological mother smoke at least one cigarette a day while she was pregnant with the child",
+  "display_name": "Child's biological mother smoke at least one cigarette a day while she was pregnant with the child",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"
