@@ -1,6 +1,6 @@
 {
   "id": "trf_depressive_problems_p",
-  "display_name": "Depressive Problems percentile (%)",
+  "display_name": "Teacher Report: Depressive Problems percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

@@ -1,6 +1,6 @@
 {
   "id": "cbcl_oppositional_p",
-  "display_name": "Oppositional Defiant Problems percentile (%)",
+  "display_name": "Parent Report: Oppositional Defiant Problems percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

@@ -1,6 +1,6 @@
 {
   "id": "pedsql_child_school_score",
-  "display_name": "Calculated - School Functioning Summary Score",
+  "display_name": "Child Self-Report: Calculated - School Functioning Summary Score",
   "description": "",
   "type": "integer"
 }

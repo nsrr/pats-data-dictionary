@@ -1,6 +1,6 @@
 {
   "id": "pedsql_child_1g",
-  "display_name": "1g. Have hurts or aches",
+  "display_name": "Child Self-Report: 1g. Have hurts or aches",
   "description": "",
   "type": "choices",
   "domain": "never_almost_always"

@@ -1,6 +1,6 @@
 {
   "id": "cbcl_depressive_problems_s",
-  "display_name": "Depressive Problems total score",
+  "display_name": "Parent Report: Depressive Problems total score",
   "description": "",
   "type": "integer"
 }

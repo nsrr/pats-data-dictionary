@@ -1,6 +1,6 @@
 {
   "id": "trf_attention_deficit_t",
-  "display_name": "Attention Deficit Hyperactivity T score",
+  "display_name": "Teacher Report: Attention Deficit Hyperactivity T score",
   "description": "",
   "type": "integer"
 }

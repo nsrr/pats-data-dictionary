@@ -1,6 +1,6 @@
 {
   "id": "pedsql_parent_physical_score",
-  "display_name": "Calculated - Physical Health Summary Score",
+  "display_name": "Parent Proxy-Report: Calculated - Physical Health Summary Score",
   "description": "",
   "type": "numeric"
 }

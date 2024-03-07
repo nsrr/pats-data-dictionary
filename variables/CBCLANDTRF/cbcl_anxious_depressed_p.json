@@ -1,6 +1,6 @@
 {
   "id": "cbcl_anxious_depressed_p",
-  "display_name": "Anxious/Depressed percentile (%)",
+  "display_name": "Parent Report: Anxious/Depressed percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

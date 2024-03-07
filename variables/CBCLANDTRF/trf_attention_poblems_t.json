@@ -1,6 +1,6 @@
 {
   "id": "trf_attention_poblems_t",
-  "display_name": "Attention Problems T score",
+  "display_name": "Teacher Report: Attention Problems T score",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "cbcl_anxiety_problems_t",
-  "display_name": "Anxiety Problems T score",
+  "display_name": "Parent Report: Anxiety Problems T score",
   "description": "",
   "type": "integer"
 }

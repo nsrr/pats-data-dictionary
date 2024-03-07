@@ -1,6 +1,6 @@
 {
   "id": "pedsql_parent_psychosocial_score",
-  "display_name": "Calculated - Psychosocial Health Summary Score",
+  "display_name": "Parent Proxy-Report: Calculated - Psychosocial Health Summary Score",
   "description": "",
   "type": "numeric"
 }

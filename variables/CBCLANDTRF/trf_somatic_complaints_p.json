@@ -1,6 +1,6 @@
 {
   "id": "trf_somatic_complaints_p",
-  "display_name": "Somatic Complaints percentile (%)",
+  "display_name": "Teacher Report: Somatic Complaints percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

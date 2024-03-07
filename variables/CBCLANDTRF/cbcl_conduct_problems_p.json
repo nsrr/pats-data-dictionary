@@ -1,6 +1,6 @@
 {
   "id": "cbcl_conduct_problems_p",
-  "display_name": "6-18: Conduct Problems percentile (%)",
+  "display_name": "Parent Report 6-18: Conduct Problems percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

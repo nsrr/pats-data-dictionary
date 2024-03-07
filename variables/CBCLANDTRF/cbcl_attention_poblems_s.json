@@ -1,6 +1,6 @@
 {
   "id": "cbcl_attention_poblems_s",
-  "display_name": "Attention Problems total score",
+  "display_name": "Parent Report: Attention Problems total score",
   "description": "",
   "type": "integer"
 }

@@ -1,6 +1,6 @@
 {
   "id": "pedsql_parent_emotional_score",
-  "display_name": "Calculated - Emotional Functioning Summary Score",
+  "display_name": "Parent Proxy-Report: Calculated - Emotional Functioning Summary Score",
   "description": "",
   "type": "integer"
 }

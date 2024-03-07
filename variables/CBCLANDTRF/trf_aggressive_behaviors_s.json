@@ -1,6 +1,6 @@
 {
   "id": "trf_aggressive_behaviors_s",
-  "display_name": "Aggressive Behaviors total score",
+  "display_name": "Teacher Report: Aggressive Behaviors total score",
   "description": "",
   "type": "integer"
 }

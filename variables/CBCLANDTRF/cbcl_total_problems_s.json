@@ -1,6 +1,6 @@
 {
   "id": "cbcl_total_problems_s",
-  "display_name": "Total Problems total score",
+  "display_name": "Parent Report: Total Problems total score",
   "description": "",
   "type": "integer"
 }

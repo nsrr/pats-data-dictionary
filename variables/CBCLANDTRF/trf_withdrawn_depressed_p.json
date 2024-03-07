@@ -1,6 +1,6 @@
 {
   "id": "trf_withdrawn_depressed_p",
-  "display_name": "6-18: Withdrawn/Depressed percentile (%)",
+  "display_name": "Teacher Report 6-18: Withdrawn/Depressed percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

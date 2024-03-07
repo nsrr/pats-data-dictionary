@@ -1,6 +1,6 @@
 {
   "id": "cbcl_attention_poblems_p",
-  "display_name": "Attention Problems percentile (%)",
+  "display_name": "Parent Report: Attention Problems percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

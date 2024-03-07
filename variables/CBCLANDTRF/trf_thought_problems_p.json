@@ -1,6 +1,6 @@
 {
   "id": "trf_thought_problems_p",
-  "display_name": "6-18: Thought Problems percentile (%)",
+  "display_name": "Teacher Report 6-18: Thought Problems percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

@@ -1,6 +1,6 @@
 {
   "id": "cbcl_attention_deficit_s",
-  "display_name": "Attention Deficit Hyperactivity total score",
+  "display_name": "Parent Report: Attention Deficit Hyperactivity total score",
   "description": "",
   "type": "integer"
 }

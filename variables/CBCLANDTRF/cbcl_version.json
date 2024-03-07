@@ -1,6 +1,6 @@
 {
   "id": "cbcl_version",
-  "display_name": "Form version",
+  "display_name": "Parent Report: Form version",
   "description": "",
   "type": "choices",
   "domain": "cbcl_version"

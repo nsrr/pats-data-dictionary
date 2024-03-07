@@ -1,6 +1,6 @@
 {
   "id": "trf_hyperactivity_ap_subscale_p",
-  "display_name": "6-18: Attention Problems Subscale Hyperactivity-Impulsivity percentile (%)",
+  "display_name": "Teacher Report 6-18: Attention Problems Subscale Hyperactivity-Impulsivity percentile (%)",
   "description": "",
   "type": "integer",
   "units": "percent (%)"

@@ -1,6 +1,6 @@
 {
   "id": "trf_version",
-  "display_name": "Form version",
+  "display_name": "Teacher Report: Form version",
   "description": "",
   "type": "choices",
   "domain": "trf_version"

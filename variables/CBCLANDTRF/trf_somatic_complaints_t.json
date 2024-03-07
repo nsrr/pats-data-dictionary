@@ -1,6 +1,6 @@
 {
   "id": "trf_somatic_complaints_t",
-  "display_name": "Somatic Complaints T score",
+  "display_name": "Teacher Report: Somatic Complaints T score",
   "description": "",
   "type": "integer"
 }

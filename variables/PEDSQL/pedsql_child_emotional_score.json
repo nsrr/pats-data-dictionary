@@ -1,6 +1,6 @@
 {
   "id": "pedsql_child_emotional_score",
-  "display_name": "Calculated - Emotional Functioning Summary Score",
+  "display_name": "Child Self-Report: Calculated - Emotional Functioning Summary Score",
   "description": "",
   "type": "integer"
 }

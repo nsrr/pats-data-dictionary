@@ -1,6 +1,6 @@
 {
   "id": "trf_total_problems_t",
-  "display_name": "Total Problems T score",
+  "display_name": "Teacher Report: Total Problems T score",
   "description": "",
   "type": "integer"
 }
