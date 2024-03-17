@@ -125,7 +125,7 @@ harmonized_data<-merged_data[,c("subject", "childinfo_ageinyear","childinfo_sex"
                 nsrr_age=childinfo_ageinyear,
                 nsrr_bmi=anthro_bmi,
                 nsrr_race=dplyr::case_when(
-                  childinfo_race==1 ~ "American Indian/Alaska Native",
+                  childinfo_race==1 ~ "american indian or alaska native",
                   childinfo_race==2 ~ "Asian",
                   childinfo_race==3 ~ "Native Hawaiian or Other Pacific Islander",
                   childinfo_race==4 ~ "Black or African American",

@@ -1,0 +1,7 @@
+{
+  "id": "studyinfo_age_at_randomization",
+  "display_name": "Age at randomization",
+  "description": "",
+  "type": "numeric",
+  "units": "years"
+}

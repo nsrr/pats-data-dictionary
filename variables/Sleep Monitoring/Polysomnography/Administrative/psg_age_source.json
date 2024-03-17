@@ -1,0 +1,7 @@
+{
+  "id": "psg_age_source",
+  "display_name": "Source of age at PSG",
+  "description": "",
+  "type": "choices",
+  "domain": "age_source"
+}

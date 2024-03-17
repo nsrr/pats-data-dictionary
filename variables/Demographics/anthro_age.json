@@ -1,0 +1,8 @@
+{
+  "id": "anthro_age",
+  "display_name": "Age at anthropometry measurement",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "commonly_used": true
+}

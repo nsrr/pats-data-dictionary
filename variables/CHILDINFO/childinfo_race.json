@@ -1,7 +1,0 @@
-{
-  "id": "childinfo_race",
-  "display_name": "Child's race",
-  "description": "",
-  "type": "choices",
-  "domain": "race"
-}
