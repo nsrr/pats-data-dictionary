@@ -113,14 +113,52 @@ merged_data_subset <- merged_data_subset %>%
   arrange(public_subject_id, timepoint)
 merged_data_subset <- merged_data_subset %>% select(-c(random_date_offset,siteid))
 
+variables_to_remove <- c(
+  "psg_study_failed_reason",
+  "psg_urgent_low_spo2_comments",
+  "psg_urgent_other_hr_comments",
+  "psg_flow_limitation_comments",
+  "psg_alpha_intrusion_comments",
+  "psg_periodic_breathing_comments",
+  "psg_other_outlier_comments",
+  "psg_study_passed",
+  "oper_complications__1",
+  "oper_complications__2",
+  "oper_complications__3",
+  "oper_complications__4",
+  "oper_complications__5",
+  "oper_complications__6",
+  "oper_complications__7",
+  "oper_complications__8",
+  "oper_complications__98",
+  "oper_complications_other",
+  "chmh_cerebral_palsy_diagnosed",
+  "chmh_cerebral_palsy_present",
+  "chmh_cerebral_palsy_meds",
+  "chmh_diabetes_diagnosed",
+  "chmh_diabetes_still_present",
+  "chmh_diabetes_medication",
+  "chmh_autism_diagnosed",
+  "chmh_autism_still_present",
+  "chmh_autism_medication"
+)
+
+merged_dataset <- merged_data_subset[, !(names(merged_data_subset) %in% variables_to_remove)]
+variables_to_remove <- grep("^studyinfo_lfus_", names(merged_dataset), value = TRUE)
+merged_dataset <- merged_dataset[, !(names(merged_dataset) %in% variables_to_remove)]
+censored<-merged_dataset%>%filter(consented_to_share_data==1)
 
 id <- unique(merged_data$subject)
 
 write.csv(id, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_ids/ids.csv", row.names = FALSE, na='')
+write.csv(merged_dataset, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_uncensored/0.1.0.pre/pats-dataset-uncensored-0.1.0.pre.csv", row.names = FALSE, na='')
+write.csv(censored, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
 
-write.csv(merged_data_subset, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
 
-harmonized_data<-merged_data[,c("subject", "childinfo_ageinyear","childinfo_sex","childinfo_race","anthro_bmi")]%>%
+
+# Harmonized data
+
+harmonized_data<-censored[,c("subject", "childinfo_ageinyear","childinfo_sex","childinfo_race","anthro_bmi")]%>%
   dplyr::mutate(nsrrid=subject,
                 nsrr_age=childinfo_ageinyear,
                 nsrr_bmi=anthro_bmi,
