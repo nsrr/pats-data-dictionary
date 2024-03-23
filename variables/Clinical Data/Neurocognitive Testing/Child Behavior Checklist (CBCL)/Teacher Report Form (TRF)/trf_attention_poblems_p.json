@@ -3,5 +3,5 @@
   "display_name": "Teacher Report: Attention Problems percentile (%)",
   "description": "",
   "type": "integer",
-  "units": "percent (%)"
+  "units": "percentile (th)"
 }

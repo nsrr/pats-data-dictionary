@@ -3,5 +3,5 @@
   "display_name": "Calculated - RDI in REM sleep (>= 5% desaturation)",
   "description": "missing if studies with problems scoring REM/NREM or if studies scored as sleep/wake or NREM sleep time is 3",
   "type": "numeric",
-  "calculation": "rdimrem5p = 60*(hrembp5 + hrop5 + carbp5 + carop5 + oarbp5 + oarop5 + marbp5 + marop5) / minremp"
+  "calculation": "60*(hrembp5 + hrop5 + carbp5 + carop5 + oarbp5 + oarop5 + marbp5 + marop5) / minremp"
 }

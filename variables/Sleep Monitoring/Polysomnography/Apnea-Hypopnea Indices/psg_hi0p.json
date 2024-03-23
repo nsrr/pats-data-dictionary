@@ -3,5 +3,5 @@
   "display_name": "Calculated - Hypopnea index (all desats)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
-  "calculation": "hi0p = 60*(hrembp + hrop + hnrbp + hnrop)/slpprdp"
+  "calculation": "60*(hrembp + hrop + hnrbp + hnrop)/slpprdp"
 }

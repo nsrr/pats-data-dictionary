@@ -1,6 +1,6 @@
 {
   "id": "isaac_score_ge_5",
-  "display_name": "Calculated - Global weehzing score >= 5",
+  "display_name": "Calculated - Global wheezing score >= 5",
   "description": "",
   "type": "choices",
   "domain": "no0_yes1"

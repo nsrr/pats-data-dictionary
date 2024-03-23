@@ -2,5 +2,6 @@
   "id": "shq_asleep_weekends",
   "display_name": "Over the past one month, at what time on average has your child fallen asleep on weekends",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss"
 }

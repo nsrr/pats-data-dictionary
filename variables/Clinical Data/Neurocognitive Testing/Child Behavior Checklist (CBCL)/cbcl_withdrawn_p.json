@@ -3,5 +3,5 @@
   "display_name": "Parent Report 1.5-5: Withdrawn percentile (%)",
   "description": "",
   "type": "integer",
-  "units": "percent (%)"
+  "units": "percentile (th)"
 }

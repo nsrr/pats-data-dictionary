@@ -2,5 +2,6 @@
   "id": "shq_woken_weekends",
   "display_name": "Over the past one month, at what time on average has your child woken up on weekends (after the sleep period)",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss"
 }

@@ -1,7 +1,0 @@
-{
-  "id": "oper_digital_photo_taken",
-  "display_name": "Digital photos were taken",
-  "description": "",
-  "type": "choices",
-  "domain": "no0_yes1"
-}

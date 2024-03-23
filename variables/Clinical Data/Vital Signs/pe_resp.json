@@ -1,6 +1,6 @@
 {
   "id": "pe_resp",
-  "display_name": "Respiraotry rate (breaths per minute)",
+  "display_name": "Respiratory rate (breaths per minute)",
   "description": "",
   "type": "integer"
 }

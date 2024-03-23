@@ -3,5 +3,5 @@
   "display_name": "Calculated - Sleep efficiency (%)",
   "description": "missing if timebedp = 0",
   "type": "numeric",
-  "calculation": "slp_eff = 100*(slpprdp)/timebedp"
+  "calculation": "100*(slpprdp)/timebedp"
 }

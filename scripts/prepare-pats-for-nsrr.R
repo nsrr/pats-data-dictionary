@@ -140,13 +140,15 @@ variables_to_remove <- c(
   "chmh_diabetes_medication",
   "chmh_autism_diagnosed",
   "chmh_autism_still_present",
-  "chmh_autism_medication"
+  "chmh_autism_medication",
+  "screened", "studyinfo_site", "subject", "oper_digital_photo_file_name", "oper_digital_photo_sent", 
+  "oper_digital_photo_taken", "cotinine_specimen_id", "ige_specimen_id", "childinfo_ageinyear", "childinfo_ageinmonth"
 )
 
 merged_dataset <- merged_data_subset[, !(names(merged_data_subset) %in% variables_to_remove)]
 variables_to_remove <- grep("^studyinfo_lfus_", names(merged_dataset), value = TRUE)
-merged_dataset <- merged_dataset[, !(names(merged_dataset) %in% variables_to_remove)]
-censored<-merged_dataset%>%filter(consented_to_share_data==1)
+uncensored <- merged_dataset[, !(names(merged_dataset) %in% variables_to_remove)]%>%select(-consented)
+censored<-uncensored%>%filter(consented_to_share_data==1)
 
 id <- unique(merged_data$subject)
 
@@ -158,34 +160,31 @@ write.csv(censored, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0
 
 # Harmonized data
 
-harmonized_data<-censored[,c("subject", "childinfo_ageinyear","childinfo_sex","childinfo_race","anthro_bmi")]%>%
-  dplyr::mutate(nsrrid=subject,
-                nsrr_age=childinfo_ageinyear,
+harmonized_data<-censored[,c("public_subject_id","timepoint", "anthro_age", "anthro_bmi", "demo_ethnicity", "demo_race", 
+                             "demo_sex", "anthro_bp_dia_avg123", "anthro_bp_sys_avg123")]%>%
+  dplyr::mutate(nsrrid=public_subject_id,
+                nsrr_age=anthro_age,
                 nsrr_bmi=anthro_bmi,
+                nsrr_bp_diastolic=anthro_bp_dia_avg123,
+                nsrr_bp_systolic=anthro_bp_sys_avg123,
                 nsrr_race=dplyr::case_when(
-                  childinfo_race==1 ~ "american indian or alaska native",
-                  childinfo_race==2 ~ "Asian",
-                  childinfo_race==3 ~ "Native Hawaiian or Other Pacific Islander",
-                  childinfo_race==4 ~ "Black or African American",
-                  childinfo_race==5 ~ "White",
-                  childinfo_race==6 ~ "More than one race",
-                  TRUE ~ "Unknown or not reported"
+                  demo_race==1 ~ "american indian or alaska native",
+                  demo_race==2 ~ "asian",
+                  demo_race==3 ~ "native hawaiian or other pacific islander",
+                  demo_race==4 ~ "black or african american",
+                  demo_race==5 ~ "white",
+                  demo_race==6 ~ "multiple",
+                  TRUE ~ "not reported"
                 ),
                 nsrr_sex=dplyr::case_when(
-                  childinfo_sex==1 ~ "male",
-                  childinfo_sex==2 ~ "female",
+                  demo_sex==1 ~ "male",
+                  demo_sex==2 ~ "female",
                   TRUE ~ "not reported"
                 ))%>%
-  select(nsrrid,nsrr_age,nsrr_race,nsrr_sex,nsrr_bmi)
+  select(nsrrid,timepoint, nsrr_age,nsrr_race,nsrr_sex,nsrr_bmi,nsrr_bp_diastolic,nsrr_bp_systolic)
 
-# need to add anthro_height_avg, anthro_weight_avg? childinfo_ethnicity? what else need to be added?
-# anthro_bp_sys_avg123	Anthropometry: Calculated - Average resting systolic blood pressure (mmHg) over three measurements
-# anthro_bp_sys_avg23	Anthropometry: Calculated - Average resting systolic blood pressure (mmHg) over the 2nd and 3rd measurements
-# anthro_bp_dia_avg123	Anthropometry: Calculated - Average resting diastolic blood pressure (mmHg) over three measurements
-# anthro_bp_dia_avg23	Anthropometry: Calculated - Average resting diastolic blood pressure (mmHg) over the 2nd and 3rd measurements
-# which ones should be used for nsrr_bp_systolic and nsrr_bp_diastolic?
 
-#write.table(harmonized_data, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-harmonized-dataset-1.0.1.csv", col.names = FALSE, row.names = FALSE, sep = ","
-#write.csv(merged_data, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
+
+#write.csv(harmonized_data, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
 
 

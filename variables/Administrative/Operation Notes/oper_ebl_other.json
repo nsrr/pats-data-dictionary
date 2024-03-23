@@ -1,6 +1,6 @@
 {
   "id": "oper_ebl_other",
-  "display_name": "Specify (EBL)",
+  "display_name": "Specify estimated blood loss (EBL)",
   "description": "",
   "type": "integer"
 }

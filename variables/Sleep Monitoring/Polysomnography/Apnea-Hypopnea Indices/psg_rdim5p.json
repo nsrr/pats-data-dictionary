@@ -3,5 +3,5 @@
   "display_name": "Calculated - RDI (>= 5% desaturation)",
   "description": "missing if total sleep time is 3",
   "type": "numeric",
-  "calculation": "rdim5p = 60*(hrembp5 + hrop5 + hnrbp5 + hnrop5 + carbp5 + carop5 + canbp5 + canop5 + oarbp5 + oarop5 + oanbp5 + oanop5 + marbp5 + marop5 + manrbp5 + manrop5)/slpprdp"
+  "calculation": "60*(hrembp5 + hrop5 + hnrbp5 + hnrop5 + carbp5 + carop5 + canbp5 + canop5 + oarbp5 + oarop5 + oanbp5 + oanop5 + marbp5 + marop5 + manrbp5 + manrop5)/slpprdp"
 }

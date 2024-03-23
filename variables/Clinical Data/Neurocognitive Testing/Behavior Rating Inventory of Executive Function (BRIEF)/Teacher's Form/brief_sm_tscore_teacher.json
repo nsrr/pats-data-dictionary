@@ -1,6 +1,6 @@
 {
   "id": "brief_sm_tscore_teacher",
-  "display_name": "Second Edition Self-Montior scale T score (teacher-completed)",
+  "display_name": "Second Edition Self-Monitor scale T score (teacher-completed)",
   "description": "",
   "type": "integer"
 }

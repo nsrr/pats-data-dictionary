@@ -3,5 +3,5 @@
   "display_name": "Calculated - Arousal index for sleep in all stages",
   "description": "missing if study scored as sleep/wake or where arousals were ignored or if total sleep time is 0",
   "type": "numeric",
-  "calculation": "ai_all = 60*(arrembp + arremop + arnrembp + arnremop)/slpprdp"
+  "calculation": "60*(arrembp + arremop + arnrembp + arnremop)/slpprdp"
 }

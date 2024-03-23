@@ -3,5 +3,5 @@
   "display_name": "Calculated - Obstructive apnea index (4% desats) with arousals",
   "description": "missing if total sleep time is 0 or if studies scored as sleep/wake",
   "type": "numeric",
-  "calculation": "oai4pa = 60*(oarba4 + oaroa4 + oanba4 + oanoa4)/slpprdp"
+  "calculation": "60*(oarba4 + oaroa4 + oanba4 + oanoa4)/slpprdp"
 }

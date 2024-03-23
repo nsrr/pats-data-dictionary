@@ -3,5 +3,5 @@
   "display_name": "Calculated - Mixed apnea index (all desats)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
-  "calculation": "mai0p = 60*(marbpa + maropa + manrbpa + manropa)/slpprdp"
+  "calculation": "60*(marbpa + maropa + manrbpa + manropa)/slpprdp"
 }

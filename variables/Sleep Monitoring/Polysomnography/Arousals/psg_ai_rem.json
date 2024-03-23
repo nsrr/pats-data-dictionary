@@ -3,5 +3,5 @@
   "display_name": "Calculated - Arousal index for sleep in REM stage",
   "description": "missing if study scored as sleep/wake or where arousals were ignored or where time in REM is zero",
   "type": "numeric",
-  "calculation": "ai_rem = 60*(arrembp + arremop)/minremp"
+  "calculation": "60*(arrembp + arremop)/minremp"
 }

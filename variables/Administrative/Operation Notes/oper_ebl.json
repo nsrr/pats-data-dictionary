@@ -1,6 +1,6 @@
 {
   "id": "oper_ebl",
-  "display_name": "Ebl",
+  "display_name": "Estimated blood loss (EBL)",
   "description": "",
   "type": "choices",
   "domain": "eblf"

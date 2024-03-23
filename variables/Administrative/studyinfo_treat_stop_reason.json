@@ -3,5 +3,5 @@
   "display_name": "Primary reason that the participant's treatment was stopped",
   "description": "",
   "type": "choices",
-  "domain": "reason_treatmemt_stop"
+  "domain": "reason_treatment_stop"
 }

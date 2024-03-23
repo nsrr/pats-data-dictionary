@@ -2,5 +2,6 @@
   "id": "pe_pulse",
   "display_name": "Pulse (beats per minute)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)"
 }

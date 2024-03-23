@@ -3,5 +3,5 @@
   "display_name": "Calculated - PATS AHI (all obstructive apneas, all mixed apneas, plus hypopneas with 3% or arousal)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
-  "calculation": "omahi3 = 60*(oarbp +oarop + oanbp + oanop + marbp + marop + manrbp + manrop +  hremba3 +hroa3 + hnrba3 + hnroa3)/slpprdp"
+  "calculation": "60*(oarbp +oarop + oanbp + oanop + marbp + marop + manrbp + manrop +  hremba3 +hroa3 + hnrba3 + hnroa3)/slpprdp"
 }

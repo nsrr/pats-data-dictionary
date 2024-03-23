@@ -72,7 +72,7 @@ STUDYINFO,studyinfo_stop_reason,Primary reason that the participation stopped,,c
 STUDYINFO,studyinfo_stop_reason_s,Specify primary reason that participation stopped,,text,,,,,,
 STUDYINFO,studyinfo_stop_comments,Additional comments about participation stop,,text,,,,,,
 STUDYINFO,studyinfo_treat_stop_date,Date of treatment stop,,integer,,,,,,
-STUDYINFO,studyinfo_treat_stop_reason,Primary reason that the participant's treatment was stopped,,choices,,reason_treatmemt_stop,,,,
+STUDYINFO,studyinfo_treat_stop_reason,Primary reason that the participant's treatment was stopped,,choices,,reason_treatment_stop,,,,
 STUDYINFO,studyinfo_treat_stop_reason_s,Specify other medical or neuropsychological necessitated reason,,text,,,,,,
 STUDYINFO,studyinfo_treat_stop_confirmed,The medical monitor confirmed this to be a treatment failure,,choices,,no0_yes1,,,,
 STUDYINFO,studyinfo_treat_stop_comments,Additional Comments about treatment stop,,text,,,,,,

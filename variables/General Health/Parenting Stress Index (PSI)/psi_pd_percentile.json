@@ -3,5 +3,5 @@
   "display_name": "Parental distress (PD) scale percentile",
   "description": "",
   "type": "integer",
-  "units": "percent (%)"
+  "units": "percentile (th)"
 }

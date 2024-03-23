@@ -1,6 +1,6 @@
 {
   "id": "brief_init_tscore_parent",
-  "display_name": "Initiatie scale T score (parent-completed)",
+  "display_name": "Initiate scale T score (parent-completed)",
   "description": "",
   "type": "integer"
 }

@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "kilograms per meters squared (kg/m2)",
-  "calculation": "anthro_bmi = anthro_weight_avg/(anthro_height_avg/100)^2"
+  "calculation": "anthro_weight_avg/(anthro_height_avg/100)^2"
 }

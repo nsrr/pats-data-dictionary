@@ -3,5 +3,5 @@
   "display_name": "Parent Report 6-18: Sluggish Cognitive Tempo percentile (%)",
   "description": "",
   "type": "integer",
-  "units": "percent (%)"
+  "units": "percentile (th)"
 }

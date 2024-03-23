@@ -2,5 +2,6 @@
   "id": "shq_bed_weekdays",
   "display_name": "Over the past one month, at what time on average has your child gone to bed on weekdays (first closed the eyes in attempt to fall asleep)",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss"
 }

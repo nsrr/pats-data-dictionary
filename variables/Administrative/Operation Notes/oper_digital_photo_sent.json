@@ -1,7 +1,0 @@
-{
-  "id": "oper_digital_photo_sent",
-  "display_name": "Digital photos were sent to the Surgical QC group",
-  "description": "",
-  "type": "choices",
-  "domain": "no0_yes1"
-}

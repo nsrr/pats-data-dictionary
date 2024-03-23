@@ -1,7 +1,0 @@
-{
-  "id": "studyinfo_site",
-  "display_name": "Study site",
-  "description": "",
-  "type": "choices",
-  "domain": "site"
-}

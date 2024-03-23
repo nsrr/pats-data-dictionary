@@ -3,5 +3,5 @@
   "display_name": "Parent Report 6-18: Rule-Breaking behavior percentile (%)",
   "description": "",
   "type": "integer",
-  "units": "percent (%)"
+  "units": "percentile (th)"
 }

@@ -3,5 +3,5 @@
   "display_name": "Calculated - Percent sleep in supine body position (%)",
   "description": "missing if position sensor in not working",
   "type": "numeric",
-  "calculation": "supinep = 100*(remepbp+nremepbp)/(remepbp+nremepbp+remepop+nremepop)"
+  "calculation": "100*(remepbp+nremepbp)/(remepbp+nremepbp+remepop+nremepop)"
 }

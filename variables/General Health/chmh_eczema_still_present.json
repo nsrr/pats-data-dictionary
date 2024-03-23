@@ -1,6 +1,6 @@
 {
   "id": "chmh_eczema_still_present",
-  "display_name": "Eczema/atopic dematities (long-term, red, itchy skin) is still present",
+  "display_name": "Eczema/atopic dermatitis (long-term, red, itchy skin) is still present",
   "description": "",
   "type": "choices",
   "domain": "yes_no_notsure"
