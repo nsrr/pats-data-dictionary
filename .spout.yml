@@ -1,7 +1,13 @@
 slug: pats
 visit: timepoint
 charts:
-
+- chart: studyinfo_randomized_arm
+  title: Treatment Arm
+- chart: demo_sex
+  title: Sex
+- chart: demo_race
+  title: Race
+  
 webservers:
   - name: production
     url: https://sleepdata.org
