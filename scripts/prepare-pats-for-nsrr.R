@@ -3,6 +3,7 @@ ver="0.1.0"
 library(haven)
 library(readr)
 library(dplyr)
+library(tidyr)
 library(lubridate)
 
 #setwd("//rfawin.partners.org/bwh-sleepepi-pats/Data/SAS/_datasets/_upload")
@@ -51,22 +52,49 @@ for (file in file_names) {
 }
 data_list[["asthma"]] <- asthma
 
-merge_data <- function(x, y) {
-  if ("timepoint" %in% names(x) && "timepoint" %in% names(y)) {
-    merge(x, y, by = c("subject", "timepoint"), all = TRUE)
-  } else {
-    merge(x, y, by = "subject", all = TRUE)
+files_missing_timepoint <- character(0)
+
+for (name in names(data_list)) {
+  if (!("timepoint" %in% colnames(data_list[[name]]))) {
+    files_missing_timepoint <- c(files_missing_timepoint, name)
   }
 }
+data_with_timepoint <- data_list[!names(data_list) %in% files_missing_timepoint]
+data_without_timepoint <- data_list[names(data_list) %in% files_missing_timepoint]
 
-merged_data <- Reduce(merge_data, data_list)
+joined_data_subject <- Reduce(function(x, y) merge(x, y, by = "subject", all = TRUE), data_without_timepoint)
+joined_data_subject_timepoint <- Reduce(function(x, y) merge(x, y, by = c("subject", "timepoint"), all = TRUE), data_with_timepoint)
 
-subject_ids <- merged_data %>%
+merged_data <- merge(joined_data_subject, joined_data_subject_timepoint, by = "subject", all = TRUE)
+merged_data$timepoint[is.na(merged_data$timepoint)] <- 0
+
+#expand consented and consented_to_share_data to all timepoint
+subjects_with_consent <- merged_data %>%
   filter(consented == 1) %>%
-  pull(subject)
+  distinct(subject)
+merged_data <- merged_data %>%
+  mutate(consented = ifelse(subject %in% subjects_with_consent$subject, 1, consented))
 
-merged_data_subset <- merged_data %>% arrange(subject,timepoint)%>%filter(!is.na(timepoint))%>%
-  filter(subject %in% subject_ids)%>%
+subjects_with_consent_data <- merged_data %>%
+  filter(consented_to_share_data == 1) %>%
+  distinct(subject)
+merged_data <- merged_data %>%
+  mutate(consented_to_share_data = ifelse(subject %in% subjects_with_consent_data$subject, 1, consented_to_share_data))
+
+arm1 <- merged_data %>%
+  filter(studyinfo_randomized_arm == 1) %>%
+  distinct(subject)
+merged_data <- merged_data %>%
+  mutate(studyinfo_randomized_arm = ifelse(subject %in% arm1$subject, 1, studyinfo_randomized_arm))
+
+arm2 <- merged_data %>%
+  filter(studyinfo_randomized_arm == 2) %>%
+  distinct(subject)
+merged_data <- merged_data %>%
+  mutate(studyinfo_randomized_arm = ifelse(subject %in% arm2$subject, 2, studyinfo_randomized_arm))
+
+uncensored <- merged_data %>% 
+  filter(consented == 1)%>%
   mutate(across(c(brief_test_date_parent, brief_test_date_teacher,
                   gonogo_test_date, cbcl_form_date, trf_form_date,
                   conners_form_date_parent, conners_form_date_teacher,
@@ -84,36 +112,21 @@ merged_data_subset <- merged_data %>% arrange(subject,timepoint)%>%filter(!is.na
                   oper_form_date, oper_date_of_adentonsillectomy,
                   post_date_of_phone_call), ~ as.character(ymd(.) + days(random_date_offset))))
 
-files_missing_timepoint <- character(0)
-
-for (name in names(data_list)) {
-  if (!("timepoint" %in% colnames(data_list[[name]]))) {
-    files_missing_timepoint <- c(files_missing_timepoint, name)
-  }
-}
-
 column_names <- character(0)
 
 for (name in files_missing_timepoint) {
-  if (name %in% names(data_list)) {
+  if (name %in% names(data_list) && name != "datasharing.csv") {
     column_names <- c(column_names, colnames(data_list[[name]]))
   }
 }
 
 columns_to_replace <- unique(column_names)
-columns_to_replace <- columns_to_replace[!(columns_to_replace %in% c("subject", "public_subject_id", "public_site_id", "screened", "consented", "randomized", "consented_to_share_data"))]
-
-
 for (column in columns_to_replace) {
-  merged_data_subset[merged_data_subset$timepoint != 1, column] <- NA
+  uncensored[uncensored$timepoint %in% c(2, 3), column] <- NA
 }
 
-merged_data_subset <- merged_data_subset %>%
-  select(public_subject_id, public_site_id, timepoint, subject, everything()) %>%
-  arrange(public_subject_id, timepoint)
-merged_data_subset <- merged_data_subset %>% select(-c(random_date_offset,siteid))
-
 variables_to_remove <- c(
+  "random_date_offset","siteid",
   "psg_study_failed_reason",
   "psg_urgent_low_spo2_comments",
   "psg_urgent_other_hr_comments",
@@ -141,21 +154,24 @@ variables_to_remove <- c(
   "chmh_autism_diagnosed",
   "chmh_autism_still_present",
   "chmh_autism_medication",
-  "screened", "studyinfo_site", "subject", "oper_digital_photo_file_name", "oper_digital_photo_sent", 
-  "oper_digital_photo_taken", "cotinine_specimen_id", "ige_specimen_id", "childinfo_ageinyear", "childinfo_ageinmonth"
+  "subject","screened", "studyinfo_site","oper_digital_photo_file_name", "oper_digital_photo_sent", 
+  "oper_digital_photo_taken", "cotinine_specimen_id", "ige_specimen_id", "childinfo_ageinyear", "childinfo_ageinmonth", 
+  "childinfo_sex","childinfo_race","childinfo_grade","childinfo_ethnicity"
 )
 
-merged_dataset <- merged_data_subset[, !(names(merged_data_subset) %in% variables_to_remove)]
-variables_to_remove <- grep("^studyinfo_lfus_", names(merged_dataset), value = TRUE)
-uncensored <- merged_dataset[, !(names(merged_dataset) %in% variables_to_remove)]%>%select(-consented)
+uncensored <- uncensored[, !(names(uncensored) %in% variables_to_remove)]
+variables_to_remove <- grep("^studyinfo_lfus_", names(uncensored), value = TRUE)
+
+uncensored <- uncensored %>%
+  select(public_subject_id, public_site_id, timepoint, everything()) %>%
+  arrange(public_subject_id, timepoint)%>%select(-consented)
 censored<-uncensored%>%filter(consented_to_share_data==1)
 
 id <- unique(merged_data$subject)
 
 write.csv(id, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_ids/ids.csv", row.names = FALSE, na='')
-write.csv(merged_dataset, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_uncensored/0.1.0.pre/pats-dataset-uncensored-0.1.0.pre.csv", row.names = FALSE, na='')
+write.csv(uncensored, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_uncensored/0.1.0.pre/pats-dataset-uncensored-0.1.0.pre.csv", row.names = FALSE, na='')
 write.csv(censored, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
-
 
 
 # Harmonized data
@@ -180,11 +196,14 @@ harmonized_data<-censored[,c("public_subject_id","timepoint", "anthro_age", "ant
                   demo_sex==1 ~ "male",
                   demo_sex==2 ~ "female",
                   TRUE ~ "not reported"
+                ),
+                nsrr_ethnicity=dplyr::case_when(
+                  demo_ethnicity==1 ~ "hispanic or latino",
+                  demo_ethnicity==2 ~ "not hispanic or latino",
+                  TRUE ~ "not reported"
                 ))%>%
-  select(nsrrid,timepoint, nsrr_age,nsrr_race,nsrr_sex,nsrr_bmi,nsrr_bp_diastolic,nsrr_bp_systolic)
+  select(nsrrid,timepoint, nsrr_age,nsrr_race,nsrr_ethnicity,nsrr_sex,nsrr_bmi,nsrr_bp_diastolic,nsrr_bp_systolic)
 
 
 
 #write.csv(harmonized_data, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
-
-
