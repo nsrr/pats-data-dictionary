@@ -1,0 +1,7 @@
+{
+  "id": "psg_ahi_o0h4_nonsupine",
+  "display_name": "Calculated - Obstructive apnea (all desats) Hypopnea (4% desat) Index in non-supine body position",
+  "description": "",
+  "type": "numeric",
+  "calculation": "60 * (hrop4 + hnrop4 + oarop + oanop) / (remepop + nremepop)"
+}

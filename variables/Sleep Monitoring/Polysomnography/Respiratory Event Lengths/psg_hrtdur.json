@@ -2,5 +2,6 @@
   "id": "psg_hrtdur",
   "display_name": "Total Apnea and Hypopnea Length (REM) (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes (min)"
 }

@@ -2,5 +2,6 @@
   "id": "psg_avhroa",
   "display_name": "Average Hypopnea length with arousals (REM, Other, all desats) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)"
 }

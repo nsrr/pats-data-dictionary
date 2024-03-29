@@ -1,6 +1,0 @@
-{
-  "id": "psg_ahi3",
-  "display_name": "Apnea / Hypopnea events with >= 3% percent desat per hour of sleep",
-  "description": "",
-  "type": "numeric"
-}

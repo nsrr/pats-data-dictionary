@@ -2,5 +2,6 @@
   "id": "psg_nremepop",
   "display_name": "Sleep Time (NREM, Other) (minutes)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes (min)"
 }

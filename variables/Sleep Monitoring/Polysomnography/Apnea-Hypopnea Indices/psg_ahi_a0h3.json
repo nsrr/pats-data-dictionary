@@ -1,0 +1,7 @@
+{
+  "id": "psg_ahi_a0h3",
+  "display_name": "Calculated - Apnea (all desats) Hypopnea (>=3% desat) Index",
+  "description": "",
+  "type": "numeric",
+  "calculation": "60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop + marbp + marop + manrbp + manrop ) / slptimem"
+}

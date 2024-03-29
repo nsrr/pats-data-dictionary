@@ -2,5 +2,6 @@
   "id": "psg_avhnbp4",
   "display_name": "Average Hypopnea length (NREM, Back, 4% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)"
 }

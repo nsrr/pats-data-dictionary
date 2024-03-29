@@ -2,5 +2,6 @@
   "id": "psg_slp_lat",
   "display_name": "Calculated - Sleep latency (minutes)",
   "description": "same as slplatp",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes (min)"
 }

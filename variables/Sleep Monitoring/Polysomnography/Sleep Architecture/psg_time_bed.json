@@ -2,5 +2,6 @@
   "id": "psg_time_bed",
   "display_name": "Calculated - Total time in bed (minutes)",
   "description": "same as timebedp",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes (min)"
 }

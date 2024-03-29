@@ -1,0 +1,7 @@
+{
+  "id": "psg_ahi_o0h3_supine",
+  "display_name": "Calculated - Obstructive apnea (all desats) Hypopnea (3% desat) Index in supine body position",
+  "description": "",
+  "type": "numeric",
+  "calculation": "60 * (hrembp3 + hnrbp3 + oarbp + oanbp) / (remepbp + nremepbp)"
+}

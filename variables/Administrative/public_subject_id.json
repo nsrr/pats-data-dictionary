@@ -2,6 +2,6 @@
   "id": "public_subject_id",
   "display_name": "PATS Public Subject Identifier",
   "description": "",
-  "type": "text",
+  "type": "identifier",
   "commonly_used": true
 }

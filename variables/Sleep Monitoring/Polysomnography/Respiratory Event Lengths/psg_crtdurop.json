@@ -2,5 +2,6 @@
   "id": "psg_crtdurop",
   "display_name": "Total Central Apnea Length (REM, Other) (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes (min)"
 }

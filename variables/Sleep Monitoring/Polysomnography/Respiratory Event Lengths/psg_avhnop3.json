@@ -2,5 +2,6 @@
   "id": "psg_avhnop3",
   "display_name": "Average Hypopnea length (NREM, Other, 3% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)"
 }

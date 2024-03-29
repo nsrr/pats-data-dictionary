@@ -1,0 +1,7 @@
+{
+  "id": "psg_ahi_o0h3a",
+  "display_name": "Calculated - Obstructive apnea (all desats) Hypopnea (3% desat or arousal) Index",
+  "description": "",
+  "type": "numeric",
+  "calculation": "60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + oarbp + oarop + oanbp + oanop) / slptimem"
+}

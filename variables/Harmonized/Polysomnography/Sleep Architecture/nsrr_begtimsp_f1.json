@@ -1,0 +1,7 @@
+{
+  "id": "nsrr_begtimsp_f1",
+  "display_name": "Sleep onset time from polysomnography",
+  "description": "Harmonized by the NSRR team. Source: :psg_stonset1:",
+  "type": "numeric",
+  "calculation": "hh:mm:ss"
+}

@@ -2,5 +2,6 @@
   "id": "psg_ortdurop",
   "display_name": "Total Obstructive Apnea Length (REM, Other) (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes (min)"
 }

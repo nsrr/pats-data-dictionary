@@ -2,5 +2,6 @@
   "id": "psg_avhrba5",
   "display_name": "Average Hypopnea length with arousals (REM, Back, 5% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)"
 }

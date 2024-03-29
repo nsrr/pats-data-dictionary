@@ -2,5 +2,6 @@
   "id": "psg_timest2",
   "display_name": "Calculated - Total sleep time in stage 2 sleep (minutes)",
   "description": "same as minstg2p; missing if study with problems scoring sleep/wake or stg1/stg2 or stg2/stag3",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes (min)"
 }

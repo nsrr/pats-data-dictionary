@@ -2,5 +2,6 @@
   "id": "psg_slpprdm",
   "display_name": "Sleep Period (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes (min)"
 }

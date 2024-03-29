@@ -2,5 +2,6 @@
   "id": "pe_resp",
   "display_name": "Respiratory rate (breaths per minute)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "counts per minute"
 }

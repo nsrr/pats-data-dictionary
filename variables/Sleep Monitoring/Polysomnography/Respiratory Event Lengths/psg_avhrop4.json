@@ -2,5 +2,6 @@
   "id": "psg_avhrop4",
   "display_name": "Average Hypopnea length (REM, Other, 4% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)"
 }

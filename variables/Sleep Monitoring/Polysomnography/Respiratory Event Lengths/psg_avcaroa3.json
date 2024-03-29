@@ -2,5 +2,6 @@
   "id": "psg_avcaroa3",
   "display_name": "Average Central Apnea length with arousals (REM, Other, 3% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)"
 }

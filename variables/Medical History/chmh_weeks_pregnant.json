@@ -2,5 +2,6 @@
   "id": "chmh_weeks_pregnant",
   "display_name": "Weeks of pregnancy at the time of child's birth",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "domain": "notsure99"
 }

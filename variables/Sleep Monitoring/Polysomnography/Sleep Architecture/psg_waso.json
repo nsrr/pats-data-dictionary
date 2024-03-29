@@ -3,5 +3,6 @@
   "display_name": "Calculated - Wake time after sleep onset (WASO) (minutes)",
   "description": "",
   "type": "integer",
-  "calculation": "timebedp - slpprdp - slplatp"
+  "calculation": "timebedp - slpprdp - slplatp",
+  "units": "minutes (min)"
 }

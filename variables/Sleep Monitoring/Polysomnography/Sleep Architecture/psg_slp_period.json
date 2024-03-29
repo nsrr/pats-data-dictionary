@@ -1,0 +1,7 @@
+{
+  "id": "psg_slp_period",
+  "display_name": "Calculated - Total Sleep Period (time between sleep onset and sleep offset; psg_waso + psg_slp_time) (minutes)",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

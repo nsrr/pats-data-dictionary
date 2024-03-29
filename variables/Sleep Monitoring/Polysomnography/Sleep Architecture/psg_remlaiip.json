@@ -2,5 +2,6 @@
   "id": "psg_remlaiip",
   "display_name": "REM Latency II - excluding wake (minutes)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes (min)"
 }

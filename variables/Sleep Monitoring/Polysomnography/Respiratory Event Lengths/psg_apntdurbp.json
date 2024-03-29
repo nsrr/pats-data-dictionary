@@ -2,5 +2,6 @@
   "id": "psg_apntdurbp",
   "display_name": "Total Apnea Length (NREM, Back) (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes (min)"
 }

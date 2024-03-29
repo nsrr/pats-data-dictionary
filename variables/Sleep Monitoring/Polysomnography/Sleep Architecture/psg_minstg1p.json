@@ -2,5 +2,6 @@
   "id": "psg_minstg1p",
   "display_name": "Time in stage 1 sleep (minutes)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes (min)"
 }

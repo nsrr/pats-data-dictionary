@@ -2,5 +2,6 @@
   "id": "psg_hntdurop",
   "display_name": "Total Hypopnea Length (NREM, Other) (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes (min)"
 }

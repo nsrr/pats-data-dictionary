@@ -2,5 +2,6 @@
   "id": "psg_mnstg34p",
   "display_name": "Time in stage 3-4 sleep (minutes)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes (min)"
 }

@@ -2,5 +2,6 @@
   "id": "psg_apntdur",
   "display_name": "Total Apnea Length (NREM) (minutes)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes (min)"
 }

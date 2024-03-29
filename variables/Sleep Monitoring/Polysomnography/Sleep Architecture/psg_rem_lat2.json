@@ -1,0 +1,7 @@
+{
+  "id": "psg_rem_lat2",
+  "display_name": "Calculated - REM Latency II - excluding wake time (minutes)",
+  "description": "same as remlaiip; missing if study scored as sleep/wake (minutes)",
+  "type": "integer",
+  "units": "minutes (min)"
+}

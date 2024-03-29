@@ -2,5 +2,6 @@
   "id": "psg_avmanrbp3",
   "display_name": "Average Mixed Apnea length (NREM, Back, 3% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)"
 }

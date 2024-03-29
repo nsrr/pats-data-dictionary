@@ -1,0 +1,7 @@
+{
+  "id": "nsrr_ttlprdsp_f1",
+  "display_name": "Total Sleep Period: the interval between sleep onset time and sleep offset time from polysomnography",
+  "description": "Harmonized by the NSRR team. Source: :psg_slp_period:",
+  "type": "numeric",
+  "units": "minutes (min)"
+}
