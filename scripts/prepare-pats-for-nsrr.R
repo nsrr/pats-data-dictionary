@@ -120,7 +120,7 @@ for (name in files_missing_timepoint) {
   }
 }
 
-columns_to_replace <- unique(column_names)
+columns_to_replace <- setdiff(unique(column_names), "studyinfo_randomized_arm")
 for (column in columns_to_replace) {
   uncensored[uncensored$timepoint %in% c(2, 3), column] <- NA
 }
@@ -161,7 +161,7 @@ variables_to_remove <- c(
 
 uncensored <- uncensored[, !(names(uncensored) %in% variables_to_remove)]
 variables_to_remove <- grep("^studyinfo_lfus_", names(uncensored), value = TRUE)
-
+uncensored <- uncensored[, !(names(uncensored) %in% variables_to_remove)]
 uncensored <- uncensored %>%
   select(public_subject_id, public_site_id, timepoint, everything()) %>%
   arrange(public_subject_id, timepoint)%>%select(-consented)
@@ -175,7 +175,7 @@ write.csv(censored, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0
 
 
 # Harmonized data
-
+censored <- read.csv("/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-dataset-0.1.0.pre.csv")
 harmonized_data<-censored[,c("public_subject_id","timepoint", "anthro_age", "anthro_bmi", "demo_ethnicity", "demo_race", 
                              "demo_sex", "anthro_bp_dia_avg123", "anthro_bp_sys_avg123")]%>%
   dplyr::mutate(nsrrid=public_subject_id,
@@ -204,6 +204,56 @@ harmonized_data<-censored[,c("public_subject_id","timepoint", "anthro_age", "ant
                 ))%>%
   select(nsrrid,timepoint, nsrr_age,nsrr_race,nsrr_ethnicity,nsrr_sex,nsrr_bmi,nsrr_bp_diastolic,nsrr_bp_systolic)
 
+psg_variables <- censored %>%
+  select(psg_ahi_a0h3, psg_ahi_a0h3a, psg_ahi_a0h4, psg_ahi_a0h4a, 
+         psg_cai0p, psg_oai0p, psg_oahi4, psg_ahi_o0h4_rem, 
+         psg_ahi_o0h4_nrem, psg_ahi_o0h4_supine, psg_ahi_o0h4_nonsupine, 
+         psg_oahi3, psg_ahi_o0h3_rem, psg_ahi_o0h3_nrem, 
+         psg_ahi_o0h3_supine, psg_ahi_o0h3_nonsupine, psg_ahi_o0h3a, 
+         psg_avgsat, psg_minsat, psg_slp_eff, psg_slp_maint_eff, 
+         psg_slp_lat, psg_rem_lat1, psg_rem_lat2, psg_time_bed, 
+         psg_slp_period, psg_waso, psg_slp_time, psg_scloutp, 
+         psg_stlonp, psg_stonset1, psg_timest1p, psg_timest2p, 
+         psg_times34p, psg_timeremp, psg_ai_all, psg_scored_sleep_wake_only) %>%
+  rename(nsrr_ahi_hp3u = psg_ahi_a0h3, 
+         nsrr_ahi_hp3r_aasm15 = psg_ahi_a0h3a, 
+         nsrr_ahi_hp4u_aasm15 = psg_ahi_a0h4, 
+         nsrr_ahi_hp4r = psg_ahi_a0h4a, 
+         nsrr_cai = psg_cai0p, 
+         nsrr_oai = psg_oai0p, 
+         nsrr_oahi_hp4u = psg_oahi4, 
+         nsrr_oahi_hp4u_sr = psg_ahi_o0h4_rem, 
+         nsrr_oahi_hp4u_sn = psg_ahi_o0h4_nrem, 
+         nsrr_oahi_hp4u_pb = psg_ahi_o0h4_supine, 
+         nsrr_oahi_hp4u_po = psg_ahi_o0h4_nonsupine, 
+         nsrr_oahi_hp3u = psg_oahi3, 
+         nsrr_oahi_hp3u_sr = psg_ahi_o0h3_rem, 
+         nsrr_oahi_hp3u_sn = psg_ahi_o0h3_nrem, 
+         nsrr_oahi_hp3u_pb = psg_ahi_o0h3_supine, 
+         nsrr_oahi_hp3u_po = psg_ahi_o0h3_nonsupine, 
+         nsrr_oahi_hp3r_aasm15 = psg_ahi_o0h3a, 
+         nsrr_avglvlsa = psg_avgsat, 
+         nsrr_minlvlsa = psg_minsat, 
+         nsrr_ttleffsp_f1 = psg_slp_eff, 
+         nsrr_ttlmefsp_f1 = psg_slp_maint_eff, 
+         nsrr_ttllatsp_f1 = psg_slp_lat, 
+         nsrr_ttlprdsp_s1sr = psg_rem_lat1, 
+         nsrr_ttldursp_s1sr = psg_rem_lat2, 
+         nsrr_tib_f1 = psg_time_bed, 
+         nsrr_ttlprdsp_f1 = psg_slp_period, 
+         nsrr_waso_f1 = psg_waso, 
+         nsrr_tst_f1 = psg_slp_time, 
+         nsrr_begtimbd_f1 = psg_scloutp, 
+         nsrr_endtimbd_f1 = psg_stlonp, 
+         nsrr_begtimsp_f1 = psg_stonset1, 
+         nsrr_pctdursp_s1 = psg_timest1p, 
+         nsrr_pctdursp_s2 = psg_timest2p, 
+         nsrr_pctdursp_s3 = psg_times34p, 
+         nsrr_pctdursp_sr = psg_timeremp, 
+         nsrr_phrnumar_f1 = psg_ai_all, 
+         nsrr_flag_spsw = psg_scored_sleep_wake_only)
+
+harmonized_data <- bind_cols(harmonized_data, psg_variables)
 
 
-#write.csv(harmonized_data, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
+write.csv(harmonized_data, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
