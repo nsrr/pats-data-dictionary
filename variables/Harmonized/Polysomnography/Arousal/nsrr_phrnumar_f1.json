@@ -3,5 +3,6 @@
   "display_name": "Arousal Index: Number of arousals per hour of sleep from polysomnography",
   "description": "Harmonized by the NSRR team. Source: :psg_ai_all:",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "number of events per hour",
+  "commonly_used": true
 }

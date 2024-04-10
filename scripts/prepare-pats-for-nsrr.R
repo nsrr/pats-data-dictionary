@@ -251,7 +251,12 @@ psg_variables <- censored %>%
          nsrr_pctdursp_s3 = psg_times34p, 
          nsrr_pctdursp_sr = psg_timeremp, 
          nsrr_phrnumar_f1 = psg_ai_all, 
-         nsrr_flag_spsw = psg_scored_sleep_wake_only)
+         nsrr_flag_spsw = psg_scored_sleep_wake_only)%>%
+  mutate(nsrr_flag_spsw=dplyr::case_when(
+    nsrr_flag_spsw==0 ~ "full scoring",
+    nsrr_flag_spsw==1 ~ "sleep/wake only",
+    TRUE ~ "unknown"
+  ))
 
 harmonized_data <- bind_cols(harmonized_data, psg_variables)
 

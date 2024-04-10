@@ -1,7 +1,8 @@
 {
   "id": "nsrr_ttleffsp_f1",
-  "display_name": "Sleep Efficiency: the ratio of estimated sleep duration (i.e. total sleep time) to in-bed period from home sleep test",
+  "display_name": "Sleep Efficiency: the ratio of sleep duration (i.e., total sleep time) to in-bed period from polysomnography",
   "description": "Harmonized by the NSRR team. Source: :psg_slp_eff:",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "commonly_used": true
 }

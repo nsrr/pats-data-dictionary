@@ -3,6 +3,6 @@
   "display_name": "Calculated - Body mass index (BMI) (kg/m2)",
   "description": "",
   "type": "numeric",
-  "units": "kilograms per meters squared (kg/m2)",
+  "units": "kilograms per meter squared (kg/m2)",
   "calculation": "anthro_weight_avg/(anthro_height_avg/100)^2"
 }

@@ -3,5 +3,6 @@
   "display_name": "Percentage of total sleep duration (i.e., total sleep time, TST) in stage 3/4 from polysomnography",
   "description": "Harmonized by the NSRR team. Source: :psg_times34p:",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "commonly_used": true
 }

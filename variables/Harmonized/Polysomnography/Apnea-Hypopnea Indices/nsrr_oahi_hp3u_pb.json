@@ -3,5 +3,5 @@
   "display_name": "Obstructive Apnea-Hypopnea Index for supine sleep: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of sleep in supine position",
   "description": "Harmonized by the NSRR team. Source: :psg_ahi_o0h3_supine:",
   "type": "numeric",
-  "units": ""
+  "units": "number of events per hour"
 }
