@@ -125,6 +125,12 @@ for (column in columns_to_replace) {
   uncensored[uncensored$timepoint %in% c(2, 3), column] <- NA
 }
 
+for (name in files_missing_timepoint) {
+  if (name %in% names(data_list) && !name %in% c("datasharing.csv", "childinfo.csv", "studyinfo")) {
+    uncensored[uncensored$timepoint %in% c(1), setdiff(colnames(data_list[[name]]), "studyinfo_randomized_arm")] <- NA
+  }
+}
+
 variables_to_remove <- c(
   "random_date_offset","siteid",
   "psg_study_failed_reason",
