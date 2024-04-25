@@ -2,5 +2,9 @@
   "id": "psg_sao2rem",
   "display_name": "Calculated - Average SaO2 in REM sleep (%)",
   "description": "same as avsao2rh; missing if study was scored as sleep/wake",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlsa_sr_f1t1"
+  ]
 }

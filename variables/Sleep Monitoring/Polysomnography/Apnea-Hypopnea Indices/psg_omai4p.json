@@ -3,5 +3,9 @@
   "display_name": "Calculated - Obstructive/Mixed Apnea Index (4% desats)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
-  "calculation": "60*(oarbp4 + oarop4 + oanbp4 + oanop4 + marbp4 + marop4 + manrbp4 + manrop4)/slpprdp"
+  "units": "number of events per hour",
+  "calculation": "60*(oarbp4 + oarop4 + oanbp4 + oanop4 + marbp4 + marop4 + manrbp4 + manrop4)/slpprdp",
+  "labels": [
+    "omai_pb_oa4uma4u_f1t1"
+  ]
 }

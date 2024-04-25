@@ -1,7 +1,11 @@
 {
   "id": "psq_permissive",
   "display_name": "Calculated - Permissive parent behavior (range: 1-5)",
-  "description": "",
+  "description": "Permissive parent behavior summary score is based on 4 items from the Parenting Style Questionnaire Short Form (PSQ-SF). Each item is scored on a 5-point scale (from 1: never to 5: always). The total score is the sum of all 4 items divided by 4 (range 1 to 5). The highest calculated score indicates the preferred parently style.Permissive parents promote psychological autonomy, are accepting, and exhibit lax behavioral control, conceptualized as indulgent and allowing children to make their own rules and decisions. [Robinson, C. C., Mandleco, B., Olsen, S. F., & Hart, C. H. (1995). Authoritative, authoritarian, and permissive parenting practices: Development of a new measure. Psychological Reports, 77(3, Pt 1), 819-830.](https://doi.org/10.2466/pr0.1995.77.3.819)<br><br>[Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "numeric",
-  "calculation": "(Sum score from Q27 to Q30)/4"
+  "calculation": "(Sum score from Q27 to Q30)/4",
+  "labels": [
+    "psq",
+    "permissivescore"
+  ]
 }

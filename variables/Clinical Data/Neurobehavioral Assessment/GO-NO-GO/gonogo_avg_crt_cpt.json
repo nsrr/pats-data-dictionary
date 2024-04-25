@@ -1,7 +1,0 @@
-{
-  "id": "gonogo_avg_crt_cpt",
-  "display_name": "Average reaction time of correct trials in seconds (Sustained Attention/CPT Block) ",
-  "description": "",
-  "type": "integer",
-  "units": "milliseconds (ms)"
-}

@@ -2,5 +2,9 @@
   "id": "psg_pcstahar",
   "display_name": "Percent sleep time in Apnea+Hypopnea with arousal",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_ap0uhp3x0o_f1t1"
+  ]
 }

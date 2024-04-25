@@ -2,5 +2,9 @@
   "id": "psg_cavgdur",
   "display_name": "Average Central Apnea Length (seconds)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurca_ca0u_f1t1"
+  ]
 }

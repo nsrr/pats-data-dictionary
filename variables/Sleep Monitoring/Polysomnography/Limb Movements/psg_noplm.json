@@ -2,5 +2,9 @@
   "id": "psg_noplm",
   "display_name": "Number of PLM during sleep",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_sp_f1t1"
+  ]
 }

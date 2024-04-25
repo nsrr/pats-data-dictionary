@@ -2,5 +2,6 @@
   "id": "srbds_nonmissing_items",
   "display_name": "Total SRBD Scale: Number of items answered without missing (Range: 0-22)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events"
 }

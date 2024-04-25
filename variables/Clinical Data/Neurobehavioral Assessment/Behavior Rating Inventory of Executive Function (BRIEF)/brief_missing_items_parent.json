@@ -2,5 +2,8 @@
   "id": "brief_missing_items_parent",
   "display_name": "Number of missing items (parent-completed)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "labels": [
+    "brief"
+  ]
 }

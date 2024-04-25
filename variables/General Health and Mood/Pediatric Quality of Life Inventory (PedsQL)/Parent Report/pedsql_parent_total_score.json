@@ -1,6 +1,10 @@
 {
   "id": "pedsql_parent_total_score",
   "display_name": "Parent Proxy-Report: Calculated - Total Score",
-  "description": "",
-  "type": "numeric"
+  "description": "Summary score for the Pediatric Quality of Life Inventory. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/) Each item is reverse transformed from 1-4 likert scale to 100-0 score. Higher scores indicate better HRQOL (Health-Related Quality of Life). The summary score is the mean is computed as the sum of all the items over the number of items answered on all the Scales.<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=pedsql)",
+  "type": "numeric",
+  "labels": [
+    "pedsql",
+    "pedsql_total"
+  ]
 }

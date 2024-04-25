@@ -2,5 +2,10 @@
   "id": "psg_tmremp",
   "display_name": "Percent sleep time in REM sleep (%)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "tmremp",
+    "pctdursp_sr_f1t1"
+  ]
 }

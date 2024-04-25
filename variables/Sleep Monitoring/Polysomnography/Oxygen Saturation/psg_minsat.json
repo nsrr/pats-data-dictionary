@@ -3,5 +3,10 @@
   "display_name": "Calculated - Minimum SaO2 during sleep (%)",
   "description": "",
   "type": "integer",
-  "calculation": "min(losao2r,losao2nr)"
+  "units": "percent (%)",
+  "calculation": "min(losao2r,losao2nr)",
+  "labels": [
+    "lowsaoslp",
+    "minlvlsa_sp_f1t1"
+  ]
 }

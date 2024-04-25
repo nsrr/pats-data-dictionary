@@ -2,5 +2,9 @@
   "id": "psg_longhyp",
   "display_name": "Longest Hypopnea (seconds)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurhp_ap0u_f1t1"
+  ]
 }

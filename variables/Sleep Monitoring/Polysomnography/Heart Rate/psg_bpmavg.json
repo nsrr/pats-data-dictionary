@@ -2,5 +2,9 @@
   "id": "psg_bpmavg",
   "display_name": "Average Heart rate (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avglvlhr_sp_f1t1"
+  ]
 }

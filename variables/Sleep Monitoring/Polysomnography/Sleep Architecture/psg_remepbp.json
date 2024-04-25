@@ -3,5 +3,8 @@
   "display_name": "Sleep Time (REM, Back) (minutes)",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_srpb_f1t1"
+  ]
 }

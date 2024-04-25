@@ -2,5 +2,9 @@
   "id": "psg_dsnr2",
   "display_name": "Number of desats per hour (NREM, >= 2%)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "phrnumds_sn_dsge2_f1t1"
+  ]
 }

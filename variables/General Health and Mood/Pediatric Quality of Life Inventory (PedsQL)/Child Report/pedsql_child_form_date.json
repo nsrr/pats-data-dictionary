@@ -1,7 +1,10 @@
 {
   "id": "pedsql_child_form_date",
   "display_name": "Child Self-Report: Form date",
-  "description": "",
+  "description": "Calendar dates were shifted by a random amount of days as part of the data de-identification process. All calendar dates for a given subject have been offset by the same amount of days. Item from Pediatric Quality of Life Inventory. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/)<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=pedsql)",
   "type": "date",
-  "units": "yyyy-mm-dd"
+  "units": "yyyy-mm-dd",
+  "labels": [
+    "pedsql"
+  ]
 }

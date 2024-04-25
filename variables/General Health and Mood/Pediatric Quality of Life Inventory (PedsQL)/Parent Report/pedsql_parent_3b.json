@@ -1,7 +1,11 @@
 {
   "id": "pedsql_parent_3b",
   "display_name": "Parent Proxy-Report: 3b. Other kids not wanting to be his or her friend/Other kids or teens not wanting to play with him or her",
-  "description": "",
+  "description": "Item from Pediatric Quality of Life Inventory. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/)<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=pedsql)",
   "type": "choices",
-  "domain": "never_almost_always"
+  "domain": "never_almost_always",
+  "labels": [
+    "pedsql",
+    "pedsql_15friend"
+  ]
 }

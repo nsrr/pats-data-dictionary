@@ -1,0 +1,11 @@
+{
+  "id": "asthma_total_bursts",
+  "display_name": "In the last 2 months, number of systemic corticosteroid bursts the child took for asthma symptoms (excluding steroid use for non-asthma reasons)",
+  "description": "Item from Composite Asthma Severity Index (CASI) exacerbation assessment. [Wildfire JJ, Gergen PJ, Sorkness CA, et al. 2012  (PubMed ID: 22244599)](https://pubmed.ncbi.nlm.nih.gov/22244599/)<br><br> [Search for all CASI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=casi)",
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "casi",
+    "casi_06bursts"
+  ]
+}

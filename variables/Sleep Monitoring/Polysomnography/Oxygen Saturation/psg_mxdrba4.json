@@ -2,5 +2,9 @@
   "id": "psg_mxdrba4",
   "display_name": "Maximum Desat with arousals (REM, Back, 4% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "maxlvlsa_srpb_ap4rhp3x4r_f1t1"
+  ]
 }

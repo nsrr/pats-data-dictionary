@@ -1,6 +1,9 @@
 {
   "id": "trf_oppositional_t",
   "display_name": "Teacher Report: Oppositional Defiant Problems T score",
-  "description": "",
-  "type": "integer"
+  "description": "The CBCL is a caregiver-completed assessments of child behaviour, used to detect behavioural and emotional problems in children and adolescents. The CBCL/1.5-5 (ASEBA, Burlington, VT) was administered to children 5 years or younger, while the CBCL/6-18 was administered to children 6 years or older. Reference: [Achenbach TM, Rescorla LA. Manual for the ASEBA preschool forms & profiles. Burlington, VT University of Vermont, Research Center for Children, Youth & Families; 2000](https://store.aseba.org/MANUAL-FOR-ASEBA-PRESCHOOL-FORMS-PROFILE/productinfo/605/) and [Achenbach TM, Rescorla LA. Manual for the ASEBA school-age forms & profiles. Burlington, VT University of Vermont, Research Center for Children, Youth & Families; 2001](https://store.aseba.org/MANUAL-FOR-THE-ASEBA-SCHOOL-AGE-FORMS-PROFILES/productinfo/505/)<br><br>[Search for all CBCL variables within this dataset](https://sleepdata.org/datasets/abc/variables?search=cbcl)",
+  "type": "integer",
+  "labels": [
+    "cbcl"
+  ]
 }

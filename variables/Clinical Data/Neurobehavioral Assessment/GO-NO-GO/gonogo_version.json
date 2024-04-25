@@ -1,7 +1,0 @@
-{
-  "id": "gonogo_version",
-  "display_name": "Task type ",
-  "description": "",
-  "type": "choices",
-  "domain": "gng_task_type"
-}

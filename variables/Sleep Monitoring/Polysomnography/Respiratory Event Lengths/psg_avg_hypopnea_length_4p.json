@@ -3,5 +3,8 @@
   "display_name": "Average length of each hypopnea with >= 4% oxygen desaturation (seconds)",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurhp_hp3x4u_f1t1"
+  ]
 }

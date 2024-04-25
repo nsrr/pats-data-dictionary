@@ -2,5 +2,9 @@
   "id": "psg_stonset1",
   "display_name": "Sleep onset (start of sleep- hh:mm:ss) - scorer",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss",
+  "labels": [
+    "begtimsp_f1"
+  ]
 }

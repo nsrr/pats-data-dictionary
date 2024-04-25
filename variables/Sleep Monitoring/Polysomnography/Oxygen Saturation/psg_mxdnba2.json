@@ -2,5 +2,9 @@
   "id": "psg_mxdnba2",
   "display_name": "Maximum Desat with arousals (NREM, Back, 2% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "maxlvlsa_snpb_ap2rhp3x2r_f1t1"
+  ]
 }

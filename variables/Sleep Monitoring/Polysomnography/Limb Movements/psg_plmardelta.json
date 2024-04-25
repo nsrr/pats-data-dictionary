@@ -2,5 +2,9 @@
   "id": "psg_plmardelta",
   "display_name": "Number PLMs with arousal and resp. event (Delta Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_s3sost_f1t1"
+  ]
 }

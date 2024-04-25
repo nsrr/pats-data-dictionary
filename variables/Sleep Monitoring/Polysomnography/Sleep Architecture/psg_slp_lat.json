@@ -3,5 +3,8 @@
   "display_name": "Calculated - Sleep latency (minutes)",
   "description": "same as slplatp",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttllatsp_f1t1"
+  ]
 }

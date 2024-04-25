@@ -2,5 +2,9 @@
   "id": "psg_avgdbslp",
   "display_name": "Minimum Snore level during sleep (dB)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "decibels (dB)",
+  "labels": [
+    "avglvlsn_sp_f1t1"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_avmaropa2",
   "display_name": "Average Mixed Apnea with arousal length (REM, Other, 2% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurma_srpo_ma2r_f1t1"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Average length of each hypopnea with >= 3% oxygen desaturation in NREM sleep (seconds)",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurhp_sn_hp3x3u_f1t1"
+  ]
 }

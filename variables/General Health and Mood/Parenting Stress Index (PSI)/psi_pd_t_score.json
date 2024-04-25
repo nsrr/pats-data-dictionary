@@ -1,6 +1,10 @@
 {
   "id": "psi_pd_t_score",
   "display_name": "Parental distress (PD) scale T score",
-  "description": "",
-  "type": "integer"
+  "description": "The Parental Distress (PD) subscale captures the level of distress resulting from personal factors such as depression or conflict with a partner and life restrictions due to a parent's perception of his or her child-rearing competence. Each item is scored on a 5 point scale (from 1-5). T-scores generally range from 20 points to 100 points, and are considered the primary source for interpretation. T-scoring below 62: within normal limites; 63 to 64: borderline levels; 65 to 66: clinically significant level; above 67 (equivalent to percentile rank of 95% or higher): clinically severe levels. [Abidin, R. R. (1995). Parenting Stress Index, Third Edition: Professional Manual. Odessa, FL: Psychological Assessment Resources, Inc.](https://www.parinc.com/products/pkey/335)<br><br>[Search for all PSI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psi)",
+  "type": "integer",
+  "labels": [
+    "psi",
+    "psi_pd_tscore"
+  ]
 }

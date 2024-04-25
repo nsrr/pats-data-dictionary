@@ -2,5 +2,9 @@
   "id": "psg_plmcanrem",
   "display_name": "Number PLM clusters with arousal (NREM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpc_snso_f1t1"
+  ]
 }

@@ -1,7 +1,0 @@
-{
-  "id": "gonogo_std_rt_cpt",
-  "display_name": "Standard deviation of reaction time of all complete trials in seconds (Substained Attention/CPT Block)",
-  "description": "",
-  "type": "integer",
-  "units": "milliseconds (ms)"
-}

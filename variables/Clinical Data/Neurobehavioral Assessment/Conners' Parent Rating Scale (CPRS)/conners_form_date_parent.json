@@ -1,7 +1,10 @@
 {
   "id": "conners_form_date_parent",
   "display_name": "Form created date (parent-completed)",
-  "description": "",
+  "description": "Calendar dates were shifted by a random amount of days as part of the data de-identification process. All calendar dates for a given subject have been offset by the same amount of days. Subscore from Conners 3rd Edition Short Form. The Conners 3rd EditionÂ¬Ã±Parent Short form [Conners 3Â¬Ã±P(S)] is an assessment tool used to obtain the parentÂ¬Ã­s observations about the youthÂ¬Ã­s behavior. This instrument is designed to assess Attention Deficit/Hyperactivity Disorder (ADHD) and its most common co-morbid problems in children and adolescents aged 6 to 18 years old. A T-score >=65 is considered elevated (higher is worse). [Conner C. Conners 3rd edition manual. San Antonio Pearson; 2009](https://www.pearsonassessments.com/store/usassessments/en/Store/Professional-Assessments/Behavior/Conners-3rd-Edition/p/100000523.html)<br><br> [Search for all Conners 3 variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=conners3)",
   "type": "date",
-  "units": "yyyy-mm-dd"
+  "units": "yyyy-mm-dd",
+  "labels": [
+    "conners3"
+  ]
 }

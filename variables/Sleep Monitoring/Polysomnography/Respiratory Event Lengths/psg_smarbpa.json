@@ -2,5 +2,9 @@
   "id": "psg_smarbpa",
   "display_name": "Minimum Mixed Apnea with arousal length (REM, Back, all desats) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurma_srpb_ma0o_f1t1"
+  ]
 }

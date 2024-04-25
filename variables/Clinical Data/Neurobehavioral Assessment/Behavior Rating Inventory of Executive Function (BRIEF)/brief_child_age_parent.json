@@ -3,5 +3,8 @@
   "display_name": "Child age (parent-completed)",
   "description": "",
   "type": "integer",
-  "units": "years"
+  "units": "years",
+  "labels": [
+    "brief"
+  ]
 }

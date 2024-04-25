@@ -2,5 +2,9 @@
   "id": "psg_aavbnbh",
   "display_name": "Average Heart Rate with arousal (NREM, Back, all desats) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avglvlhr_snsopb_f1t1"
+  ]
 }

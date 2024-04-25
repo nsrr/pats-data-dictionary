@@ -2,5 +2,9 @@
   "id": "psg_longap",
   "display_name": "Longest Apnea (seconds)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurap_ap0u_f1t1"
+  ]
 }

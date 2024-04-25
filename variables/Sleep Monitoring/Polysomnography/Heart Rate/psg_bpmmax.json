@@ -2,5 +2,9 @@
   "id": "psg_bpmmax",
   "display_name": "Highest Heart rate (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "maxlvlhr_sp_f1t1"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_smnbroh",
   "display_name": "Minimum Heart Rate (REM, Other, all desats) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "minlvlhr_srpo_f1t1"
+  ]
 }

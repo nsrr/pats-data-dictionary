@@ -2,5 +2,9 @@
   "id": "psg_remt34p",
   "display_name": "Number of REM to stage 3/4 shifts during sleep",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumsf_srs3_f1t1"
+  ]
 }

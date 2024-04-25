@@ -2,5 +2,6 @@
   "id": "psg_avgsaominrpt",
   "display_name": "Average SaO2% minimum (Report time) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)"
 }

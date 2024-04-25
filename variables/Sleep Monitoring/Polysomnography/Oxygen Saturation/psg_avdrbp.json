@@ -2,5 +2,9 @@
   "id": "psg_avdrbp",
   "display_name": "Average Desat (REM, Back, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_srpb_ap0uhp5x0u_f1t1"
+  ]
 }

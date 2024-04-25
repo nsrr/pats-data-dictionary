@@ -2,5 +2,9 @@
   "id": "psg_nordb5",
   "display_name": "Number of Snore in REM (dB level 5)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumsn_sr_db5_g1t1"
+  ]
 }

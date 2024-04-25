@@ -1,7 +1,11 @@
 {
   "id": "psi_total_stress_percentile",
   "display_name": "Total stress scale percentile",
-  "description": "",
+  "description": "Total Stress(TS) score is based on all 36 items from Parenting Stress Index Fourth Edition Short Form. TS score examine the extent of stress in the Parent-Child relationship. Each item is scored on a 5 point scale (from 1-5). Percentile between 16% to 84% = normal ranges of stress, between 85% to 89%: high levels of stress, greater than or equal to 90%: clinically significant stress. [Abidin, R. R. (1995). Parenting Stress Index, Third Edition: Professional Manual. Odessa, FL: Psychological Assessment Resources, Inc.](https://www.parinc.com/products/pkey/335)<br><br>[Search for all PSI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psi)",
   "type": "integer",
-  "units": "percentile (th)"
+  "units": "percentile (th)",
+  "labels": [
+    "psi",
+    "psi_ts_perc"
+  ]
 }

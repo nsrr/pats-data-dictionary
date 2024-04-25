@@ -2,5 +2,9 @@
   "id": "psg_lmaslp",
   "display_name": "Number Limb Movements with arousal (Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumlm_so_f1t1"
+  ]
 }

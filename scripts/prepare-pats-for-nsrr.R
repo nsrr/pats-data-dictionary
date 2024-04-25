@@ -156,7 +156,10 @@ variables_to_remove <- c(
   "chmh_autism_medication",
   "subject","screened", "studyinfo_site","oper_digital_photo_file_name", "oper_digital_photo_sent", 
   "oper_digital_photo_taken", "cotinine_specimen_id", "ige_specimen_id", "childinfo_ageinyear", "childinfo_ageinmonth", 
-  "childinfo_sex","childinfo_race","childinfo_grade","childinfo_ethnicity"
+  "childinfo_sex","childinfo_race","childinfo_grade","childinfo_ethnicity","studyinfo_stop_reason_s","studyinfo_stop_comments",
+  "studyinfo_treat_stop_comments","chmh_other_surgery_1","chmh_other_surgery_2","chmh_other_surgery_3","fhmh_other_condition_parent_1",
+  "fhmh_other_condition_parent_2","fhmh_other_condition_parent_3","fhmh_other_condition_parent_4","parentinfo_mom_why_no_work",
+  "parentinfo_dad_why_no_work","post_specify_other_admission","post_specify_other_reason","pedsql_child_1gwhere","psg_additional_comments"
 )
 
 uncensored <- uncensored[, !(names(uncensored) %in% variables_to_remove)]

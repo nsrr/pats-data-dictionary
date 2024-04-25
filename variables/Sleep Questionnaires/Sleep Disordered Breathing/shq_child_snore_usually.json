@@ -1,7 +1,7 @@
 {
   "id": "shq_child_snore_usually",
   "display_name": "During the entire time your child has snored, has his/her snoring usually been",
-  "description": "Not asked again at 6-month or 12-month visit",
+  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "choices",
   "domain": "loudness"
 }

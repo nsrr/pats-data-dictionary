@@ -2,5 +2,9 @@
   "id": "psg_amnbnoh",
   "display_name": "Minimum Heart Rate with arousal (NREM, Other, all desats) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "minlvlhr_snsopb_f1t1"
+  ]
 }

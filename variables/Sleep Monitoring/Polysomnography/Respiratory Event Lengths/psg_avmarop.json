@@ -2,5 +2,9 @@
   "id": "psg_avmarop",
   "display_name": "Average Mixed Apnea length (REM, Other, all desats) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurma_srpo_ma0u_f1t1"
+  ]
 }

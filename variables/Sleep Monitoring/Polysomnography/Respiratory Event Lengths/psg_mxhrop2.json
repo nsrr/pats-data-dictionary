@@ -2,5 +2,9 @@
   "id": "psg_mxhrop2",
   "display_name": "Maximum Hypopnea length (REM, Other, 2% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurhp_srpo_hp3x2u_f1t1"
+  ]
 }

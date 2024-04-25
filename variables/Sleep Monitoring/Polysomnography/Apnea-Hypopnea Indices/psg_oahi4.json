@@ -3,5 +3,10 @@
   "display_name": "Calculated - Obstructive apnea (all desats) Hypopnea (4% desat) Index",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
-  "calculation": "oahi4 = 60*(hrembp4 + hrop4 + hnrbp4 + hnrop4 + oarbp +oarop + oanbp + oanop)/slpprdp"
+  "units": "number of events per hour",
+  "calculation": "oahi4 = 60*(hrembp4 + hrop4 + hnrbp4 + hnrop4 + oarbp +oarop + oanbp + oanop)/slpprdp",
+  "labels": [
+    "oahi4",
+    "oahi_oa0uhp3x4u_f1t1"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_amxbroh",
   "display_name": "Maximum Heart Rate with arousal (REM, Other, all desats) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "maxlvlhr_snsopb_f1t1"
+  ]
 }

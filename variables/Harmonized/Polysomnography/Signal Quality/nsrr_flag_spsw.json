@@ -4,5 +4,8 @@
   "description": "Harmonized by the NSRR team. Source: :psg_scored_sleep_wake_only:",
   "type": "choices",
   "domain": "nsrr_flag_spsw",
+  "labels": [
+    "flag_spsw"
+  ],
   "commonly_used": true
 }

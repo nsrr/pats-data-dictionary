@@ -3,5 +3,9 @@
   "display_name": "Calculated - RDI with arousals (>= 2% desaturation)",
   "description": "missing if total sleep time is 2 or if studies scored as sleep/wake or where arousals were ignored",
   "type": "numeric",
-  "calculation": "60*(hremba2 +hroa2 + hnrba2 + hnroa2 +carba2+ caroa2 + canba2 + canoa2 + oarba2 + oaroa2 + oanba2 + oanoa2 + marbpa2 + maropa2 + manrbpa2 + manropa2)/slpprdp"
+  "units": "number of events per hour",
+  "calculation": "60*(hremba2 +hroa2 + hnrba2 + hnroa2 +carba2+ caroa2 + canba2 + canoa2 + oarba2 + oaroa2 + oanba2 + oanoa2 + marbpa2 + maropa2 + manrbpa2 + manropa2)/slpprdp",
+  "labels": [
+    "ahi_ap2rhp3x2r_f1t1"
+  ]
 }

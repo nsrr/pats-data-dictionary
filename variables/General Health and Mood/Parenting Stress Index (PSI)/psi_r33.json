@@ -1,7 +1,11 @@
 {
   "id": "psi_r33",
   "display_name": "33. Think carefully and count the number of things which your child does that others you. For example, dawdles, refuses to listen, overactive, cries, interrupts, fights, whines, etc. (chose a repsonse from the choices below)",
-  "description": "",
+  "description": "Item from Parenting Stress Index Fourth Edition Short Form (PSI4-SF). The Short Form contains 36 items drawn from the full-length PSI-4 form divided into three domains (Parental Distress, Parent-Child Dysfunctional Interaction, and Difficult Child). [Abidin, R. R. (1995). Parenting Stress Index, Third Edition: Professional Manual. Odessa, FL: Psychological Assessment Resources, Inc.](https://www.parinc.com/products/pkey/335)<br><br>[Search for all PSI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psi)\n",
   "type": "choices",
-  "domain": "psi_number"
+  "domain": "psi_number",
+  "labels": [
+    "psi",
+    "psi_33count"
+  ]
 }

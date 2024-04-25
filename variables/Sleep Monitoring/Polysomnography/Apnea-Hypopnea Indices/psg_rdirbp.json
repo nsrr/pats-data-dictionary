@@ -2,5 +2,9 @@
   "id": "psg_rdirbp",
   "display_name": "Hypopnea per hour (REM, Back, all desats)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "hi_srpb_hp3x0u_f1t1"
+  ]
 }

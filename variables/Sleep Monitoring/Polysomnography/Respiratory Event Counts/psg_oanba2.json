@@ -2,5 +2,9 @@
   "id": "psg_oanba2",
   "display_name": "Number of Obstructive Apnea with arousals (NREM, Back, 2% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumoa_snpb_oa2r_f1t1"
+  ]
 }

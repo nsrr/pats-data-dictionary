@@ -2,5 +2,9 @@
   "id": "psg_plmctot",
   "display_name": "Number PLM clusters",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpc_f1t1"
+  ]
 }

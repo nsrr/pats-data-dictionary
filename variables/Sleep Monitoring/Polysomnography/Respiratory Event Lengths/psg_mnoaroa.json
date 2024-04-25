@@ -2,5 +2,9 @@
   "id": "psg_mnoaroa",
   "display_name": "Minimum Obstructive Apnea length with arousals (REM, Other, all desats) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "minduroa_srpo_oa0o_f1t1"
+  ]
 }

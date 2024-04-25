@@ -2,5 +2,9 @@
   "id": "psg_lowsaor",
   "display_name": "Minimum SaO2 % (REM) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_sr_f1t1"
+  ]
 }

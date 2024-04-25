@@ -3,5 +3,8 @@
   "display_name": "Total Hypopnea Length (REM, Other) (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldurhp_srpo_hp3x0u_f1t1"
+  ]
 }

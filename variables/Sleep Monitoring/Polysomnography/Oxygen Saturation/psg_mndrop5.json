@@ -2,5 +2,9 @@
   "id": "psg_mndrop5",
   "display_name": "Minimum SaO2 (REM, Other, 5% desat) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_srpo_ap5uhp3x5u_f1t1"
+  ]
 }

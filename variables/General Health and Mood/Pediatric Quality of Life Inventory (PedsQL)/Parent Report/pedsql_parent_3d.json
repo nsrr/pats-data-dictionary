@@ -1,7 +1,11 @@
 {
   "id": "pedsql_parent_3d",
   "display_name": "Parent Proxy-Report: 3d. Not able to do things that other children or teens his or her age can do",
-  "description": "",
+  "description": "Item from Pediatric Quality of Life Inventory. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/)<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=pedsql)",
   "type": "choices",
-  "domain": "never_almost_always"
+  "domain": "never_almost_always",
+  "labels": [
+    "pedsql",
+    "pedsql_17myage"
+  ]
 }

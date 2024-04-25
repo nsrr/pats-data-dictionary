@@ -1,7 +1,11 @@
 {
   "id": "fad_cant_talk_sadness",
   "display_name": "3. We cannot talk to each other about the sadness we feel",
-  "description": "",
+  "description": "Item from the McMaster Family Assessment Device, 12-item General Functioning Scale (FAD-GF), which is a unidimensional scale that evaluates a family's general pathology with six items on healthy and unhealthy family functioning, respectively. [Byles J, Byrne C, et al. 1988 (PubMed ID: 3360100)](https://pubmed.ncbi.nlm.nih.gov/3360100/)<br><br> [Search for all FAD-GF variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=fadgf)",
   "type": "choices",
-  "domain": "agree_disagree"
+  "domain": "agree_disagree",
+  "labels": [
+    "fadgf",
+    "fadgf_03sadness"
+  ]
 }

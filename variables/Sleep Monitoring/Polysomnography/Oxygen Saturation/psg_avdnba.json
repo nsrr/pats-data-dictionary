@@ -2,5 +2,9 @@
   "id": "psg_avdnba",
   "display_name": "Average Desat with arousals (NREM, Back, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_snpb_ap0rhp3x0r_f1t1"
+  ]
 }

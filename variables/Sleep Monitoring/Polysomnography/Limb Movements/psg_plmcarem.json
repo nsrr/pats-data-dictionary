@@ -2,5 +2,9 @@
   "id": "psg_plmcarem",
   "display_name": "Number PLM clusters with arousal (REM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpc_srso_f1t1"
+  ]
 }

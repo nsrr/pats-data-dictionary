@@ -1,6 +1,10 @@
 {
   "id": "psi_dc_raw_score",
   "display_name": "Difficult child (DC) scale raw score",
-  "description": "",
-  "type": "integer"
+  "description": "The Difficult Child (DC) subscale is based on 12 items from Parenting Stress Index Fourth Edition Short Form. DC subscore measures a parent's view of his/her child's temperament, defiance, non-compliance, and demandingness. Each item is scored on a 5 point scale (from 1-5). The total score is the sum of all five items ranging from 12 to 60. [Abidin, R. R. (1995). Parenting Stress Index, Third Edition: Professional Manual. Odessa, FL: Psychological Assessment Resources, Inc.](https://www.parinc.com/products/pkey/335)<br><br>[Search for all PSI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psi)",
+  "type": "integer",
+  "labels": [
+    "psi",
+    "psi_dc_raw"
+  ]
 }

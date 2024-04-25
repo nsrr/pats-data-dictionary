@@ -2,5 +2,9 @@
   "id": "psg_pctsa95h",
   "display_name": "Percent sleep time SaO2 is below < 95%",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_salt95_f1t1"
+  ]
 }

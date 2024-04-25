@@ -2,5 +2,10 @@
   "id": "psg_pctsa90",
   "display_name": "Percent sleep time SaO2 is below <= 90%",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctlt90",
+    "pctdursp_sale90_f1t1"
+  ]
 }

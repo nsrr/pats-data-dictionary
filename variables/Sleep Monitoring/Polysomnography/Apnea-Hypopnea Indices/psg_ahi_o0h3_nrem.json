@@ -3,5 +3,9 @@
   "display_name": "Calculated - Obstructive apnea (all desats) Hypopnea (3% desat) Index in NREM sleep",
   "description": "",
   "type": "numeric",
-  "calculation": "60 * (hnrbp3 + hnrop3 + oanbp + oanop) / (slptimem - minremp)"
+  "units": "number of events per hour",
+  "calculation": "60 * (hnrbp3 + hnrop3 + oanbp + oanop) / (slptimem - minremp)",
+  "labels": [
+    "oahi_sn_oa0uhp3x3u_f1t1"
+  ]
 }

@@ -3,5 +3,10 @@
   "display_name": "REM Latency I - including wake time (minutes)",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "rem_lat1",
+    "remlatm",
+    "ttlprdsp_s1sr_f1t1"
+  ]
 }

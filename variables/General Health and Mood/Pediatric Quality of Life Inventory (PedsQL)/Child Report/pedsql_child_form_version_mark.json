@@ -3,5 +3,8 @@
   "display_name": "Child Self-Report: Incorrect form version was used for PedsQL Child Report",
   "description": "",
   "type": "choices",
-  "domain": "no0_yes1"
+  "domain": "no0_yes1",
+  "labels": [
+    "pedsql"
+  ]
 }

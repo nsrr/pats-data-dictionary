@@ -1,7 +1,0 @@
-{
-  "id": "gonogo_warning",
-  "display_name": "Warning for bad data (< 7 complete trials)",
-  "description": "",
-  "type": "choices",
-  "domain": "gng_warning"
-}

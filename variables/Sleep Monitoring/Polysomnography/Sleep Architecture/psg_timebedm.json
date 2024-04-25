@@ -3,5 +3,9 @@
   "display_name": "Time in bed (minutes .5)",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttlprdbd_f1t1",
+    "tib"
+  ]
 }

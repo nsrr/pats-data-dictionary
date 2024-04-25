@@ -1,7 +1,11 @@
 {
   "id": "psi_pcdi_percentile",
   "display_name": "Parent-child dyfunctional interaction (P-CDI) scale percentile",
-  "description": "",
+  "description": "The Parent-Child Dysfunctional Interaction (PCDI) subscale assesses the extent to which a parent feels that his/her child is not meeting expectations and that interactions with the child are not reinforcing. Each item is scored on a 5 point scale (from 1-5). Percentile between 16% to 84% = normal ranges, between 85% to 89%: high levels, greater than or equal to 90%: clinically significant. [Abidin, R. R. (1995). Parenting Stress Index, Third Edition: Professional Manual. Odessa, FL: Psychological Assessment Resources, Inc.](https://www.parinc.com/products/pkey/335)<br><br>[Search for all PSI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psi)",
   "type": "integer",
-  "units": "percentile (th)"
+  "units": "percentile (th)",
+  "labels": [
+    "psi",
+    "psi_pcdi_perc"
+  ]
 }

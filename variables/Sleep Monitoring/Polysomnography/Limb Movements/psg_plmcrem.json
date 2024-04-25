@@ -2,5 +2,9 @@
   "id": "psg_plmcrem",
   "display_name": "Number PLM clusters (REM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpc_sr_f1t1"
+  ]
 }

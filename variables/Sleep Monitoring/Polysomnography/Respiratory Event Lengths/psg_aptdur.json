@@ -3,5 +3,8 @@
   "display_name": "Total Mixed Apnea Length (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldurma_ma0u_f1t1"
+  ]
 }

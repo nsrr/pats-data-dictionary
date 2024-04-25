@@ -2,5 +2,9 @@
   "id": "psg_avgdsresp",
   "display_name": "Average desat assoc. with resp. events in sleep",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avgdsresp"
+  ]
 }

@@ -3,5 +3,9 @@
   "display_name": "Calculated - RDI (>= 0% desaturation)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
-  "calculation": "60*(hrembp + hrop + hnrbp + hnrop + carbp + carop + canbp + canop +oarbp +oarop + oanbp + oanop + marbp + marop + manrbp + manrop)/slpprdp"
+  "units": "number of events per hour",
+  "calculation": "60*(hrembp + hrop + hnrbp + hnrop + carbp + carop + canbp + canop +oarbp +oarop + oanbp + oanop + marbp + marop + manrbp + manrop)/slpprdp",
+  "labels": [
+    "ahi_ap0uhp3x0u_f1t1"
+  ]
 }

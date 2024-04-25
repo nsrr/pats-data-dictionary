@@ -3,5 +3,9 @@
   "display_name": "Calculated - Average SaO2 during sleep (%)",
   "description": "avsao2rh = 0 if missing",
   "type": "integer",
-  "calculation": "((avsao2nh) * (tmstg1p+tmstg2p+tmstg34p) + (avsao2rh)*(tmremp))/100"
+  "units": "percent (%)",
+  "calculation": "((avsao2nh) * (tmstg1p+tmstg2p+tmstg34p) + (avsao2rh)*(tmremp))/100",
+  "labels": [
+    "avglvlsa_sp_f1t1"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "shq_counseled_behavior_prob",
   "display_name": "Has your child been professionally counseled for a behavior problem",
-  "description": "",
+  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "choices",
   "domain": "yes_no_notsure"
 }

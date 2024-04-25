@@ -2,5 +2,9 @@
   "id": "psg_mnoarba4",
   "display_name": "Minimum Obstructive Apnea length with arousals (REM, Back, 4% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "minduroa_srpb_oa4r_f1t1"
+  ]
 }

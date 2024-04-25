@@ -3,5 +3,8 @@
   "display_name": "Parent Proxy-Report: Incorrect form version was used for PedsQL Parent Report",
   "description": "",
   "type": "choices",
-  "domain": "no0_yes1"
+  "domain": "no0_yes1",
+  "labels": [
+    "pedsql"
+  ]
 }

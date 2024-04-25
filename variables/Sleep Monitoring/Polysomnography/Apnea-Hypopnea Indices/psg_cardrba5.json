@@ -2,5 +2,9 @@
   "id": "psg_cardrba5",
   "display_name": "Central Apnea per hour with arousals (REM, Back, 5% desat)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "cai_srpb_ca5r_f1t1"
+  ]
 }

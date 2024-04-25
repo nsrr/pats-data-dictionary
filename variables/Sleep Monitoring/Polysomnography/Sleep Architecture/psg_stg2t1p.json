@@ -2,5 +2,9 @@
   "id": "psg_stg2t1p",
   "display_name": "Number of stage 2 to stage 1 shifts during sleep",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumsf_s2s1_f1t1"
+  ]
 }

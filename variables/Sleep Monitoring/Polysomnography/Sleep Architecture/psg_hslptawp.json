@@ -2,5 +2,9 @@
   "id": "psg_hslptawp",
   "display_name": "Number of sleep to awake shifts per hour",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "phrnumsf_spsw_f1t1"
+  ]
 }

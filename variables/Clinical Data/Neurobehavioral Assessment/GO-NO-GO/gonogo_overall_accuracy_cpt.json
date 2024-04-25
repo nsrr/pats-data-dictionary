@@ -1,6 +1,0 @@
-{
-  "id": "gonogo_overall_accuracy_cpt",
-  "display_name": "Percentage of accurate hits over complete trials (Sustained Attention/CPT Block)",
-  "description": "",
-  "type": "numeric"
-}

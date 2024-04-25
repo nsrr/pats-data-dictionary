@@ -2,5 +2,9 @@
   "id": "psg_carbp",
   "display_name": "Number of Central Apnea (REM, Back, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumca_srpb_ca0u_f1t1"
+  ]
 }

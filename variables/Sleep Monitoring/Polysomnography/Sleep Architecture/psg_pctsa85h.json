@@ -2,5 +2,10 @@
   "id": "psg_pctsa85h",
   "display_name": "Percent sleep time SaO2 is below < 85%",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "pctlt85",
+    "pctdursp_salt85_f1t1"
+  ]
 }

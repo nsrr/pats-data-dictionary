@@ -1,6 +1,9 @@
 {
   "id": "conners_peer_parent",
   "display_name": "Peer Relations T score (parent-completed)",
-  "description": "",
-  "type": "integer"
+  "description": "Subscore from Conners 3rd Edition Short Form. The Conners 3rd EditionParent Short form [Conners 3P(S)] is an assessment tool used to obtain the parents observations about the youths behavior. This instrument is designed to assess Attention Deficit/Hyperactivity Disorder (ADHD) and its most common co-morbid problems in children and adolescents aged 6 to 18 years old. A T-score >=65 is considered elevated (higher is worse). [Conner C. Conners 3rd edition manual. San Antonio Pearson; 2009](https://www.pearsonassessments.com/store/usassessments/en/Store/Professional-Assessments/Behavior/Conners-3rd-Edition/p/100000523.html)<br><br> [Search for all Conners 3 variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=conners3)",
+  "type": "integer",
+  "labels": [
+    "conners3"
+  ]
 }

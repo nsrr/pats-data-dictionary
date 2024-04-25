@@ -1,6 +1,6 @@
 {
   "id": "timepoint",
-  "display_name": "PATS visit timepoint",
+  "display_name": "PATS Visit timepoint",
   "description": "",
   "type": "choices",
   "domain": "timepoint"

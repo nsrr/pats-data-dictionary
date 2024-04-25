@@ -2,5 +2,6 @@
   "id": "avgnnaps_we",
   "display_name": "[Nap] Average number of naps per day (on weekend days)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per day "
 }

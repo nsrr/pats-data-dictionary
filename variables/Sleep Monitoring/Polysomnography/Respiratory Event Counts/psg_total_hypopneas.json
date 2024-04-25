@@ -3,5 +3,8 @@
   "display_name": "Total number of hypopneas",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "ttlnumhp_f1t1"
+  ]
 }

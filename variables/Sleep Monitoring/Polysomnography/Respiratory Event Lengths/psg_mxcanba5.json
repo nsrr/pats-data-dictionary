@@ -2,5 +2,9 @@
   "id": "psg_mxcanba5",
   "display_name": "Maximum Central Apnea length with arousals (NREM, Back, 5% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurca_snpb_ca5r_f1t1"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_avgdsslp",
   "display_name": "Average Desaturation (Report Time)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_sc_f1t1"
+  ]
 }

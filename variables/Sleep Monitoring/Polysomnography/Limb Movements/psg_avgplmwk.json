@@ -2,5 +2,9 @@
   "id": "psg_avgplmwk",
   "display_name": "Number of PLM per hour of awake",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "phrnumpl_sw_f1t1"
+  ]
 }

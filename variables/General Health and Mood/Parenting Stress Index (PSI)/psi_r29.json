@@ -1,7 +1,11 @@
 {
   "id": "psi_r29",
   "display_name": "29. My child reacts very strongly when something happens that my child doesn't like",
-  "description": "",
+  "description": "Item from Parenting Stress Index Fourth Edition Short Form (PSI4-SF). The Short Form contains 36 items drawn from the full-length PSI-4 form divided into three domains (Parental Distress, Parent-Child Dysfunctional Interaction, and Difficult Child). [Abidin, R. R. (1995). Parenting Stress Index, Third Edition: Professional Manual. Odessa, FL: Psychological Assessment Resources, Inc.](https://www.parinc.com/products/pkey/335)<br><br>[Search for all PSI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psi)\n",
   "type": "choices",
-  "domain": "psi_agree"
+  "domain": "psi_agree",
+  "labels": [
+    "psi",
+    "psi_29reacts"
+  ]
 }

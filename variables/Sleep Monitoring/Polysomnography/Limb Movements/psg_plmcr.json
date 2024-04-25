@@ -2,5 +2,9 @@
   "id": "psg_plmcr",
   "display_name": "Number PLM clusters with resp. events",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpc_st_f1t1"
+  ]
 }

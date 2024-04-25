@@ -1,0 +1,12 @@
+{
+  "id": "asthma_days_use_meds",
+  "display_name": "During the last 14 days, number of days the child had to use albuterol (brand names Pro-Air, Proventil, Ventolin, Xopenex) by puffer or breathing machine/nebulizer during the day for relief of asthma symptoms (excluding albuterol/salbu)",
+  "description": "Item from Composite Asthma Severity Index (CASI) daytime asthma symptom assessment. [Wildfire JJ, Gergen PJ, Sorkness CA, et al. 2012  (PubMed ID: 22244599)](https://pubmed.ncbi.nlm.nih.gov/22244599/)<br><br> [Search for all CASI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=casi)",
+  "type": "choices",
+  "domain": "casi_section1",
+  "units": "days",
+  "labels": [
+    "casi",
+    "casi_02albuterol"
+  ]
+}

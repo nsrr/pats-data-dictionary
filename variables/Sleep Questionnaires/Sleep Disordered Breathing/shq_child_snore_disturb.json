@@ -1,7 +1,7 @@
 {
   "id": "shq_child_snore_disturb",
   "display_name": "In the last month, was your child's snoring so loud it disturbed others",
-  "description": "Required to answer only if \"shq_child_snored_last_month\" =  1: Yes",
+  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "choices",
   "domain": "yes_no_notsure"
 }

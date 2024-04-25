@@ -3,5 +3,9 @@
   "display_name": "Calculated - Arousal index for sleep in REM stage",
   "description": "missing if study scored as sleep/wake or where arousals were ignored or where time in REM is zero",
   "type": "numeric",
-  "calculation": "60*(arrembp + arremop)/minremp"
+  "units": "events per hour",
+  "calculation": "60*(arrembp + arremop)/minremp",
+  "labels": [
+    "phrnumar_sr_f1t1"
+  ]
 }

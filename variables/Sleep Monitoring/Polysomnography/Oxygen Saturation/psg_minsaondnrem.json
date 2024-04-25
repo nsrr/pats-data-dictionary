@@ -2,5 +2,9 @@
   "id": "psg_minsaondnrem",
   "display_name": "Minimum SaO2% Nadir (NREM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlnd_sn_f1t1"
+  ]
 }

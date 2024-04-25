@@ -2,5 +2,9 @@
   "id": "psg_mxhrba",
   "display_name": "Maximum Hypopnea length with arousals (REM, Back, all desats) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurhp_srpb_hp3x0o_f1t1"
+  ]
 }

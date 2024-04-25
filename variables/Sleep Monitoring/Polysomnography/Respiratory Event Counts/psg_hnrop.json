@@ -2,5 +2,9 @@
   "id": "psg_hnrop",
   "display_name": "Number of Hypopnea (NREM, Other, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumhp_snpo_hp3x0u_f1t1"
+  ]
 }

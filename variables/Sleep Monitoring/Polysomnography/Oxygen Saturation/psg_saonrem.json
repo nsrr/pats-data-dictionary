@@ -2,5 +2,9 @@
   "id": "psg_saonrem",
   "display_name": "Average SaO2% (NREM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlsa_sn_f1t1"
+  ]
 }

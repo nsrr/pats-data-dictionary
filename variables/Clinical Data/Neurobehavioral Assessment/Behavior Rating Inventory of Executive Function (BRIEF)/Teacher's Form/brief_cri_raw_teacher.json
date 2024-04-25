@@ -1,6 +1,11 @@
 {
   "id": "brief_cri_raw_teacher",
   "display_name": "Second Edition Cognitive Regulation (CRI) index raw score (teacher-completed)",
-  "description": "",
-  "type": "integer"
+  "description": "Caregivers completed age-appropriate versions of the BRIEF (BRIEF-Preschool Edition for ages 2-4 and age 5 years if in preschool, or the BRIEF 2nd Edition for ages 6-18 and age 5 years in kindergarten, PAR Inc, Lutz, Florida).The BRIEF instrument survey behaviours associated with executive functioning (ability to self-regulate, pay attention and organize in real-world situations) and provide clinically relevant information on a wide range of behaviours. <br><br>The Cognitive Regulation Index (CRI) reflects the adolescent's ability to control and manage cognitive processes and to problem solve effectively. It is composed of the Initiate (begin a task or activity; independently generate ideas), Working Memory (hold information in mind for the purpose of completing a task; stay with, or stick to, an activity), Plan/Organize (anticipate future events; set goals; develop appropriate steps ahead of time to carry out an associated task or action; carry out tasks in a systematic manner; understand an communicate main ideas or key concepts), Task-Monitor (check work; assess performance during or after finishing a task to ensure attainment of goal), and Organization of Materials (keep work space, play areas and materials in an orderly manner) scales and relates directly to the ability to actively problem solve in a variety of contexts and to complete tasks such as schoolwork.   [Gioia GA, Isquith PK, Guy SC, Kenworthy L. Behavior Rating Inventory of Executive Function, 2nd Edition (BRIEF2). Odessa, FL Psychological Assessment Resources](https://www.parinc.com/Products/Pkey/24)<br><br>[Search for all BRIEF variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=brief)",
+  "type": "integer",
+  "labels": [
+    "brief",
+    "brief_cri",
+    "brief_cri_raw"
+  ]
 }

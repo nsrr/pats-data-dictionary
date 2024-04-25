@@ -2,5 +2,10 @@
   "id": "psg_timeremp",
   "display_name": "Calculated - Percent sleep time in REM sleep (%)",
   "description": "same as tmremp; missing if study with problems scoring REM/NREM",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "tmremp",
+    "pctdursp_sr_f1t1"
+  ]
 }

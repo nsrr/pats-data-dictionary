@@ -1,7 +1,7 @@
 {
   "id": "shq_bed_weekends",
   "display_name": "Over the past one month, at what time on average has your child gone to bed on weekends (first closed the eyes in attempt to fall asleep)",
-  "description": "",
+  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "time",
   "units": "hh:mm:ss"
 }

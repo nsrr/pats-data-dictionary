@@ -2,5 +2,6 @@
   "id": "psg_avgsaominslp",
   "display_name": "Average SaO2% minimum (Sleep time) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)"
 }

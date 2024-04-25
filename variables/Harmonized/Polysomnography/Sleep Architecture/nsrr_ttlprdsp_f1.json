@@ -4,5 +4,8 @@
   "description": "Harmonized by the NSRR team. Source: :psg_slp_period:",
   "type": "numeric",
   "units": "minutes (min)",
+  "labels": [
+    "ttlprdsp_f1t1"
+  ],
   "commonly_used": true
 }

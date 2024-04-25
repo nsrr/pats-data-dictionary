@@ -1,6 +1,11 @@
 {
   "id": "brief_isc_raw_parent",
   "display_name": "Preschool Version Inhibitory self-control (ISC) index raw score (parent-completed)",
-  "description": "",
-  "type": "integer"
+  "description": "Caregivers completed age-appropriate versions of the BRIEF (BRIEF-Preschool Edition for ages 2-4 and age 5 years if in preschool, or the BRIEF 2nd Edition for ages 6-18 and age 5 years in kindergarten, PAR Inc, Lutz, Florida).The BRIEF instrument survey behaviours associated with executive functioning (ability to self-regulate, pay attention and organize in real-world situations) and provide clinically relevant information on a wide range of behaviours. <br><br>The Inhibitory Self-Control Index (ISCI) represents a childs ability to modulate actions, responses, emotions, and behavior via appropriate inhibitory control. The index is composed of the Inhibit (controls impulses and behavior; appropriately stops and modulates own behavior at the proper time or in the proper context) and Emotional Control (modulates emotional responses appropriately to situational demand or context) scales. [Gioia GA, Espy KA, Isquith PK. BRIEF-P Behavior Rating Inventory of Executive Function-Preschool Version, professional manual. Lutz, FL PAR; 2003.](https://www.parinc.com/Products?pkey=26)<br><br>[Search for all BRIEF variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=brief)",
+  "type": "integer",
+  "labels": [
+    "brief",
+    "brief_isc",
+    "brief_isc_raw"
+  ]
 }

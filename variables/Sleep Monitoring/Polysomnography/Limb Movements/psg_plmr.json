@@ -2,5 +2,9 @@
   "id": "psg_plmr",
   "display_name": "Number PLMs with resp. events",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_st_f1t1"
+  ]
 }

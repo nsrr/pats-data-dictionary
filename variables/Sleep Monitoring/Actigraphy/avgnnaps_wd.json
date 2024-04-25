@@ -2,5 +2,6 @@
   "id": "avgnnaps_wd",
   "display_name": "[Nap] Average number of naps per day (on weekday days)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per day "
 }

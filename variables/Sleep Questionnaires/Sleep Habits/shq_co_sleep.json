@@ -1,7 +1,7 @@
 {
   "id": "shq_co_sleep",
   "display_name": "Does your child currently co-sleep (share the bed) with a parent/caregiver and/or another child 3 or more nights a week",
-  "description": "",
+  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "choices",
   "domain": "no0_yes1"
 }

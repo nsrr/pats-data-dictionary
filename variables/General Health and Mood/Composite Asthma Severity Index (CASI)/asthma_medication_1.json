@@ -1,0 +1,9 @@
+{
+  "id": "asthma_medication_1",
+  "display_name": "Medication 1",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "casi"
+  ]
+}

@@ -2,5 +2,9 @@
   "id": "psg_lmslp",
   "display_name": "Number Limb Movements (Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumlm_sp_f1t1"
+  ]
 }

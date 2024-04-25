@@ -2,5 +2,9 @@
   "id": "psg_canop2",
   "display_name": "Number of Central Apnea (NREM, Other, 2% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumca_snpo_ca2u_f1t1"
+  ]
 }

@@ -4,5 +4,8 @@
   "description": "Harmonized by the NSRR team. Source: :psg_ai_all:",
   "type": "numeric",
   "units": "number of events per hour",
+  "labels": [
+    "phrnumar_f1t1"
+  ],
   "commonly_used": true
 }

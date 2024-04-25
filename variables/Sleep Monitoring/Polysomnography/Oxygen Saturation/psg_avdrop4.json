@@ -2,5 +2,9 @@
   "id": "psg_avdrop4",
   "display_name": "Average Desat (REM, Other, 4% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_srpo_ap4uhp3x4u_f1t1"
+  ]
 }

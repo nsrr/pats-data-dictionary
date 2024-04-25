@@ -1,6 +1,0 @@
-{
-  "id": "asthma_daytime_symptoms",
-  "display_name": "Daytime symptoms score (range: 0-3)",
-  "description": "",
-  "type": "integer"
-}

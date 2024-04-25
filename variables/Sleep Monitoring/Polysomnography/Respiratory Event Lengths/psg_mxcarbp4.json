@@ -2,5 +2,9 @@
   "id": "psg_mxcarbp4",
   "display_name": "Maximum Central Apnea length (REM, Back, 4% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurca_srpb_ca4u_f1t1"
+  ]
 }

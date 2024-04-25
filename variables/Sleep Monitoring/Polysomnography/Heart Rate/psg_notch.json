@@ -2,5 +2,9 @@
   "id": "psg_notch",
   "display_name": "Number of Tachycardia  related to Hypopnea  (Sleep time)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "pmnnumta_hp3x0u_f1t1"
+  ]
 }

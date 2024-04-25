@@ -2,5 +2,9 @@
   "id": "psg_hmanrbpa",
   "display_name": "Number Mixed Apnea with arousal per hour (NREM, Back, all desats)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "mai_snpb_ma0o_f1t1"
+  ]
 }

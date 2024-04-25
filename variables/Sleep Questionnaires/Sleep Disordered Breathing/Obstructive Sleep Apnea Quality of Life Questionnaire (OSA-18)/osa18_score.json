@@ -1,7 +1,11 @@
 {
   "id": "osa18_score",
   "display_name": "Calculated - Total score (Range: 18-126)",
-  "description": "",
+  "description": "Summary score for the Obstructive Sleep Apnea-18 Quality of Life Questionnaire.Total OSA-18 survey scores are categorized into three groups based on the impact on the quality of life: minor (scores below 60), moderate (scores between 60 and 80) and major (scores above 80). [Franco RA et al., 2000 (PubMed ID: 10889473)](https://pubmed.ncbi.nlm.nih.gov/10889473/)<br><br>[Search for all OSA-18 variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=osa18)",
   "type": "integer",
-  "calculation": "Sum of 1a-5d + 18"
+  "calculation": "Sum of 1a-5d + 18",
+  "labels": [
+    "osa18",
+    "osa18_sumscore"
+  ]
 }

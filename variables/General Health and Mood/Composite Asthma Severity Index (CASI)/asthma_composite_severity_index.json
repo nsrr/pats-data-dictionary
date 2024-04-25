@@ -1,0 +1,10 @@
+{
+  "id": "asthma_composite_severity_index",
+  "display_name": "Composite asthma severity index score (range: 0-15)",
+  "description": "Total composite score for Composite Asthma Severity Index (CASI). The compsite score is the sum of all four subscales (range 0 to 15), while higher score indicates higher asthma severity . [Wildfire JJ, Gergen PJ, Sorkness CA, et al. 2012  (PubMed ID: 22244599)](https://pubmed.ncbi.nlm.nih.gov/22244599/)<br><br> [Search for all CASI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=casi)",
+  "type": "integer",
+  "labels": [
+    "casi",
+    "casi_score"
+  ]
+}

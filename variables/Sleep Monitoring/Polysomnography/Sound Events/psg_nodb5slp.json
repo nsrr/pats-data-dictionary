@@ -2,5 +2,9 @@
   "id": "psg_nodb5slp",
   "display_name": "Number of Snore during sleep (dB level 5)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumsn_sp_db5_g1t1"
+  ]
 }

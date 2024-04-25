@@ -2,5 +2,9 @@
   "id": "psg_canoa5",
   "display_name": "Number of Central Apnea with arousals (NREM, Other, 5% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumca_snpo_ca5r_f1t1"
+  ]
 }

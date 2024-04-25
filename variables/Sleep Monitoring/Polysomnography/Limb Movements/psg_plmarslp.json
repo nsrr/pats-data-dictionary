@@ -2,5 +2,9 @@
   "id": "psg_plmarslp",
   "display_name": "Number PLMs with arousal and resp. event (Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_sost_f1t1"
+  ]
 }

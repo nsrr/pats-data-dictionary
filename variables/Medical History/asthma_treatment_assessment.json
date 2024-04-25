@@ -1,7 +1,0 @@
-{
-  "id": "asthma_treatment_assessment",
-  "display_name": "Treatment assessment score",
-  "description": "",
-  "type": "choices",
-  "domain": "asthma_treatment"
-}

@@ -2,5 +2,10 @@
   "id": "psg_pctle92",
   "display_name": "Calculated - Percent sleep time SaO2 is below <= 92%",
   "description": "same as pctsa92",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctlt92",
+    "pctdursp_sale92_f1t1"
+  ]
 }

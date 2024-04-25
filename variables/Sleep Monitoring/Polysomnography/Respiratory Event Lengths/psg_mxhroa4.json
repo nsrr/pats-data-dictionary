@@ -2,5 +2,9 @@
   "id": "psg_mxhroa4",
   "display_name": "Maximum Hypopnea length with arousals (REM, Other, 4% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurhp_srpo_hp3x4r_f1t1"
+  ]
 }

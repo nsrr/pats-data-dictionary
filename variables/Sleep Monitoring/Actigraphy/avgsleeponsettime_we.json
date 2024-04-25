@@ -2,5 +2,6 @@
   "id": "avgsleeponsettime_we",
   "display_name": "[Main Sleep] Average sleep onset time per main sleep (on weekend days) ",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss"
 }

@@ -3,5 +3,9 @@
   "display_name": "Calculated - RDI in supine body position (>= 4% desaturation)",
   "description": "missing if sleep time in supine position is 0 or if position sensore was not working or if studies scored as sleep/wake ",
   "type": "numeric",
-  "calculation": "60*(hrembp4 + hnrbp4 + carbp4 + canbp4 + oarbp4 + oanbp4 + marbp4 + manrbp4)/(remepbp+nremepbp)"
+  "units": "number of events per hour",
+  "calculation": "60*(hrembp4 + hnrbp4 + carbp4 + canbp4 + oarbp4 + oanbp4 + marbp4 + manrbp4)/(remepbp+nremepbp)",
+  "labels": [
+    "ahi_pb_ap4uhp3x4u_f1t1"
+  ]
 }

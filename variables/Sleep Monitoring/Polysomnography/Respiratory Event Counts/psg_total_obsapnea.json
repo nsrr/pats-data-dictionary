@@ -3,5 +3,8 @@
   "display_name": "Total number of obstructive apneas",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "ttlnumoa_f1t1"
+  ]
 }

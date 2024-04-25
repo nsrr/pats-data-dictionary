@@ -2,5 +2,9 @@
   "id": "psg_mndnoa",
   "display_name": "Minimum SaO2 with arousals (NREM, Other, all desats) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_snpo_ap0rhp3x0r_f1t1"
+  ]
 }

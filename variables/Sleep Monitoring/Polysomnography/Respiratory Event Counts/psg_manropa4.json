@@ -2,5 +2,9 @@
   "id": "psg_manropa4",
   "display_name": "Number Mixed Apnea with arousal (NREM, Other, 4% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumma_snpo_ma4r_f1t1"
+  ]
 }

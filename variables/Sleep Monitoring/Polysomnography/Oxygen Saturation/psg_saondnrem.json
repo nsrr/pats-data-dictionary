@@ -2,5 +2,9 @@
   "id": "psg_saondnrem",
   "display_name": "Average SaO2% Nadir (NREM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlnd_sn_f1t1"
+  ]
 }

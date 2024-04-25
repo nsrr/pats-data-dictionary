@@ -2,5 +2,9 @@
   "id": "psg_ahnremop",
   "display_name": "Arousals per hour (NREM, Other, all desats)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumar_snpo_f1t1"
+  ]
 }

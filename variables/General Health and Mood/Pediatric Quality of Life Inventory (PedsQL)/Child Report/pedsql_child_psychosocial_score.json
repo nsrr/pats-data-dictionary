@@ -1,6 +1,10 @@
 {
   "id": "pedsql_child_psychosocial_score",
   "display_name": "Child Self-Report: Calculated - Psychosocial Health Summary Score",
-  "description": "",
-  "type": "numeric"
+  "description": "The psychosocial health summary score is the sum of items answered in the emotional, social, and school functioning subscale score from the Pediatric Quality of Life Inventory (PedsQL). A high score suggests better psychosocial health. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/)<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=pedsql)",
+  "type": "numeric",
+  "labels": [
+    "pedsql",
+    "pedsql_psy_summary"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_smaropa3",
   "display_name": "Minimum Mixed Apnea with arousal length (REM, Other, 3% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurma_srpo_ma3r_f1t1"
+  ]
 }

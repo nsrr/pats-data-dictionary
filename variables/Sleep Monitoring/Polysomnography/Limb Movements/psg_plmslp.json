@@ -2,5 +2,9 @@
   "id": "psg_plmslp",
   "display_name": "Number PLMs (Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_sp_f1t1"
+  ]
 }

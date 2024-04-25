@@ -2,5 +2,9 @@
   "id": "psg_mnoarop3",
   "display_name": "Minimum Obstructive Apnea length (REM, Other, 3% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "minduroa_srpo_oa3u_f1t1"
+  ]
 }

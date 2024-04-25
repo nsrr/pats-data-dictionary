@@ -1,0 +1,10 @@
+{
+  "id": "asthma_treatment_score",
+  "display_name": "Treatment score (range: 0-5)",
+  "description": "Subscore for Composite Asthma Severity Index (CASI) treatment assessment. The subscore is equivalent to the one item from the treatment assessment (range 0 to 5). [Wildfire JJ, Gergen PJ, Sorkness CA, et al. 2012  (PubMed ID: 22244599)](https://pubmed.ncbi.nlm.nih.gov/22244599/)<br><br> [Search for all CASI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=casi)",
+  "type": "integer",
+  "labels": [
+    "casi",
+    "casi_treatment_score"
+  ]
+}

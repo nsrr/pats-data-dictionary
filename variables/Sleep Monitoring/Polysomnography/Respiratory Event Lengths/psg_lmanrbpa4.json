@@ -2,5 +2,9 @@
   "id": "psg_lmanrbpa4",
   "display_name": "Maximum Mixed Apnea with arousal length (NREM, Back, 4% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurma_snpb_ma4r_f1t1"
+  ]
 }

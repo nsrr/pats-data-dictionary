@@ -2,5 +2,9 @@
   "id": "psg_plmastg2",
   "display_name": "Number PLMs with arousal (Stage 2 Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_s2so_f1t1"
+  ]
 }

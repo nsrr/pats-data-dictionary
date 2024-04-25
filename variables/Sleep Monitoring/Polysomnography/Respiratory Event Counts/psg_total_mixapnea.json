@@ -3,5 +3,8 @@
   "display_name": "Total number of mixed apneas",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "ttlnumma_f1t1"
+  ]
 }

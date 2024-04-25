@@ -2,5 +2,9 @@
   "id": "psg_minsaondrem",
   "display_name": "Minimum SaO2% Nadir  (REM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlnd_sr_f1t1"
+  ]
 }

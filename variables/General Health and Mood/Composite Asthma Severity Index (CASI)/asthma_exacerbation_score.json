@@ -1,0 +1,10 @@
+{
+  "id": "asthma_exacerbation_score",
+  "display_name": "Exacerbation score (0, 2, 4, 6)",
+  "description": "Subscore for Composite Asthma Severity Index (CASI) exacerbation assessment. Score 2 points for each systemic corticosteroid burst recorded in the first item from the exacerbation assessment, and 2 additional points for each associated hospitalization. Range of values (0, 2,4,6). [Wildfire JJ, Gergen PJ, Sorkness CA, et al. 2012  (PubMed ID: 22244599)](https://pubmed.ncbi.nlm.nih.gov/22244599/)<br><br> [Search for all CASI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=casi)",
+  "type": "integer",
+  "labels": [
+    "casi",
+    "casi_exacerbation_score"
+  ]
+}

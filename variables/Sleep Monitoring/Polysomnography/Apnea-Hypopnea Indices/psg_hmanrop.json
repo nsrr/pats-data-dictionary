@@ -2,5 +2,9 @@
   "id": "psg_hmanrop",
   "display_name": "Number Mixed Apnea per hour (NREM, Other, all desats)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "mai_snpo_ma0u_f1t1"
+  ]
 }

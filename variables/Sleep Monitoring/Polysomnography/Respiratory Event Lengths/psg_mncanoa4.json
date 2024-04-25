@@ -2,5 +2,9 @@
   "id": "psg_mncanoa4",
   "display_name": "Minimum Central Apnea length with arousals (NREM, Other, 4% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurca_snpo_ca4r_f1t1"
+  ]
 }

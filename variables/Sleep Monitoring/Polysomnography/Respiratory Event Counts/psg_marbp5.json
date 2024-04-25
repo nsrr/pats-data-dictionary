@@ -2,5 +2,9 @@
   "id": "psg_marbp5",
   "display_name": "Number Mixed Apnea (REM, Back, 5% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumma_srpb_ma5u_f1t1"
+  ]
 }

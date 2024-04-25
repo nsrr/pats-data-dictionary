@@ -3,5 +3,8 @@
   "display_name": "Total number of central apneas",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "ttlnumca_f1t1"
+  ]
 }

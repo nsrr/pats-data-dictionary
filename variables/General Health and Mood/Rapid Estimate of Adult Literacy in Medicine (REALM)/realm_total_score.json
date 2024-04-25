@@ -1,6 +1,10 @@
 {
   "id": "realm_total_score",
   "display_name": "Calculated - REALM total score (range: 0-8)",
-  "description": "Number of positively endorsed responses to 8 medical words",
-  "type": "integer"
+  "description": "Summary score based on the 8 items for the Rapid Estimate of Adult Literacy in Medicine (REALM-R). The total score is the number of positively endorsed responses (i.e., pronouced correctly) to 8 medical words. Those with a score of 6 or less should be considered to be at risk for poor health literacy. [Bass PF 3rd, Wilson JF, Griffith CH. 2003 (PubMed ID: 14687263)](https://pubmed.ncbi.nlm.nih.gov/14687263/)<br><br> [Search for all realm variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=realm)",
+  "type": "integer",
+  "labels": [
+    "realm",
+    "realm_score"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_minstg2p",
   "display_name": "Time in stage 2 sleep (minutes)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_s2_f1t1"
+  ]
 }

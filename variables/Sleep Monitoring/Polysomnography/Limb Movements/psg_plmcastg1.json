@@ -2,5 +2,9 @@
   "id": "psg_plmcastg1",
   "display_name": "Number PLM clusters with arousal (Stage 1 Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpc_s1so_f1t1"
+  ]
 }

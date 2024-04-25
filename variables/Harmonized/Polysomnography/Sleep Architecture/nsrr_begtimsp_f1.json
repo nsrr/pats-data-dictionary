@@ -4,5 +4,8 @@
   "description": "Harmonized by the NSRR team. Source: :psg_stonset1:",
   "type": "time",
   "units": "hh:mm:ss",
+  "labels": [
+    "begtimsp_f1t1"
+  ],
   "commonly_used": true
 }

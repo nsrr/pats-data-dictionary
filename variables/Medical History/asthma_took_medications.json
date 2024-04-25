@@ -1,7 +1,0 @@
-{
-  "id": "asthma_took_medications",
-  "display_name": "Child took any asthma medications in the last 14 days ",
-  "description": "",
-  "type": "choices",
-  "domain": "no0_yes1"
-}

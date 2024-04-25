@@ -1,7 +1,7 @@
 {
   "id": "studyinfo_randomized_date",
   "display_name": "Date randomized ",
-  "description": "",
+  "description": "Calendar dates were shifted by a random amount of days as part of the data de-identification process. All calendar dates for a given subject have been offset by the same amount of days.",
   "type": "date",
   "units": "yyyy-mm-dd"
 }

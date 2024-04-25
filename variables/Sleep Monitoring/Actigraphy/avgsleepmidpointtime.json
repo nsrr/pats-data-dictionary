@@ -2,5 +2,6 @@
   "id": "avgsleepmidpointtime",
   "display_name": "[Main Sleep] Average mid asleep time per main sleep (all days) ",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss"
 }

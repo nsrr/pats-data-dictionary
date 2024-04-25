@@ -2,5 +2,9 @@
   "id": "psg_plmcslp",
   "display_name": "Number PLM clusters (Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpc_sp_f1t1"
+  ]
 }

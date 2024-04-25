@@ -3,5 +3,10 @@
   "display_name": "Calculated - Central apnea index (all desats)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
-  "calculation": "60*(carbp +  carop  + canbp  + canop)/slpprdp"
+  "units": "number of events per hour",
+  "calculation": "60*(carbp +  carop  + canbp  + canop)/slpprdp",
+  "labels": [
+    "cai",
+    "cai_ca0u_f1t1"
+  ]
 }

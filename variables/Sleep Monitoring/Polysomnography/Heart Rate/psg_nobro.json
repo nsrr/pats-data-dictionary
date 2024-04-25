@@ -2,5 +2,9 @@
   "id": "psg_nobro",
   "display_name": "Number of Bradycardia related to Obstructive Apnea (Sleep time onset)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "pmnnumbr_oa0u_f1t1"
+  ]
 }

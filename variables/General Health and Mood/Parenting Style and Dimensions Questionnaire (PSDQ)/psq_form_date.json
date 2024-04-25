@@ -1,7 +1,10 @@
 {
   "id": "psq_form_date",
   "display_name": "Form date",
-  "description": "",
+  "description": "Calendar dates were shifted by a random amount of days as part of the data de-identification process. All calendar dates for a given subject have been offset by the same amount of days.",
   "type": "date",
-  "units": "yyyy-mm-dd"
+  "units": "yyyy-mm-dd",
+  "labels": [
+    "psq"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_mndroa5",
   "display_name": "Minimum SaO2 with arousals (REM, Other, 5% desat) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_srpo_ap5rhp3x5r_f1t1"
+  ]
 }

@@ -2,5 +2,10 @@
   "id": "psg_timest2p",
   "display_name": "Calculated - Percent sleep time in stage 2 sleep (%)",
   "description": "same as tmstg2p; missing if study with problems scoring sleep/wake or stg1/stg2 or stg2/stag3",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "tmstg2p",
+    "pctdursp_s2_f1t1"
+  ]
 }

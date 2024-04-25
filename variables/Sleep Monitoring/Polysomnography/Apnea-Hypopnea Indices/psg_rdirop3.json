@@ -2,5 +2,9 @@
   "id": "psg_rdirop3",
   "display_name": "Hypopnea per hour (REM, Other, 3% desat)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "hi_srpo_hp3x3u_f1t1"
+  ]
 }

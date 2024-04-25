@@ -2,5 +2,9 @@
   "id": "psg_oarbp3",
   "display_name": "Number of Obstructive Apnea (REM, Back, 3% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumoa_srpb_oa3u_f1t1"
+  ]
 }

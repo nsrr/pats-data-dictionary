@@ -2,5 +2,9 @@
   "id": "psg_havgdur",
   "display_name": "Average Hypopnea Length (seconds)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurhp_hp3x0u_f1t1"
+  ]
 }

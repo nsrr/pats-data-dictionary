@@ -2,5 +2,9 @@
   "id": "psg_plmcstg2",
   "display_name": "Number PLM clusters (Stage 2 Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpc_s2_f1t1"
+  ]
 }

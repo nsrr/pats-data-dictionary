@@ -2,5 +2,9 @@
   "id": "psg_dsrem3",
   "display_name": "Number of desats per hour (REM, >= 3%)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "phrnumds_sr_dsge3_f1t1"
+  ]
 }

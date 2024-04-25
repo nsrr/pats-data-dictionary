@@ -2,5 +2,10 @@
   "id": "psg_pctlt80",
   "display_name": "Calculated - Percent sleep time SaO2 is below < 80%",
   "description": "same as pctsa80h",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "pctlt80",
+    "pctdursp_salt80_f1t1"
+  ]
 }

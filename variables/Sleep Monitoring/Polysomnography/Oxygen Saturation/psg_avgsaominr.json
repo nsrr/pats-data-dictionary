@@ -1,6 +1,7 @@
 {
   "id": "psg_avgsaominr",
-  "display_name": "Average SaO2 % (REM) (%)",
+  "display_name": "Average SaO2 % minimum (REM) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)"
 }

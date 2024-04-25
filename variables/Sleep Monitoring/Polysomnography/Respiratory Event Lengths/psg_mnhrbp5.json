@@ -2,5 +2,9 @@
   "id": "psg_mnhrbp5",
   "display_name": "Minimum Hypopnea length (REM, Back, 5% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurhp_srpb_hp3x5u_f1t1"
+  ]
 }

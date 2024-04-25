@@ -2,5 +2,9 @@
   "id": "psg_hmnbrbh",
   "display_name": "Minimum Heart Rate (REM, Back, 3% desat) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "minlvlhr_srpb_ap3uhp3x3u_f1t1"
+  ]
 }

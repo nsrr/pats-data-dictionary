@@ -3,5 +3,9 @@
   "display_name": "Calculated - Obstructive apnea (all desats) Hypopnea (3% desat or arousal) Index",
   "description": "",
   "type": "numeric",
-  "calculation": "60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + oarbp + oarop + oanbp + oanop) / slptimem"
+  "units": "number of events per hour",
+  "calculation": "60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + oarbp + oarop + oanbp + oanop) / slptimem",
+  "labels": [
+    "oahi_oa0uhp3x3u_f1t1"
+  ]
 }

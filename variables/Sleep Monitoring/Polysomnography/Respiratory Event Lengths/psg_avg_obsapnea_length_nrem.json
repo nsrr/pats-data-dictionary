@@ -3,5 +3,8 @@
   "display_name": "Average length of each obstructive apnea in NREM sleep (seconds)",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgduroa_sn_oa0u_f1t1"
+  ]
 }

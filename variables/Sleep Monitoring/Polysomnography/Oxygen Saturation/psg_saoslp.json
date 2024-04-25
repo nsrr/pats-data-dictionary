@@ -2,5 +2,9 @@
   "id": "psg_saoslp",
   "display_name": "Average SaO2% (Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlsa_sp_f1t1"
+  ]
 }

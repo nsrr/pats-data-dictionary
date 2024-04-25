@@ -2,5 +2,9 @@
   "id": "psg_plmtot",
   "display_name": "Number PLMs",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_f1t1"
+  ]
 }

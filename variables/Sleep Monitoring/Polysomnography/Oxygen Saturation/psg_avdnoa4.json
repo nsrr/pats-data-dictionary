@@ -2,5 +2,9 @@
   "id": "psg_avdnoa4",
   "display_name": "Average Desat with arousals (NREM, Other, 4% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_snpo_ap4rhp5x4r_f1t1"
+  ]
 }

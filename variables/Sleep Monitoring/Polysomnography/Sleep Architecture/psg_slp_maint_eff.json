@@ -3,5 +3,9 @@
   "display_name": "Calculated - Sleep maintenance efficiency (%)",
   "description": "% of time spent asleep between sleep onset and lights on",
   "type": "numeric",
-  "calculation": "100*(slpprdp/(timebedp-slplatp))"
+  "units": "percent (%)",
+  "calculation": "100*(slpprdp/(timebedp-slplatp))",
+  "labels": [
+    "ttlmefsp_f1t1"
+  ]
 }

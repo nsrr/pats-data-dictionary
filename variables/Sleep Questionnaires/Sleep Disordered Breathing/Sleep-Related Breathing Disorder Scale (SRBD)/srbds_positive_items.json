@@ -2,5 +2,6 @@
   "id": "srbds_positive_items",
   "display_name": "Total SRBD Scale: Number of items endorsed positively (\"yes\") (Range: 0-22)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events"
 }

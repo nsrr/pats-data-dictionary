@@ -2,5 +2,9 @@
   "id": "psg_lmarop4",
   "display_name": "Maximum Mixed Apnea length (REM, Other, 4% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurma_srpo_ma4u_f1t1"
+  ]
 }

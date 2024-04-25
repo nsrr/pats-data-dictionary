@@ -2,5 +2,9 @@
   "id": "psg_prdb5slp",
   "display_name": "% Snore time in REM sleep (dB level 5)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_sn_db5_f1t1"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_plmnrem",
   "display_name": "Number PLMs (NREM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_sn_f1t1"
+  ]
 }

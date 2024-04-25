@@ -2,5 +2,9 @@
   "id": "psg_minsaondcaslp",
   "display_name": "Minimum SaO2% Nadir assoc. with Central Apnea (Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlnd_ca0u_f1t1"
+  ]
 }

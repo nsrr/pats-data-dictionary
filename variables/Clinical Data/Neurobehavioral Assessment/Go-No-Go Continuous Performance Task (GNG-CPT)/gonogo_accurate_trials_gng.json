@@ -1,0 +1,10 @@
+{
+  "id": "gonogo_accurate_trials_gng",
+  "display_name": "Total number of accurate trials (Inhibitory Control/GNG Block)",
+  "description": "Component from the Go-No-Go Continuous Performance Task (GNG/CPT), which is a computer-based attention test developed for longitudinal studies of heterogenous samples of children ages 3 to 12 years. The primary test outcome from this test is d prime (d) for the Continuous Performance Test trial block, a signal detectability parameter that assesses the childs ability to correctly identify targets corrected for their response bias (higher is better). [Clark CAC, et al. 2023 (PubMed ID: 36633982)](https://pubmed.ncbi.nlm.nih.gov/36633982/)<br><br>[Search for all GNG/CPT variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=gngcpt)",
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "gngcpt"
+  ]
+}

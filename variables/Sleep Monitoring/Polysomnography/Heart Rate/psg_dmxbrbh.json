@@ -2,5 +2,9 @@
   "id": "psg_dmxbrbh",
   "display_name": "Maximum Heart Rate with arousal (REM, Back, 3% desat) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "maxlvlhr_srsopb_dsge3_f1t1"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_bpmmin",
   "display_name": "Lowest Heart rate (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "minlvlhr_sp_f1t1"
+  ]
 }

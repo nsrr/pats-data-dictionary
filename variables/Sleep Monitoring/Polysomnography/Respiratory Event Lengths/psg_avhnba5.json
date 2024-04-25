@@ -3,5 +3,8 @@
   "display_name": "Average Hypopnea length with arousals (NREM, Back, 5% desat) (seconds)",
   "description": "",
   "type": "integer",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurhp_snpb_hp3x5r_f1t1"
+  ]
 }

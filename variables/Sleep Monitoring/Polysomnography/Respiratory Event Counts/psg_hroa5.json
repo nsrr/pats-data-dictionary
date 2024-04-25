@@ -2,5 +2,9 @@
   "id": "psg_hroa5",
   "display_name": "Number of Hypopnea with arousals (REM, Other, 5% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumhp_srpo_hp3x5r_f1t1"
+  ]
 }

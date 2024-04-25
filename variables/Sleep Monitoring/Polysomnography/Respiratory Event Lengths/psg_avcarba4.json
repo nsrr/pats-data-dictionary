@@ -3,5 +3,8 @@
   "display_name": "Average Central Apnea length with arousals (REM, Back, 4% desat) (seconds)",
   "description": "",
   "type": "integer",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurca_srpb_ca4r_f1t1"
+  ]
 }

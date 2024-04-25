@@ -1,7 +1,11 @@
 {
   "id": "isaac_sleep_disturbed_wheezing",
   "display_name": "In the last 12 months, how often, on average, the child's sleep has been disturbed due to wheezing",
-  "description": "",
+  "description": "Item from the International Study of Asthma and Allergies in Childhood (ISAAC) wheezing module. [Asher MI, Keil U, Anderson HR, et al. 1995 (PubMed ID: 7789502)](https://pubmed.ncbi.nlm.nih.gov/7789502/)<br><br> [Search for all ISAAC variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=isaac)",
   "type": "choices",
-  "domain": "sleep_disturbed_wheezing"
+  "domain": "sleep_disturbed_wheezing",
+  "labels": [
+    "isaac",
+    "isaac_wheezing_04sleep"
+  ]
 }

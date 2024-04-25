@@ -2,5 +2,9 @@
   "id": "psg_avdnbp4",
   "display_name": "Average Desat (NREM, Back, 4% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_snpb_ap4uhp5x4u_f1t1"
+  ]
 }

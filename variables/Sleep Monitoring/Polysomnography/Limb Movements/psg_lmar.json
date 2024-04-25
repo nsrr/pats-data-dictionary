@@ -2,5 +2,9 @@
   "id": "psg_lmar",
   "display_name": "Number Limb Movements with arousal and resp. event",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumlm_sost_f1t1"
+  ]
 }

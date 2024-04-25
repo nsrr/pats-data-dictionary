@@ -4,5 +4,8 @@
   "description": "Harmonized by the NSRR team. Source: :psg_times34p:",
   "type": "numeric",
   "units": "percent (%)",
+  "labels": [
+    "pctdursp_s3_f1t1"
+  ],
   "commonly_used": true
 }

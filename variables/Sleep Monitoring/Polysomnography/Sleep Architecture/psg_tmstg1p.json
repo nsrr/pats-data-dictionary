@@ -2,5 +2,10 @@
   "id": "psg_tmstg1p",
   "display_name": "Percent sleep time in stage 1 sleep (%)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "tmstg1p",
+    "pctdursp_s1_f1t1"
+  ]
 }

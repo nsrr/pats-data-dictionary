@@ -2,5 +2,9 @@
   "id": "psg_saondrem",
   "display_name": "Average SaO2% Nadir  (REM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlnd_sr_f1t1"
+  ]
 }

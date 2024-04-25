@@ -2,5 +2,9 @@
   "id": "psg_plmstg1",
   "display_name": "Number PLMs (Stage 1 Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_s1_f1t1"
+  ]
 }

@@ -3,5 +3,9 @@
   "display_name": "Central Apnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep",
   "description": "Harmonized by the NSRR team. Source: :psg_cai0p:",
   "type": "numeric",
-  "units": "number of events per hour"
+  "units": "number of events per hour",
+  "labels": [
+    "cai_ca0u_f1t1"
+  ],
+  "commonly_used": true
 }

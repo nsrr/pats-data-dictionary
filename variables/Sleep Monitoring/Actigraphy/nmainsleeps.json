@@ -2,5 +2,6 @@
   "id": "nmainsleeps",
   "display_name": "[Main Sleep] Number of main sleep intervals (all days)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events"
 }

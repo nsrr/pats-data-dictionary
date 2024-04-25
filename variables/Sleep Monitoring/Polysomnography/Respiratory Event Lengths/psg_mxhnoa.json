@@ -2,5 +2,9 @@
   "id": "psg_mxhnoa",
   "display_name": "Maximum Hypopnea length with arousals (NREM, Other all desats) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurhp_snpo_hp3x0o_f1t1"
+  ]
 }

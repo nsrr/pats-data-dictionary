@@ -1,7 +1,7 @@
 {
   "id": "shq_caffeine_beverages",
   "display_name": "On average how many beverages containing caffeine does your child drink per day ",
-  "description": "",
+  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "choices",
   "domain": "beverage"
 }

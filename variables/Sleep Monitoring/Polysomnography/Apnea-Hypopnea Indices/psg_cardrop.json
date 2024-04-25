@@ -2,5 +2,9 @@
   "id": "psg_cardrop",
   "display_name": "Central Apnea per hour (REM, Other, all desats)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "cai_srpo_ca0u_f1t1"
+  ]
 }

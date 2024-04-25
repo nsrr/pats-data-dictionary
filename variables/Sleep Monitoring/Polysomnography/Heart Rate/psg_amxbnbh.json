@@ -2,5 +2,9 @@
   "id": "psg_amxbnbh",
   "display_name": "Maximum Heart Rate with arousal (NREM, Back, all desats) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "maxlvlhr_snsopb_f1t1"
+  ]
 }

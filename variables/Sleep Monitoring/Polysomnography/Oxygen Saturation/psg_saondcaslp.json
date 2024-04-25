@@ -2,5 +2,9 @@
   "id": "psg_saondcaslp",
   "display_name": "Average SaO2% Nadir assoc. with Central Apnea (Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlnd_ca0u_f1t1"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Form version (teacher-completed)",
   "description": "",
   "type": "choices",
-  "domain": "brief_version"
+  "domain": "brief_version",
+  "labels": [
+    "brief"
+  ]
 }

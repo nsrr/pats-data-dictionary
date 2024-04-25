@@ -1,7 +1,11 @@
 {
   "id": "srbds_21",
   "display_name": "21. Is \"on the go\" or often acts as if \"driven by a motor\"",
-  "description": "",
+  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "choices",
-  "domain": "yes_no_dontknow"
+  "domain": "yes_no_dontknow",
+  "labels": [
+    "psq",
+    "psq_21onthego"
+  ]
 }

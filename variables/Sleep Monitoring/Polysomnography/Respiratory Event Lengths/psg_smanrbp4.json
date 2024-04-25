@@ -2,5 +2,9 @@
   "id": "psg_smanrbp4",
   "display_name": "Minimum Mixed Apnea length (NREM, Back, 4% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurma_snpb_ma4u_f1t1"
+  ]
 }

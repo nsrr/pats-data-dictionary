@@ -2,5 +2,9 @@
   "id": "psg_oardroa",
   "display_name": "Obstructive Apnea per hour with arousals (REM, Other, all desats)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "oai_srpo_oa0o_f1t1"
+  ]
 }

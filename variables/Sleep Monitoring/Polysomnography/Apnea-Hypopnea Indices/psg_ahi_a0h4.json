@@ -3,5 +3,11 @@
   "display_name": "Calculated - Apnea (all desats) Hypopnea (>=4% desat) Index",
   "description": "",
   "type": "numeric",
-  "calculation": "60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop + marbp + marop + manrbp + manrop ) / slptimem"
+  "units": "number of events per hour",
+  "calculation": "60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop + marbp + marop + manrbp + manrop ) / slptimem",
+  "labels": [
+    "ahi4",
+    "ahi_ap0uhp3x4u_f1t1",
+    "aasm15_acceptable"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_mxoarba4",
   "display_name": "Maximum Obstructive Apnea length with arousals (REM, Back, 4% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxduroa_srpb_oa4r_f1t1"
+  ]
 }

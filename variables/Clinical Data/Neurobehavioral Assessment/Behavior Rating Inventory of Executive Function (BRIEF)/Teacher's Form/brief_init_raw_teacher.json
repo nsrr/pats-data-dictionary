@@ -1,6 +1,11 @@
 {
   "id": "brief_init_raw_teacher",
   "display_name": "Initiate scale raw score (teacher-completed)",
-  "description": "",
-  "type": "integer"
+  "description": "Caregivers completed age-appropriate versions of the BRIEF (BRIEF-Preschool Edition for ages 2-4 and age 5 years if in preschool, or the BRIEF 2nd Edition for ages 6-18 and age 5 years in kindergarten, PAR Inc, Lutz, Florida).The BRIEF instrument survey behaviours associated with executive functioning (ability to self-regulate, pay attention and organize in real-world situations) and provide clinically relevant information on a wide range of behaviours. <br><br>The Initiate scale reflects an adolescent's ability to begin a task or activity and to independently generate ideas, responses, or problem-solving strategies. [Gioia GA, Isquith PK, Guy SC, Kenworthy L. Behavior Rating Inventory of Executive Function, 2nd Edition (BRIEF2). Odessa, FL Psychological Assessment Resources](https://www.parinc.com/Products/Pkey/24) and  [Gioia GA, Espy KA, Isquith PK. BRIEF-P Behavior Rating Inventory of Executive Function-Preschool Version, professional manual. Lutz, FL PAR; 2003.](https://www.parinc.com/Products?pkey=26)<br><br>[Search for all BRIEF variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=brief)",
+  "type": "integer",
+  "labels": [
+    "brief",
+    "brief_ini",
+    "brief_ini_raw"
+  ]
 }

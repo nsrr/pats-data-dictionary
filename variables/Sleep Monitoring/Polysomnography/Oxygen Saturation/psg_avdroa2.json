@@ -2,5 +2,9 @@
   "id": "psg_avdroa2",
   "display_name": "Average Desat with arousals (REM, Other, 2% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_srpo_ap2rhp5x2r_f1t1"
+  ]
 }

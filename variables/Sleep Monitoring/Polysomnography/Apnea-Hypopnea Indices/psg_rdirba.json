@@ -2,5 +2,9 @@
   "id": "psg_rdirba",
   "display_name": "Hypopnea per hour with arousals (REM, Back, all desats)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "hi_srpb_hp3x0o_f1t1"
+  ]
 }

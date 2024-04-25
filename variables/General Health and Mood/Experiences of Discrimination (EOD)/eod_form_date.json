@@ -1,7 +1,10 @@
 {
   "id": "eod_form_date",
   "display_name": "Form date",
-  "description": "",
+  "description": "Calendar dates were shifted by a random amount of days as part of the data de-identification process. All calendar dates for a given subject have been offset by the same amount of days. Item from the Experiences of Discrimination (EOD), created to measure exposure to racial discrimination. [Krieger N and Smith K, 2005 (PubMed ID: 16005789)](https://pubmed.ncbi.nlm.nih.gov/16005789/)<br><br>[Search for all EOD variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=eod)",
   "type": "date",
-  "units": "yyyy-mm-dd"
+  "units": "yyyy-mm-dd",
+  "labels": [
+    "eod"
+  ]
 }

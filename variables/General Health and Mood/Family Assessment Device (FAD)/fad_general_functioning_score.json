@@ -1,6 +1,10 @@
 {
   "id": "fad_general_functioning_score",
   "display_name": "Calculated - FAD general functioning score (range: 1-4) - Sum of all items divided by 12. Items 1, 3, 5, 7, 9, and 11 reverse-coded.",
-  "description": "Higher score indicates poorer family functioning",
-  "type": "numeric"
+  "description": "Summary score for the McMaster Family Assessment Device 12-item General Functioning Scale (FAD-GF), which is a unidimensional scale that evaluates a family's general pathology with six items on healthy and unhealthy family functioning, respectively. A score of 2.00 or above indicates problematic family functioning. The higher the score, the more problematic the family member perceives the family's overall functioning.[Byles J, Byrne C, et al. 1988 (PubMed ID: 3360100)](https://pubmed.ncbi.nlm.nih.gov/3360100/)<br><br> [Search for all FAD-GF variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=fadgf)",
+  "type": "numeric",
+  "labels": [
+    "fadgf",
+    "fadgf_score"
+  ]
 }

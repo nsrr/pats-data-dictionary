@@ -2,5 +2,9 @@
   "id": "psg_caroa5",
   "display_name": "Number of Central Apnea with arousals (REM, Other, 5% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumca_srpo_ca5r_f1t1"
+  ]
 }

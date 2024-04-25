@@ -2,5 +2,9 @@
   "id": "psg_mncarbp",
   "display_name": "Minimum Central Apnea length (REM, Back, all desats) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurca_srpb_ca0u_f1t1"
+  ]
 }

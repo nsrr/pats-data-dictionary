@@ -3,5 +3,8 @@
   "display_name": "Child sex (parent-completed)",
   "description": "",
   "type": "choices",
-  "domain": "sex_1m_2f"
+  "domain": "sex_1m_2f",
+  "labels": [
+    "brief"
+  ]
 }

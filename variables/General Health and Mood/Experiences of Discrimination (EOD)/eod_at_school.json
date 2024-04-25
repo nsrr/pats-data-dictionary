@@ -1,7 +1,11 @@
 {
   "id": "eod_at_school",
   "display_name": "3. Have you ever experienced discrimination at school",
-  "description": "",
+  "description": "Item from the Experiences of Discrimination (EOD), created to measure exposure to racial discrimination. [Krieger N and Smith K, 2005 (PubMed ID: 16005789)](https://pubmed.ncbi.nlm.nih.gov/16005789/)<br><br>[Search for all EOD variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=eod)",
   "type": "choices",
-  "domain": "no0_yes1"
+  "domain": "no0_yes1",
+  "labels": [
+    "eod",
+    "eod_03school"
+  ]
 }

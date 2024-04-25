@@ -4,5 +4,8 @@
   "description": "Harmonized by the NSRR team. Source: :psg_slp_eff:",
   "type": "numeric",
   "units": "percent (%)",
+  "labels": [
+    "ttleffsp_f1t1"
+  ],
   "commonly_used": true
 }

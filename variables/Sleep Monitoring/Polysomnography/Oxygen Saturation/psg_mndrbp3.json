@@ -2,5 +2,9 @@
   "id": "psg_mndrbp3",
   "display_name": "Minimum SaO2 (REM, Back, 3% desat) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_srpb_ap3uhp3x3u_f1t1"
+  ]
 }

@@ -3,5 +3,9 @@
   "display_name": "Calculated - Total time in bed (minutes)",
   "description": "same as timebedp",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttlprdbd_f1t1",
+    "tib"
+  ]
 }

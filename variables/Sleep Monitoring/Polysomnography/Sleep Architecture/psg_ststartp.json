@@ -2,5 +2,9 @@
   "id": "psg_ststartp",
   "display_name": "Study start time (hh:mm:ss)",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss",
+  "labels": [
+    "begtimbd_f1"
+  ]
 }

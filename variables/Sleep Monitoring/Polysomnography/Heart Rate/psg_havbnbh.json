@@ -2,5 +2,9 @@
   "id": "psg_havbnbh",
   "display_name": "Average Heart Rate (NREM, Back, 3% desat) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avglvlhr_snpb_ap3uhp3x3u_f1t1"
+  ]
 }

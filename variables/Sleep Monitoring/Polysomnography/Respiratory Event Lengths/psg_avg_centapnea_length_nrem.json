@@ -3,5 +3,8 @@
   "display_name": "Average length of each central apnea in NREM sleep (seconds)",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurca_sn_ca0u_f1t1"
+  ]
 }

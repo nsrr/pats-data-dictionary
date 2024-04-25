@@ -2,5 +2,9 @@
   "id": "psg_remt2p",
   "display_name": "Number of REM to stage 2 shifts during sleep",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumsf_srs2_f1t1"
+  ]
 }

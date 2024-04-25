@@ -3,5 +3,8 @@
   "display_name": "Total time SaO2 < 90% in awake (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldurwk_salt90_f1t1"
+  ]
 }

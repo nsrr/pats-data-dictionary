@@ -1,7 +1,11 @@
 {
   "id": "ess_sitting_reading",
   "display_name": "Sitting and reading",
-  "description": "",
+  "description": "Item from the Epworth Sleepiness Scale for Children and Adolescents (ESS-CHAD)  [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888) and [Melendres MC, Lutz JM, Rubin ED, Marcus CL. 2004 (PubMed ID: 15342852)](https://pubmed.ncbi.nlm.nih.gov/15342852/)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=epworth)",
   "type": "choices",
-  "domain": "ess"
+  "domain": "ess",
+  "labels": [
+    "epworth",
+    "esschad_01sitread"
+  ]
 }

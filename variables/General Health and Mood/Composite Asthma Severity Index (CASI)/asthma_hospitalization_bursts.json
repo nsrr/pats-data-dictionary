@@ -1,0 +1,11 @@
+{
+  "id": "asthma_hospitalization_bursts",
+  "display_name": "Number of systemic corticosteroid bursts were initiated during an overnight hospitalization for asthma",
+  "description": "Item from Composite Asthma Severity Index (CASI) exacerbation assessment. [Wildfire JJ, Gergen PJ, Sorkness CA, et al. 2012  (PubMed ID: 22244599)](https://pubmed.ncbi.nlm.nih.gov/22244599/)<br><br> [Search for all CASI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=casi)",
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "casi",
+    "casi_07burstsovernight"
+  ]
+}

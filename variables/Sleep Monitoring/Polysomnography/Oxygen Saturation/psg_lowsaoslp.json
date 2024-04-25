@@ -2,5 +2,9 @@
   "id": "psg_lowsaoslp",
   "display_name": "Minimum SaO2 % (Sleep time) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_sp_f1t1"
+  ]
 }

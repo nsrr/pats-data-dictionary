@@ -1,0 +1,12 @@
+{
+  "id": "asthma_nights_wakeup",
+  "display_name": "During the last 14 nights, number of nights the child woke up because of asthma, wheezing or tightness in the chest, or cough",
+  "description": "Subscore for Composite Asthma Severity Index (CASI) nighttime asthma symptom assessment. The subscore is based on the highest point value from CASI nighttime asthma symptom assessment items (range 0 to 3). [Wildfire JJ, Gergen PJ, Sorkness CA, et al. 2012  (PubMed ID: 22244599)](https://pubmed.ncbi.nlm.nih.gov/22244599/)<br><br> [Search for all CASI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=casi)",
+  "type": "choices",
+  "domain": "casi_section2",
+  "units": "number of events",
+  "labels": [
+    "casi",
+    "casi_nighttime_score"
+  ]
+}

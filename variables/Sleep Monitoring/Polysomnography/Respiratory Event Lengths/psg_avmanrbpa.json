@@ -3,5 +3,8 @@
   "display_name": "Average Mixed Apnea with arousal length (NREM, Back, all desats) (seconds)",
   "description": "",
   "type": "integer",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurma_snpb_ma0o_f1t1"
+  ]
 }

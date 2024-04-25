@@ -2,5 +2,9 @@
   "id": "psg_pctsa70h",
   "display_name": "Percent sleep time SaO2 is below < 70%",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_salt70_f1t1"
+  ]
 }

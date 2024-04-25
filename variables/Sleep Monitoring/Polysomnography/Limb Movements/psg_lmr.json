@@ -2,5 +2,9 @@
   "id": "psg_lmr",
   "display_name": "Number Limb Movements with resp. events",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumlm_st_f1t1"
+  ]
 }

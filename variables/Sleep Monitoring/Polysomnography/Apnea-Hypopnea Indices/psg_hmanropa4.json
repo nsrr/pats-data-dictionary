@@ -2,5 +2,9 @@
   "id": "psg_hmanropa4",
   "display_name": "Number Mixed Apnea with arousal per hour (NREM, Other, 4% desat)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "mai_snpo_ma4r_f1t1"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_mncaroa5",
   "display_name": "Minimum Central Apnea length with arousals (REM, Other, 5% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurca_srpo_ca5r_f1t1"
+  ]
 }

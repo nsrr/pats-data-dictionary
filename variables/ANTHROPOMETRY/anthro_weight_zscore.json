@@ -1,6 +1,6 @@
 {
   "id": "anthro_weight_zscore",
-  "display_name": "Current height-for-age z-score",
+  "display_name": "Current weight-for-age z-score",
   "description": "https://www.cdc.gov/growthcharts/percentile_data_files.htm",
   "type": "numeric"
 }

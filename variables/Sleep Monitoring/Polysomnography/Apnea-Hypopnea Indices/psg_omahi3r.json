@@ -3,5 +3,9 @@
   "display_name": "Calculated - Apnea hypopnea index (3% desats) in REM sleep",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
-  "calculation": "60*(oarbp + oarop + marbp + marop + hremba3 + hroa3)/(minremp)"
+  "units": "number of events per hour",
+  "calculation": "60*(oarbp + oarop + marbp + marop + hremba3 + hroa3)/(minremp)",
+  "labels": [
+    "omahi_sr_oa0uma0uhp3x3r_f1t1"
+  ]
 }

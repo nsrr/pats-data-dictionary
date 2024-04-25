@@ -2,5 +2,9 @@
   "id": "psg_lmanropa3",
   "display_name": "Maximum Mixed Apnea with arousal length (NREM, Other, 3% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurma_snpo_ma3r_f1t1"
+  ]
 }

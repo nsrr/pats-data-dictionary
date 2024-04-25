@@ -2,5 +2,6 @@
   "id": "cotinine_2022_value",
   "display_name": "Urinary cotinine value (ng/mL) (2022 analysis)",
   "description": "Primary analytic variable. Mean value of replicates (n=2). Note comment field for QC purposes.",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "nanograms per milliliter (ng/mL)"
 }

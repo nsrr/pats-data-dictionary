@@ -3,5 +3,8 @@
   "display_name": "Calculated - Total sleep time in REM sleep (minutes)",
   "description": "same as minremp; missing if study with problems scoring REM/NREM",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_sr_f1t1"
+  ]
 }

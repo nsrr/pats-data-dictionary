@@ -2,5 +2,9 @@
   "id": "psg_lmrem",
   "display_name": "Number Limb Movements (REM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumlm_sr_f1t1"
+  ]
 }

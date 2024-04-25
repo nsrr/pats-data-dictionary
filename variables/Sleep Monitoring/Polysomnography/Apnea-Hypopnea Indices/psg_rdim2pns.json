@@ -3,5 +3,9 @@
   "display_name": "Calculated - RDI in non-supine body position (>= 2% desaturation)",
   "description": "missing if studies with problems scoring REM/NREM or if studies scored as sleep/wake or REM sleep time is 0",
   "type": "numeric",
-  "calculation": "60*(hrop2 + hnrop2 + carop2 + canop2 + oarop2 + oanop2 + marop2 + manrop2)/(remepop+nremepop)"
+  "units": "number of events per hour",
+  "calculation": "60*(hrop2 + hnrop2 + carop2 + canop2 + oarop2 + oanop2 + marop2 + manrop2)/(remepop+nremepop)",
+  "labels": [
+    "ahi_po_ap2uhp3x2u_f1t1"
+  ]
 }

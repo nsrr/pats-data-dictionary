@@ -1,6 +1,10 @@
 {
   "id": "osa18_6",
   "display_name": "6. Overall, how would you rate your child's quality of life as a result of the above problems",
-  "description": "",
-  "type": "integer"
+  "description": "Item from the Obstructive Sleep Apnea-18 Quality of Life Questionnaire. [Franco RA et al., 2000 (PubMed ID: 10889473)](https://pubmed.ncbi.nlm.nih.gov/10889473/)<br><br>[Search for all OSA-18 variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=osa18)",
+  "type": "integer",
+  "labels": [
+    "osa18",
+    "osa18_19quality"
+  ]
 }

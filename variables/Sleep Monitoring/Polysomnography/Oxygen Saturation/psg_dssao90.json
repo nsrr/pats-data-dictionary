@@ -2,5 +2,9 @@
   "id": "psg_dssao90",
   "display_name": "Number of desats with SaO2 drops below 90% in sleep",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumds_sp_salt90_f1t1"
+  ]
 }

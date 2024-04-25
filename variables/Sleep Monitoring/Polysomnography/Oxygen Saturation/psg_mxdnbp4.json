@@ -2,5 +2,9 @@
   "id": "psg_mxdnbp4",
   "display_name": "Maximum Desat (NREM, Back, 4% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "maxlvlsa_snpb_ap4uhp3x4u_f1t1"
+  ]
 }

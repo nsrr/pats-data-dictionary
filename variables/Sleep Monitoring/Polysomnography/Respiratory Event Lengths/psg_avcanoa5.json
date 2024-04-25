@@ -3,5 +3,8 @@
   "display_name": "Average Central Apnea length with arousals (NREM, Other, 5% desat) (seconds)",
   "description": "",
   "type": "integer",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurca_snpo_ca5r_f1t1"
+  ]
 }

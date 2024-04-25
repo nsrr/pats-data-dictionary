@@ -2,5 +2,9 @@
   "id": "psg_mnhnoa5",
   "display_name": "Minimum Hypopnea length with arousals (NREM, Other, 5% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurhp_snpo_hp3x5r_f1t1"
+  ]
 }

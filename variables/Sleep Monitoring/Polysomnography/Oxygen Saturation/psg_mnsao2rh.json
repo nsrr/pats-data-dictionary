@@ -2,5 +2,11 @@
   "id": "psg_mnsao2rh",
   "display_name": "Minimum SaO2 % during REM sleep",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "losao2r",
+    "lowsaor",
+    "minlvlsa_sr_f1t1"
+  ]
 }

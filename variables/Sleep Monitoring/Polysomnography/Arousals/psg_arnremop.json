@@ -2,5 +2,9 @@
   "id": "psg_arnremop",
   "display_name": "Number of Arousals (NREM, Other, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "events",
+  "labels": [
+    "ttlnumar_snpo_f1t1"
+  ]
 }

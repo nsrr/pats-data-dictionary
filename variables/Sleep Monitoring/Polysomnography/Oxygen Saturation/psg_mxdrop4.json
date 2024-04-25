@@ -2,5 +2,9 @@
   "id": "psg_mxdrop4",
   "display_name": "Maximum Desat (REM, Other, 4% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "maxlvlsa_srpo_ap4uhp3x4u_f1t1"
+  ]
 }

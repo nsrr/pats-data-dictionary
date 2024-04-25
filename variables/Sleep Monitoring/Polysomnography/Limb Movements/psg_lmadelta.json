@@ -2,5 +2,9 @@
   "id": "psg_lmadelta",
   "display_name": "Number Limb Movements with arousal (Delta Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumlm_s3so_f1t1"
+  ]
 }

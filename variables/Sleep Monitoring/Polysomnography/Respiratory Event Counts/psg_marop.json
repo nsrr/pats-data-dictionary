@@ -2,5 +2,9 @@
   "id": "psg_marop",
   "display_name": "Number Mixed Apnea (REM, Other, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumma_srpo_ma0u_f1t1"
+  ]
 }

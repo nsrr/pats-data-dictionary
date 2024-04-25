@@ -1,6 +1,10 @@
 {
   "id": "abas_conceptual",
   "display_name": "Conceptual standard score",
-  "description": "",
-  "type": "integer"
+  "description": "Domain from the Adaptive Behavior Assessment System, 3rd Ed. (ABAS-3). The ABAS-3 is a rating scale useful for assessing skills of daily living in individuals with developmental delays, autism spectrum disorder, intellectual disability, learning disabilities, neuropsychological disorders, and sensory or physical impairments. The Conceptual domain standard score summarizes performance across the Communication, Functional Academics, and Self-Direction skill areas. Standard score range (higher is better): 1) Extremely low: <=70; 2) Low: 71 to 79; 3) Below average: 80 to 89; 4) Average: 90 to 109; 5) Above average: 110 to 119; 6) High: >=120. [Harrison P, Oakland T. Manual for the Adaptive Behavior Assessment System, 3rd Edition. San Antonio Harcourt Assessment, Inc.](https://www.parinc.com/Products/Pkey/5)<br><br>[Search for all ABAS variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=abas)",
+  "type": "integer",
+  "labels": [
+    "abas",
+    "abas_conceptual"
+  ]
 }

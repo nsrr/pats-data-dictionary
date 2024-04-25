@@ -2,5 +2,9 @@
   "id": "psg_canbp",
   "display_name": "Number of Central Apnea (NREM, Back, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumca_snpb_ca0u_f1t1"
+  ]
 }

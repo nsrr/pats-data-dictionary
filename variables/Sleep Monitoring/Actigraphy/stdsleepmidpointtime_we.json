@@ -2,5 +2,6 @@
   "id": "stdsleepmidpointtime_we",
   "display_name": "[Main Sleep] Standard deviation of mid asleep time per main sleep (on weekend days) ",
   "description": "Missing if the number of main sleep <= 1",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss"
 }

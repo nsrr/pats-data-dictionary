@@ -1,0 +1,11 @@
+{
+  "id": "psg_odi4",
+  "display_name": "Calculated - Oxygen desaturation index (ODI) 4% ",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "calculation": "((dsrem4 * minremp) + (dsnr4 * (slp_time - minremp))) / slpprdp",
+  "labels": [
+    "phrnumds_sp_dsge4_f1t1"
+  ]
+}

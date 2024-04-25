@@ -2,5 +2,9 @@
   "id": "psg_ahnrembp",
   "display_name": "Arousals per hour (NREM, Back, all desats)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumar_snpb_f1t1"
+  ]
 }

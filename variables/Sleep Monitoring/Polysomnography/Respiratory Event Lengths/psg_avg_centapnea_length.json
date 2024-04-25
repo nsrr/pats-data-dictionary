@@ -3,5 +3,8 @@
   "display_name": "Average length of each central apnea (seconds)",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurca_ca0u_f1t1"
+  ]
 }

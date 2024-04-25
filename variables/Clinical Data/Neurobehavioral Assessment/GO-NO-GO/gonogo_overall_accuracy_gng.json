@@ -1,6 +1,0 @@
-{
-  "id": "gonogo_overall_accuracy_gng",
-  "display_name": "Percentage of accurate hits over complete trials (Inhibitory Control/GNG Block)",
-  "description": "",
-  "type": "numeric"
-}

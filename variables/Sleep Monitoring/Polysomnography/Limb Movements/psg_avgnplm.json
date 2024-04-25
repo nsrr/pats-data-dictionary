@@ -2,5 +2,9 @@
   "id": "psg_avgnplm",
   "display_name": "Number of PLM per hour of NREM sleep",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "phrnumpl_sn_f1t1"
+  ]
 }

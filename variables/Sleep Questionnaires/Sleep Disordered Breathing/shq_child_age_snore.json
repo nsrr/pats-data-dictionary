@@ -1,6 +1,6 @@
 {
   "id": "shq_child_age_snore",
   "display_name": "How old was your child when he/she first started snoring",
-  "description": "Not asked again at 6-month or 12-month visit",
+  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "integer"
 }

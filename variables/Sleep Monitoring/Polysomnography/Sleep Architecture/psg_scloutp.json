@@ -2,5 +2,9 @@
   "id": "psg_scloutp",
   "display_name": "Lights out set by scorer (hh:mm:ss)",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss",
+  "labels": [
+    "begtimbd_f1t1"
+  ]
 }

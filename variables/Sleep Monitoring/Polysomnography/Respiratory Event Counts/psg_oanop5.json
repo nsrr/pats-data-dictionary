@@ -2,5 +2,9 @@
   "id": "psg_oanop5",
   "display_name": "Number of Obstructive Apnea (NREM, Other, 5% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumoa_snpo_oa5u_f1t1"
+  ]
 }

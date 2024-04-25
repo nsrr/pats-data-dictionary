@@ -1,7 +1,11 @@
 {
   "id": "psq_spank",
   "display_name": "18. I spank my child when I don't like what he/she does or says",
-  "description": "",
+  "description": "Item from Parenting Style Questionnaire Short Form (PSQ-SF) Authoritarian Parenting Style Section.[Robinson, C. C., Mandleco, B., Olsen, S. F., & Hart, C. H. (1995). Authoritative, authoritarian, and permissive parenting practices: Development of a new measure. Psychological Reports, 77(3, Pt 1), 819-830.](https://doi.org/10.2466/pr0.1995.77.3.819)<br><br>[Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "choices",
-  "domain": "never_always"
+  "domain": "never_always",
+  "labels": [
+    "psq",
+    "psq_18spank"
+  ]
 }

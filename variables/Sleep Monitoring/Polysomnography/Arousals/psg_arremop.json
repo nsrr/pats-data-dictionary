@@ -2,5 +2,9 @@
   "id": "psg_arremop",
   "display_name": "Number of Arousals (REM, Other, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "events",
+  "labels": [
+    "ttlnumar_srpo_f1t1"
+  ]
 }

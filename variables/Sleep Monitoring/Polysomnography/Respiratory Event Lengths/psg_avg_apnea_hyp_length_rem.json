@@ -3,5 +3,8 @@
   "display_name": "Average length of each respiratory event ([all apneas] and [all hypopneas]) in REM sleep (seconds)",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurah_sr_ap0uhp3x0u_f1t1"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_avdnop",
   "display_name": "Average Desat (NREM, Other, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_snpo_ap0uhp5x0u_f1t1"
+  ]
 }

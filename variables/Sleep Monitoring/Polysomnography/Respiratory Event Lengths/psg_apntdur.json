@@ -3,5 +3,8 @@
   "display_name": "Total Apnea Length (NREM) (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldurap_sn_ap0u_f1t1"
+  ]
 }

@@ -2,5 +2,10 @@
   "id": "psg_times34p",
   "display_name": "Calculated - Percent sleep time in stage 3-4 sleep (%)",
   "description": "same as tmstg34p; missing if study with problems scoring sleep/wake or stg3/stg4",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "tmstg34p",
+    "pctdursp_s3_f1t1"
+  ]
 }

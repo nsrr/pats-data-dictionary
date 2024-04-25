@@ -2,5 +2,9 @@
   "id": "psg_mnhnop2",
   "display_name": "Minimum Hypopnea length (NREM, Other, 2% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurhp_snpo_hp3x2u_f1t1"
+  ]
 }

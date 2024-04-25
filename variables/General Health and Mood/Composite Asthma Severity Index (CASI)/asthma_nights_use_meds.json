@@ -1,0 +1,11 @@
+{
+  "id": "asthma_nights_use_meds",
+  "display_name": "During the last 14 nights, number of nights the child used albuterol (brand names Pro-Air, Proventil, Ventolin, Xopenex) by puffer or breathing machine/nebulizer after going to sleep",
+  "description": "Item from Composite Asthma Severity Index (CASI) nighttime asthma symptom assessment. [Wildfire JJ, Gergen PJ, Sorkness CA, et al. 2012  (PubMed ID: 22244599)](https://pubmed.ncbi.nlm.nih.gov/22244599/)<br><br> [Search for all CASI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=casi)",
+  "type": "choices",
+  "domain": "casi_section2",
+  "labels": [
+    "casi",
+    "casi_04albuterolnight"
+  ]
+}

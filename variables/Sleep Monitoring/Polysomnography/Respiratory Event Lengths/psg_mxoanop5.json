@@ -2,5 +2,9 @@
   "id": "psg_mxoanop5",
   "display_name": "Maximum Obstructive Apnea length (NREM, Other 5% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxduroa_snpo_oa5u_f1t1"
+  ]
 }

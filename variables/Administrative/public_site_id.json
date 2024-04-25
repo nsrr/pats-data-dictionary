@@ -1,7 +1,7 @@
 {
   "id": "public_site_id",
   "display_name": "PATS Public Site Identifier",
-  "description": "",
+  "description": "The original Site ID was removed from the dataset because it was considered identifiable. This variable has obfuscated the original Site IDs.",
   "type": "choices",
   "domain": "public_site_id",
   "commonly_used": true

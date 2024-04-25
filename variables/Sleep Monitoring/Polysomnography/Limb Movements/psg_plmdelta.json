@@ -2,5 +2,9 @@
   "id": "psg_plmdelta",
   "display_name": "Number PLMs (Delta Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_s3_f1t1"
+  ]
 }

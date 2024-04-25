@@ -2,5 +2,9 @@
   "id": "psg_stendp",
   "display_name": "Study end time (hh:mm:ss)",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss",
+  "labels": [
+    "endtimbd_f1t1"
+  ]
 }

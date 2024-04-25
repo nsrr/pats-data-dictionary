@@ -2,5 +2,9 @@
   "id": "psg_plmrrem",
   "display_name": "Number PLMs with resp. events (REM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_srst_f1t1"
+  ]
 }

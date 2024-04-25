@@ -3,5 +3,8 @@
   "display_name": "Average length of each mixed apnea in NREM sleep (seconds)",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurma_sn_ma0u_f1t1"
+  ]
 }

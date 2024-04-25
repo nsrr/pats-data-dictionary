@@ -1,7 +1,11 @@
 {
   "id": "eod_been_treated_unfair_response",
   "display_name": "2. If you have been treated unfairly, what do you usually do",
-  "description": "",
+  "description": "Item from the Experiences of Discrimination (EOD), created to measure exposure to racial discrimination. [Krieger N and Smith K, 2005 (PubMed ID: 16005789)](https://pubmed.ncbi.nlm.nih.gov/16005789/)<br><br>[Search for all EOD variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=eod)",
   "type": "choices",
-  "domain": "been_treated_unfairly"
+  "domain": "been_treated_unfairly",
+  "labels": [
+    "eod",
+    "eod_02treated"
+  ]
 }

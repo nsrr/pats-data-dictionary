@@ -2,5 +2,9 @@
   "id": "psg_cardnba3",
   "display_name": "Central Apnea per hour with arousals (NREM, Back, 3% desat)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "ttlnumca_snpo_ca3r_f1t1"
+  ]
 }

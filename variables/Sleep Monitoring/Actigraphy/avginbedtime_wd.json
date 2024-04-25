@@ -2,5 +2,6 @@
   "id": "avginbedtime_wd",
   "display_name": "[Main Sleep] Average in-bed time per main sleep (on weekday days) ",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss"
 }

@@ -3,5 +3,9 @@
   "display_name": "Calculated - Obstructive apnea (all desats) Hypopnea (3% desat) Index in supine body position",
   "description": "",
   "type": "numeric",
-  "calculation": "60 * (hrembp3 + hnrbp3 + oarbp + oanbp) / (remepbp + nremepbp)"
+  "units": "number of events per hour",
+  "calculation": "60 * (hrembp3 + hnrbp3 + oarbp + oanbp) / (remepbp + nremepbp)",
+  "labels": [
+    "oahi_pb_oa0uhp3x3u_f1t1"
+  ]
 }

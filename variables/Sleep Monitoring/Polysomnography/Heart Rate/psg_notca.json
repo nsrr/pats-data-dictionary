@@ -2,5 +2,9 @@
   "id": "psg_notca",
   "display_name": "Number of Tachycardia (Sleep time)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "pmnnumta_sp_f1t1"
+  ]
 }

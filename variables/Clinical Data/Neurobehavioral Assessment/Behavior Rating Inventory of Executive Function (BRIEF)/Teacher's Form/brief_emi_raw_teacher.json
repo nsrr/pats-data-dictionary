@@ -1,6 +1,11 @@
 {
   "id": "brief_emi_raw_teacher",
   "display_name": "Preschool Version Emergent metacognition (EMI) index raw score (teacher-completed)",
-  "description": "",
-  "type": "integer"
+  "description": "Caregivers completed age-appropriate versions of the BRIEF (BRIEF-Preschool Edition for ages 2-4 and age 5 years if in preschool, or the BRIEF 2nd Edition for ages 6-18 and age 5 years in kindergarten, PAR Inc, Lutz, Florida).The BRIEF instrument survey behaviours associated with executive functioning (ability to self-regulate, pay attention and organize in real-world situations) and provide clinically relevant information on a wide range of behaviours. <br><br>The Emergent Metacognition Index (EMI) reflects a childs ability to sustain ideas and activities in working memory and to plan and organize problem-solving approaches. It is composed of the Working Memory (holds information in mind for the purpose of completing a task or making the appropriate response; stay with, or sticks to, an activity) and Plan/Organize (anticipate future events or consequences; use goals or instructions to guide behavior in context; develop or implements appropriate steps ahead of time to carry out an associated task or action) scales.  [Gioia GA, Espy KA, Isquith PK. BRIEF-P Behavior Rating Inventory of Executive Function-Preschool Version, professional manual. Lutz, FL PAR; 2003.](https://www.parinc.com/Products?pkey=26)<br><br>[Search for all BRIEF variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=brief)",
+  "type": "integer",
+  "labels": [
+    "brief",
+    "brief_emi",
+    "brief_emi_raw"
+  ]
 }

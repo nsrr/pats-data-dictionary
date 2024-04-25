@@ -1,7 +1,11 @@
 {
   "id": "eod_getting_hired_yes",
   "display_name": "4. How often have you experienced discrimination when getting hired or getting a job",
-  "description": "",
+  "description": "Item from the Experiences of Discrimination (EOD), created to measure exposure to racial discrimination. [Krieger N and Smith K, 2005 (PubMed ID: 16005789)](https://pubmed.ncbi.nlm.nih.gov/16005789/)<br><br>[Search for all EOD variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=eod)",
   "type": "choices",
-  "domain": "items"
+  "domain": "items",
+  "labels": [
+    "eod",
+    "eod_04job_freq"
+  ]
 }

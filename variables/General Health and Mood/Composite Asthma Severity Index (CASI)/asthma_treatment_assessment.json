@@ -1,0 +1,11 @@
+{
+  "id": "asthma_treatment_assessment",
+  "display_name": "Treatment assessment score",
+  "description": "Item from Composite Asthma Severity Index (CASI) treatment assessment. [Wildfire JJ, Gergen PJ, Sorkness CA, et al. 2012  (PubMed ID: 22244599)](https://pubmed.ncbi.nlm.nih.gov/22244599/)<br><br> [Search for all CASI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=casi)",
+  "type": "choices",
+  "domain": "asthma_treatment",
+  "labels": [
+    "casi",
+    "casi_05regimen"
+  ]
+}

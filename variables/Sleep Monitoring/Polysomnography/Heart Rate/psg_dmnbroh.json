@@ -2,5 +2,9 @@
   "id": "psg_dmnbroh",
   "display_name": "Minimum Heart Rate with arousal (REM, Other, 3% desat) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "minlvlhr_srsopo_dsge3_f1t1"
+  ]
 }

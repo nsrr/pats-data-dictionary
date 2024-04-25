@@ -2,5 +2,9 @@
   "id": "psg_pcstah3d",
   "display_name": "Percent sleep time in Apnea+Hypopnea with >3% desat",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_ap0uhp3x3u_f1t1"
+  ]
 }

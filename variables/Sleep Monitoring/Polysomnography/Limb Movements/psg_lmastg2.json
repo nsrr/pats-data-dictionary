@@ -2,5 +2,9 @@
   "id": "psg_lmastg2",
   "display_name": "Number Limb Movements with arousal (Stage 2 Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumlm_s2so_f1t1"
+  ]
 }

@@ -3,5 +3,9 @@
   "display_name": "Calculated - Total sleep time (minutes)",
   "description": "same as slpprdp",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_f1t1",
+    "tst"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_mnhrahslp",
   "display_name": "Minimum Heart Rate assoc. with Apnea and Hypopnea (Sleep time onset)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "minlvlhr_ap0uhp3x0u_f1t1"
+  ]
 }

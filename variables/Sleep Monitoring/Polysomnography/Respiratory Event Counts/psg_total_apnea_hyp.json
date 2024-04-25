@@ -3,5 +3,8 @@
   "display_name": "Total number of respiratory events ([all apneas] and [all hypopneas])",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "ttlnumah_ap0uhp3x0u_f1t1"
+  ]
 }

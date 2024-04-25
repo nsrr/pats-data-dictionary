@@ -2,5 +2,6 @@
   "id": "avgnawakenings",
   "display_name": "[Main Sleep] Average number of awakenings per main sleep (all days)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events"
 }

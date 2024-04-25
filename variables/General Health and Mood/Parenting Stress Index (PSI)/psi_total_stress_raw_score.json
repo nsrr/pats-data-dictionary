@@ -1,6 +1,10 @@
 {
   "id": "psi_total_stress_raw_score",
   "display_name": "Total stress scale raw score",
-  "description": "",
-  "type": "integer"
+  "description": "Total Stress(TS) score is based on all 36 items from Parenting Stress Index Fourth Edition Short Form. TS score examine the extent of stress in the Parent-Child relationship. Each item is scored on a 5 point scale (from 1-5). The total score is the sum of all five items ranging from 36 to 180. [Abidin, R. R. (1995). Parenting Stress Index, Third Edition: Professional Manual. Odessa, FL: Psychological Assessment Resources, Inc.](https://www.parinc.com/products/pkey/335)<br><br>[Search for all PSI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psi)",
+  "type": "integer",
+  "labels": [
+    "psi",
+    "psi_ts_raw"
+  ]
 }

@@ -2,5 +2,9 @@
   "id": "psg_canba3",
   "display_name": "Number of Central Apnea with arousals (NREM, Back, 3% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumca_snpb_ca3r_f1t1"
+  ]
 }

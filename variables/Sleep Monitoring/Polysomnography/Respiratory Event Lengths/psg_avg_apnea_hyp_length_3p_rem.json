@@ -3,5 +3,8 @@
   "display_name": "Average length of each respiratory event ([all apneas] and [hypopneas with >= 3% oxygen desaturation]) in REM sleep (seconds)",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurah_sn_ap0uhp3x3u_f1t1"
+  ]
 }

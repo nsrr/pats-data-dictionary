@@ -2,5 +2,9 @@
   "id": "psg_avghrahslp",
   "display_name": "Average Heart Rate assoc. with Apnea and Hypopnea (Sleep time onset)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avglvlhr_ap0uhp3x0u_f1t1"
+  ]
 }

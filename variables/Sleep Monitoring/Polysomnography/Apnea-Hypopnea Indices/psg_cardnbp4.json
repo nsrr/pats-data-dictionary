@@ -2,5 +2,9 @@
   "id": "psg_cardnbp4",
   "display_name": "Central Apnea per hour (NREM, Back, 4% desat)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "ttlnumca_snpo_ca4u_f1t1"
+  ]
 }

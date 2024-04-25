@@ -2,5 +2,9 @@
   "id": "psg_hrop",
   "display_name": "Number of Hypopnea (REM, Other, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumhp_srpo_hp3x0u_f1t1"
+  ]
 }

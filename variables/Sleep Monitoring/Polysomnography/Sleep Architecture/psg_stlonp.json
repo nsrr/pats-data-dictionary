@@ -2,5 +2,9 @@
   "id": "psg_stlonp",
   "display_name": "Lights on set by scorer (hh:mm:ss)",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss",
+  "labels": [
+    "endtimbd_f1t1"
+  ]
 }

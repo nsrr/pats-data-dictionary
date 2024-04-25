@@ -2,5 +2,9 @@
   "id": "psg_mndrba2",
   "display_name": "Minimum SaO2 with arousals (REM, Back, 2% desat) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_srpb_ap2rhp3x2r_f1t1"
+  ]
 }

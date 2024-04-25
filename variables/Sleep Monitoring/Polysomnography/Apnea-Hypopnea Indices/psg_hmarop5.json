@@ -2,5 +2,9 @@
   "id": "psg_hmarop5",
   "display_name": "Number Mixed Apnea per hour (REM, Other, 5% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events per hour",
+  "labels": [
+    "mai_srpo_ma5u_f1t1"
+  ]
 }

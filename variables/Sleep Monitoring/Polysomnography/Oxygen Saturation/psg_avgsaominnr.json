@@ -2,5 +2,6 @@
   "id": "psg_avgsaominnr",
   "display_name": "Average SaO2% minimum (NREM) (%)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)"
 }

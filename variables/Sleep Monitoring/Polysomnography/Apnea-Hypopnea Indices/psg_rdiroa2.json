@@ -2,5 +2,9 @@
   "id": "psg_rdiroa2",
   "display_name": "Hypopnea per hour with arousals (REM, Other, 2% desat)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "hi_srpo_hp3x2r_f1t1"
+  ]
 }

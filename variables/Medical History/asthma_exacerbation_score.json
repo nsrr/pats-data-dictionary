@@ -1,6 +1,0 @@
-{
-  "id": "asthma_exacerbation_score",
-  "display_name": "Exacerbation score (0, 2, 4, 6)",
-  "description": "",
-  "type": "integer"
-}

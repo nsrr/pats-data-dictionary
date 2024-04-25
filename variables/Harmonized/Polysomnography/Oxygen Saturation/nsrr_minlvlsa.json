@@ -3,5 +3,9 @@
   "display_name": "Minimum oxygen saturation in sleep",
   "description": "Harmonized by the NSRR team. Source: :psg_minsat:",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_f1t1"
+  ],
+  "commonly_used": true
 }

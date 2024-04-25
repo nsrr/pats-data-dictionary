@@ -2,5 +2,9 @@
   "id": "psg_plmarnrem",
   "display_name": "Number PLMs with arousal and resp. event (NREM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_snsost_f1t1"
+  ]
 }

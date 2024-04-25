@@ -2,5 +2,9 @@
   "id": "psg_lmstg1",
   "display_name": "Number Limb Movements (Stage 1 Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumlm_s1_f1t1"
+  ]
 }

@@ -1,6 +1,10 @@
 {
   "id": "eod_total_domains",
   "display_name": "Calculated - Total experiences of discrimination score (range: 0-9)",
-  "description": "",
-  "type": "integer"
+  "description": "Item from the Experiences of Discrimination (EOD), created to measure exposure to racial discrimination. [Krieger N and Smith K, 2005 (PubMed ID: 16005789)](https://pubmed.ncbi.nlm.nih.gov/16005789/)<br><br>[Search for all EOD variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=eod)",
+  "type": "integer",
+  "labels": [
+    "eod",
+    "eod_situationscore"
+  ]
 }

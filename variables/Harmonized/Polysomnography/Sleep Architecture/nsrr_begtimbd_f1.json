@@ -4,5 +4,8 @@
   "description": "Conventionally, this variable would be called the start of time in bed (TIB).<br><br>Harmonized by the NSRR team. Source: :psg_scloutp:",
   "type": "time",
   "units": "hh:mm:ss",
+  "labels": [
+    "begtimbd_f1t1"
+  ],
   "commonly_used": true
 }

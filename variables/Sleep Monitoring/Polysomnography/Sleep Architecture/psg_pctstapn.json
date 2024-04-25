@@ -2,5 +2,9 @@
   "id": "psg_pctstapn",
   "display_name": "Percent sleep time in Apnea",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_ap0u_f1t1"
+  ]
 }

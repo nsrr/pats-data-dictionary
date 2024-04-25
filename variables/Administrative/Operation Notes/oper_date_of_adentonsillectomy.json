@@ -1,7 +1,7 @@
 {
   "id": "oper_date_of_adentonsillectomy",
   "display_name": "Date adentonsillectomy performed",
-  "description": "",
+  "description": "Calendar dates were shifted by a random amount of days as part of the data de-identification process. All calendar dates for a given subject have been offset by the same amount of days.",
   "type": "date",
   "units": "yyyy-mm-dd"
 }

@@ -3,5 +3,8 @@
   "display_name": "Sleep Latency (minutes)",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttllatsp_f1t1"
+  ]
 }

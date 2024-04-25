@@ -3,5 +3,8 @@
   "display_name": "Calculated - Total sleep time in stage 3-4 sleep (minutes)",
   "description": "same as minstg34p; missing if study with problems scoring sleep/wake or stg3/stg4",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_s3_f1t1"
+  ]
 }

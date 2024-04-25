@@ -3,5 +3,9 @@
   "display_name": "Calculated - Hypopnea index (all desats)",
   "description": "missing if total sleep time is 0",
   "type": "numeric",
-  "calculation": "60*(hrembp + hrop + hnrbp + hnrop)/slpprdp"
+  "units": "number of events per hour",
+  "calculation": "60*(hrembp + hrop + hnrbp + hnrop)/slpprdp",
+  "labels": [
+    "hi_hp3x0u_f1t1"
+  ]
 }

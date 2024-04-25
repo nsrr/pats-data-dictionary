@@ -3,5 +3,8 @@
   "display_name": "Total time SaO2 > 92% in sleep (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_sagt92_f1t1"
+  ]
 }

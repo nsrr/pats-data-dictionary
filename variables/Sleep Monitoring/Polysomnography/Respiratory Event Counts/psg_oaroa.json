@@ -2,5 +2,9 @@
   "id": "psg_oaroa",
   "display_name": "Number of Obstructive Apnea with arousals (REM, Other, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumoa_srpo_oa0o_f1t1"
+  ]
 }

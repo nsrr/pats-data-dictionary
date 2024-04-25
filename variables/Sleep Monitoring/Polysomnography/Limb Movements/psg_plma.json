@@ -2,5 +2,9 @@
   "id": "psg_plma",
   "display_name": "Number PLMs with arousal",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_so_f1t1"
+  ]
 }

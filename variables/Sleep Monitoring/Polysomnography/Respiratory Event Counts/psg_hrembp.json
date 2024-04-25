@@ -2,5 +2,9 @@
   "id": "psg_hrembp",
   "display_name": "Number of Hypopnea (REM, Back, all desats)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumhp_srpb_hp3x0u_f1t1"
+  ]
 }

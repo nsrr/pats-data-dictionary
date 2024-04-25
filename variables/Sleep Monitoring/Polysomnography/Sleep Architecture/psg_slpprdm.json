@@ -3,5 +3,9 @@
   "display_name": "Sleep Period (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_f1t1",
+    "tst"
+  ]
 }

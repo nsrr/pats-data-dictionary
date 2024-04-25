@@ -1,7 +1,11 @@
 {
   "id": "realm_fatigue",
   "display_name": "4. Fatigue",
-  "description": "",
+  "description": "Item from the Rapid Estimate of Adult Literacy in Medicine (REALM-R), an 8-item instrument designed to rapidly screen patients for potential health literacy problems. [Bass PF 3rd, Wilson JF, Griffith CH. 2003 (PubMed ID: 14687263)](https://pubmed.ncbi.nlm.nih.gov/14687263/)<br><br> [Search for all realm variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=realm)",
   "type": "choices",
-  "domain": "no0_yes1"
+  "domain": "no0_yes1",
+  "labels": [
+    "realm",
+    "realm_04fatigue"
+  ]
 }

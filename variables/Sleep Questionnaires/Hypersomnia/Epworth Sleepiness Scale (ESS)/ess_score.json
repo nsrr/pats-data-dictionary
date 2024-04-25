@@ -1,6 +1,10 @@
 {
   "id": "ess_score",
   "display_name": "Sleepiness Scale total score",
-  "description": "",
-  "type": "integer"
+  "description": "Calculated - Total score based on an 8-item questionnaires ranking likelihood of fall asleep  [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888) and [Melendres MC, Lutz JM, Rubin ED, Marcus CL. 2004 (PubMed ID: 15342852)](https://pubmed.ncbi.nlm.nih.gov/15342852/)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=epworth)",
+  "type": "integer",
+  "labels": [
+    "epworth",
+    "esschad_total"
+  ]
 }

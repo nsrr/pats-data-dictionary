@@ -2,5 +2,9 @@
   "id": "psg_oardnbp3",
   "display_name": "Obstructive Apnea per hour (NREM, Back, 3% desat)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "ttlnumma_srpo_ma3u_f1t1"
+  ]
 }

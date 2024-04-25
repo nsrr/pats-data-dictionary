@@ -2,5 +2,9 @@
   "id": "psg_lmarem",
   "display_name": "Number Limb Movements with arousal (REM)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumlm_srso_f1t1"
+  ]
 }

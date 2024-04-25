@@ -3,5 +3,9 @@
   "display_name": "Calculated - REM Latency II - excluding wake time (minutes)",
   "description": "same as remlaiip; missing if study scored as sleep/wake (minutes)",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "rem_lat2",
+    "ttldursp_s1sr_f1t1"
+  ]
 }

@@ -3,5 +3,9 @@
   "display_name": "Calculated - RDI in NREM sleep (>= 2% desaturation)",
   "description": "missing if studies with problems scoring REM/NREM or if studies scored as sleep/wake or NREM sleep time is 0",
   "type": "numeric",
-  "calculation": "60*(hnrbp2 + hnrop2 + canbp2 + canop2 + oanbp2 + oanop2 + manrbp2 + manrop2)/(slpprdp - minremp)"
+  "units": "number of events per hour",
+  "calculation": "60*(hnrbp2 + hnrop2 + canbp2 + canop2 + oanbp2 + oanop2 + manrbp2 + manrop2)/(slpprdp - minremp)",
+  "labels": [
+    "ahi_sn_ap2uhp3x2u_f1t1"
+  ]
 }

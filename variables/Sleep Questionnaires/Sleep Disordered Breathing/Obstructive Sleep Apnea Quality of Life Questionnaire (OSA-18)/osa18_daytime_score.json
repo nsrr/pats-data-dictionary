@@ -1,7 +1,11 @@
 {
   "id": "osa18_daytime_score",
   "display_name": "Calculated - Daytime Function Score (Range: 3-21)",
-  "description": "",
+  "description": "Subscale score based on 3 items from the Obstructive Sleep Apnea-18 Quality of Life Questionnaire. Range 3 to 21. A higher scores indicates greater daytime function impairment. [Franco RA et al., 2000 (PubMed ID: 10889473)](https://pubmed.ncbi.nlm.nih.gov/10889473/)<br><br>[Search for all OSA-18 variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=osa18)",
   "type": "integer",
-  "calculation": "Sum of 4a-4c + 3"
+  "calculation": "Sum of 4a-4c + 3",
+  "labels": [
+    "osa18",
+    "osa18_dfscore"
+  ]
 }

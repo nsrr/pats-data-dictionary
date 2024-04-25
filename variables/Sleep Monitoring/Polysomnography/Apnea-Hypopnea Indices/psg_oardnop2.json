@@ -2,5 +2,9 @@
   "id": "psg_oardnop2",
   "display_name": "Obstructive Apnea per hour (NREM, Other, 2% desat)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "oai_snpo_oa2u_f1t1"
+  ]
 }

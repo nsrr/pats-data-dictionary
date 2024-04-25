@@ -2,5 +2,9 @@
   "id": "psg_lmrdelta",
   "display_name": "Number Limb Movements with resp. events (Delta Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumlm_s3st_f1t1"
+  ]
 }

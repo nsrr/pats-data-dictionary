@@ -2,5 +2,9 @@
   "id": "psg_lmarbp3",
   "display_name": "Maximum Mixed Apnea length (REM, Back, 3% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurma_srpb_ma3u_f1t1"
+  ]
 }

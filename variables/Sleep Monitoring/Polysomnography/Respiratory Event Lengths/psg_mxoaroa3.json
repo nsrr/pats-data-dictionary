@@ -2,5 +2,9 @@
   "id": "psg_mxoaroa3",
   "display_name": "Maximum Obstructive Apnea length with arousals (REM, Other, 3% desat) (seconds)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "seconds (s)",
+  "labels": [
+    "maxduroa_srpo_oa3r_f1t1"
+  ]
 }

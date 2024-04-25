@@ -1,7 +1,7 @@
 {
   "id": "shq_child_loud_snore",
   "display_name": "In the last month, how often has your child experienced loud snoring during sleep",
-  "description": "",
+  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "choices",
   "domain": "never_always_notsure"
 }

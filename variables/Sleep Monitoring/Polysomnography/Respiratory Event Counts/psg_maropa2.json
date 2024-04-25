@@ -2,5 +2,9 @@
   "id": "psg_maropa2",
   "display_name": "Number Mixed Apnea with arousal (REM, Other, 2% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumma_srpo_ma2r_f1t1"
+  ]
 }

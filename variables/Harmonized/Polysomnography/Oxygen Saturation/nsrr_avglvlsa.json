@@ -3,5 +3,9 @@
   "display_name": "Average oxygen saturation in sleep",
   "description": "Harmonized by the NSRR team. Source: :psg_avgsat:",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "labels": [
+    "avglvlsa_f1t1"
+  ],
+  "commonly_used": true
 }

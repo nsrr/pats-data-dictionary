@@ -2,5 +2,9 @@
   "id": "psg_hmaropa2",
   "display_name": "Number Mixed Apnea with arousal per hour (REM, Other, 2% desat)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "number of events per hour",
+  "labels": [
+    "mai_srpo_ma2r_f1t1"
+  ]
 }

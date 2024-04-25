@@ -2,5 +2,9 @@
   "id": "psg_smxbnoh",
   "display_name": "Maximum Heart Rate (NREM, Other, all desats) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "maxlvlhr_snpo_f1t1"
+  ]
 }

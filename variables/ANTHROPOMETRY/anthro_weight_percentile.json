@@ -1,6 +1,6 @@
 {
   "id": "anthro_weight_percentile",
-  "display_name": "Current height-for-age percentile (%)",
+  "display_name": "Current weight-for-age percentile (%)",
   "description": "https://www.cdc.gov/growthcharts/percentile_data_files.htm",
   "type": "numeric",
   "units": "percentile (th)"

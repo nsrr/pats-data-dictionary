@@ -3,5 +3,8 @@
   "display_name": "Average length of each hypopnea (seconds)",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurhp_hp3x0u_f1t1"
+  ]
 }

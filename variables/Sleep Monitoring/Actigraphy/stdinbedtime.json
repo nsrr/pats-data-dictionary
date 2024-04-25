@@ -2,5 +2,6 @@
   "id": "stdinbedtime",
   "display_name": "[Main Sleep] Standard deviation of in-bed time per main sleep (all days) ",
   "description": "Missing if the number of main sleep <= 1",
-  "type": "time"
+  "type": "time",
+  "units": "hh:mm:ss"
 }

@@ -2,5 +2,9 @@
   "id": "psg_plmrstg2",
   "display_name": "Number PLMs with resp. events (Stage 2 Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumpl_s2st_f1t1"
+  ]
 }

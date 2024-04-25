@@ -2,5 +2,9 @@
   "id": "psg_hnrbp2",
   "display_name": "Number of Hypopnea (NREM, Back, 2% desat)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events",
+  "labels": [
+    "ttlnumhp_snpb_hp3x2u_f1t1"
+  ]
 }

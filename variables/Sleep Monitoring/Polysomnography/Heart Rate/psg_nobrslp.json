@@ -2,5 +2,9 @@
   "id": "psg_nobrslp",
   "display_name": "Number of Bradycardia (Sleep time)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "pmnnumbr_sp_f1t1"
+  ]
 }

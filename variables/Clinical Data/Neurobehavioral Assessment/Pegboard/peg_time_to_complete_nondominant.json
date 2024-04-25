@@ -1,7 +1,10 @@
 {
   "id": "peg_time_to_complete_nondominant",
   "display_name": "Time to complete 9-Hole test using the non-dominant hand in seconds",
-  "description": "",
+  "description": "The National Institutes of Health Toolbox 9-Hole Pegboard Dexterity Test was used to assess fine motor control. Scores for this test are the times needed for the child to put each of nine pegs into the pegboard and then take them out using each hand, converted to age-adjusted scale scores (higher is worse). [National Institutes of Health 9-Hole Pegboard Dexterity Test](https://www.nihtoolbox.org/test/9-hole-pegboard-dexterity-test/)<br><br> [Search for all pegboard variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=pegboard)",
   "type": "integer",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "pegboard"
+  ]
 }

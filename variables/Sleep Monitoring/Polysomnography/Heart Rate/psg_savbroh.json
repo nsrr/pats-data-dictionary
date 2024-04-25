@@ -2,5 +2,9 @@
   "id": "psg_savbroh",
   "display_name": "Average Heart Rate (REM, Other, all desats) (bpm)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avglvlhr_srpo_f1t1"
+  ]
 }

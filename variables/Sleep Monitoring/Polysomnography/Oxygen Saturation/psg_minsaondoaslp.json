@@ -2,5 +2,9 @@
   "id": "psg_minsaondoaslp",
   "display_name": "Minimum SaO2% Nadir assoc. with Obstructive Apnea (Sleep)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlnd_oa0u_f1t1"
+  ]
 }

@@ -2,5 +2,6 @@
   "id": "srbds_slp_pos_items",
   "display_name": "Sleepiness Subscale: Number of items endorsed positively (\"yes\") (Range: 0-4)",
   "description": "",
-  "type": "integer"
+  "type": "integer",
+  "units": "number of events"
 }

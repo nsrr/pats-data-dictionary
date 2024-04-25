@@ -1,6 +1,10 @@
 {
   "id": "brief_infrequency_raw_parent",
   "display_name": "Second Edition Infrequency validity scale raw score (parent-completed)",
-  "description": "",
-  "type": "integer"
+  "description": "Caregivers completed age-appropriate versions of the BRIEF (BRIEF-Preschool Edition for ages 2-4 and age 5 years if in preschool, or the BRIEF 2nd Edition for ages 6-18 and age 5 years in kindergarten, PAR Inc, Lutz, Florida).The BRIEF instrument survey behaviours associated with executive functioning (ability to self-regulate, pay attention and organize in real-world situations) and provide clinically relevant information on a wide range of behaviours. <br><br>The Infrequency scale measures the extent to which the respondent endorsed items in an atypical fashion. The scale includes three items that are likely to be endorsed in one direction by most respondents.The Infrequency score of 0 is within the acceptable range, reducing the likelihood of an atypical response pattern. [Gioia GA, Isquith PK, Guy SC, Kenworthy L. Behavior Rating Inventory of Executive Function, 2nd Edition (BRIEF2). Odessa, FL Psychological Assessment Resources](https://www.parinc.com/Products/Pkey/24)<br><br>[Search for all BRIEF variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=brief)",
+  "type": "integer",
+  "labels": [
+    "brief",
+    "brief_inf_raw"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Total Central Apnea Length (REM, Other) (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "ttldurca_srpo_ca0u_f1t1"
+  ]
 }

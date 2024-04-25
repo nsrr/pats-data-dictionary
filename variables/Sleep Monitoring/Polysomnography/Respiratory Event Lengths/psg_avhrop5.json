@@ -3,5 +3,8 @@
   "display_name": "Average Hypopnea length (REM, Other, 5% desat) (seconds)",
   "description": "",
   "type": "integer",
-  "units": "seconds (s)"
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurhp_srpo_hp3x5u_f1t1"
+  ]
 }

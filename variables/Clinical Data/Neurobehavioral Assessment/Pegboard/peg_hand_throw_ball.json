@@ -1,7 +1,10 @@
 {
   "id": "peg_hand_throw_ball",
   "display_name": "Which hand used to pick up and throw a ball (only asked when handedness was unsure)",
-  "description": "",
+  "description": "The National Institutes of Health Toolbox 9-Hole Pegboard Dexterity Test was used to assess fine motor control. Scores for this test are the times needed for the child to put each of nine pegs into the pegboard and then take them out using each hand, converted to age-adjusted scale scores (higher is worse). [National Institutes of Health 9-Hole Pegboard Dexterity Test](https://www.nihtoolbox.org/test/9-hole-pegboard-dexterity-test/)<br><br> [Search for all pegboard variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=pegboard)",
   "type": "choices",
-  "domain": "hand_dominance"
+  "domain": "hand_dominance",
+  "labels": [
+    "pegboard"
+  ]
 }

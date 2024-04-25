@@ -1,7 +1,11 @@
 {
   "id": "psi_dc_percentile",
   "display_name": "Difficult child (DC) scale percentile",
-  "description": "",
+  "description": "The Difficult Child (DC) subscale is based on 12 items from Parenting Stress Index Fourth Edition Short Form. DC subscore measures a parent's view of his/her child's temperament, defiance, non-compliance, and demandingness. Each item is scored on a 5 point scale (from 1-5). Percentile between 16% to 84% = normal ranges, between 85% to 89%: high levels, greater than or equal to 90%: clinically significant. [Abidin, R. R. (1995). Parenting Stress Index, Third Edition: Professional Manual. Odessa, FL: Psychological Assessment Resources, Inc.](https://www.parinc.com/products/pkey/335)<br><br>[Search for all PSI variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psi)",
   "type": "integer",
-  "units": "percentile (th)"
+  "units": "percentile (th)",
+  "labels": [
+    "psi",
+    "psi_dc_perc"
+  ]
 }
