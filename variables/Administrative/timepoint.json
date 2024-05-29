@@ -3,5 +3,6 @@
   "display_name": "PATS Visit timepoint",
   "description": "",
   "type": "choices",
-  "domain": "timepoint"
+  "domain": "timepoint",
+  "commonly_used": true
 }

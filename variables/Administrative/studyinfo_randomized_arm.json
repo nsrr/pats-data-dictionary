@@ -3,5 +3,6 @@
   "display_name": "Assigned treatment arm",
   "description": "",
   "type": "choices",
-  "domain": "arm"
+  "domain": "arm",
+  "commonly_used": true
 }
