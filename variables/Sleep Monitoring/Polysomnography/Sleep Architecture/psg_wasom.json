@@ -1,7 +1,0 @@
-{
-  "id": "psg_wasom",
-  "display_name": "Wake time during sleep period (minutes .5)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes (min)"
-}

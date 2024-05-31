@@ -1,3 +1,5 @@
-## 0.1.0 (January 30, 2024)
+## 0.1.0
 
-- Created the pats-data-dictionary data dictionary repository using Spout v1.0.0
+- Remove identifiers from dataset
+- Import initial set of variables and definitions for PATS
+- Created the PATS data dictionary repository using Spout v1.0.0
