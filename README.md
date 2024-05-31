@@ -17,7 +17,7 @@ dictionary.
 
 ### Testing
 
-The pats-data-dictionary data dictionary is tested using the
+The PATS data dictionary is tested using the
 [Spout Gem](https://github.com/nsrr/spout).
 
 Data dictionary tests can be run by typing:
