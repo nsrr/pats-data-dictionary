@@ -180,12 +180,12 @@ censored<-uncensored%>%filter(consented_to_share_data==1)
 id <- unique(merged_data$subject)
 
 write.csv(id, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_ids/ids.csv", row.names = FALSE, na='')
-write.csv(uncensored, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_uncensored/0.1.0.pre/pats-dataset-uncensored-0.1.0.pre.csv", row.names = FALSE, na='')
-write.csv(censored, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-dataset-0.1.0.pre.csv", row.names = FALSE, na='')
+write.csv(uncensored, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_uncensored/0.1.0/pats-dataset-uncensored-0.1.0.csv", row.names = FALSE, na='')
+write.csv(censored, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0/pats-dataset-0.1.0.csv", row.names = FALSE, na='')
 
 
 # Harmonized data
-censored <- read.csv("/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-dataset-0.1.0.pre.csv")
+censored <- read.csv("/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0/pats-dataset-0.1.0.csv")
 harmonized_data<-censored[,c("public_subject_id","timepoint", "anthro_age", "anthro_bmi", "demo_ethnicity", "demo_race", 
                              "demo_sex", "anthro_bp_dia_avg123", "anthro_bp_sys_avg123")]%>%
   dplyr::mutate(nsrrid=public_subject_id,
@@ -271,4 +271,4 @@ psg_variables <- censored %>%
 harmonized_data <- bind_cols(harmonized_data, psg_variables)
 
 
-write.csv(harmonized_data, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0.pre/pats-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
+write.csv(harmonized_data, file = "/Volumes/bwh-sleepepi-pats/nsrr-prep/_releases/0.1.0/pats-harmonized-dataset-0.1.0.csv", row.names = FALSE, na='')
