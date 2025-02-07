@@ -1,6 +1,6 @@
 {
   "id": "psg_supinep",
-  "display_name": "Calculated - Percent sleep in supine body position (%)",
+  "display_name": "Percentage duration of sleep in supine position from type I polysomnography",
   "description": "missing if position sensor in not working",
   "type": "numeric",
   "units": "percent (%)",

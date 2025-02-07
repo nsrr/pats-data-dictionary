@@ -1,7 +1,7 @@
 {
   "id": "psg_mncarop",
-  "display_name": "Minimum Central Apnea length (REM, Other, all desats) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of central apnea in REM sleep in non-supine position: central apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Minimum Central Apnea length (REM, Other, all desats) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

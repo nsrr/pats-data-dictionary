@@ -3,5 +3,9 @@
   "display_name": "Total SRBD Scale: Number of items answered without missing (Range: 0-22)",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "psq",
+    "sdb"
+  ]
 }

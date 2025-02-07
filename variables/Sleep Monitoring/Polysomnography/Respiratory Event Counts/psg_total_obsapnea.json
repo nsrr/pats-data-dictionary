@@ -1,6 +1,6 @@
 {
   "id": "psg_total_obsapnea",
-  "display_name": "Total number of obstructive apneas",
+  "display_name": "Total number of obstructive apnea from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

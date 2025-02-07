@@ -1,7 +1,7 @@
 {
   "id": "psg_smanrbpa5",
-  "display_name": "Minimum Mixed Apnea with arousal length (NREM, Back, 5% desat) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of mixed apnea in NREM sleep in non-supine position: Mixed apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Minimum Mixed Apnea with arousal length (NREM, Back, 5% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

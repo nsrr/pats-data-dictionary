@@ -1,6 +1,6 @@
 {
   "id": "psg_plmtot",
-  "display_name": "Number PLMs",
+  "display_name": "Total number of periodic limb movements (PLMs) periodic limb movements (PLMs) from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

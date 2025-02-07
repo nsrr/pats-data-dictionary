@@ -1,6 +1,6 @@
 {
   "id": "psg_apavgdur",
-  "display_name": "Average Apnea Length (seconds)",
+  "display_name": "Average duration of apnea from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

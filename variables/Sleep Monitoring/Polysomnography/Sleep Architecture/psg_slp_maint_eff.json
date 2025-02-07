@@ -1,7 +1,7 @@
 {
   "id": "psg_slp_maint_eff",
-  "display_name": "Calculated - Sleep maintenance efficiency (%)",
-  "description": "% of time spent asleep between sleep onset and lights on",
+  "display_name": "Sleep Maintenance Efficiency: the proportion of sleep duration in sleep period from type I polysomnography",
+  "description": "Sleep duration (i.e., total sleep time, TST) is the interval between sleep onset and sleep offset time while asleep. Sleep period is the interval between sleep onset and sleep offset time.",
   "type": "numeric",
   "units": "percent (%)",
   "calculation": "100*(slpprdp/(timebedp-slplatp))",

@@ -1,7 +1,7 @@
 {
   "id": "psg_avhrba4",
-  "display_name": "Average Hypopnea length with arousals (REM, Back, 4% desat) (seconds)",
-  "description": "",
+  "display_name": "Average duration of hypopnea in REM sleep in supine position: Hypopneas with > 30% flow reduction and with >= 4% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Average Hypopnea length with arousals (REM, Back, 4% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

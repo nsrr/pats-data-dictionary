@@ -1,7 +1,10 @@
 {
   "id": "avgnapsleepduration_we",
-  "display_name": "[Nap] Average time spent asleep in naps per day (on weekend days) (minutes)",
-  "description": "",
+  "display_name": "Average daily total sleep duration in naps on weekends from actigraphy",
+  "description": "Total sleep duration: the interval between sleep onset and sleep offset while the participant is asleep",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "AvgDurSp_in_w2_f2"
+  ]
 }

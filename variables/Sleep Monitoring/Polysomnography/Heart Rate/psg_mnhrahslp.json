@@ -1,7 +1,7 @@
 {
   "id": "psg_mnhrahslp",
-  "display_name": "Minimum Heart Rate assoc. with Apnea and Hypopnea (Sleep time onset)",
-  "description": "",
+  "display_name": "Minimum heart rate associated with apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with no oxygen desaturation used and with or without arousal from type I polysomnography",
+  "description": "Minimum Heart Rate assoc. with Apnea and Hypopnea (Sleep time onset)",
   "type": "integer",
   "units": "beats per minute (bpm)",
   "labels": [

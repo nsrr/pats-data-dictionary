@@ -1,7 +1,7 @@
 {
   "id": "psg_avcarbp3",
-  "display_name": "Average Central Apnea length (REM, Back, 3% desat) (seconds)",
-  "description": "",
+  "display_name": "Average duration of central apnea in REM sleep in supine position: Central apneas with >= 3% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Average Central Apnea length (REM, Back, 3% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

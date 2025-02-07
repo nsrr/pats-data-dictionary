@@ -1,6 +1,6 @@
 {
   "id": "psg_aprtdurop",
-  "display_name": "Total Apnea Length (REM, Other) (minutes)",
+  "display_name": "Total duration of apnea in REM sleep in non-supine position from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

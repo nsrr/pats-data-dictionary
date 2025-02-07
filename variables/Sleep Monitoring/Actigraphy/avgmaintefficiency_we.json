@@ -1,7 +1,10 @@
 {
   "id": "avgmaintefficiency_we",
-  "display_name": "[Main Sleep] Average sleep maintainance efficiency per main sleep (on weekdend days) (%)",
+  "display_name": "Average daily sleep maintenance efficiency sleep in main sleep on weekends from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "labels": [
+    "AvgMefSp_im_w2_f2"
+  ]
 }

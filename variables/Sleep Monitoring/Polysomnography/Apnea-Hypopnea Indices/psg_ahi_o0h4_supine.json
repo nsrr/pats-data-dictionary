@@ -1,7 +1,7 @@
 {
   "id": "psg_ahi_o0h4_supine",
-  "display_name": "Calculated - Obstructive apnea (all desats) Hypopnea (4% desat) Index in supine body position",
-  "description": "",
+  "display_name": "Obstructive Apnea-Hypopnea Index (Supine): (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and >= 4% oxygen desaturation and with or without arousal) / hour of sleep in supine position from type I polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60 * (hrembp4 + hnrbp4 + oarbp + oanbp) / (remepbp + nremepbp)",

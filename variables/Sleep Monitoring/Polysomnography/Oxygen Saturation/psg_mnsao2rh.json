@@ -1,7 +1,7 @@
 {
   "id": "psg_mnsao2rh",
-  "display_name": "Minimum SaO2 % during REM sleep",
-  "description": "",
+  "display_name": "Minimum oxygen saturation in REM sleep from type I polysomnography",
+  "description": "Minimum SaO2 % during REM sleep",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

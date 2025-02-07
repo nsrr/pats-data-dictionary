@@ -1,7 +1,7 @@
 {
   "id": "psg_tmstg34p",
-  "display_name": "Percent sleep time in stage 3-4 sleep (%)",
-  "description": "",
+  "display_name": "Percentage duration of sleep in stage 3/4 sleep from type I polysomnography",
+  "description": "Conventionally, total sleep duration would be called total sleep time (TST).",
   "type": "numeric",
   "units": "percent (%)",
   "labels": [

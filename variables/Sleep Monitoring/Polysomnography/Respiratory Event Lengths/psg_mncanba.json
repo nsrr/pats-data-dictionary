@@ -1,7 +1,7 @@
 {
   "id": "psg_mncanba",
-  "display_name": "Minimum Central Apnea length with arousals (NREM, Back, all desats) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of central apnea in NREM sleep in supine position: central apneas with no oxygen desaturation threshold used only with arousal from type I polysomnography",
+  "description": "Minimum Central Apnea length with arousals (NREM, Back, all desats) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

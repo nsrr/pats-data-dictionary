@@ -1,7 +1,10 @@
 {
   "id": "stdsleeponsettime",
-  "display_name": "[Main Sleep] Standard deviation of sleep onset time per main sleep (all days) ",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily sleep onset time in main sleep among all days from actigraphy",
+  "description": "",
   "type": "time",
-  "units": "hh:mm:ss"
+  "units": "hh:mm:ss",
+  "labels": [
+    "StdBptSp_im_w7_f2"
+  ]
 }

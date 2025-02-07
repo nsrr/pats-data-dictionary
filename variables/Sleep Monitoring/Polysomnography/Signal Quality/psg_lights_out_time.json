@@ -2,5 +2,6 @@
   "id": "psg_lights_out_time",
   "display_name": "Lights out time (scorer-reported) ",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units": "H:mm:ss"
 }

@@ -1,7 +1,7 @@
 {
   "id": "psg_omahi3b",
-  "display_name": "Calculated - Apnea hypopnea index (3% desats) in back",
-  "description": "missing if total sleep time is 0",
+  "display_name": "Obstructive/Mixed Apnea-Hypopnea Index (Supine): (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal +mixed apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation or with arousal) / hour of sleep in supine position from type I polysomnography",
+  "description": "Calculated - Apnea hypopnea index (3% desats) in back",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(oarbp + oanbp + marbp +  manrbp + hremba3 + hnrba3)/(remepbp + nremepbp)",

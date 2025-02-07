@@ -1,7 +1,7 @@
 {
   "id": "psg_oanoa5",
-  "display_name": "Number of Obstructive Apnea with arousals (NREM, Other, 5% desat)",
-  "description": "",
+  "display_name": "Total number of obstructive apnea in NREM sleep in non-supine position: Obstructive apneas with >= 5% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Number of Obstructive Apnea with arousals (NREM, Other, 5% desat)",
   "type": "integer",
   "units": "number of events",
   "labels": [

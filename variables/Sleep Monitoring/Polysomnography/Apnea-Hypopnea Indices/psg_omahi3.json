@@ -1,7 +1,7 @@
 {
   "id": "psg_omahi3",
-  "display_name": "Calculated - PATS AHI (all obstructive apneas, all mixed apneas, plus hypopneas with 3% or arousal)",
-  "description": "missing if total sleep time is 0",
+  "display_name": "Obstructive/Mixed Apnea-Hypopnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal +mixed apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation or with arousal) / hour of sleep from type I polysomnography",
+  "description": "Calculated - PATS AHI (all obstructive apneas, all mixed apneas, plus hypopneas with 3% or arousal)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(oarbp +oarop + oanbp + oanop + marbp + marop + manrbp + manrop +  hremba3 +hroa3 + hnrba3 + hnroa3)/slpprdp",

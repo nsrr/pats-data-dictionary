@@ -1,10 +1,10 @@
 {
   "id": "psg_ststartp",
-  "display_name": "Study start time (hh:mm:ss)",
-  "description": "",
+  "display_name": "Clock time when the recording starts from type I polysomnography",
+  "description": "Study start time (hh:mm:ss)",
   "type": "time",
-  "units": "hh:mm:ss",
+  "units": "H:mm:ss",
   "labels": [
-    "begtimbd_f1"
+    "begtimrd_f1"
   ]
 }

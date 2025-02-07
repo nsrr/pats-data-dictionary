@@ -1,7 +1,10 @@
 {
   "id": "avgsleeponsetlatency",
-  "display_name": "[Main Sleep] Average sleep onset latency per main sleep (all days) (minutes)",
+  "display_name": "Average daily sleep onset latency in main sleep among all days from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "AvgLatSp_im_w7_f2"
+  ]
 }

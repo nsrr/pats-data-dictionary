@@ -1,7 +1,7 @@
 {
   "id": "psg_rdimrem2p",
-  "display_name": "Calculated - RDI in REM sleep (>= 2% desaturation)",
-  "description": "missing if studies with problems scoring REM/NREM or if studies scored as sleep/wake or NREM sleep time is 0",
+  "display_name": "Apnea-Hypopnea Index (REM): (Apneas with >= 2% oxygen desaturation and with or without arousal + hypopneas with > 30% flow reduction and >= 2% oxygen desaturation and with or without arousal) / hour of REM sleep from type I polysomnography",
+  "description": "Calculated - RDI in REM sleep (>= 2% desaturation)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(hrembp2 + hrop2 + carbp2 + carop2 + oarbp2 + oarop2 + marbp2 + marop2) / minremp",

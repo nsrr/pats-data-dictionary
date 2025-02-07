@@ -1,6 +1,6 @@
 {
   "id": "psg_nordb3",
-  "display_name": "Number of Snore in REM (dB level 3)",
+  "display_name": "Number of snore in rapid eye movement sleep (REM) (decibel (dB) level 3)",
   "description": "",
   "type": "integer",
   "units": "number of events",

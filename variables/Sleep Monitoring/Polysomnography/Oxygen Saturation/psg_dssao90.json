@@ -1,7 +1,7 @@
 {
   "id": "psg_dssao90",
-  "display_name": "Number of desats with SaO2 drops below 90% in sleep",
-  "description": "",
+  "display_name": "Total number of oxygen desaturation with oxygen saturation < 90% from type I polysomnography",
+  "description": "Number of desats with SaO2 drops below 90% in sleep",
   "type": "integer",
   "units": "number of events",
   "labels": [

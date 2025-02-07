@@ -1,7 +1,12 @@
 {
   "id": "srbds_score",
   "display_name": "Total SRBD Scale Score (Range: 0-1)",
-  "description": "",
+  "description": "Summary score for the Pediatric Sleep Questionnaire. It is the number of items with a positive answer (\"yes\") divided by the total number of items answered. The score, ranging 0-1, above 0.33 is considered positive and suggestive of high risk for a pediatric sleep-related breathing disorder. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/mesa/variables?search=psq)",
   "type": "numeric",
-  "calculation": "The number of symptom-items endorsed positively (\"yes\") divided by the number of items answered without missing"
+  "calculation": "The number of symptom-items endorsed positively (\"yes\") divided by the number of items answered without missing",
+  "labels": [
+    "psq",
+    "sdb",
+    "psq_score"
+  ]
 }

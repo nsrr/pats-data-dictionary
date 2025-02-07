@@ -1,7 +1,7 @@
 {
   "id": "psg_rdim4pa",
-  "display_name": "Calculated - RDI with arousals (>= 4% desaturation)",
-  "description": "missing if total sleep time is 4 or if studies scored as sleep/wake or where arousals were ignored",
+  "display_name": "Apnea-Hypopnea Index: (Apneas with >= 4% oxygen desaturation or with arousal + hypopneas with > 30% flow reduction and >= 4% oxygen desaturation or with arousal) / hour of sleep from type I polysomnography",
+  "description": "Calculated - RDI with arousals (>= 4% desaturation)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(hremba4 +hroa4 + hnrba4 + hnroa4 +carba4+ caroa4 + canba4 + canoa4 + oarba4 + oaroa4 + oanba4 + oanoa4 + marbpa4 + maropa4 + manrbpa4 + manropa4)/slpprdp",

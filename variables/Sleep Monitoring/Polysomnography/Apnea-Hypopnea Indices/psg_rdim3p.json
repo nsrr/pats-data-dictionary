@@ -1,7 +1,7 @@
 {
   "id": "psg_rdim3p",
-  "display_name": "Calculated - RDI (>= 3% desaturation)",
-  "description": "missing if total sleep time is 1",
+  "display_name": "Apnea-Hypopnea Index: (Apneas with >= 3% oxygen desaturation and with or without arousal + hypopneas with > 30% flow reduction and >= 3% oxygen desaturation and with or without arousal) / hour of sleep from type I polysomnography",
+  "description": "Calculated - RDI (>= 3% desaturation)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp3 + carop3 + canbp3 + canop3 + oarbp3 + oarop3 + oanbp3 + oanop3 + marbp3 + marop3 + manrbp3 + manrop3)/slpprdp",

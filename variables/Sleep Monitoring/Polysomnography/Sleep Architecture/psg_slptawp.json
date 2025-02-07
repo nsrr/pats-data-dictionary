@@ -1,6 +1,6 @@
 {
   "id": "psg_slptawp",
-  "display_name": "Number of sleep to awake shifts",
+  "display_name": "Total number of shift (sleep stages shift) from sleep to awake from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

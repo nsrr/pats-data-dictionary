@@ -1,7 +1,7 @@
 {
   "id": "psg_time_bed",
-  "display_name": "Calculated - Total time in bed (minutes)",
-  "description": "same as timebedp",
+  "display_name": "Total In-Bed Period: the interval between lights out/in-bed time and lights off/out-bed time from type I polysomnography",
+  "description": "Conventionally this variable would be called time in bed (TIB). <br><br>same as timebedp",
   "type": "integer",
   "units": "minutes (min)",
   "labels": [

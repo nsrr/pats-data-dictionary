@@ -1,7 +1,7 @@
 {
   "id": "psg_smarbp4",
-  "display_name": "Minimum Mixed Apnea length (REM, Back, 4% desat) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of mixed apnea in REM sleep in supine position: Mixed apneas with >= 4% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Minimum Mixed Apnea length (REM, Back, 4% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

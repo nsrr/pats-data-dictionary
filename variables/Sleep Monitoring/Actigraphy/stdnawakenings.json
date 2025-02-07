@@ -1,6 +1,9 @@
 {
   "id": "stdnawakenings",
-  "display_name": "[Main Sleep] Standard deviation of number of awakenings per main sleep (all days)",
-  "description": "Missing if the number of main sleep <= 1",
-  "type": "integer"
+  "display_name": "Standard deviation of daily number of awakenings in main sleep among all days from actigraphy",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "StdNumWk_im_w7_f2"
+  ]
 }

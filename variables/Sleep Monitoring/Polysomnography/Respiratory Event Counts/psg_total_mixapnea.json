@@ -1,6 +1,6 @@
 {
   "id": "psg_total_mixapnea",
-  "display_name": "Total number of mixed apneas",
+  "display_name": "Total number of mixed apnea from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

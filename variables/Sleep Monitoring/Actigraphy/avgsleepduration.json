@@ -1,7 +1,10 @@
 {
   "id": "avgsleepduration",
-  "display_name": "[Main Sleep] Average time spent asleep per main sleep (all days) (minutes)",
-  "description": "",
+  "display_name": "Average daily sleep duration in main sleep among all days from actigraphy",
+  "description": "Total sleep duration: the interval between sleep onset and sleep offset while the participant is asleep",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "AvgDurSp_im_w7_f2"
+  ]
 }

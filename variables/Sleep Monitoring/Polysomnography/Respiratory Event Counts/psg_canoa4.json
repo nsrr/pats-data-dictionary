@@ -1,7 +1,7 @@
 {
   "id": "psg_canoa4",
-  "display_name": "Number of Central Apnea with arousals (NREM, Other, 4% desat)",
-  "description": "",
+  "display_name": "Total number of central apnea in NREM sleep in non-supine position: Central apneas with >= 4% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Number of Central Apnea with arousals (NREM, Other, 4% desat)",
   "type": "integer",
   "units": "number of events",
   "labels": [

@@ -3,5 +3,8 @@
   "display_name": "Over the past month, has your child's Legs been jumpy or jerky during sleep",
   "description": "",
   "type": "choices",
-  "domain": "never_always_notsure"
+  "domain": "never_always_notsure",
+  "labels": [
+    "rls_plms"
+  ]
 }

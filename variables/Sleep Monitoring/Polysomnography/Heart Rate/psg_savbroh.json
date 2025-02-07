@@ -1,6 +1,6 @@
 {
   "id": "psg_savbroh",
-  "display_name": "Average Heart Rate (REM, Other, all desats) (bpm)",
+  "display_name": "Average heart rate in REM sleep in non-supine position from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

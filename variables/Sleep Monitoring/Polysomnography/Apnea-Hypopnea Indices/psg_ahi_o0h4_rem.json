@@ -1,7 +1,7 @@
 {
   "id": "psg_ahi_o0h4_rem",
-  "display_name": "Calculated - Obstructive apnea (all desats) Hypopnea (4% desat) Index in REM sleep",
-  "description": "",
+  "display_name": "Obstructive Apnea-Hypopnea Index (REM): (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and >= 4% oxygen desaturation and with or without arousal) / hour of REM sleep from type I polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60 * (hrembp4 + hrop4 + oarbp + oarop) / minremp",

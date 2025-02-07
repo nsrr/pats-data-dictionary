@@ -1,7 +1,7 @@
 {
   "id": "psg_mxdnba4",
-  "display_name": "Maximum Desat with arousals (NREM, Back, 4% desat)",
-  "description": "",
+  "display_name": "Maximum oxygen saturation in NREM sleep with arousal in supine position with oxygen desaturation >= 4% from type III polysomnography",
+  "description": "Maximum Desat with arousals (NREM, Back, 4% desat)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

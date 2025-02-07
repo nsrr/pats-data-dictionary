@@ -1,7 +1,10 @@
 {
   "id": "stdsleepduration",
-  "display_name": "[Main Sleep] Standard deviation of time spent asleep per main sleep (all days) (minutes)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily sleep duration in main sleep among all days from actigraphy",
+  "description": "Sleep duration: the interval between sleep onset and sleep offset while the participant is asleep",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "StdDurSp_im_w7_f2"
+  ]
 }

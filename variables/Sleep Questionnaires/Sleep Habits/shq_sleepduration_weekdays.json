@@ -3,5 +3,9 @@
   "display_name": "Calculated - Sleep duration on weekdays (hours)",
   "description": "Time lapse between \"shq_bed_weekdays\" and \"shq_woken_weekdays\"",
   "type": "numeric",
-  "units": "hours (hr)"
+  "units": "hours (hr)",
+  "labels": [
+    "sleep_duration",
+    "SleepHealth_duration"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "psg_avcanbp",
-  "display_name": "Average Central Apnea length (NREM, Back, all desats) (seconds)",
-  "description": "",
+  "display_name": "Average duration of central apnea in NREM sleep in supine position: Central apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Average Central Apnea length (NREM, Back, all desats) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

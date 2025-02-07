@@ -1,7 +1,10 @@
 {
   "id": "stdinbedduration",
-  "display_name": "[Main Sleep] Standard deviation of in-bed duration per main sleep (all days) (minutes)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily rest interval (in-bed period) in main sleep among all days from actigraphy",
+  "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "StdPrdRs_im_w7_f2"
+  ]
 }

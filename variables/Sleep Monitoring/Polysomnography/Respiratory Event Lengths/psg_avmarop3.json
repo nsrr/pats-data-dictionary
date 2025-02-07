@@ -1,7 +1,7 @@
 {
   "id": "psg_avmarop3",
-  "display_name": "Average Mixed Apnea length (REM, Other, 3% desat) (seconds) (seconds) (seconds)",
-  "description": "",
+  "display_name": "Average duration of mixed apnea in REM sleep in non-supine position: Mixed apneas with >= 3% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Average Mixed Apnea length (REM, Other, 3% desat) (seconds) (seconds) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

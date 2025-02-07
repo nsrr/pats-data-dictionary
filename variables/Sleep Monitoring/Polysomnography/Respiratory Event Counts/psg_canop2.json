@@ -1,7 +1,7 @@
 {
   "id": "psg_canop2",
-  "display_name": "Number of Central Apnea (NREM, Other, 2% desat)",
-  "description": "",
+  "display_name": "Total number of central apnea in NREM sleep in non-supine position: Central apneas with >= 2% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Number of Central Apnea (NREM, Other, 2% desat)",
   "type": "integer",
   "units": "number of events",
   "labels": [

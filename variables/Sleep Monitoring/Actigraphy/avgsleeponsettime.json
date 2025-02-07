@@ -1,7 +1,10 @@
 {
   "id": "avgsleeponsettime",
-  "display_name": "[Main Sleep] Average sleep onset time per main sleep (all days) ",
+  "display_name": "Average daily sleep onset time in main sleep among all days from actigraphy",
   "description": "",
   "type": "time",
-  "units": "hh:mm:ss"
+  "units": "hh:mm:ss",
+  "labels": [
+    "AvgBptSp_im_w7_f2"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "psg_avg_hypopnea_length_4p_nrem",
-  "display_name": "Average length of each hypopnea with >= 4% oxygen desaturation in NREM sleep (seconds)",
+  "display_name": "Average duration of hypopnea (NREM): hypopneas with > 30% flow reduction and with >= 4% oxygen desaturation and with or without arousal from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

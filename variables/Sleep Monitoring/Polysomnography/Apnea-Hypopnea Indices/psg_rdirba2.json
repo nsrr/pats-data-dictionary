@@ -1,7 +1,7 @@
 {
   "id": "psg_rdirba2",
-  "display_name": "Hypopnea per hour with arousals (REM, Back, 2% desat)",
-  "description": "",
+  "display_name": "Hypopnea Index (REM, Supine): (Hypopneas with > 30% flow reduction and with >= 2% oxygen desaturation or with arousal) / hour of REM sleep in supine position from type I polysomnography",
+  "description": "Hypopnea per hour with arousals (REM, Back, 2% desat)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

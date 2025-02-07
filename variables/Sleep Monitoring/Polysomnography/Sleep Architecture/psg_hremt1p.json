@@ -1,7 +1,7 @@
 {
   "id": "psg_hremt1p",
-  "display_name": "Number of REM to stage 1 shifts per hour of sleep",
-  "description": "",
+  "display_name": "Number of shift (sleep stages shift) from REM sleep to stage 1 sleep per hour of sleep from type I polysomnography",
+  "description": "Number of REM to stage 1 shifts per hour of sleep",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

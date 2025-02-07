@@ -1,6 +1,6 @@
 {
   "id": "psg_lmaslp",
-  "display_name": "Number Limb Movements with arousal (Sleep)",
+  "display_name": "Total number of limb movements with arousal from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

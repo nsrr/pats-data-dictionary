@@ -1,7 +1,7 @@
 {
   "id": "psg_mncarba4",
-  "display_name": "Minimum Central Apnea length with arousals (REM, Back, 4% desat) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of central apnea in REM sleep in supine position: central apneas with >= 4% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Minimum Central Apnea length with arousals (REM, Back, 4% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

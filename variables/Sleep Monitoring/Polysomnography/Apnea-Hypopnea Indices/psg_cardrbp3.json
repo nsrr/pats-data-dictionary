@@ -1,7 +1,7 @@
 {
   "id": "psg_cardrbp3",
-  "display_name": "Central Apnea per hour (REM, Back, 3% desat)",
-  "description": "",
+  "display_name": "Central Apnea Index (REM, Supine): (Central apneas with >= 3% oxygen desaturation and with or without arousal) / hour of REM sleep in supine position from type I polysomnography",
+  "description": "Central Apnea per hour (REM, Back, 3% desat)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

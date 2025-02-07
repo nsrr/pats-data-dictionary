@@ -1,6 +1,6 @@
 {
   "id": "psg_avsao2nh",
-  "display_name": "Average SaO2 % during NREM sleep",
+  "display_name": "Average oxygen saturation in NREM sleep from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "percent (%)",

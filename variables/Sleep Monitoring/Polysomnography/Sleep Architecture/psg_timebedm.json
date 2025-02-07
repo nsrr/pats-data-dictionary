@@ -1,7 +1,7 @@
 {
   "id": "psg_timebedm",
-  "display_name": "Time in bed (minutes .5)",
-  "description": "",
+  "display_name": "Total In-Bed Period: the interval between lights out/in-bed time and lights off/out-bed time from type I polysomnography",
+  "description": "Time in bed (minutes .5)",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [

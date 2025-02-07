@@ -1,7 +1,7 @@
 {
   "id": "psg_mxcanoa4",
-  "display_name": "Maximum Central Apnea length with arousals (NREM, Other 4% desat) (seconds)",
-  "description": "",
+  "display_name": "Maximum duration of central apnea in NREM sleep in non-supine position: Central apneas with >= 4% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Maximum Central Apnea length with arousals (NREM, Other 4% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

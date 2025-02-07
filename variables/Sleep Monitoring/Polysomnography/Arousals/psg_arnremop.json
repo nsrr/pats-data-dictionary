@@ -1,9 +1,9 @@
 {
   "id": "psg_arnremop",
-  "display_name": "Number of Arousals (NREM, Other, all desats)",
+  "display_name": "Total number of arousals in NREM sleep in non-supine position from type I polysomnography",
   "description": "",
   "type": "integer",
-  "units": "events",
+  "units": "number of events",
   "labels": [
     "ttlnumar_snpo_f1t1"
   ]

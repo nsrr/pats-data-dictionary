@@ -1,7 +1,10 @@
 {
   "id": "avgefficiency",
-  "display_name": "[Main Sleep] Average sleep efficiency per main sleep (all days) (%)",
+  "display_name": "Average daily sleep efficiency in main sleep from all days from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "labels": [
+    "AvgEffSp_im_w7_f2"
+  ]
 }

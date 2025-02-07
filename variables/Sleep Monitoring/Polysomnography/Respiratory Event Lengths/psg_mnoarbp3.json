@@ -1,7 +1,7 @@
 {
   "id": "psg_mnoarbp3",
-  "display_name": "Minimum Obstructive Apnea length (REM, Back, 3% desat) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of obstructive apnea in REM sleep in supine position: Obstructive apneas with >= 3% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Minimum Obstructive Apnea length (REM, Back, 3% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

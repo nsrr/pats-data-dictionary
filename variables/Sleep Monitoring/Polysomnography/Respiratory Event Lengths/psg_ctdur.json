@@ -1,7 +1,7 @@
 {
   "id": "psg_ctdur",
-  "display_name": "Total Central Apnea Length (minutes)",
-  "description": "",
+  "display_name": "Total duration of central apnea: central apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "NA",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [

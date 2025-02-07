@@ -5,6 +5,7 @@
   "type": "integer",
   "labels": [
     "osa18",
-    "osa18_19quality"
+    "osa18_19quality",
+    "sdb"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "psg_aavbnoh",
-  "display_name": "Average Heart Rate with arousal (NREM, Other, all desats) (bpm)",
+  "display_name": "Average heart rate associated with arousal in NREM sleep in non-supine position from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

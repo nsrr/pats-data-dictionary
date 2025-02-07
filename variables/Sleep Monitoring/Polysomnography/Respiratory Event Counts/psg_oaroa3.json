@@ -1,7 +1,7 @@
 {
   "id": "psg_oaroa3",
-  "display_name": "Number of Obstructive Apnea with arousals (REM, Other, 3% desat)",
-  "description": "",
+  "display_name": "Total number of obstructive apnea in REM sleep in non-supine position: Obstructive apneas with >= 3% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Number of Obstructive Apnea with arousals (REM, Other, 3% desat)",
   "type": "integer",
   "units": "number of events",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "psg_hmanrop4",
-  "display_name": "Number Mixed Apnea per hour (NREM, Other, 4% desat)",
-  "description": "",
+  "display_name": "Mixed Apnea Index (NREM, Non-Supine)): (Mixed apneas with >= 4% oxygen desaturation and with or without arousal) / hour of NREM sleep in non-supine position from type I polysomnography",
+  "description": "Number Mixed Apnea per hour (NREM, Other, 4% desat)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

@@ -1,7 +1,10 @@
 {
   "id": "avgnawakenings_we",
-  "display_name": "[Main Sleep] Average number of awakenings per main sleep (on weekend days)",
+  "display_name": "Average daily number of awakenings in main sleep among on weekends from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "AvgNumWk_im_w2_f2"
+  ]
 }

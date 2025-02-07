@@ -1,9 +1,9 @@
 {
   "id": "psg_ahnrembp",
-  "display_name": "Arousals per hour (NREM, Back, all desats)",
-  "description": "",
+  "display_name": "Number of arousals per hour in NREM sleep in supine position from type I polysomnography",
+  "description": "Arousals per hour (NREM, Back, all desats)",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "phrnumar_snpb_f1t1"
   ]

@@ -1,7 +1,7 @@
 {
   "id": "psg_ahtdurop",
-  "display_name": "Total Apnea and Hypopnea Length (REM, Other) (minutes)",
-  "description": "",
+  "display_name": "Total duration of apnea and hypopnea (REM, Non-Supine): Apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with no oxygen desaturation used and with or without arousal in REM sleep in non-supine position from type I polysomnography",
+  "description": "Total Apnea and Hypopnea Length (REM, Other) (minutes)",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [

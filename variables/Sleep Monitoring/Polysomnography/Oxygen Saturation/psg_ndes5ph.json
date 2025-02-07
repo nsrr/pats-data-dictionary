@@ -1,7 +1,7 @@
 {
   "id": "psg_ndes5ph",
-  "display_name": "Number of desat with >= 5% desat",
-  "description": "",
+  "display_name": "Total number of oxygen desaturation with oxygen desaturation >= 5% from type I polysomnography",
+  "description": "Number of desat with >= 5% desat",
   "type": "integer",
   "units": "number of events",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "psg_mxoanba",
-  "display_name": "Maximum Obstructive Apnea length with arousals (NREM, Back, all desats) (seconds)",
-  "description": "",
+  "display_name": "Maximum duration of obstructive apnea in NREM sleep in supine position: Obstructive apneas with no oxygen desaturation threshold used only with arousal from type I polysomnography",
+  "description": "Maximum Obstructive Apnea length with arousals (NREM, Back, all desats) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

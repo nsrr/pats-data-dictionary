@@ -1,7 +1,7 @@
 {
   "id": "psg_hntdur",
-  "display_name": "Total Hypopnea Length (NREM) (minutes)",
-  "description": "",
+  "display_name": "Total duration of hypopnea (NREM): hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with or without arousal in NREM sleep from type I polysomnography",
+  "description": "NA",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [

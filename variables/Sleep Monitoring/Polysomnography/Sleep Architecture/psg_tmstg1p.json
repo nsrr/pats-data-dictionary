@@ -1,7 +1,7 @@
 {
   "id": "psg_tmstg1p",
-  "display_name": "Percent sleep time in stage 1 sleep (%)",
-  "description": "",
+  "display_name": "Percentage of stage 1 sleep among total sleep duration from type I polysomnography",
+  "description": "Conventionally, total sleep duration would be called total sleep time (TST).<br><br>Percent of sleep time in stage 1 [100*(number of minutes scored as stage 1) / (Total Sleep Time (TST))]",
   "type": "numeric",
   "units": "percent (%)",
   "labels": [

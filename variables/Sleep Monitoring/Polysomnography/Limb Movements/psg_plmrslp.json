@@ -1,6 +1,6 @@
 {
   "id": "psg_plmrslp",
-  "display_name": "Number PLMs with resp. events (Sleep)",
+  "display_name": "Total number of periodic limb movements (PLMs) in sleep with respiratory event from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

@@ -6,6 +6,7 @@
   "domain": "ess",
   "labels": [
     "epworth",
-    "esschad_01sitread"
+    "esschad_01sitread",
+    "ess_1sitread"
   ]
 }

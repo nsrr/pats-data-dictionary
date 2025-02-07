@@ -1,6 +1,6 @@
 {
   "id": "psg_plmcnrem",
-  "display_name": "Number PLM clusters (NREM)",
+  "display_name": "Total number of periodic limb movement (PLM) clusters in NREM sleep from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

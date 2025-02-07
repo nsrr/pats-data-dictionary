@@ -1,9 +1,9 @@
 {
   "id": "psg_arrembp",
-  "display_name": "Number of Arousals (REM, Back, all desats)",
+  "display_name": "Total number of arousals in REM sleep in supine position from type I polysomnography",
   "description": "",
   "type": "integer",
-  "units": "events",
+  "units": "number of events",
   "labels": [
     "ttlnumar_srpb_f1t1"
   ]

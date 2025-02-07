@@ -1,7 +1,7 @@
 {
   "id": "psg_hnrbp",
-  "display_name": "Number of Hypopnea (NREM, Back, all desats)",
-  "description": "",
+  "display_name": "Total number of hypopnea in NREM sleep in supine position: hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Number of Hypopnea (NREM, Back, all desats)",
   "type": "integer",
   "units": "number of events",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "psg_rdimrem4p",
-  "display_name": "Calculated - RDI in REM sleep (>= 4% desaturation)",
-  "description": "missing if studies with problems scoring REM/NREM or if studies scored as sleep/wake or NREM sleep time is 4",
+  "display_name": "Apnea-Hypopnea Index (REM): (Apneas with >= 4% oxygen desaturation and with or without arousal + hypopneas with > 30% flow reduction and >= 4% oxygen desaturation and with or without arousal) / hour of REM sleep from type I polysomnography",
+  "description": "Calculated - RDI in REM sleep (>= 4% desaturation)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(hrembp4 + hrop4 + carbp4 + carop4 + oarbp4 + oarop4 + marbp4 + marop4) / minremp",

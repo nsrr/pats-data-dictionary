@@ -1,7 +1,7 @@
 {
   "id": "psg_mnoanop4",
-  "display_name": "Minimum Obstructive Apnea length (NREM, Other, 4% desat) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of obstructive apnea in NREM sleep in non-supine position: Obstructive apneas with >= 4% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Minimum Obstructive Apnea length (NREM, Other, 4% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

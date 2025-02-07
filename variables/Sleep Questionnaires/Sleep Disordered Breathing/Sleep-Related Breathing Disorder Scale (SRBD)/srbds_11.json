@@ -6,6 +6,7 @@
   "domain": "yes_no_dontknow",
   "labels": [
     "psq",
-    "psq_11day"
+    "psq_11day",
+    "sdb"
   ]
 }

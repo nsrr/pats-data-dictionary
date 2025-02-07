@@ -1,7 +1,7 @@
 {
   "id": "psg_saondoaslp",
-  "display_name": "Average SaO2% Nadir assoc. with Obstructive Apnea (Sleep)",
-  "description": "",
+  "display_name": "Average nadirs: Obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Average SaO2% Nadir assoc. with Obstructive Apnea (Sleep)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

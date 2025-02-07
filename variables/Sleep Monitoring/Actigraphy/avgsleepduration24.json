@@ -1,7 +1,10 @@
 {
   "id": "avgsleepduration24",
-  "display_name": "[24-Hour Sleep] Average time spent asleep per day (all days) (minutes)",
-  "description": "",
+  "display_name": "Average daily sleep duration over 24-hour periods among all days from actigraphy",
+  "description": "Total sleep duration: the interval between sleep onset and sleep offset while the participant is asleep",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "AvgDurSp_ib_w7_f2"
+  ]
 }

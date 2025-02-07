@@ -1,7 +1,10 @@
 {
   "id": "stdawakeninglength",
-  "display_name": "[Main Sleep] Standard deviation of mean length of awakenings per main sleep (all days) (minutes)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily mean duration of awakenings per main sleep among all days from actigraphy",
+  "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "StdMeaWk_im_w7_f2"
+  ]
 }

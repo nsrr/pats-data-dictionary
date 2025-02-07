@@ -1,7 +1,7 @@
 {
   "id": "psg_mxdrop5",
-  "display_name": "Maximum Desat (REM, Other, 5% desat)",
-  "description": "",
+  "display_name": "Maximum oxygen saturation in REM sleep in non-supine position with oxygen desaturation >= 5% from type III polysomnography",
+  "description": "Maximum Desat (REM, Other, 5% desat)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

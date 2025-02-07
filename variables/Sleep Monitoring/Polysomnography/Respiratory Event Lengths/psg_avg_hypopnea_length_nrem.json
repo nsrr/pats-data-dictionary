@@ -1,6 +1,6 @@
 {
   "id": "psg_avg_hypopnea_length_nrem",
-  "display_name": "Average length of each hypopnea in NREM sleep (seconds)",
+  "display_name": "Average duration of hypopnea (NREM): hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

@@ -1,7 +1,7 @@
 {
   "id": "psg_marbp",
-  "display_name": "Number Mixed Apnea (REM, Back, all desats)",
-  "description": "",
+  "display_name": "Total number of mixed apnea in REM sleep in supine position: Mixed apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Number Mixed Apnea (REM, Back, all desats)",
   "type": "integer",
   "units": "number of events",
   "labels": [

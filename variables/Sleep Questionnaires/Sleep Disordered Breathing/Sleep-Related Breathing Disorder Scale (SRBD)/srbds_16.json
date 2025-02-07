@@ -6,6 +6,7 @@
   "domain": "yes_no_dontknow",
   "labels": [
     "psq",
-    "psq_16overweight"
+    "psq_16overweight",
+    "sdb"
   ]
 }

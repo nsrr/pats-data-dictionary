@@ -1,7 +1,7 @@
 {
   "id": "psg_rdim5pns",
-  "display_name": "Calculated - RDI in non-supine body position (>= 5% desaturation)",
-  "description": "missing if studies with problems scoring REM/NREM or if studies scored as sleep/wake or REM sleep time is 3",
+  "display_name": "Apnea-Hypopnea Index (Non-Supine): (Apneaswith >= 5% oxygen desaturation and with or without arousal + hypopneas with > 30% flow reduction and >= 5% oxygen desaturation and with or without arousal) / hour of sleep in non-supine position from type I polysomnography",
+  "description": "Calculated - RDI in non-supine body position (>= 5% desaturation)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(hrop5 + hnrop5 + carop5 + canop5 + oarop5 + oanop5 + marop5 + manrop5)/(remepop+nremepop)",

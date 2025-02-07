@@ -1,7 +1,10 @@
 {
   "id": "avgoutbedtime",
-  "display_name": "[Main Sleep] Average out-bed time per main sleep (all days) ",
+  "display_name": "Average daily end time for rest interval or in-bed period in main sleep among all days from actigraphy",
   "description": "",
   "type": "time",
-  "units": "hh:mm:ss"
+  "units": "hh:mm:ss",
+  "labels": [
+    "AvgEptRs_im_w7_f2"
+  ]
 }

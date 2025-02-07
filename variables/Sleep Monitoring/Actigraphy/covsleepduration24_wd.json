@@ -1,7 +1,10 @@
 {
   "id": "covsleepduration24_wd",
-  "display_name": "[24-Hour Sleep] Coefficient of variation of time spent asleep per day (on weekday days) (%)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Coefficient of variation of daily total sleep duration over 24-hour periods on weekdays from actigraphy",
+  "description": "Total sleep duration: the interval between sleep onset and sleep offset while the participant is asleep",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "labels": [
+    "CovDurSp_ib_w5_f2"
+  ]
 }

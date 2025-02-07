@@ -1,9 +1,9 @@
 {
   "id": "psg_stlonp",
-  "display_name": "Lights on set by scorer (hh:mm:ss)",
-  "description": "",
+  "display_name": "Clock time (hours of the day) when the participant is out of bed or lights are on set by scorer from type I polysomnography",
+  "description": "Conventionally, this variable would be called the end of time in bed (TIB). ",
   "type": "time",
-  "units": "hh:mm:ss",
+  "units": "H:mm:ss",
   "labels": [
     "endtimbd_f1t1"
   ]

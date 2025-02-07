@@ -1,7 +1,10 @@
 {
   "id": "avgmovementindex_wd",
-  "display_name": "[Main Sleep] Average movement index per main sleep (on weekday days) (%)",
+  "display_name": "Average daily movement index in main sleep on weekdays from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "labels": [
+    "AvgIndMv_im_w5_f2"
+  ]
 }

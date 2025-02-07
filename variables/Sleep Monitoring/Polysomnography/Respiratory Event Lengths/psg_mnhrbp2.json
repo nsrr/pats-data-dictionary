@@ -1,7 +1,7 @@
 {
   "id": "psg_mnhrbp2",
-  "display_name": "Minimum Hypopnea length (REM, Back, 2% desat) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of hypopnea in REM sleep in supine position: Hypopneas with > 30% flow reduction and with >= 2% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Minimum Hypopnea length (REM, Back, 2% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

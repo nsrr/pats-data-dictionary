@@ -1,7 +1,7 @@
 {
   "id": "psg_mnhnbp3",
-  "display_name": "Minimum Hypopnea length (NREM, Back, 3% desat) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of hypopnea in NREM sleep in supine position: Hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Minimum Hypopnea length (NREM, Back, 3% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

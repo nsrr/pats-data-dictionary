@@ -1,7 +1,7 @@
 {
   "id": "psg_cai0p",
-  "display_name": "Calculated - Central apnea index (all desats)",
-  "description": "missing if total sleep time is 0",
+  "display_name": "Central Apnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep from type I polysomnography",
+  "description": "Calculated - Central apnea index (all desats)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(carbp +  carop  + canbp  + canop)/slpprdp",

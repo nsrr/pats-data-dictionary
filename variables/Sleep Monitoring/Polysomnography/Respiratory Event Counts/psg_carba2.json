@@ -1,7 +1,7 @@
 {
   "id": "psg_carba2",
-  "display_name": "Number of Central Apnea with arousals (REM, Back, 2% desat)",
-  "description": "",
+  "display_name": "Total number of central apnea in REM sleep in supine position: Central apneas with >= 2% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Number of Central Apnea with arousals (REM, Back, 2% desat)",
   "type": "integer",
   "units": "number of events",
   "labels": [

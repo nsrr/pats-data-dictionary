@@ -1,7 +1,7 @@
 {
   "id": "psg_omai4pa",
-  "display_name": "Calculated - Obstructive/Mixed Apnea Index (4% desats) with arousals",
-  "description": "missing if total sleep time is 0 or if studies scored as sleep/wake",
+  "display_name": "Obstructive/Mixed Apnea Index: (Obstructive apneas with >=4% oxygen desaturation or with arousal +mixed apneas with >=4% oxygen desaturation or with arousal) / hour of sleep from type I polysomnography",
+  "description": "Calculated - Obstructive/Mixed Apnea Index (4% desats) with arousals",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(oarba4 + oaroa4 + oanba4 + oanoa4 + marbpa + maropa + manrbpa + manropa)/slpprdp",

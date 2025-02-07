@@ -1,7 +1,10 @@
 {
   "id": "stdmaintefficiency",
-  "display_name": "[Main Sleep] Standard deviation of sleep maintainance efficiency per main sleep (all days) (%)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily sleep maintenance efficiency in main sleep among all days from actigraphy",
+  "description": "",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "labels": [
+    "StdMefSp_im_w7_f2"
+  ]
 }

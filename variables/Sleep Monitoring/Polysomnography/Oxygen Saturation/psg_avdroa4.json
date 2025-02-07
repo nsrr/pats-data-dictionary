@@ -1,7 +1,7 @@
 {
   "id": "psg_avdroa4",
-  "display_name": "Average Desat with arousals (REM, Other, 4% desat)",
-  "description": "",
+  "display_name": "Average oxygen desaturation for all respiratory events with >= 4% desat or arousal in REM sleep in non-supine position: Apneas with >= 4% oxygen desaturation or with arousal + hypopneas with > 50% flow reduction and >= 4% oxygen desaturation or arousal from type I polysomnography",
+  "description": "Average Desat with arousals (REM, Other, 4% desat)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

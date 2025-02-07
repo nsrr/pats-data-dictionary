@@ -1,7 +1,7 @@
 {
   "id": "psg_oanbp",
-  "display_name": "Number of Obstructive Apnea (NREM, Back, all desats)",
-  "description": "",
+  "display_name": "Total number of obstructive apnea in NREM sleep in supine position: Obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Number of Obstructive Apnea (NREM, Back, all desats)",
   "type": "integer",
   "units": "number of events",
   "labels": [

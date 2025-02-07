@@ -1,7 +1,7 @@
 {
   "id": "psg_cai4pa",
-  "display_name": "Calculated - Central apnea index (4% desats) with arousals",
-  "description": "missing if total sleep time is 0 or if studies scored as sleep/wake",
+  "display_name": "Central Apnea Index: (Central apneas with >= 4% oxygen desaturation or with arousal) / hour of sleep from type I polysomnography",
+  "description": "Calculated - Central apnea index (4% desats) with arousals",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(carba4 + caroa4 + canba4 + canoa4)/slpprdp",

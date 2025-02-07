@@ -3,5 +3,9 @@
   "display_name": "Over the past one month, at what time on average has your child woken up on weekdays (after the sleep period)",
   "description": "",
   "type": "time",
-  "units": "hh:mm:ss"
+  "units": "H:mm:ss",
+  "labels": [
+    "sleep_timing",
+    "SleepHealth_timing"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "psg_dsnr3",
-  "display_name": "Number of desats per hour (NREM, >= 3%)",
-  "description": "",
+  "display_name": "Number of oxygen desaturation per hour in NREM sleep with oxygen desaturation >= 3% from type I polysomnography",
+  "description": "Number of desats per hour (NREM, >= 3%)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

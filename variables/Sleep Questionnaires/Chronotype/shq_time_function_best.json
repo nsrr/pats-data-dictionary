@@ -3,5 +3,8 @@
   "display_name": "At what time of day does your child function best",
   "description": "",
   "type": "choices",
-  "domain": "morning_evening"
+  "domain": "morning_evening",
+  "labels": [
+    "chronotype"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "psg_oarop5",
-  "display_name": "Number of Obstructive Apnea (REM, Other, 5% desat)",
-  "description": "",
+  "display_name": "Total number of obstructive apnea in REM sleep in non-supine position: Obstructive apneas with >= 5% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Number of Obstructive Apnea (REM, Other, 5% desat)",
   "type": "integer",
   "units": "number of events",
   "labels": [

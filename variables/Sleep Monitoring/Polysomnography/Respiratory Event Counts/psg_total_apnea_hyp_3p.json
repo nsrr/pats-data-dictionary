@@ -1,6 +1,6 @@
 {
   "id": "psg_total_apnea_hyp_3p",
-  "display_name": "Total number of respiratory events ([all apneas] and [hypopneas with >= 3% oxygen desaturation])",
+  "display_name": "Total number of apnea and hypopnea: apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and >= 3% oxygen desaturation with or without arousal from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

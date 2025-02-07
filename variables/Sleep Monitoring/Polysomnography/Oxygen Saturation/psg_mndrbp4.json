@@ -1,7 +1,7 @@
 {
   "id": "psg_mndrbp4",
-  "display_name": "Minimum SaO2 (REM, Back, 4% desat) (%)",
-  "description": "",
+  "display_name": "Minimum oxygen saturation in REM sleep in supine position with oxygen desaturation >= 4% from type III polysomnography",
+  "description": "Minimum SaO2 (REM, Back, 4% desat) (%)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

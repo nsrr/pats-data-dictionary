@@ -1,6 +1,6 @@
 {
   "id": "psg_lmarnrem",
-  "display_name": "Number Limb Movements with arousal and resp. event (NREM)",
+  "display_name": "Total number of limb movements in NREM sleep with arousal and respiratory event from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

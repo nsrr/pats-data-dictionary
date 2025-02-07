@@ -1,7 +1,7 @@
 {
   "id": "psg_mnoanba2",
-  "display_name": "Minimum Obstructive Apnea length with arousals (NREM, Back, 2% desat) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of obstructive apnea in NREM sleep in supine position: Obstructive apneas with >= 2% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Minimum Obstructive Apnea length with arousals (NREM, Back, 2% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

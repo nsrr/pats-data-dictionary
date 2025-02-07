@@ -1,7 +1,7 @@
 {
   "id": "psg_ahntdurbp",
-  "display_name": "Total Apnea and Hypopnea Length (NREM, Back) (minutes)",
-  "description": "",
+  "display_name": "Total duration of apnea and hypopnea (NREM, Supine): Apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with no oxygen desaturation used and with or without arousal in NREM sleep in supine position from type I polysomnography",
+  "description": "Total Apnea and Hypopnea Length (NREM, Back) (minutes)",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [

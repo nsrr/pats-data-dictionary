@@ -1,6 +1,6 @@
 {
   "id": "psg_longap",
-  "display_name": "Longest Apnea (seconds)",
+  "display_name": "Maximum duration of apnea from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

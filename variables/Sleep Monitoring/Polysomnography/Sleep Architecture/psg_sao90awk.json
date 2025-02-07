@@ -1,6 +1,6 @@
 {
   "id": "psg_sao90awk",
-  "display_name": "Total time SaO2 < 90% in awake (minutes)",
+  "display_name": "Total duration of wake in bed with oxygen saturation < 90% from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

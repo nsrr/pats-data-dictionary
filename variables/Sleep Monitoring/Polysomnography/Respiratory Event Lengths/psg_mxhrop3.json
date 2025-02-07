@@ -1,7 +1,7 @@
 {
   "id": "psg_mxhrop3",
-  "display_name": "Maximum Hypopnea length (REM, Other, 3% desat) (seconds)",
-  "description": "",
+  "display_name": "Maximum duration of hypopnea in REM sleep in non-supine position: Hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Maximum Hypopnea length (REM, Other, 3% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

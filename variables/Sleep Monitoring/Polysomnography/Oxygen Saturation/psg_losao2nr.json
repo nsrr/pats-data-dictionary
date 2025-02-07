@@ -1,7 +1,7 @@
 {
   "id": "psg_losao2nr",
-  "display_name": "Calculated - Minimum SaO2 in NREM sleep (%)",
-  "description": "same as mnsao2nh; missing if mnsao2nh = 0;",
+  "display_name": "Minimum oxygen saturation in NREM sleep from type I polysomnography",
+  "description": "",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

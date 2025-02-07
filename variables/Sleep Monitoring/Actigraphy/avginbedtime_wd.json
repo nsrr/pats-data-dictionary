@@ -1,7 +1,10 @@
 {
   "id": "avginbedtime_wd",
-  "display_name": "[Main Sleep] Average in-bed time per main sleep (on weekday days) ",
+  "display_name": "Average daily start time of in-bed period or rest interval in main sleep on weekdays from actigraphy",
   "description": "",
   "type": "time",
-  "units": "hh:mm:ss"
+  "units": "hh:mm:ss",
+  "labels": [
+    "AvgBptRs_im_w5_f2"
+  ]
 }

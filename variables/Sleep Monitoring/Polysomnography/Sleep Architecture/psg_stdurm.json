@@ -1,6 +1,6 @@
 {
   "id": "psg_stdurm",
-  "display_name": "Study length (epoch 1 to last epoch- minutes)",
+  "display_name": "Total recording period of from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

@@ -1,9 +1,9 @@
 {
   "id": "psg_ai_nrem",
-  "display_name": "Calculated - Arousal index for sleep in NREM stage",
-  "description": "missing if study scored as sleep/wake or where arousals were ignored",
+  "display_name": "Arousal Index (NREM): number of arousals per hour of NREM sleep from type I polysomnography",
+  "description": "",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "calculation": "60*(arnrembp + arnremop)/(slpprdp - minremp)",
   "labels": [
     "phrnumar_sn_f1t1"

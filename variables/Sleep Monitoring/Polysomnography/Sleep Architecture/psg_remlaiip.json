@@ -1,6 +1,6 @@
 {
   "id": "psg_remlaiip",
-  "display_name": "REM Latency II - excluding wake (minutes)",
+  "display_name": "REM Sleep Latency: the interval between the first sleep epoch and REM sleep excluding wake from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "minutes (min)",

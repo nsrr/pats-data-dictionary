@@ -1,7 +1,7 @@
 {
   "id": "psg_oarba4",
-  "display_name": "Number of Obstructive Apnea with arousals (REM, Back, 4% desat)",
-  "description": "",
+  "display_name": "Total number of obstructive apnea in REM sleep in supine position: Obstructive apneas with >= 4% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Number of Obstructive Apnea with arousals (REM, Back, 4% desat)",
   "type": "integer",
   "units": "number of events",
   "labels": [

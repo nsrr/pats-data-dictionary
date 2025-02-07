@@ -1,6 +1,6 @@
 {
   "id": "psg_mnstg34p",
-  "display_name": "Time in stage 3-4 sleep (minutes)",
+  "display_name": "Total duration of sleep in stage 3/4 sleep from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "minutes (min)",

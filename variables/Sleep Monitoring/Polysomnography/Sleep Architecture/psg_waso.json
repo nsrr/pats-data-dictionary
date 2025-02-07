@@ -1,6 +1,6 @@
 {
   "id": "psg_waso",
-  "display_name": "Calculated - Wake time after sleep onset (WASO) (minutes)",
+  "display_name": "Wake After Sleep Onset: the total duration between sleep onset and lights-on/out-bed time while being awake from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "minutes (min)",

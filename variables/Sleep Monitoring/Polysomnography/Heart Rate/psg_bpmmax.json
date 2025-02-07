@@ -1,6 +1,6 @@
 {
   "id": "psg_bpmmax",
-  "display_name": "Highest Heart rate (bpm)",
+  "display_name": "Maximum level of heart rate from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

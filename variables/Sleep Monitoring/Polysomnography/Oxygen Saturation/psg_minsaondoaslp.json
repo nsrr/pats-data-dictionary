@@ -1,6 +1,6 @@
 {
   "id": "psg_minsaondoaslp",
-  "display_name": "Minimum SaO2% Nadir assoc. with Obstructive Apnea (Sleep)",
+  "display_name": "Minimum nadirs: Obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "percent (%)",

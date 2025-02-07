@@ -1,7 +1,7 @@
 {
   "id": "psg_rdim0p",
-  "display_name": "Calculated - RDI (>= 0% desaturation)",
-  "description": "missing if total sleep time is 0",
+  "display_name": "Apnea-Hypopnea Index: (Apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with no oxygen desaturation used and with or without arousal) / hour of sleep from type I polysomnography",
+  "description": "Calculated - RDI (>= 0% desaturation)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(hrembp + hrop + hnrbp + hnrop + carbp + carop + canbp + canop +oarbp +oarop + oanbp + oanop + marbp + marop + manrbp + manrop)/slpprdp",

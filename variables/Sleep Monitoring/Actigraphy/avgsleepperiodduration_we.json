@@ -1,7 +1,10 @@
 {
   "id": "avgsleepperiodduration_we",
-  "display_name": "[Main Sleep] Average sleep period duration per main sleep (on weekend days) (minutes)",
+  "display_name": "Average daily sleep period (interval between sleep onset and sleep offset) in main sleep on weekends from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "AvgPrdSp_im_w2_f2"
+  ]
 }

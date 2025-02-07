@@ -6,6 +6,8 @@
   "domain": "yes_no_dontknow",
   "labels": [
     "psq",
-    "psq_06stop"
+    "psq_06stop",
+    "sdb",
+    "SleepHealth_sleep_apnea"
   ]
 }

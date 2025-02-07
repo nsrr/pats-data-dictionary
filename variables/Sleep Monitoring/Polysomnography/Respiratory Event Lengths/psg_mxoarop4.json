@@ -1,7 +1,7 @@
 {
   "id": "psg_mxoarop4",
-  "display_name": "Maximum Obstructive Apnea length (REM, Other, 4% desat) (seconds)",
-  "description": "",
+  "display_name": "Maximum duration of obstructive apnea in REM sleep in non-supine position: Obstructive apneas with >= 4% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Maximum Obstructive Apnea length (REM, Other, 4% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

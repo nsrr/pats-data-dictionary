@@ -1,7 +1,7 @@
 {
   "id": "psg_havgdur",
-  "display_name": "Average Hypopnea Length (seconds)",
-  "description": "",
+  "display_name": "Average duration of hypopnea: hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "NA",
   "type": "numeric",
   "units": "seconds (s)",
   "labels": [

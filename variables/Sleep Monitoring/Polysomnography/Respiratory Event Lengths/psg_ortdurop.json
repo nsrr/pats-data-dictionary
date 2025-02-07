@@ -1,7 +1,7 @@
 {
   "id": "psg_ortdurop",
-  "display_name": "Total Obstructive Apnea Length (REM, Other) (minutes)",
-  "description": "",
+  "display_name": "Total duration of obstructive apnea in REM sleep in non-supine position: obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Total Obstructive Apnea Length (REM, Other) (minutes)",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [

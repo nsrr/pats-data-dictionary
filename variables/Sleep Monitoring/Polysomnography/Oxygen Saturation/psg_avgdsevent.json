@@ -1,7 +1,7 @@
 {
   "id": "psg_avgdsevent",
-  "display_name": "Average Desaturation (assoc. with manually scored resp. events)",
-  "description": "",
+  "display_name": "Average oxygen desaturation associated with manually scored respiratory events from type I polysomnography",
+  "description": "Average desaturation associated with manually scored respiratory events and respiratory events (apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with no oxygen desaturation used and with or without arousal)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

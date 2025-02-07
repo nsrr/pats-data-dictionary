@@ -1,6 +1,6 @@
 {
   "id": "psg_total_centapnea",
-  "display_name": "Total number of central apneas",
+  "display_name": "Total number of central apnea from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

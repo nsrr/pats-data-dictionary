@@ -1,7 +1,7 @@
 {
   "id": "psg_avoanba4",
-  "display_name": "Average Obstructive Apnea length with arousals (NREM, Back, 4% desat) (seconds)",
-  "description": "",
+  "display_name": "Average duration of obstructive apnea in NREM sleep in supine position: Obstructive apneas with >= 4% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Average Obstructive Apnea length with arousals (NREM, Back, 4% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

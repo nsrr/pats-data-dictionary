@@ -1,7 +1,7 @@
 {
   "id": "psg_mndnoa",
-  "display_name": "Minimum SaO2 with arousals (NREM, Other, all desats) (%)",
-  "description": "",
+  "display_name": "Minimum oxygen saturation in NREM sleep with arousal in non-supine position with oxygen desaturation > 0% from type III polysomnography",
+  "description": "Minimum SaO2 with arousals (NREM, Other, all desats) (%)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

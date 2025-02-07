@@ -1,7 +1,7 @@
 {
   "id": "psg_avhnoa5",
-  "display_name": "Average Hypopnea length with arousals (NREM, Other, 5% desat) (seconds)",
-  "description": "",
+  "display_name": "Average duration of hypopnea in NREM sleep in non-supine position: Hypopneas with > 30% flow reduction and with >= 5% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Average Hypopnea length with arousals (NREM, Other, 5% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

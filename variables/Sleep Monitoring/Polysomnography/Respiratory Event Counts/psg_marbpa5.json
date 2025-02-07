@@ -1,7 +1,7 @@
 {
   "id": "psg_marbpa5",
-  "display_name": "Number Mixed Apnea with arousal (REM, Back, 5% desat)",
-  "description": "",
+  "display_name": "Total number of mixed apnea in REM sleep in supine position: Mixed apneas with >= 5% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Number Mixed Apnea with arousal (REM, Back, 5% desat)",
   "type": "integer",
   "units": "number of events",
   "labels": [

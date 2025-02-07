@@ -1,7 +1,7 @@
 {
   "id": "psg_hroa4",
-  "display_name": "Number of Hypopnea with arousals (REM, Other, 4% desat)",
-  "description": "",
+  "display_name": "Total number of hypopnea in REM sleep in non-supine position: hypopneas with > 30% flow reduction and with >= 4% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Number of Hypopnea with arousals (REM, Other, 4% desat)",
   "type": "integer",
   "units": "number of events",
   "labels": [

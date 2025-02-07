@@ -1,7 +1,7 @@
 {
   "id": "psg_cardnbp5",
-  "display_name": "Central Apnea per hour (NREM, Back, 5% desat)",
-  "description": "",
+  "display_name": "Total number of central apnea in NREM sleep in supine position: Central apneas with >= 5% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Central Apnea per hour (NREM, Back, 5% desat)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

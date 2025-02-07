@@ -1,7 +1,10 @@
 {
   "id": "nmainsleeps_we",
-  "display_name": "[Main Sleep] Number of weekend days main sleep intervals",
+  "display_name": "Total number of main sleep or rest intervals on weekends from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "TtlNumRs_ib_w2_f2"
+  ]
 }

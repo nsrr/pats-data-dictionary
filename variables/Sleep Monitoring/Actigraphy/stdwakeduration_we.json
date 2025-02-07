@@ -1,7 +1,10 @@
 {
   "id": "stdwakeduration_we",
-  "display_name": "[Main Sleep] Standard deviation of wake duration after sleep onset [WASO] per main sleep (on weekend days) (minutes)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily wake duration after sleep onset (WASO) in main sleep on weekends from actigraphy",
+  "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "StdDurWs_im_w2_f2"
+  ]
 }

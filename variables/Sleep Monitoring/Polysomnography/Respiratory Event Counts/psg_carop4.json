@@ -1,7 +1,7 @@
 {
   "id": "psg_carop4",
-  "display_name": "Number of Central Apnea (REM, Other, 4% desat)",
-  "description": "",
+  "display_name": "Total number of central apnea in REM sleep in non-supine position: Central apneas with >= 4% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Number of Central Apnea (REM, Other, 4% desat)",
   "type": "integer",
   "units": "number of events",
   "labels": [

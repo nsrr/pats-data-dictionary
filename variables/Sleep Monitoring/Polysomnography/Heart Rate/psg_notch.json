@@ -1,6 +1,6 @@
 {
   "id": "psg_notch",
-  "display_name": "Number of Tachycardia  related to Hypopnea  (Sleep time)",
+  "display_name": "Number of tachycardia per minute related to hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

@@ -1,10 +1,10 @@
 {
   "id": "psg_stendp",
-  "display_name": "Study end time (hh:mm:ss)",
-  "description": "",
+  "display_name": "Clock time when the recording ends from type I polysomnography",
+  "description": "Study end time (hh:mm:ss)",
   "type": "time",
-  "units": "hh:mm:ss",
+  "units": "H:mm:ss",
   "labels": [
-    "endtimbd_f1t1"
+    "endtimrd_f1t1"
   ]
 }

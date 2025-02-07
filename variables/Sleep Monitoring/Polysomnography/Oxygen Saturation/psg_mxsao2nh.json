@@ -1,7 +1,7 @@
 {
   "id": "psg_mxsao2nh",
-  "display_name": "Maximum SaO2 % during NREM sleep",
-  "description": "",
+  "display_name": "Maximum oxygen saturation in NREM sleep from type I polysomnography",
+  "description": "Maximum SaO2 % during NREM sleep",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

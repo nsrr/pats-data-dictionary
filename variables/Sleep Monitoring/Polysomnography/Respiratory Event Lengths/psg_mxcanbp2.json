@@ -1,7 +1,7 @@
 {
   "id": "psg_mxcanbp2",
-  "display_name": "Maximum Central Apnea length (NREM, Back, 2% desat) (seconds)",
-  "description": "",
+  "display_name": "Maximum duration of central apnea in NREM sleep in supine position: Central apneas with >= 2% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Maximum Central Apnea length (NREM, Back, 2% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

@@ -1,6 +1,6 @@
 {
   "id": "psg_avgrplm",
-  "display_name": "Number of PLM per hour of REM sleep",
+  "display_name": "Number of periodic limb movements per hour of REM sleep from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "number of events per hour",

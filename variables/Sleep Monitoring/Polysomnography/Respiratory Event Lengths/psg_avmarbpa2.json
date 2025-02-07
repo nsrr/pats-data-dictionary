@@ -1,7 +1,7 @@
 {
   "id": "psg_avmarbpa2",
-  "display_name": "Average Mixed Apnea with arousal length (REM, Back, 2% desat) (seconds)",
-  "description": "",
+  "display_name": "Average duration of mixed apnea in REM sleep in supine position: Mixed apneas with >= 2% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Average Mixed Apnea with arousal length (REM, Back, 2% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

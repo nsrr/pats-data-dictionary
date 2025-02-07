@@ -1,6 +1,6 @@
 {
   "id": "psg_aptdur",
-  "display_name": "Total Mixed Apnea Length (minutes)",
+  "display_name": "Total duration of mixed apnea: mixed apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

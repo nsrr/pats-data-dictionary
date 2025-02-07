@@ -1,7 +1,7 @@
 {
   "id": "psg_mnoanop",
-  "display_name": "Minimum Obstructive Apnea length (NREM, Other, all desats) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of obstructive apnea in NREM sleep in non-supine position: Obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Minimum Obstructive Apnea length (NREM, Other, all desats) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

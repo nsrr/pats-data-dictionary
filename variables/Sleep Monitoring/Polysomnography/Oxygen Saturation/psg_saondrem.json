@@ -1,7 +1,7 @@
 {
   "id": "psg_saondrem",
-  "display_name": "Average SaO2% Nadir  (REM)",
-  "description": "",
+  "display_name": "Average nadirs in REM sleep from type I polysomnography",
+  "description": "Average SaO2% Nadir  (REM)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

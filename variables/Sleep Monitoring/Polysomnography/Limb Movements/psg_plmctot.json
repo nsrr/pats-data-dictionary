@@ -1,6 +1,6 @@
 {
   "id": "psg_plmctot",
-  "display_name": "Number PLM clusters",
+  "display_name": "Total number of periodic limb movement (PLM) clusters from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

@@ -1,6 +1,6 @@
 {
   "id": "psg_apntdurbp",
-  "display_name": "Total Apnea Length (NREM, Back) (minutes)",
+  "display_name": "Total duration of apnea in NREM sleep in supine position from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

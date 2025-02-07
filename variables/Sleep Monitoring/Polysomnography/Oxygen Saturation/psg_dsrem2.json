@@ -1,7 +1,7 @@
 {
   "id": "psg_dsrem2",
-  "display_name": "Number of desats per hour (REM, >= 2%)",
-  "description": "",
+  "display_name": "Number of oxygen desaturation per hour in REM sleep with oxygen desaturation >= 2% from type I polysomnography",
+  "description": "Number of desats per hour (REM, >= 2%)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

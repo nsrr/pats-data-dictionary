@@ -1,6 +1,6 @@
 {
   "id": "psg_notcc",
-  "display_name": "Number of Tachycardia  related to Central Apnea (Sleep time)",
+  "display_name": "Number of tachycardia per minute related to central apnea during sleep",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

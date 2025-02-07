@@ -1,7 +1,7 @@
 {
   "id": "psg_oardnoa2",
-  "display_name": "Obstructive Apnea per hour with arousals (NREM, Other, 2% desat)",
-  "description": "",
+  "display_name": "Obstructive Apnea Index (NREM, Non-Supine): (Obstructive apneas with >= 2% oxygen desaturation or with arousal) / hour of NREM sleep in non-supine position from type I polysomnography",
+  "description": "Obstructive Apnea per hour with arousals (NREM, Other, 2% desat)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

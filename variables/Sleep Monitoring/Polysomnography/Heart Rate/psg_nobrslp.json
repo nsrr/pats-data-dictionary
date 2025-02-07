@@ -1,6 +1,6 @@
 {
   "id": "psg_nobrslp",
-  "display_name": "Number of Bradycardia (Sleep time)",
+  "display_name": "Number of bradycardia per minute during sleep",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

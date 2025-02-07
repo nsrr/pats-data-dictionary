@@ -1,7 +1,7 @@
 {
   "id": "psg_lmanropa5",
-  "display_name": "Maximum Mixed Apnea with arousal length (NREM, Other, 5% desat) (seconds)",
-  "description": "",
+  "display_name": "Maximum duration of mixed apnea in NREM sleep in non-supine position: Mixed apneas with >= 5% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Maximum Mixed Apnea with arousal length (NREM, Other, 5% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

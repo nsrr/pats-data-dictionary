@@ -1,6 +1,6 @@
 {
   "id": "psg_lmdelta",
-  "display_name": "Number Limb Movements (Delta Sleep)",
+  "display_name": "Total number of limb movements in stage 3/4 sleep from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

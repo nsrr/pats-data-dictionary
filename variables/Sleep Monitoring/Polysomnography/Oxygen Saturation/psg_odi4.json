@@ -1,7 +1,7 @@
 {
   "id": "psg_odi4",
-  "display_name": "Calculated - Oxygen desaturation index (ODI) 4% ",
-  "description": "",
+  "display_name": "Oxygen Desaturation Index (ODI): Oxygen desaturation with >= 4% desat per hour of sleep from type I polysomnography",
+  "description": "Calculated - Oxygen desaturation index (ODI) 4%",
   "type": "numeric",
   "units": "percent (%)",
   "calculation": "((dsrem4 * minremp) + (dsnr4 * (slp_time - minremp))) / slpprdp",

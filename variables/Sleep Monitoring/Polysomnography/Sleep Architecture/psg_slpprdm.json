@@ -1,11 +1,11 @@
 {
   "id": "psg_slpprdm",
-  "display_name": "Sleep Period (minutes)",
+  "display_name": "Total Sleep Period: the interval between sleep onset time and sleep offset from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [
-    "ttldursp_f1t1",
+    "ttlprdsp_f1t1",
     "tst"
   ]
 }

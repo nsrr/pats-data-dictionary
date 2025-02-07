@@ -1,7 +1,7 @@
 {
   "id": "psg_avdrba",
-  "display_name": "Average Desat with arousals (REM, Back, all desats)",
-  "description": "",
+  "display_name": "Average oxygen desaturation for all respiratory events with > 0% desat or arousal in REM sleep in supine position: Apneas with no oxygen desaturation threshold used or with arousal + hypopneas with > 50% flow reduction and > 0% oxygen desaturation or arousal from type I polysomnography",
+  "description": "Average Desat with arousals (REM, Back, all desats)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

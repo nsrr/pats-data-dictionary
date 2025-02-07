@@ -1,7 +1,7 @@
 {
   "id": "psg_dmnbnoh",
-  "display_name": "Minimum Heart Rate with arousal (NREM, Other, 3% desat) (bpm)",
-  "description": "",
+  "display_name": "Minimum level of heart rate in NREM sleep with arousal in non-supine position with oxygen desaturation >= 3% from type I polysomnography",
+  "description": "Minimum Heart Rate with arousal (NREM, Other, 3% desat) (bpm)",
   "type": "integer",
   "units": "beats per minute (bpm)",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "psg_cardnba",
-  "display_name": "Central Apnea per hour with arousals (NREM, Back, all desats)",
-  "description": "",
+  "display_name": "Total number of central apnea in NREM sleep in supine position: Central apneas with no oxygen desaturation threshold used only with arousal from type I polysomnography",
+  "description": "Central Apnea per hour with arousals (NREM, Back, all desats)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

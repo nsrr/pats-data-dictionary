@@ -1,6 +1,6 @@
 {
   "id": "psg_nobrh",
-  "display_name": "Number of Bradycardia related to Hypopnea (Sleep time onset)",
+  "display_name": "Number of bradycardia per minute related to hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

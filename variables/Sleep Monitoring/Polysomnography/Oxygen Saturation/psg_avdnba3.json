@@ -1,7 +1,7 @@
 {
   "id": "psg_avdnba3",
-  "display_name": "Average Desat with arousals (NREM, Back, 3% desat)",
-  "description": "",
+  "display_name": "Average oxygen desaturation for all respiratory events with >= 3% desat or arousal in NREM sleep in supine position: Apneas with >= 3% oxygen desaturation or with arousal + hypopneas with > 30% flow reduction and >= 3% oxygen desaturation or arousal from type I polysomnography",
+  "description": "Average Desat with arousals (NREM, Back, 3% desat)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

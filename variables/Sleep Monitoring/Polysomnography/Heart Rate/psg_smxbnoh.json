@@ -1,6 +1,6 @@
 {
   "id": "psg_smxbnoh",
-  "display_name": "Maximum Heart Rate (NREM, Other, all desats) (bpm)",
+  "display_name": "Maximum heart rate in NREM sleep in non-supine position from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

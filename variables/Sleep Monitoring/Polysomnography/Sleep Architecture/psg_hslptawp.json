@@ -1,7 +1,7 @@
 {
   "id": "psg_hslptawp",
-  "display_name": "Number of sleep to awake shifts per hour",
-  "description": "",
+  "display_name": "Number of shift (sleep stages shift) from sleep to awake per hour of sleep from type I polysomnography",
+  "description": "Number of sleep to awake shifts per hour",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

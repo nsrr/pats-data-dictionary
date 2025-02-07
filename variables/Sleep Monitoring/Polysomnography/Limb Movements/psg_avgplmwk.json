@@ -1,6 +1,6 @@
 {
   "id": "psg_avgplmwk",
-  "display_name": "Number of PLM per hour of awake",
+  "display_name": "Number of periodic limb movements per hour of awake from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "number of events per hour",

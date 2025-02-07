@@ -1,7 +1,10 @@
 {
   "id": "avgawakeninglength",
-  "display_name": "[Main Sleep] Average mean length of awakenings per main sleep (all days) (minutes)",
+  "display_name": "Average daily mean duration of awakenings in main sleep among all days from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "AvgMeaWk_im_w7_f2"
+  ]
 }

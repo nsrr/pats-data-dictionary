@@ -1,6 +1,6 @@
 {
   "id": "psg_smnbnbh",
-  "display_name": "Minimum Heart Rate (NREM, Back, all desats) (bpm)",
+  "display_name": "Minimum heart rate in NREM sleep in supine position from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

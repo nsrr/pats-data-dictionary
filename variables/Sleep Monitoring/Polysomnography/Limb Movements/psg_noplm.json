@@ -1,6 +1,6 @@
 {
   "id": "psg_noplm",
-  "display_name": "Number of PLM during sleep",
+  "display_name": "Total number of periodic limb movements in sleep from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

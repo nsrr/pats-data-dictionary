@@ -1,7 +1,10 @@
 {
   "id": "avgsleepmidpointtime",
-  "display_name": "[Main Sleep] Average mid asleep time per main sleep (all days) ",
-  "description": "",
+  "display_name": "Average daily mid-point of sleep period in main sleep among all days from actigraphy",
+  "description": "Sleep period is the interval between sleep onset and sleep offset time.",
   "type": "time",
-  "units": "hh:mm:ss"
+  "units": "hh:mm:ss",
+  "labels": [
+    "AvgMptSp_im_w7_f2"
+  ]
 }

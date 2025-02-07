@@ -1,7 +1,7 @@
 {
   "id": "psg_rdinbp",
-  "display_name": "Hypopnea per hour (NREM, Back, all desats)",
-  "description": "",
+  "display_name": "Hypopnea Index (NREM, Supine): (Hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with or without arousal) / hour of NREM sleep in supine position from type I polysomnography",
+  "description": "Hypopnea per hour (NREM, Back, all desats)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

@@ -5,6 +5,8 @@
   "type": "integer",
   "labels": [
     "epworth",
-    "esschad_total"
+    "esschad_total",
+    "ess_total",
+    "SleepHealth_alertness"
   ]
 }

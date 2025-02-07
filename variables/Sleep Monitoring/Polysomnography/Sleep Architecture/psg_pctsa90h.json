@@ -1,6 +1,6 @@
 {
   "id": "psg_pctsa90h",
-  "display_name": "Percent sleep time SaO2 is below < 90%",
+  "display_name": "Percent of the total sleep duration with oxygen saturation below 90% from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "percent (%)",

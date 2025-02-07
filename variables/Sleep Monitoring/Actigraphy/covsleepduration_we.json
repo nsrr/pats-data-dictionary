@@ -1,7 +1,10 @@
 {
   "id": "covsleepduration_we",
-  "display_name": "[Main Sleep] Coefficient of variation of time spent asleep per main sleep (on weekend days) (%)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Coefficient of variation of daily total sleep duration in main sleep on weekends from actigraphy",
+  "description": "Total sleep duration: the interval between sleep onset and sleep offset while the participant is asleep",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "labels": [
+    "CovDurSp_im_w2_f2"
+  ]
 }

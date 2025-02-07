@@ -1,7 +1,10 @@
 {
   "id": "stdfragmentationindex",
-  "display_name": "[Main Sleep] Standard deviation of fragmentation index per main sleep (all days) (%)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily fragmentation index in main sleep among all days from actigraphy",
+  "description": "",
   "type": "numeric",
-  "units": "percent (%)"
+  "units": "percent (%)",
+  "labels": [
+    "StdIndFg_im_w7_f2"
+  ]
 }

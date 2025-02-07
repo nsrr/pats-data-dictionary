@@ -1,7 +1,10 @@
 {
   "id": "avgsleeponsettime_we",
-  "display_name": "[Main Sleep] Average sleep onset time per main sleep (on weekend days) ",
+  "display_name": "Average daily sleep onset time in main sleep on weekends from actigraphy",
   "description": "",
   "type": "time",
-  "units": "hh:mm:ss"
+  "units": "hh:mm:ss",
+  "labels": [
+    "AvgBptSp_im_w2_f2"
+  ]
 }

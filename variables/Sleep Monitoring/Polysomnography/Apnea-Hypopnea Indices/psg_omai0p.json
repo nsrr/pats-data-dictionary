@@ -1,7 +1,7 @@
 {
   "id": "psg_omai0p",
-  "display_name": "Calculated - Obstructive/Mixed Apnea Index (all desats)",
-  "description": "missing if total sleep time is 0",
+  "display_name": "Obstructive/Mixed Apnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal +mixed apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep from type I polysomnography",
+  "description": "Calculated - Obstructive/Mixed Apnea Index (all desats)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(oarbp +  oarop  + oanbp  + oanop + marbp + marop + manrbp + manrop)/slpprdp",

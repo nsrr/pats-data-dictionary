@@ -1,7 +1,7 @@
 {
   "id": "psg_nremepop",
-  "display_name": "Sleep Time (NREM, Other) (minutes)",
-  "description": "",
+  "display_name": "Total duration of sleep in NREM sleep in non-supine position from type I polysomnography",
+  "description": "Sleep Time (NREM, Other) (minutes)",
   "type": "integer",
   "units": "minutes (min)",
   "labels": [

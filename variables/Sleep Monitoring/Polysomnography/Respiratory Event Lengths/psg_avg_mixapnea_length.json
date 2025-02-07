@@ -1,6 +1,6 @@
 {
   "id": "psg_avg_mixapnea_length",
-  "display_name": "Average length of each mixed apnea (seconds)",
+  "display_name": "Average duration of mixed apnea: mixed apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

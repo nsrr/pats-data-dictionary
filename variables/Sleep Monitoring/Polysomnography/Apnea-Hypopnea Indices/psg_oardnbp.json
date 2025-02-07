@@ -1,7 +1,7 @@
 {
   "id": "psg_oardnbp",
-  "display_name": "Obstructive Apnea per hour (NREM, Back, all desats)",
-  "description": "",
+  "display_name": "Obstructive Apnea Index (NREM, Supine): (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal) / hour of NREM sleep in supine position from type I polysomnography",
+  "description": "Obstructive Apnea per hour (NREM, Back, all desats)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

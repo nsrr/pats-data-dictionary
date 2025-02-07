@@ -1,7 +1,7 @@
 {
   "id": "psg_saoslp",
-  "display_name": "Average SaO2% (Sleep)",
-  "description": "",
+  "display_name": "Average oxygen saturation in sleep from type I polysomnography",
+  "description": "Average SaO2% (Sleep)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

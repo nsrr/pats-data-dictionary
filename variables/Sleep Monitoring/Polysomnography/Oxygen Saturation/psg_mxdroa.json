@@ -1,7 +1,7 @@
 {
   "id": "psg_mxdroa",
-  "display_name": "Maximum Desat with arousals (REM, Other, all desats)",
-  "description": "",
+  "display_name": "Maximum oxygen saturation in REM sleep with arousal in non-supine position with oxygen desaturation > 0% from type III polysomnography",
+  "description": "Maximum Desat with arousals (REM, Other, all desats)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

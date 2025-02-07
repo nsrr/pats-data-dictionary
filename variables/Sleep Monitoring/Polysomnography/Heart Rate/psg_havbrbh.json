@@ -1,7 +1,7 @@
 {
   "id": "psg_havbrbh",
-  "display_name": "Average Heart Rate (REM, Back, 3% desat) (bpm)",
-  "description": "",
+  "display_name": "Average heart rate associated with apneas with >=3% oxygen desaturation and with or without arousal + hypopneas with > 30% flow reduction and >=3% oxygen desaturation and with or without arousal during REM sleep in supine position from type I polysomnography",
+  "description": "Average Heart Rate (REM, Back, 3% desat) (bpm)",
   "type": "integer",
   "units": "beats per minute (bpm)",
   "labels": [

@@ -1,7 +1,10 @@
 {
   "id": "avgnnaps",
-  "display_name": "[Nap] Average number of naps per day (all days)",
+  "display_name": "Average daily number of naps among all days from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "number of events per day "
+  "units": "number of events per day ",
+  "labels": [
+    "AvgNumNp_in_w7_f2"
+  ]
 }

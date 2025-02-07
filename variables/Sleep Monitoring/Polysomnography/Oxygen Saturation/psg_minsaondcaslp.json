@@ -1,6 +1,6 @@
 {
   "id": "psg_minsaondcaslp",
-  "display_name": "Minimum SaO2% Nadir assoc. with Central Apnea (Sleep)",
+  "display_name": "Minimum nadirs: Central apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "percent (%)",

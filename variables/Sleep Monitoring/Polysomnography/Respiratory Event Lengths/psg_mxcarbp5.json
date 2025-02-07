@@ -1,7 +1,7 @@
 {
   "id": "psg_mxcarbp5",
-  "display_name": "Maximum Central Apnea length (REM, Back, 5% desat) (seconds)",
-  "description": "",
+  "display_name": "Maximum duration of central apnea in REM sleep in supine position: Central apneas with >= 5% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Maximum Central Apnea length (REM, Back, 5% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

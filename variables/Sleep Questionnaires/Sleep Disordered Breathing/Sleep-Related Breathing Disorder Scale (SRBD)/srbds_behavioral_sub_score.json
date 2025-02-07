@@ -1,7 +1,11 @@
 {
   "id": "srbds_behavioral_sub_score",
   "display_name": "Behavioral Subscale Score (Range: 0-1)",
-  "description": "",
+  "description": "The behavioral score is based on 6 items from the Pediatric Sleep Questionnaire. A higher score indicates more in-attention and hyperactivity. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "numeric",
-  "calculation": "The number of items (Q17, Q18, Q19, Q20, Q21, Q22) endorsed positively (\"yes\") divided by the number of items answered without missing"
+  "calculation": "The number of items (Q17, Q18, Q19, Q20, Q21, Q22) endorsed positively (\"yes\") divided by the number of items answered without missing",
+  "labels": [
+    "psq",
+    "sdb"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "psg_mxdrbp2",
-  "display_name": "Maximum Desat (REM, Back, 2% desat)",
-  "description": "",
+  "display_name": "Maximum oxygen saturation in REM sleep in supine position with oxygen desaturation >= 2% from type III polysomnography",
+  "description": "Maximum Desat (REM, Back, 2% desat)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

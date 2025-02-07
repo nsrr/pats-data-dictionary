@@ -1,7 +1,7 @@
 {
   "id": "psg_lmanrbp",
-  "display_name": "Maximum Mixed Apnea length (NREM, Back, all desats) (seconds)",
-  "description": "",
+  "display_name": "Maximum duration of mixed apnea in NREM sleep in supine position: Mixed apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Maximum Mixed Apnea length (NREM, Back, all desats) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

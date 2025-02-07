@@ -1,9 +1,9 @@
 {
   "id": "psg_ahremop",
-  "display_name": "Arousals per hour (REM, Other, all desats)",
-  "description": "",
+  "display_name": "Number of arousals per hour in REM sleep in non-supine position from type I polysomnography",
+  "description": "Arousals per hour (REM, Other, all desats)",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "phrnumar_srp0_f1t1"
   ]

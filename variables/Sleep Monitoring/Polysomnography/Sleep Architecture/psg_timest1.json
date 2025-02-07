@@ -1,7 +1,7 @@
 {
   "id": "psg_timest1",
-  "display_name": "Calculated - Total sleep time in stage 1 sleep (minutes)",
-  "description": "same as minstg1p; missing if study with problems scoring sleep/wake or stg1/stg2",
+  "display_name": "Total duration of sleep in stage 1 sleep from type I polysomnography",
+  "description": "Conventionally, total sleep duration would be called total sleep time (TST). <br><br>same as minstg1p; missing if study with problems scoring sleep/wake or stg1/stg2",
   "type": "integer",
   "units": "minutes (min)",
   "labels": [

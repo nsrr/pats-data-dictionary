@@ -1,7 +1,7 @@
 {
   "id": "psg_timest34",
-  "display_name": "Calculated - Total sleep time in stage 3-4 sleep (minutes)",
-  "description": "same as minstg34p; missing if study with problems scoring sleep/wake or stg3/stg4",
+  "display_name": "Total duration of sleep in stage 3/4 sleep from type I polysomnography",
+  "description": "Conventionally, total sleep duration would be called total sleep time (TST). <br><br>same as minstg34p; missing if study with problems scoring sleep/wake or stg3/stg4",
   "type": "integer",
   "units": "minutes (min)",
   "labels": [

@@ -1,6 +1,6 @@
 {
   "id": "psg_plmcstg2",
-  "display_name": "Number PLM clusters (Stage 2 Sleep)",
+  "display_name": "Total number of periodic limb movement (PLM) clusters in stage 2 sleep from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

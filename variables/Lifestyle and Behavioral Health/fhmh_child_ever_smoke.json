@@ -3,5 +3,8 @@
   "display_name": "Child ever smokes",
   "description": "",
   "type": "choices",
-  "domain": "no0_yes1"
+  "domain": "no0_yes1",
+  "labels": [
+    "smoking"
+  ]
 }

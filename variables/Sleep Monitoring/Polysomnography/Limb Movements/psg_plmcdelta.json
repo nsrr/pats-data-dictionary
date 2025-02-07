@@ -1,6 +1,6 @@
 {
   "id": "psg_plmcdelta",
-  "display_name": "Number PLM clusters (Delta Sleep)",
+  "display_name": "Total number of periodic limb movement (PLM) clusters in stage 3/4 sleep from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

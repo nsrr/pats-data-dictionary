@@ -1,7 +1,10 @@
 {
   "id": "stdsleepmidpointtime_wd",
-  "display_name": "[Main Sleep] Standard deviation of mid asleep time per main sleep (on weekday days) ",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily mid-point of sleep period in main sleep on weekdays from actigraphy",
+  "description": "",
   "type": "time",
-  "units": "hh:mm:ss"
+  "units": "hh:mm:ss",
+  "labels": [
+    "StdMptSp_im_w5_f2"
+  ]
 }

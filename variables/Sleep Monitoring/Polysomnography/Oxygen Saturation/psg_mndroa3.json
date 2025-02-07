@@ -1,7 +1,7 @@
 {
   "id": "psg_mndroa3",
-  "display_name": "Minimum SaO2 with arousals (REM, Other, 3% desat) (%)",
-  "description": "",
+  "display_name": "Minimum oxygen saturation in REM sleep with arousal in non-supine position with oxygen desaturation >= 3% from type III polysomnography",
+  "description": "Minimum SaO2 with arousals (REM, Other, 3% desat) (%)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

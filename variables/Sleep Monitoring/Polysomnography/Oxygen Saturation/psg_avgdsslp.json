@@ -1,7 +1,7 @@
 {
   "id": "psg_avgdsslp",
-  "display_name": "Average Desaturation (Report Time)",
-  "description": "",
+  "display_name": "Average oxygen desaturation during entire recording from type I polysomnography",
+  "description": "Average Desaturation (Report Time)",
   "type": "numeric",
   "units": "percent (%)",
   "labels": [

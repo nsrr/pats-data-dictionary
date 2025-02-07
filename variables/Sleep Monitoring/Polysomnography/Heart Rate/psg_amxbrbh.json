@@ -1,7 +1,7 @@
 {
   "id": "psg_amxbrbh",
-  "display_name": "Maximum Heart Rate with arousal (REM, Back, all desats) (bpm)",
-  "description": "",
+  "display_name": "Maximum heart rate associated with arousal in REM sleep in supine position from type I polysomnography",
+  "description": "Highest",
   "type": "integer",
   "units": "beats per minute (bpm)",
   "labels": [

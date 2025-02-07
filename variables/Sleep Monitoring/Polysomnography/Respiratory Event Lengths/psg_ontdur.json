@@ -1,7 +1,7 @@
 {
   "id": "psg_ontdur",
-  "display_name": "Total Obstructive Apnea Length (NREM) (minutes)",
-  "description": "",
+  "display_name": "Total duration of obstructive apnea snore: obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Total Obstructive Apnea Length (NREM) (minutes)",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [

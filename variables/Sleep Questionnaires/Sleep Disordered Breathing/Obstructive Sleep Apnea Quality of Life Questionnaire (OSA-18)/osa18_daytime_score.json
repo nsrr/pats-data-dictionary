@@ -6,6 +6,7 @@
   "calculation": "Sum of 4a-4c + 3",
   "labels": [
     "osa18",
-    "osa18_dfscore"
+    "osa18_dfscore",
+    "sdb"
   ]
 }

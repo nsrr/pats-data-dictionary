@@ -1,7 +1,10 @@
 {
   "id": "avgwakeduration",
-  "display_name": "[Main Sleep] Average wake duration after sleep onset [WASO] per main sleep (all days) (minutes)",
+  "display_name": "Average daily wake duration after sleep onset (WASO) in main sleep among all days from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "AvgDurWs_im_w7_f2"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "psg_rdim0ps",
-  "display_name": "Calculated - RDI in supine body position (>= 0% desaturation)",
-  "description": "missing if sleep time in supine position is 0 or if position sensore was not working or if studies scored as sleep/wake ",
+  "display_name": "Apnea-Hypopnea Index (Supine): (Apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with no oxygen desaturation used and with or without arousal) / hour of sleep in supine position from type I polysomnography",
+  "description": "Calculated - RDI in supine body position (>= 0% desaturation)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(hrembp + hnrbp + carbp + canbp + oarbp + oanbp + marbp + manrbp)/(remepbp+nremepbp)",

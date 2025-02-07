@@ -1,6 +1,6 @@
 {
   "id": "psg_sao92slp",
-  "display_name": "Total time SaO2 > 92% in sleep (minutes)",
+  "display_name": "Total duration of sleep with oxygen saturation > 92% from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

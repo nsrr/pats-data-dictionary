@@ -1,7 +1,7 @@
 {
   "id": "psg_avghrahslp",
-  "display_name": "Average Heart Rate assoc. with Apnea and Hypopnea (Sleep time onset)",
-  "description": "",
+  "display_name": "Average heart rate associated with apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and with no oxygen desaturation used and with or without arousal from type I polysomnography",
+  "description": "Average heart rate associated with apnea and hypopnea during sleep",
   "type": "integer",
   "units": "beats per minute (bpm)",
   "labels": [

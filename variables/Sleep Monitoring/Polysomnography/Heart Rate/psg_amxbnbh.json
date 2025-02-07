@@ -1,6 +1,6 @@
 {
   "id": "psg_amxbnbh",
-  "display_name": "Maximum Heart Rate with arousal (NREM, Back, all desats) (bpm)",
+  "display_name": "Maximum heart rate associated with arousal in NREM sleep in supine position from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

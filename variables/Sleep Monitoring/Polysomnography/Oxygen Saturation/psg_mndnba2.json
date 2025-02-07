@@ -1,7 +1,7 @@
 {
   "id": "psg_mndnba2",
-  "display_name": "Minimum SaO2 with arousals (NREM, Back, 2% desat) (%)",
-  "description": "",
+  "display_name": "Minimum oxygen saturation in NREM sleep with arousal in supine position with oxygen desaturation >= 2% from type III polysomnography",
+  "description": "Minimum SaO2 with arousals (NREM, Back, 2% desat) (%)",
   "type": "integer",
   "units": "percent (%)",
   "labels": [

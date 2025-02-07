@@ -1,6 +1,6 @@
 {
   "id": "psg_lmstg2",
-  "display_name": "Number Limb Movements (Stage 2 Sleep)",
+  "display_name": "Total number of limb movements in stage 2 sleep from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

@@ -6,6 +6,7 @@
   "calculation": "Sum of 1a-5d + 18",
   "labels": [
     "osa18",
-    "osa18_sumscore"
+    "osa18_sumscore",
+    "sdb"
   ]
 }

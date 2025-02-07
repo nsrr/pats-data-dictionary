@@ -1,7 +1,7 @@
 {
   "id": "psg_avcarop4",
-  "display_name": "Average Central Apnea length (REM, Other, 4% desat) (seconds)",
-  "description": "",
+  "display_name": "Average duration of central apnea in REM sleep in non-supine position: Central apneas with >= 4% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Average Central Apnea length (REM, Other, 4% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

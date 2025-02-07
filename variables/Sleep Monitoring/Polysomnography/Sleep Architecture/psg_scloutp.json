@@ -1,9 +1,9 @@
 {
   "id": "psg_scloutp",
-  "display_name": "Lights out set by scorer (hh:mm:ss)",
+  "display_name": "Clock time when the participant is in bed or lights are out set by scorer from type I polysomnography",
   "description": "",
   "type": "time",
-  "units": "hh:mm:ss",
+  "units": "H:mm:ss",
   "labels": [
     "begtimbd_f1t1"
   ]

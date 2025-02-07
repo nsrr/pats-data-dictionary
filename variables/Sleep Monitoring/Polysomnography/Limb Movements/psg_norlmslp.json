@@ -1,6 +1,6 @@
 {
   "id": "psg_norlmslp",
-  "display_name": "Number of right limb movements per hour of sleep",
+  "display_name": "Number of right limb movements per hour of sleep from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "number of events per hour",

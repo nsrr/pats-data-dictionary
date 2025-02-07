@@ -1,7 +1,7 @@
 {
   "id": "psg_lmarbpa4",
-  "display_name": "Maximum Mixed Apnea with arousal length (REM, Back, 4% desat) (seconds)",
-  "description": "",
+  "display_name": "Maximum duration of mixed apnea in REM sleep in supine position: Mixed apneas with >= 4% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Maximum Mixed Apnea with arousal length (REM, Back, 4% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

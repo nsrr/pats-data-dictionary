@@ -1,6 +1,6 @@
 {
   "id": "psg_plmarem",
-  "display_name": "Number PLMs with arousal (REM)",
+  "display_name": "Total number of periodic limb movements (PLMs) in REM sleep with arousal from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

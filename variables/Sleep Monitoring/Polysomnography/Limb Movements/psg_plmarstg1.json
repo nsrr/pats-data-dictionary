@@ -1,6 +1,6 @@
 {
   "id": "psg_plmarstg1",
-  "display_name": "Number PLMs with arousal and resp. event (Stage 1 Sleep)",
+  "display_name": "Total number of periodic limb movements (PLMs) in stage 1 sleep with arousal and respiratory event from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

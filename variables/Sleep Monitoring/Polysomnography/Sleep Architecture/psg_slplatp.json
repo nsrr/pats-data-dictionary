@@ -1,6 +1,6 @@
 {
   "id": "psg_slplatp",
-  "display_name": "Sleep Latency (minutes)",
+  "display_name": "Sleep Latency: the interval between lights-out/in-bed time and sleep onset time from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "minutes (min)",

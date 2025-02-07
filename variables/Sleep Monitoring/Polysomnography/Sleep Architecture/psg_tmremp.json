@@ -1,7 +1,7 @@
 {
   "id": "psg_tmremp",
-  "display_name": "Percent sleep time in REM sleep (%)",
-  "description": "",
+  "display_name": "Percentage of REM sleep among total sleep duration from type I polysomnography",
+  "description": "Conventionally, total sleep duration would be called total sleep time (TST).",
   "type": "numeric",
   "units": "percent (%)",
   "labels": [

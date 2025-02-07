@@ -1,7 +1,10 @@
 {
   "id": "stdsleepduration24_we",
-  "display_name": "[24-Hour Sleep] Standard deviation of time spent asleep per day (on weekend days) (minutes)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily sleep duration over 24-hour periods on weekends from actigraphy",
+  "description": "Sleep duration: the interval between sleep onset and sleep offset while the participant is asleep",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "StdDurSp_ib_w2_f2"
+  ]
 }

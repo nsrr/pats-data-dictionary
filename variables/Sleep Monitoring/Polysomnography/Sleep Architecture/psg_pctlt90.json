@@ -1,7 +1,7 @@
 {
   "id": "psg_pctlt90",
-  "display_name": "Calculated - Percent sleep time SaO2 is below < 90%",
-  "description": "same as pctsa90h",
+  "display_name": "Percent of the total sleep duration with oxygen saturation below 90% from type I polysomnography",
+  "description": "Conventionally, total sleep duration would be called total sleep time (TST).<br><br>[(total time oxygen saturation (SaO2) is < 90%) / (Total Sleep Time (TST))] * 100",
   "type": "numeric",
   "units": "percent (%)",
   "labels": [

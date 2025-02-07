@@ -1,7 +1,7 @@
 {
   "id": "psg_mai0p",
-  "display_name": "Calculated - Mixed apnea index (all desats)",
-  "description": "missing if total sleep time is 0",
+  "display_name": "Mixed Apnea Index: (Mixed apneas with no oxygen desaturation threshold used and with or without arousal) / hour of NREM sleep in supine position from type I polysomnography",
+  "description": "Calculated - Mixed apnea index (all desats)",
   "type": "numeric",
   "units": "number of events per hour",
   "calculation": "60*(marbpa + maropa + manrbpa + manropa)/slpprdp",

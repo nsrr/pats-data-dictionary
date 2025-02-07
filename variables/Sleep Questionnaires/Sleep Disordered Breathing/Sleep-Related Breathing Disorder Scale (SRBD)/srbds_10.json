@@ -6,6 +6,8 @@
   "domain": "yes_no_dontknow",
   "labels": [
     "psq",
-    "psq_10unref"
+    "psq_10unref",
+    "sdb",
+    "SleepHealth_satisfaction"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "id": "psg_stonset1",
-  "display_name": "Sleep onset (start of sleep- hh:mm:ss) - scorer",
+  "display_name": "Sleep onset time by scorer from type I polysomnography",
   "description": "",
   "type": "time",
-  "units": "hh:mm:ss",
+  "units": "H:mm:ss",
   "labels": [
     "begtimsp_f1"
   ]

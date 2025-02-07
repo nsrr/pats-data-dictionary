@@ -1,6 +1,6 @@
 {
   "id": "psg_longhyp",
-  "display_name": "Longest Hypopnea (seconds)",
+  "display_name": "Maximum duration of hypopnea from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

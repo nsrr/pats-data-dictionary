@@ -1,7 +1,10 @@
 {
   "id": "stdsleepperiodduration_we",
-  "display_name": "[Main Sleep] Standard deviation of sleep period duration per main sleep (on weekend days) (minutes)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily sleep period in main sleep on weekends from actigraphy",
+  "description": "Sleep period is the interval between sleep onset and sleep offset time.",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "StdPrdSp_im_w2_f2"
+  ]
 }

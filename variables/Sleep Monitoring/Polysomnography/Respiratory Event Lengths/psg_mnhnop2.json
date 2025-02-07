@@ -1,7 +1,7 @@
 {
   "id": "psg_mnhnop2",
-  "display_name": "Minimum Hypopnea length (NREM, Other, 2% desat) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of hypopnea in NREM sleep in non-supine position: Hypopneas with > 30% flow reduction and with >= 2% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Minimum Hypopnea length (NREM, Other, 2% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

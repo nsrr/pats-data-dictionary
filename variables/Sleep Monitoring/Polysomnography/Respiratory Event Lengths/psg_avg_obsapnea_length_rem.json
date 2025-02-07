@@ -1,6 +1,6 @@
 {
   "id": "psg_avg_obsapnea_length_rem",
-  "display_name": "Average length of each obstructive apnea in REM sleep (seconds)",
+  "display_name": "Average duration of obstructive apnea (REM): obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

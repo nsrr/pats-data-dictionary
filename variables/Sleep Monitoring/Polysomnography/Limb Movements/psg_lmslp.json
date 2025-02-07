@@ -1,6 +1,6 @@
 {
   "id": "psg_lmslp",
-  "display_name": "Number Limb Movements (Sleep)",
+  "display_name": "Total number of limb movements in sleep from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "number of events",

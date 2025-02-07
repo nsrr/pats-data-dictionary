@@ -1,7 +1,7 @@
 {
   "id": "psg_mnhrba5",
-  "display_name": "Minimum Hypopnea length with arousals (REM, Back, 5% desat) (seconds)",
-  "description": "",
+  "display_name": "Minimum duration of hypopnea in REM sleep in supine position: Hypopneas with > 30% flow reduction and with >= 5% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Minimum Hypopnea length with arousals (REM, Back, 5% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

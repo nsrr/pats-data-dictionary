@@ -1,6 +1,6 @@
 {
   "id": "psg_pctsa85h",
-  "display_name": "Percent sleep time SaO2 is below < 85%",
+  "display_name": "Percentage duration of sleep with oxygen saturation < 85% from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "percent (%)",

@@ -1,7 +1,10 @@
 {
   "id": "stdsleeponsetlatency_wd",
-  "display_name": "[Main Sleep] Standard deviation of sleep onset latency per main sleep (on weekday days) (minutes)",
-  "description": "Missing if the number of main sleep <= 1",
+  "display_name": "Standard deviation of daily sleep onset latency in main sleep on weekdays from actigraphy",
+  "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "StdLatSp_im_w5_f2"
+  ]
 }

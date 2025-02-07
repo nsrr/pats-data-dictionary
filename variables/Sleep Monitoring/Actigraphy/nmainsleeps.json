@@ -1,7 +1,10 @@
 {
   "id": "nmainsleeps",
-  "display_name": "[Main Sleep] Number of main sleep intervals (all days)",
+  "display_name": "Total number of main sleep or rest intervals among all days from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "TtlNumRs_ib_w7_f2"
+  ]
 }

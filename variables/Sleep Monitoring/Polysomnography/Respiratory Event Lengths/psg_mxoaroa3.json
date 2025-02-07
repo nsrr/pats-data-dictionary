@@ -1,7 +1,7 @@
 {
   "id": "psg_mxoaroa3",
-  "display_name": "Maximum Obstructive Apnea length with arousals (REM, Other, 3% desat) (seconds)",
-  "description": "",
+  "display_name": "Maximum duration of obstructive apnea in REM sleep in non-supine position: Obstructive apneas with >= 3% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Maximum Obstructive Apnea length with arousals (REM, Other, 3% desat) (seconds)",
   "type": "integer",
   "units": "seconds (s)",
   "labels": [

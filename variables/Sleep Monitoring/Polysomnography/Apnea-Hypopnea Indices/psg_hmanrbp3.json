@@ -1,7 +1,7 @@
 {
   "id": "psg_hmanrbp3",
-  "display_name": "Number Mixed Apnea per hour (NREM, Back, 3% desat)",
-  "description": "",
+  "display_name": "Mixed Apnea Index (NREM, Supine): (Mixed apneas with >= 3% oxygen desaturation and with or without arousal) / hour of NREM sleep in supine position from type I polysomnography",
+  "description": "Number Mixed Apnea per hour (NREM, Back, 3% desat)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [

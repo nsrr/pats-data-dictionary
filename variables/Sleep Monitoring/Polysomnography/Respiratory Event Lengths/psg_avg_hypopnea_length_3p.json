@@ -1,6 +1,6 @@
 {
   "id": "psg_avg_hypopnea_length_3p",
-  "display_name": "Average length of each hypopnea with >= 3% oxygen desaturation (seconds)",
+  "display_name": "Average duration of hypopnea: hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation and with or without arousal from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

@@ -1,7 +1,7 @@
 {
   "id": "psg_cntdurbp",
-  "display_name": "Total Central Apnea Length (NREM, Back) (minutes)",
-  "description": "",
+  "display_name": "Total duration of central apnea (NREM, Supine): central apneas with no oxygen desaturation threshold used and with or without arousal in NREM sleep in supine position from type I polysomnography",
+  "description": "NA",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [

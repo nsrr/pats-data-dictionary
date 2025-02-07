@@ -1,6 +1,6 @@
 {
   "id": "psg_avsao2rh",
-  "display_name": "Average SaO2 % during REM sleep",
+  "display_name": "Average oxygen saturation in REM sleep from type I polysomnography",
   "description": "",
   "type": "integer",
   "units": "percent (%)",

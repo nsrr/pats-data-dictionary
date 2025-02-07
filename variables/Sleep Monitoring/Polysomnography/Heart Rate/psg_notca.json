@@ -1,6 +1,6 @@
 {
   "id": "psg_notca",
-  "display_name": "Number of Tachycardia (Sleep time)",
+  "display_name": "Number of tachycardia per minute during sleep",
   "description": "",
   "type": "integer",
   "units": "beats per minute (bpm)",

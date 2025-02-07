@@ -1,6 +1,6 @@
 {
   "id": "psg_rem_lat1",
-  "display_name": "Calculated - REM Latency I - including wake time (minutes)",
+  "display_name": "REM Sleep Latency: the interval between the first sleep epoch and REM sleep including wake from type I polysomnography",
   "description": "same as remlaip; missing if study scored as sleep/wake (minutes)",
   "type": "integer",
   "units": "minutes (min)",

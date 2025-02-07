@@ -6,6 +6,8 @@
   "domain": "none_all",
   "labels": [
     "osa18",
-    "osa18_02hold"
+    "osa18_02hold",
+    "sdb",
+    "SleepHealth_sleep_apnea"
   ]
 }

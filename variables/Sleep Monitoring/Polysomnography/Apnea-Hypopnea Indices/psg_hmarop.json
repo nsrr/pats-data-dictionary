@@ -1,7 +1,7 @@
 {
   "id": "psg_hmarop",
-  "display_name": "Number Mixed Apnea per hour (REM, Other, all desats)",
-  "description": "",
+  "display_name": "Mixed Apnea Index (REM, Non-Supine): (Mixed apneas with no oxygen desaturation threshold used and with or without arousal) / hour of REM sleep in non-supine position from type I polysomnography",
+  "description": "Number Mixed Apnea per hour (REM, Other, all desats)",
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [
