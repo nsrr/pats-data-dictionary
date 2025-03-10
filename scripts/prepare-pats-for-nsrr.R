@@ -217,7 +217,7 @@ harmonized_data<-censored[,c("public_subject_id","timepoint", "anthro_age", "ant
                   fhmh_child_ever_smoke==1 ~ "yes",
                   TRUE ~ "not reported"
                 ))%>%
-  select(nsrrid,timepoint, nsrr_age,nsrr_race,nsrr_ethnicity,nsrr_sex,nsrr_bmi,nsrr_bp_diastolic,nsrr_bp_systolic)
+  select(nsrrid,timepoint, nsrr_age,nsrr_race,nsrr_ethnicity,nsrr_sex,nsrr_bmi,nsrr_bp_diastolic,nsrr_bp_systolic,nsrr_ever_smoker)
 
 psg_variables <- censored %>%
   select(psg_ahi_a0h3, psg_ahi_a0h3a, psg_ahi_a0h4, psg_ahi_a0h4a, 
