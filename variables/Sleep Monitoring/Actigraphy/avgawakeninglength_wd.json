@@ -1,6 +1,6 @@
 {
   "id": "avgawakeninglength_wd",
-  "display_name": "Average daily mean duration of awakenings in main sleep on  weekdays from actigraphy",
+  "display_name": "Average daily mean duration per awakening in main sleep on  weekdays from actigraphy",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

@@ -1,6 +1,6 @@
 {
   "id": "avginbedduration_wd",
-  "display_name": "Average daily rest interval (in-bed period) in main sleep on weekdays from actigraphy",
+  "display_name": "Average daily duration of rest interval (in-bed period) in main sleep on weekdays from actigraphy",
   "description": "",
   "type": "integer",
   "units": "minutes (min)",
