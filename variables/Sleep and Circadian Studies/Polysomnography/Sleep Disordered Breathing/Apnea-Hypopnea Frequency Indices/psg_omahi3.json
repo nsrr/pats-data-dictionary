@@ -7,6 +7,6 @@
   "calculation": "60*(oarbp +oarop + oanbp + oanop + marbp + marop + manrbp + manrop +  hremba3 +hroa3 + hnrba3 + hnroa3)/slpprdp",
   "labels": [
     "omahi_oa0uma0uhp3x3r_f1t1",
-    "aasm07_pediatric"
+    "aasm15_pediatric"
   ]
 }
