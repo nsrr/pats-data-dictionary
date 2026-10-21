@@ -1,7 +1,7 @@
 {
   "id": "srbds_18",
-  "display_name": "18. Has difficulty organizing tasks and activities",
-  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
+  "display_name": "This child OFTEN has difficulty organizing tasks and activities",
+  "description": "Item 18 from Pediatric Sleep Questionnaire (PSQ) Sleep Related Breathing Disorder Scale. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "choices",
   "domain": "yes_no_dontknow",
   "labels": [

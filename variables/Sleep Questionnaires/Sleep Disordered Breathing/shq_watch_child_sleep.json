@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "watch_child_sleep",
   "labels": [
-    "psq",
     "sdb"
   ]
 }

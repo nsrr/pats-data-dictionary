@@ -1,7 +1,7 @@
 {
   "id": "srbds_4",
-  "display_name": "4. Have \"heavy\" or loud breathing",
-  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
+  "display_name": "While sleeping, does your child.. Have \"heavy\" or loud breathing",
+  "description": "Item 4 from Pediatric Sleep Questionnaire (PSQ) Sleep Related Breathing Disorder Scale. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/pats/variables?search=psq)",
   "type": "choices",
   "domain": "yes_no_dontknow",
   "labels": [

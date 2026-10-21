@@ -4,7 +4,7 @@
   "description": "Calculated - Central apnea index (all desats)",
   "type": "numeric",
   "units": "number of events per hour",
-  "calculation": "60*(carbp +  carop  + canbp  + canop)/slpprdp",
+  "calculation": "60*(carbp + carop + canbp + canop)/slpprdp",
   "labels": [
     "cai",
     "cai_ca0u_f1t1"

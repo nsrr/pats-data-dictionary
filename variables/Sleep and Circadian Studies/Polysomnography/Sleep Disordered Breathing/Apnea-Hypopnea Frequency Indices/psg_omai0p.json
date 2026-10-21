@@ -4,7 +4,7 @@
   "description": "Calculated - Obstructive/Mixed Apnea Index (all desats)",
   "type": "numeric",
   "units": "number of events per hour",
-  "calculation": "60*(oarbp +  oarop  + oanbp  + oanop + marbp + marop + manrbp + manrop)/slpprdp",
+  "calculation": "60*(oarbp + oarop + oanbp + oanop + marbp + marop + manrbp + manrop)/slpprdp",
   "labels": [
     "omai_pb_oa0uma0u_f1t1"
   ]
